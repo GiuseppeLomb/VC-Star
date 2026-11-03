@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Node / Capacitor
+node_modules/
+# O projeto Android é gerado no CI (apk.yml) com `npx cap add android`.
+# Se quiseres personalizá-lo à mão, apaga esta linha e faz commit da pasta.
+android/
+
+# APKs locais
+*.apk
