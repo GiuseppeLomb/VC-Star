@@ -1,7 +1,83 @@
 {
- "generated_at": "2026-11-03T19:45:16Z",
- "count": 209,
+ "generated_at": "2026-11-03T22:45:00Z",
+ "count": 239,
  "items": [
+  {
+   "id": "b86da479b81b083c557fc703a4ae1ca24e7766a3",
+   "title": "How has your life changed between the first trailer and game launch?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn6u78/how_has_your_life_changed_between_the_first",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-03T22:11:03Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "Since we're just a few weeks away from launch, I'd love to know what changes took place in your life! For me: - lost some weight (92 kgs to 74 kgs) - had a major breakup after being with someone for two years - moved between two countries - lost majority of my content writing…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "79cd7e47911c851e4823dfda6825d6c62fc9bed9",
+   "title": "GTA 6 gameplay trailer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn6oxn/gta_6_gameplay_trailer",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-03T22:05:19Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "What happened to the iconic in depth gameplay mechanics trailer they use to do with the female voice over",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "0345b437beb7ab7beeba993f5546908bc6810e3a",
+   "title": "Well look who's back!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn5tb3/well_look_whos_back",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-03T21:30:34Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "It seems like a little thing but i keep overthinking the scene with the \"look who's back\"-lady. She appears in the first trailer in a social media feed basically talking to the camera. And then we see her again in the extended look in the exact same scene but there is no phone…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "a224f2e361318ff37719a34c55a02619029a94ae",
+   "title": "Playable date/time - so many different answers!!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn577x/playable_datetime_so_many_different_answers",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-03T21:06:31Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "I'm in the US, central time zone. I've seen that release date would be midnight local time, I've also seen that it releases in the US everywhere at midnight eastern, and a third that showed a global release time which would put it at like 5 or 6 am. Has there been an official…",
+   "tag": "RUMOR",
+   "topics": [
+    "data"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "a73f556406de395606bc95a2516b69fcd87756c5",
    "title": "Micael in GTA VI",
@@ -146,6 +222,25 @@
    "priority": null
   },
   {
+   "id": "c70d1a65cc63fd3c29e70b55b68327fa2e50b2e8",
+   "title": "Rockstar launcher reportedly getting secret updates on PC ahead of GTA 6",
+   "url": "https://www.sportskeeda.com/gta/rockstar-launcher-reportedly-getting-secret-updates-pc-ahead-gta-6",
+   "source_id": "bing_fivem",
+   "source_name": "Sportskeeda",
+   "domain": "sportskeeda.com",
+   "published": "2026-11-03T07:23:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "Rockstar Games appears to be working on a new in-game overlay for its PC launcher, potentially introducing several social features for GTA Online and other titles.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "de638622d7043e4be59258682af1df2339eaa88b",
    "title": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
    "url": "https://tech.yahoo.com/gaming/articles/buying-gta-6-could-save-145341999.html",
@@ -159,7 +254,9 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "gamespot.com"
+   ],
    "priority": null
   },
   {
@@ -190,6 +287,23 @@
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "",
    "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "42501a906915f4e5e8336729901e8f60b374bab4",
+   "title": "New GTA 6 Pre-Order Bonus Leaked And It’s A “Surprise”",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlY5blJRbi1xSFVTM3ZQbmVOLXIxUEJWU0tzZkZNUzRFOXNJZ1RVNGU1NWp5NDAtMDdKSTFOc1loRU1JTGk1QV9DajBzR20wbVZrS085a2E1X0R1QldJdkhuTVhOVklRc0d1WnlNY1VHNHAtaGFEV1NoLU1tWnVhdXJJSnA",
+   "source_id": "gnews_online",
+   "source_name": "RockstarINTEL",
+   "domain": "rockstarintel.com",
+   "published": "2026-11-02T11:45:39Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
    "topics": [],
    "score": 0,
    "lang": "en",
@@ -267,6 +381,23 @@
    "priority": null
   },
   {
+   "id": "a88db90caad93aa52112d5f8a8a87bf58167ac0f",
+   "title": "You'll be able to play GTA 6 early with a neat PS5 trick – here's how to get it working",
+   "url": "https://tech.yahoo.com/gaming/articles/youll-able-play-gta-6-100000460.html",
+   "source_id": "bing_online",
+   "source_name": "YAHOO!",
+   "domain": "tech.yahoo.com",
+   "published": "2026-11-02T02:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "Grand Theft Auto VI will finally be available this month – in just over two weeks. But you might have to wait a little longer than others to play it, depending on where you live ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "5056eef36b2ce3b4c8915a1f827b69e88d5a5a18",
    "title": "Walmart GTA 6 Preorders Will Get a ‘Surprise and Delight’ Bag, It’s Claimed",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWU81ckpGYWtPazVxXzllaENEcTdVbW9tNVc3ZlB1YU5panBlTUFDaDk5aHdpSktFRkNlYzVLcG5JSy1ycnRlS0M5NFktR0FoR19MM1oydEtKbzhOQ0x0ZVRTV3c3SVA4N0UzQQ",
@@ -294,6 +425,23 @@
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "Welcome to the latest Community Spotlight, where this month we’re featuring all things spooky and scary! If you’re interested in having your work featured in an upcoming Spotlight, please head over to Discord and check out the #showcase channel, or submit your releases to the…",
    "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3e998c7f088ad148a6a155638cc1fbe7be382d40",
+   "title": "GTA 6 First Official Post-Launch Release Confirmed For December 11",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54bHVFRXk0RmladUhXd2ZDMHdaOF9ZLV8yQWxmTW0wTVpUSnJ5NUhBeWRGd0FqeHJhY0FPYks0NExodUFBQ0M2NHF5OGFsQTNEdVhocXB3eUlSNWhNai1Ib081Q3I5ME1pRWE2NThZazQwem8yUWVoTQ",
+   "source_id": "gnews_online",
+   "source_name": "ScreenRant",
+   "domain": "screenrant.com",
+   "published": "2026-10-30T21:01:19Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
    "topics": [],
    "score": 0,
    "lang": "en",
@@ -587,6 +735,40 @@
    "priority": null
   },
   {
+   "id": "3ac3de1402f542a6a2cf9142af1a4be9c0f80255",
+   "title": "All The Latest GTA 6 Updates: Gameplay, Miami Heat Collab, Ads Invade South Beach",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZEhJUmFMVmtlRlhxUDExczF6Q2dzRXRlNEVvSDVwU2tPa0VWN1lOel81bWRHUS11b2h2cjVCdTR4dU9obk1mNXJ5WkJ1NW5wMnRZTVgwV0o5Y2VrQS1VRFI0RjY5YkRtSTA2QXhYMmdvYkJFenY0MHNQRWc1NmF6c21GU3Z5VTBoRjY4RmpFLWoxNWd4eVNBNTlzRllvNUM1OE9pMndMQTlvUURwc3A5Zm8wcnlqZC1INHB4TVlMQzQ",
+   "source_id": "gnews_online",
+   "source_name": "Sole Retriever",
+   "domain": "soleretriever.com",
+   "published": "2026-10-27T21:00:25Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "b64cf84560b99179ee1fc9ab2f8942d9e82c01f6",
+   "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVdTRGlaWnFxbl9NMkppOXU5ZW9SQUNzVHhEMVZ1eEhzZU8wVkdySGpBa3NhZElEZzBxOF9wc25hem9MVDUwMFg3UW9MaGIwbDM1bE4ydHBVZlhUdVg5QlYyT3FERWlsNDdzQzNTUmNtbHpiVl9hMDBleWliZS1sVm1UcVdNQ3NiRkRWNEM2blJyWnl5WHpJQnhXMmtBdUJCRm1HSG42dlYwR3ZNM3hjVGl4a3RwT2hHYmZXeTJfbG1lYVdpbDhNSFRIVlRrQkFqQ2RR",
+   "source_id": "gnews_online",
+   "source_name": "Rock Paper Shotgun",
+   "domain": "rockpapershotgun.com",
+   "published": "2026-10-27T18:37:53Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "248742771733beae73b0b7dc9989db55337777dd",
    "title": "GTA 6 Online may have competition as Saints Row 'AI slop' drops today",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFJINnFUU05Ddkp4bFRxOEpPSmlyYTNXekxOWG1hWUZ6aTFLTmRDZWJnOHBRTVJFUGU3aWdfazlfS0F0VUE2eTE1R2ZKbEI0dHd2MnVpWEFxalJOaHVjSnpBN185UHhPTXp6bGFyNl95UXZfX1ZORzBRNVV1eU8td2dUcGoyTVZQSnQ3Rlh6TG1Ncy1BTHBV",
@@ -601,6 +783,23 @@
     "online"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "e7075841f070adf404e28bb0d53a7423481d2559",
+   "title": "GTA 6 Preload: Date, Download Size and How to Preload on PS5 and Xbox",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEUxQ3pXTkl6b212SHJoX0JiWmxBMEZVUmFsX2J2REJuak9BQ0ZjZzdTaFRhUlYzLXd2eUFQQXZxSFpycUpzZzNLRHJ0NUFrMUpJRHNUZXhNZzVnQzdSZ2IwOUt0RnNEMmxMazI2dnlFRk9QbkxIMDVZbHpIelMtTUFld24xdllJamVMTGNvU05Ob0FpNW1xV3Q0Qmo0ZXJNOXg4XzNPYko3T3huem10Xw",
+   "source_id": "gnews_online",
+   "source_name": "DLCompare.com",
+   "domain": "dlcompare.com",
+   "published": "2026-10-26T07:25:56Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -1205,6 +1404,25 @@
    "priority": null
   },
   {
+   "id": "8296b3c6d7af2175e5cc53d307533e82de9126c4",
+   "title": "Take-Two Releases New Official Statement on GTA 6 Online + PC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UERONV8zZnRqcThrT003cEpyU0hzVUVjdVFDQXJWX3diZGFONkRvb3g0MXdMOHN0S3dPbnY3bG9EOTNMN1BIWHVWWkpTc1EwcFNZcjE1ZmF1SXZrcURMVXNUQk42N1RPbjQ5THFIMlQzZGMzTWJZ",
+   "source_id": "gnews_online",
+   "source_name": "GameRant",
+   "domain": "gamerant.com",
+   "published": "2026-10-01T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "c433dddc14e18badefbb64c42ec7fdfe5a4d315d",
    "title": "Community Spotlight: September 2026",
    "url": "https://forum.cfx.re/t/community-spotlight-september-2026/5429244",
@@ -1597,6 +1815,23 @@
    "lang": "en",
    "also_on": [],
    "priority": null
+  },
+  {
+   "id": "7474d8578dde8cb4a7e2b1f78b0e5a976d4ffb0c",
+   "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations, Official Soundtrack, and More",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zZ2tFYmZzUWNpYkFZUDQyQ3ktcENfc2VSYjFGdTNrdXJJQWxhTDQwNUNXYUlzNXc4bG92TVdSVkJsdm5ydTRYZnNyWVFzYWM",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2026-09-17T12:21:28Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "e3c2b9edf8c3c43b4fc5678db7302f81eb938061",
@@ -2055,6 +2290,40 @@
    "priority": null
   },
   {
+   "id": "591472396dcb638679bf18cbb1abde5a9b2e4ad4",
+   "title": "GTA 6's release raises major GTA Online questions — and a few answers",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxOHpNOHFTOUI3ME1RT0ZsSTh3VTduSE9oa1lFbW1oODJkTjJDa3Z2TW01M2RYSWlpNU9wc1dTeWptcFBsWGpHM0phS21aMnM4UjEwdFFiY2M0T2pvSzd0OHBwZw",
+   "source_id": "gnews_online",
+   "source_name": "Polygon.com",
+   "domain": "polygon.com",
+   "published": "2026-08-28T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "282d0f882c7687112e88b95ea26aaf519350cffe",
+   "title": "GTA 6 extended look: What we know after Netflix preview",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TeTl3X2JpY0Z5N3k2MWlINGFUSnpmS0ZBZkYteXl4aFVpRTkxcXVBQjdSTHhMUEg2c2YtQ0ZhSWYzVWFERUVFSzZZdG9nWFVSWlAydGtPVEJDdw",
+   "source_id": "gnews_online",
+   "source_name": "BBC",
+   "domain": "bbc.com",
+   "published": "2026-08-28T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "1c9f96b40a7fa5cfc46540932614b34a0d233247",
    "title": "GTA 6 Skipping PC At Launch And Having No Online Right Away Is Good, Helldivers Boss Says",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVF1d192UFl2dXE3X1ZBRDlac0Nqd1NPcHdGR3QyVU8tUVVQSW5fdmNxTy1feDJYSW9iS0pseEtTT2RieGtrc1p6N2RiaVRzWlFEc21WNUhJdDVDVVRLTUs3U2NxNGYwdEJTbGx5aTJja2hDUzVsOHctbl84WHRDYmM1SEl2a1JEM3dQRmN4eHFTdHlEaUgxTU5USVRPRGFmMGE3Vl9WTUxHdEVHWGF6dmsxVHdpcnhrSkp2d2pDd2E",
@@ -2308,6 +2577,40 @@
    "priority": null
   },
   {
+   "id": "adbb6d133825edc709265e505f789b2c2a494a2d",
+   "title": "'GTA 6' Online update: Rockstar's decision has gamers divided",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalZ5d0dHMnRWSHJ6QzJ4YW5tSW1yc3hSOTdMR3hVdHllVHV1Q1lOUkZMNDVZSUFMWjhPenVPVEp6dDVOWjdjcC1oazZfa3g5WFRwRHphaG14OC00Z0FMbEc0bERFM2VHaUlFVGpTeXlzYmYwVF82N1R5TVpHOXNaU2RaLTdIWDJZZllpeEVhb05KeEIySS1qQXlxQzQxanpYUkJybU9VWlBXc0R4RjM2YTVvOTNIV09G",
+   "source_id": "gnews_online",
+   "source_name": "USA Today",
+   "domain": "ftw.usatoday.com",
+   "published": "2026-08-10T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "1c0daa59d12bb28c5e3476652e6770ec4cf300dc",
+   "title": "Pre-Order Grand Theft Auto VI on June 25",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHA5RDlyUUpxSGtUT0JNcUJYZEJvTV9NZ1d1blY1S0FEZld2YTdHdzdLX3ZCM3d4Y2UwWGNwemlfWWhXdWxvY0EtcWFMTWFVdEVBOGxPLXpsT3R3akpFdV9kdnpXcXBNSHhNV1B2Q2FNMVlFMEdDX3Fyc29wd3d6VnRDRmp0akRheUlSeFVWWWpIcmlUZTJrV3hzcEF1OU1HNmhSbkJFLXkwbXBTWElMcXBjczB2bFNHVXVBSXVOZE1KOWc",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2026-08-10T00:34:20Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
+  },
+  {
    "id": "d117830e1efe81221b517458499cc96f2d630295",
    "title": "Does Take Two's GTA Online Mission Creator Hint at GTA 6 Plans",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlkyaW9zT1gxeTJsNDBYUGMxSFcxS19OZWZHRmkzZUpFNGJWbExxWnVqWUkwbXl0cXVmVy16SHVwQnBoby12R2VwWHFpWTRXVlNpSExJdThScnJ6VXVJb0hFRW5ON3c0ckF0bW9zYjhuZ3E0UkY3ZktzUDFsSm80WEx4ei1mYTNRZU9XZGZhZlVxdWpLU0Jr",
@@ -2339,6 +2642,45 @@
     "data"
    ],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "ec3beca40e58e185b189510c920d6d9a24ad826e",
+   "title": "Report: Rockstar Won’t Talk About GTA 6 Online Soon, Game Will Be Marketed as a Single-Player Experience",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1FSLU91R290UTAzbXNaTEZqcjRUQTBqZ0NRdTJIdkkxU2lVcTJiaDdQUVNzcm5IODQ3cFVKb2x5LWR0dXR6cUV6ZU1oVGplcHRBcl9lRzJ6NUR0eTFrZnN1RnMxWl9NTEpHX2o0YUM0MGFMcnFGYXA4dl9oYW00bWNrUmRtTWtLWTRzYlZQR3BicFNFY1pfNFJzTzlRWTJpNXJFaA",
+   "source_id": "gnews_online",
+   "source_name": "MP1st",
+   "domain": "mp1st.com",
+   "published": "2026-08-08T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "904b9e7bd68992f2b5ff6ece905246655f15c9d2",
+   "title": "GTA 6 Online may not launch until long after release date, despite sales potential",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnc0Zl9ySmtyVmJzQ1RDbkhHUHJVUDFIemFoSWYyVUQ1T1NXc1NzU3ZxQmc1M2ZDcFQzNFZnOW43Yi15QmEyRTlZY1VROXRjSWcyRk9JMUNaT1FwY1FuS1hKVzV0bllNbjMzMTJVaFdHSW40aU4zYktKenVrQi1ZWWM5emMxTnBZUHdqT3NvOVZPN3lpRGNTYjE3Qkx0NWRqeHZtMU0zNTdHRFVtVzVvQmJieHVJVHl6SXh5VkFHaFp5SkRR",
+   "source_id": "gnews_online",
+   "source_name": "Notebookcheck",
+   "domain": "notebookcheck.net",
+   "published": "2026-08-08T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 40,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -2397,6 +2739,23 @@
    "priority": null
   },
   {
+   "id": "f9b61f912736c66c1f8d0924d1b07284cf0d9563",
+   "title": "GTA 6 gets first taste of censorship as GTA Online feature cut in additional regions",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWJnQVJUSUVOSG1sbE5zRHlxYjZRVGNZVnVzTHF4dVRrZmlXNW50UXFEQkwzMG8wUUt0YzFPbldkb3JhdGVEZUFMU1paLWN0a19la1o2dEV0VWhtNFVtcExjbmNBb2ZJVjdhTEN4R3ZaazBtU3BDeXY3QVVrTEJhQ1A1eEtIeGNJVThtSUJUZVlCd2ZwR0VKVA",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2026-07-29T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "5570170817637ec6dcc514a688db88b2165e5056",
    "title": "New txAdmin Recipe: StreetKings",
    "url": "https://forum.cfx.re/t/new-txadmin-recipe-streetkings/5417307",
@@ -2431,6 +2790,25 @@
     "rp"
    ],
    "score": 60,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "56b2afb39638cb133b55fba31f86f3ade79f4068",
+   "title": "GTA 6 Online apparently a separate download – and what that could mean",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFphb29wRTBrejQ4M1ZzbF9KRDgtbHFsZGx5YWtDYl9WOEFVQ2cxN29RaEtPYVV2RFRvVVlhZlEwU0JIWjhhYWdIX0QtM1lpTHREV3BEeEJWa0txR2U5U1hKblk3cXFyYzBjY0lrc25QWHNIZThyby1PcUNIbVZvcG5tZC1kUm9tNHJJZXllOGhkMGRTdGk4eC1SX0dtQ0d6VHNBeUNUVGJwS2daa2M2MXM1TQ",
+   "source_id": "gnews_online",
+   "source_name": "Notebookcheck",
+   "domain": "notebookcheck.net",
+   "published": "2026-07-22T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -2601,6 +2979,44 @@
    "priority": null
   },
   {
+   "id": "22ccf652bd18e547dfcd55628d04cb9c766a4701",
+   "title": "What Can We Expect from GTA 6 Online, and When Will We Play It?",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUpGeUtrQTJaTzRjM2RRenlwWXo2WU1TbXVDYVFvUGVTYjRDNzZEZ2xSdTBMNGtmUnhCNGFUdHJXS1VvNXNNRTlIS2dZUzBUUS04dFVrUXlCWEJ6akxneW01T3RtZEZNSTktaFNOcU1zSGNJN21od3AtdFAyUnZBck9RQ2xVUXNEVzVZaXFYTnNlOTNv",
+   "source_id": "gnews_online",
+   "source_name": "IGN",
+   "domain": "ign.com",
+   "published": "2026-06-26T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "online"
+   ],
+   "score": 36,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "4f13ac8fb6a6f4e9bc0de04396784a41a19248d6",
+   "title": "'GTA VI' Online release date: What we know so far",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZENLaWVBcHotbVhZbjFKQXlpYlNwOHRWbXlOVDZQOFh3SUFxM1NLYll1Q2s2dC01emc1SzQ4dHh0bFJYdmZmajdlejc0Z2ZZZGQtVnN1dURQNnBzRFQyb0VoQ3otRjAza1FPaVNQQWQ4VWZ1eHQzRnZ1bVhlRHdzcVNEWQ",
+   "source_id": "gnews_online",
+   "source_name": "Mashable",
+   "domain": "mashable.com",
+   "published": "2026-06-25T15:20:24Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "data"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "cf7369da9b566520f1435355ca1dbc35276653cd",
    "title": "Grand Theft Auto VI",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05eXotaExMaC10dnRXR05pcVE2R3BvSm1JcTlxTE9JR2s2U050Rl9nUmt6M0pVaVItQUItNFpobG85RmpZUWlqVzV5TDFhLWoxRFdJ",
@@ -2662,6 +3078,42 @@
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "",
    "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "92d46c6c72ed23f8322445df475c795fc4978d92",
+   "title": "GTA 6 Online looks unlikely for launch as Rockstar refers to the game as a \"single-player experience\"",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0pTZDdWbGI4N1UxM0xTWHM5SVZkTERRSGFpSlpualczbkFaVWhLWmdEY3lOay16YU9KTUVUaFpqNEZCNFZFMndNR2ZMY20zOHV4Y1B0UXpNVWpOTzdxOTZlQ2lQYV9EVUdkbzluRlpIZlZzcjZ5SlY2UnhZUVVnVG93andmQnR5NzZjSktSOUVqMldNX0JqNWpXQ3ZIaWdVbVA1Q3ZDcmZrZERDa2g3OG5kcVFEZmw1RFNVajcybVpreEpHM0x6SUlHZ3pGQlphdkFZTk9HVXczelh0R2o1aTRFcEo",
+   "source_id": "gnews_online",
+   "source_name": "GamesRadar+",
+   "domain": "gamesradar.com",
+   "published": "2026-06-24T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "online"
+   ],
+   "score": 36,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "f454918dcae3cc4d19fbec30c3c5cce7d8c9798d",
+   "title": "GTA 6 is a 'singleplayer experience,' GTA Online may be sold separately",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHV2MlFHMFRva2lTelU5YnhoNmw3elk2TktUR3lEUDM1aHF5UHZpZWREZlJab1N0cHBlU1Q1bDBDSnV5bkNwdGUtUHVjd3RIekp3MU1oZjFlOXBuOWc2a0hST0UwNG1NbFBvVnlMWjZmMkx1MnJleVBmUWo1TW9JVmpaTFNHYlpRT2FhNTU5a3hZbzB1YVRhcmxQSHZSbzZjVUdTdGtsSnkxbkd0ck1rNGZ3WXY5WUls",
+   "source_id": "gnews_online",
+   "source_name": "TweakTown",
+   "domain": "tweaktown.com",
+   "published": "2026-06-24T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
    "topics": [],
    "score": 0,
    "lang": "en",
@@ -2739,6 +3191,25 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
+  },
+  {
+   "id": "227116766aac8b31912786b3a25d9ddcaf2de4e6",
+   "title": "With GTA 6 Online, Rockstar Is Deciding Who To Make Mad",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHo4UDdNU0tGXzhJVUJPNUNTN19XQks2dTMzWVBJdUsydTg2OWlXR01Jemx4VlpIVmtxNUhIRjhhckttYzJ4LUMwbUwybm5RYk1RRm1RaWhETkphWnZ0YnVVWGhXUWVqYmNXN1hKakVnVnhxUzA3Y0dTQlRSbjM0dndZam5KczhSQkJiSXFtWGp0WGs",
+   "source_id": "gnews_online",
+   "source_name": "GameSpot",
+   "domain": "gamespot.com",
+   "published": "2026-06-18T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "8524f0a9db373e82f048e0a509fb2a673cdd68fc",
@@ -3135,6 +3606,44 @@
    "priority": null
   },
   {
+   "id": "55f40c546bed3a1c6feae2fb8ce888ca0acd8b30",
+   "title": "Don’t Expect A GTA 6 Online Mode At Launch",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFlEZWhKSUpYMk05NFhkRllza1RXS01ILXFWSUdmMjVEbTlHaGxHd2d3V0tPTDQzWWhSZDAwSjBZc3pIVkpIVWphWU5WeUY5QkdzZVA4eG5KSGExQXlNVjRWY0lGZWhZUWVJalRzRWl3aFpNRjRTeFJRbS1YeGI3LTB3dldhOEgyd0JBUm9QSmhnNHc",
+   "source_id": "gnews_online",
+   "source_name": "GameSpot",
+   "domain": "gamespot.com",
+   "published": "2026-04-09T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "8ca165e0313b02c7560061ddca9d485681780371",
+   "title": "GTA 6 Online Launch Month Leaks, Days Are Numbered For GTA Online",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUNzeHVPOFhGV3pHWVBBX01MRWtGOTZwZ1FsNVFlWXB0ejhyRW5ORzAwT3ZLMThhWEhUaVVmdGIwSXVUMzVmbUNHWWxpM1JNaTZ2bG9fM0dEMUFlT0h3YmExdm91dk51a3VnaUlaTE9ldGF6cFUzcTBaLVdIc1dpT3A3MDRtX0E",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2026-04-09T07:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "eb3a3f84be67fe8459515f2af2e1ffafcea81d57",
    "title": "Spring 2026 Upvotes Sale",
    "url": "https://forum.cfx.re/t/spring-2026-upvotes-sale/5392059",
@@ -3319,6 +3828,42 @@
    "tag": "OFICIAL",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "4dca7c1458d0777e25d054e4eb87af738e52a86b",
+   "title": "What to expect from ‘GTA 6’ online?",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGczMDFUNzlDUFFtY3VMRnhDaWdLRkE2UnJINGFjbVZJdUZ0eEpIaTJsUU8zWUh2WTFHeVJUSnhFSWpLZDU2aFc2UVh5MVdLb21pWS1RZGcwN29jU3RkWW9JMjlfU3V1aXE1LWs1Sm9fVGl2NHcydG01Smw3elA1OURFb2tUWEU3T1AxcTJXaWVIck9y",
+   "source_id": "gnews_online",
+   "source_name": "NME",
+   "domain": "nme.com",
+   "published": "2026-01-18T08:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "a290eab44b2393c0e309b1a4bea6c66a77f5c94a",
+   "title": "GTA 6 Online Detail Revealed In New Court Case",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93QWZOTHRsMm1nY2NlRlhEXzQwQVJMbXlEN1RSLWJERURENkRyeWVNaDhTbEhMZURROWJBWG9VdUNlNk1UTzE1UTY0MjU1WGtud3QwZmNJejdpOGhBaFVIZ19PZ0pVU005QVhRZ2lrN09lc0pYd1pobWdMOHJBdw",
+   "source_id": "gnews_online",
+   "source_name": "RockstarINTEL",
+   "domain": "rockstarintel.com",
+   "published": "2026-01-13T08:00:00Z",
+   "fetched": "2026-11-03T22:45:00Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "online"
+   ],
+   "score": 36,
    "lang": "en",
    "also_on": [],
    "priority": null

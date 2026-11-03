@@ -1,6 +1,6 @@
 {
  "version": 1,
- "push_ready": false,
+ "push_ready": true,
  "cache": {
   "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A",
   "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
@@ -1773,6 +1773,186 @@
   "4c137efad02a41089ac6f82953caa06fd2b60871": {
    "t": "GTA 6: investigação aponta origem dos vazamentos",
    "first_seen": "2026-11-03T19:45:16Z",
+   "p": null,
+   "pending": false
+  },
+  "b86da479b81b083c557fc703a4ae1ca24e7766a3": {
+   "t": "How has your life changed between the first trailer and game launch?",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "79cd7e47911c851e4823dfda6825d6c62fc9bed9": {
+   "t": "GTA 6 gameplay trailer",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "0345b437beb7ab7beeba993f5546908bc6810e3a": {
+   "t": "Well look who's back!",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "a224f2e361318ff37719a34c55a02619029a94ae": {
+   "t": "Playable date/time - so many different answers!!",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "c70d1a65cc63fd3c29e70b55b68327fa2e50b2e8": {
+   "t": "Rockstar launcher reportedly getting secret updates on PC ahead of GTA 6",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "42501a906915f4e5e8336729901e8f60b374bab4": {
+   "t": "New GTA 6 Pre-Order Bonus Leaked And It’s A “Surprise”",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "a88db90caad93aa52112d5f8a8a87bf58167ac0f": {
+   "t": "You'll be able to play GTA 6 early with a neat PS5 trick – here's how to get it working",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "3e998c7f088ad148a6a155638cc1fbe7be382d40": {
+   "t": "GTA 6 First Official Post-Launch Release Confirmed For December 11",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "3ac3de1402f542a6a2cf9142af1a4be9c0f80255": {
+   "t": "All The Latest GTA 6 Updates: Gameplay, Miami Heat Collab, Ads Invade South Beach",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "b64cf84560b99179ee1fc9ab2f8942d9e82c01f6": {
+   "t": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "e7075841f070adf404e28bb0d53a7423481d2559": {
+   "t": "GTA 6 Preload: Date, Download Size and How to Preload on PS5 and Xbox",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "8296b3c6d7af2175e5cc53d307533e82de9126c4": {
+   "t": "Take-Two Releases New Official Statement on GTA 6 Online + PC",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "7474d8578dde8cb4a7e2b1f78b0e5a976d4ffb0c": {
+   "t": "The Music of Grand Theft Auto VI: In-Game Radio Stations, Official Soundtrack, and More",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": 4,
+   "pending": false
+  },
+  "591472396dcb638679bf18cbb1abde5a9b2e4ad4": {
+   "t": "GTA 6's release raises major GTA Online questions — and a few answers",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "282d0f882c7687112e88b95ea26aaf519350cffe": {
+   "t": "GTA 6 extended look: What we know after Netflix preview",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "adbb6d133825edc709265e505f789b2c2a494a2d": {
+   "t": "'GTA 6' Online update: Rockstar's decision has gamers divided",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "1c0daa59d12bb28c5e3476652e6770ec4cf300dc": {
+   "t": "Pre-Order Grand Theft Auto VI on June 25",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": 4,
+   "pending": false
+  },
+  "ec3beca40e58e185b189510c920d6d9a24ad826e": {
+   "t": "Report: Rockstar Won’t Talk About GTA 6 Online Soon, Game Will Be Marketed as a Single-Player Experience",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "904b9e7bd68992f2b5ff6ece905246655f15c9d2": {
+   "t": "GTA 6 Online may not launch until long after release date, despite sales potential",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "f9b61f912736c66c1f8d0924d1b07284cf0d9563": {
+   "t": "GTA 6 gets first taste of censorship as GTA Online feature cut in additional regions",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "56b2afb39638cb133b55fba31f86f3ade79f4068": {
+   "t": "GTA 6 Online apparently a separate download – and what that could mean",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "22ccf652bd18e547dfcd55628d04cb9c766a4701": {
+   "t": "What Can We Expect from GTA 6 Online, and When Will We Play It?",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "4f13ac8fb6a6f4e9bc0de04396784a41a19248d6": {
+   "t": "'GTA VI' Online release date: What we know so far",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "92d46c6c72ed23f8322445df475c795fc4978d92": {
+   "t": "GTA 6 Online looks unlikely for launch as Rockstar refers to the game as a \"single-player experience\"",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "f454918dcae3cc4d19fbec30c3c5cce7d8c9798d": {
+   "t": "GTA 6 is a 'singleplayer experience,' GTA Online may be sold separately",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "227116766aac8b31912786b3a25d9ddcaf2de4e6": {
+   "t": "With GTA 6 Online, Rockstar Is Deciding Who To Make Mad",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "55f40c546bed3a1c6feae2fb8ce888ca0acd8b30": {
+   "t": "Don’t Expect A GTA 6 Online Mode At Launch",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "8ca165e0313b02c7560061ddca9d485681780371": {
+   "t": "GTA 6 Online Launch Month Leaks, Days Are Numbered For GTA Online",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "4dca7c1458d0777e25d054e4eb87af738e52a86b": {
+   "t": "What to expect from ‘GTA 6’ online?",
+   "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "a290eab44b2393c0e309b1a4bea6c66a77f5c94a": {
+   "t": "GTA 6 Online Detail Revealed In New Court Case",
+   "first_seen": "2026-11-03T22:45:00Z",
    "p": null,
    "pending": false
   }
