@@ -9,12 +9,12 @@
   var BASE = isNative && remoteMeta ? remoteMeta.content : './';
 
   var URGENT = ['rp', 'online', 'servidores', 'creator'];
-  var TOPIC_LABEL = { rp: 'RP', servidores: 'Servidores', creator: 'Criadores', online: 'Online', pc: 'PC', trailer: 'Trailer', data: 'Data' };
+  var TOPIC_LABEL = { rp: '🎭 RP', servidores: '🖥️ Servidores', creator: '🛠️ Criadores', online: '🌐 Online', pc: '💻 PC', trailer: '🎬 Trailer', data: '📅 Data' };
   var TAGS = {
-    OFICIAL: { text: '🟢 OFICIAL', cls: 'oficial' },
-    CREDIVEL: { text: '🟡 CREDÍVEL', cls: 'credivel' },
-    LEAKER: { text: '🟠 LEAKER CONFIÁVEL', cls: 'leaker' },
-    RUMOR: { text: '⚪ RUMOR', cls: 'rumor' }
+    OFICIAL: { text: 'OFICIAL', cls: 'oficial' },
+    CREDIVEL: { text: 'CREDÍVEL', cls: 'credivel' },
+    LEAKER: { text: 'LEAKER CONFIÁVEL', cls: 'leaker' },
+    RUMOR: { text: 'RUMOR', cls: 'rumor' }
   };
   var FILTERS = {
     all: function () { return true; },
@@ -211,7 +211,7 @@
     (it.topics || []).forEach(function (tp) {
       var s = document.createElement('span');
       s.className = 'topic' + (URGENT.indexOf(tp) !== -1 ? ' hot' : '');
-      s.textContent = '#' + (TOPIC_LABEL[tp] || tp);
+      s.textContent = TOPIC_LABEL[tp] || ('#' + tp);
       topics.appendChild(s);
     });
     if (it.also_on && it.also_on.length) {
@@ -397,7 +397,7 @@
       b.className = 'mini';
       b.setAttribute('data-topic', t);
       b.setAttribute('aria-pressed', String(state.topics.indexOf(t) !== -1));
-      b.textContent = '#' + TOPIC_LABEL[t];
+      b.textContent = TOPIC_LABEL[t];
       tbox.appendChild(b);
     });
     var sel = $('group');

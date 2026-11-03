@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
   <!-- VC STAR doodle pattern (original line art, tiles seamlessly) -->
-  <g fill="none" stroke="#c084fc" stroke-opacity="0.17" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="#2a2142" stroke-opacity="1" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
     <!-- palm tree -->
     <g transform="translate(34 30)">
       <path d="M8 58 C10 40 12 24 18 10"/>
@@ -62,7 +62,7 @@
     <!-- flamingo-ish feather / sparkles -->
     <path d="M206 18 v8 M202 22 h8 M330 120 v8 M326 124 h8 M18 220 v8 M14 224 h8 M100 340 v8 M96 344 h8 M216 112 v6 M213 115 h6"/>
   </g>
-  <g fill="#c084fc" fill-opacity="0.16" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-style="italic">
+  <g fill="#2a2142" fill-opacity="1" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-style="italic">
     <text x="296" y="230" font-size="16">VC★</text>
     <text x="16" y="120" font-size="12">VC★</text>
   </g>
