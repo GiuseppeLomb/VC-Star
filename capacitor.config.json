@@ -1,0 +1,11 @@
+{
+  "appId": "io.github.giuseppelomb.gta6rpradar",
+  "appName": "GTA6 RP Radar",
+  "webDir": "docs",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#07020f"
+  }
+}
