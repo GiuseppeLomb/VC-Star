@@ -2,7 +2,6 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A",
   "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
@@ -1953,6 +1952,216 @@
   "a290eab44b2393c0e309b1a4bea6c66a77f5c94a": {
    "t": "GTA 6 Online Detail Revealed In New Court Case",
    "first_seen": "2026-11-03T22:45:00Z",
+   "p": null,
+   "pending": false
+  },
+  "4c33287fcef4fd965c9984fd45936d01776f4546": {
+   "t": "Theory: GTA VI will open in a snowy Liberty City which will involve the \"job gone wrong\" in which Lucia gets arrested",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "0eb789ed6b167762e704236fb034e9bbdc9a6027": {
+   "t": "Un messaggio e una richiesta di addio",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "404f5257a24898ef2b11e5b9775337d1216d59ba": {
+   "t": "[PS5] The Final Los Santos Cruise - A Farewell to GTA V- Bring Your Favorite Car - (Wed, Nov 18 @ 9 PM EST)",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "d59433e916a36f41763305569b040c047ac6af72": {
+   "t": "PS4 Numero Uno help?",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "45b41f008f903bfdde792323528d5dc0f091524a": {
+   "t": "Just got GTA V",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "e3ba6f06957eef1afb8bee3b22d3234f0bf3e6e8": {
+   "t": "Assembling a lobby for GTA V's \"Last Ride\" Event (PS5)",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "55f4f3263c77df690c9d9b473591db76ced60b44": {
+   "t": "GTA 6 Includes a Fully Functional Public Transport System with Buses and Rails",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "d81143555d83d931351c4c86d3c8ccedabfccb7b": {
+   "t": "GTA 6 Could Let RP Creators Make Real Money, Says Ex-Rockstar Dev",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "97f745a5f874be612a1e7f5517e4816c0f2a9c47": {
+   "t": "Ex-Rockstar dev predicts GTA 6 Online will let RP players make real money from custom content",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "6eb1ede3415579f49b08bcfa2f849ff689154afd": {
+   "t": "Rockstar Backs NoPixel V — What GTA 6 Means for GTA RP",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "883da1ac9533f8afe3aef86aed165ca6873a062b": {
+   "t": "Ahead of GTA 6, Rockstar Games Reveals Its Official GTA Online Roleplaying Server nopixel V",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "2df02877625f461bc378ece3753d8890b181ad6d": {
+   "t": "Rockstar's Creator Platform Hiring Offers a Clue to GTA 6's Future",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "ba0379da7f7b629765baf24057c081a9792a4818": {
+   "t": "GTA 6 Will Crush Everything in Its Path, and GTA 5 Just Gave Us the Proof",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "9ca41b9fd249778a388f524bc1f7d61f3415e64d": {
+   "t": "GTA 6's Project ROME Has Never Looked More Certain Amid New Rockstar Release",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "36827a552033333ee900a8a2693697509074c154": {
+   "t": "Forget GTA 6, Imminent Rockstar Drop Expands GTA 5 Massively",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "63085c32b42d3e3624445571217c5711843748ed": {
+   "t": "Rockstar Games Reportedly Making New FiveM GTA RP Platform Ahead of GTA 6",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": 3,
+   "pending": false
+  },
+  "d3ad301b3d6a191114f85869ef3c1cb285d54141": {
+   "t": "Rockstar breaks silence on GTA RP as GTA 6 Online reveal draws near",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "5272a262b6c109e77b14669630f0b6753aeb9fed": {
+   "t": "GTA 6 Devs Drop New Trailer Confirming New Partnership",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "e2ba31b57595d128cf4be395a812d7878cfda5ae": {
+   "t": "GTA 6 hype mounts as Rockstar starts working with fans",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "9182c200294382d78f135761e9b9c65c9f5476b7": {
+   "t": "Ahead of GTA 6, Rockstar Games is staffing up its creator platform division with an eye toward UGC creators",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "c09ade91d9055213802c81241294d392e133c5fd": {
+   "t": "Rockstar Games To Release Mod Tool For GTA V’s FiveM Ahead Of GTA 6",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "0baaa2e4834e459ee75809ef4a3bec54070b81f0": {
+   "t": "You Can Make Money While Playing GTA 6: Adin Ross Makes a Promise Ahead of GTA 6 Release",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "e73ea4526ba233790fef49ea14e20d4bb54bd10d": {
+   "t": "How Streamers Will Make Millions off GTA 6 Roleplay",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "ee8dad862cd6085a3f478b1993bf47204d633323": {
+   "t": "Adin Ross Planning GTA 6 Servers Where You Can Earn Real Money",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "a20895ad4da21a51f8089756cb50f9852fbeba64": {
+   "t": "GTA 6 Could Be the Next Big Creator Platform",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "cde739a25b16ea820be20160a64cf49d07dcd3ea": {
+   "t": "Adin Ross & FaZe Banks Launch GTA 6 RP with Crypto Pay",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "c7ebeaf1405051281356dd26d59e410ca1220312": {
+   "t": "Adin Ross and FaZe Banks Reveal Plan for Ambitious GTA 6 RP Server",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": 3,
+   "pending": false
+  },
+  "b23298cfe37890fe1c28b8ddbbb9abb15505dc17": {
+   "t": "GTA 5 getting major October update ahead of GTA 6, says insider",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "a5f6a3aecb3701b59593c8590f58264216c1eaca": {
+   "t": "Online is definitely gonna feel more like GTA roleplay now\": GTA 6's Online Experience Gets a Big Leg Up as Rockstar Add More Experts to the",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "b2c9549eb66b73f438d34ef664f45d1efaf3ea81": {
+   "t": "With GTA 6 on the way, the FiveM devs are \"expanding the possibilities of user-generated content\" at Rockstar",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "3d054c8447c74268df05d18bdf6b29eb39f70fc1": {
+   "t": "This All but Proves That GTA 6 Online Won't Have Real-Life Car Brands",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "a9fecf8478670fb7b8b260b85dd4380e4afee143": {
+   "t": "Rockstar Has Ensured GTA 6 Multiplayer Will Be Better Than GTA Online",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "9a5e25c0c58ea7954cf9b56c2140b54ca2e420af": {
+   "t": "Rockstar Officially Working With GTA Roleplay Server Team, Sparking Fresh Excitement About GTA 6",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "0259a3c6c1e2a9057cf4c3c9a53698207754c6f6": {
+   "t": "Popular GTA Role-Play Community Scooped Up By Rockstar Ahead Of GTA 6",
+   "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "fb0c18f70dd86b9fbbc131412ec5c0793cf1296f": {
+   "t": "Rockstar's acquisition of FiveM mod team could be absolutely massive for GTA 6",
+   "first_seen": "2026-11-03T23:23:07Z",
    "p": null,
    "pending": false
   }
