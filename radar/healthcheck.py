@@ -53,7 +53,7 @@ def main(argv=None) -> int:
         return 0
     notifier = Notifier.from_env()
     if not notifier.enabled:
-        print("NTFY_TOPIC não definido: alerta não enviado.")
+        print("Sem canal de push (NTFY_TOPIC / DISCORD_WEBHOOK_RADAR): alerta não enviado.")
         return 0
     first = found[0]
     title = f"⚠️ Radar: {first}" if len(found) == 1 else f"⚠️ Radar: {len(found)} problemas"

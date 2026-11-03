@@ -109,9 +109,15 @@ def is_fresh(item: dict, now, max_age_hours: int) -> bool:
 
 # --------------------------------------------------------------------------- transport
 class Notifier:
+    """ntfy (phone push) + optional Discord webhook (#radar-gta6) + optional Telegram."""
+
+    DISCORD_COLORS = {5: 0xFF2BD6, 4: 0x3DFFA0, 3: 0xFFD84D}
+
     def __init__(self, topic: str | None = None, telegram_token: str | None = None,
-                 telegram_chat: str | None = None, client: httpx.Client | None = None):
+                 telegram_chat: str | None = None, client: httpx.Client | None = None,
+                 discord_webhook: str | None = None):
         self.topic = (topic or "").strip() or None
+        self.discord_webhook = (discord_webhook or "").strip() or None
         self.telegram_token = telegram_token or None
         self.telegram_chat = telegram_chat or None
         self.client = client or httpx.Client(timeout=15)
@@ -120,38 +126,55 @@ class Notifier:
     @classmethod
     def from_env(cls) -> "Notifier":
         return cls(os.environ.get("NTFY_TOPIC"), os.environ.get("TELEGRAM_BOT_TOKEN"),
-                   os.environ.get("TELEGRAM_CHAT_ID"))
+                   os.environ.get("TELEGRAM_CHAT_ID"), discord_webhook=os.environ.get("DISCORD_WEBHOOK_RADAR"))
 
     @property
     def enabled(self) -> bool:
-        return bool(self.topic)
+        return bool(self.topic or self.discord_webhook)
 
     def send(self, msg: Message) -> bool:
-        if not self.topic:
+        """True if at least one channel (ntfy or Discord) accepted the message."""
+        if not self.enabled:
             return False
-        payload = {
-            "topic": self.topic,
-            "title": msg.title,
-            "message": msg.body,
-            "priority": msg.priority,
-            "tags": msg.tags,
-            "click": msg.click,
-            "actions": [{"action": "view", "label": "Abrir Radar", "url": pages_url(), "clear": False}],
-        }
         ok = False
-        for attempt in range(2):
-            try:
-                r = self.client.post(NTFY_SERVER + "/", json=payload)
-                if r.status_code < 300:
-                    ok = True
-                    break
-                log.warning("ntfy respondeu %s: %s", r.status_code, r.text[:200])
-            except httpx.HTTPError as exc:
-                log.warning("ntfy falhou (%s): %s", attempt + 1, exc)
+        if self.topic:
+            ok = self._post("ntfy", NTFY_SERVER + "/", {
+                "topic": self.topic,
+                "title": msg.title,
+                "message": msg.body,
+                "priority": msg.priority,
+                "tags": msg.tags,
+                "click": msg.click,
+                "actions": [{"action": "view", "label": "Abrir VC STAR", "url": pages_url(), "clear": False}],
+            })
+        if self.discord_webhook:
+            urgent = msg.priority >= 5
+            ok = self._post("discord", self.discord_webhook, {
+                "username": "VC STAR Radar",
+                "content": "@here 🚨 anúncio oficial importante" if urgent else None,
+                "allowed_mentions": {"parse": ["everyone"] if urgent else []},
+                "embeds": [{
+                    "title": msg.title[:256],
+                    "url": msg.click if msg.click.startswith("http") else None,
+                    "description": msg.body[:2000],
+                    "color": self.DISCORD_COLORS.get(msg.priority, 0x8B5CF6),
+                }],
+            }) or ok
         if ok:
             self.sent.append(msg)
         self._telegram(msg)
         return ok
+
+    def _post(self, name: str, url: str, payload: dict) -> bool:
+        for attempt in range(2):
+            try:
+                r = self.client.post(url, json=payload)
+                if r.status_code < 300:
+                    return True
+                log.warning("%s respondeu %s: %s", name, r.status_code, r.text[:200])
+            except httpx.HTTPError as exc:
+                log.warning("%s falhou (%s): %s", name, attempt + 1, type(exc).__name__)
+        return False
 
     def _telegram(self, msg: Message) -> None:
         if not (self.telegram_token and self.telegram_chat):
@@ -163,7 +186,7 @@ class Notifier:
                       "disable_web_page_preview": False},
             )
         except httpx.HTTPError as exc:
-            log.warning("telegram falhou: %s", exc)
+            log.warning("telegram falhou: %s", type(exc).__name__)
 
 
 class DryRunNotifier(Notifier):
@@ -171,6 +194,7 @@ class DryRunNotifier(Notifier):
 
     def __init__(self, topic: str | None = "dry-run"):
         self.topic = topic
+        self.discord_webhook = None
         self.telegram_token = self.telegram_chat = None
         self.client = None
         self.sent = []

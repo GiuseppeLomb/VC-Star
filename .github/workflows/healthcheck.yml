@@ -25,4 +25,5 @@ jobs:
       - name: Verificar health.json
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          DISCORD_WEBHOOK_RADAR: ${{ secrets.DISCORD_WEBHOOK_RADAR }}
         run: python -m radar.healthcheck

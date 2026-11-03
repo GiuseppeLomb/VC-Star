@@ -39,3 +39,38 @@ def test_at_most_ten_pushes_with_summary():
 def test_exactly_ten_has_no_summary():
     msgs = plan_messages([(it("OFICIAL", ["rp"], i=str(n)), 4) for n in range(10)], 10)
     assert len(msgs) == 10 and all(len(m.item_ids) == 1 for m in msgs)
+
+
+def test_discord_webhook_receives_urgent_alert_with_here_mention():
+    import httpx
+    from radar.notify import Notifier
+    posts = []
+
+    def handler(req):
+        import json
+        posts.append((str(req.url), json.loads(req.content)))
+        return httpx.Response(204)
+
+    n = Notifier(topic=None, discord_webhook="https://discord.com/api/webhooks/1/abc",
+                 client=httpx.Client(transport=httpx.MockTransport(handler)))
+    assert n.enabled
+    msg = plan_messages([(it("OFICIAL", ["servidores"], title="Private servers", i="a"), 5)])[0]
+    assert n.send(msg) is True
+    url, body = posts[0]
+    assert url.startswith("https://discord.com/api/webhooks/")
+    assert body["content"].startswith("@here") and body["allowed_mentions"] == {"parse": ["everyone"]}
+    assert body["embeds"][0]["url"] == "https://e.com/a" and body["embeds"][0]["color"] == 0xFF2BD6
+
+
+def test_discord_non_urgent_has_no_mention():
+    import httpx
+    from radar.notify import Notifier
+    bodies = []
+    n = Notifier(topic="t", discord_webhook="https://discord.com/api/webhooks/1/abc",
+                 client=httpx.Client(transport=httpx.MockTransport(
+                     lambda req: bodies.append(req.content) or httpx.Response(200))))
+    n.send(plan_messages([(it("CREDIVEL", ["rp"], score=80, i="b"), 3)])[0])
+    import json
+    discord = [json.loads(b) for b in bodies if b"embeds" in b][0]
+    assert discord["content"] is None and discord["allowed_mentions"] == {"parse": []}
+    assert len(bodies) == 2  # ntfy + discord

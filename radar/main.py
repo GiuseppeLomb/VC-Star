@@ -126,7 +126,7 @@ def run(root: Path = ROOT, *, dry_run: bool = False,
             sent += _bootstrap(notifier, len(selected), seen)
     elif not notifier.enabled:
         waiting = sum(1 for v in seen["items"].values() if v.get("pending"))
-        note = f"NTFY_TOPIC não definido: {waiting} push(es) em espera."
+        note = f"Sem canal de push (NTFY_TOPIC / DISCORD_WEBHOOK_RADAR): {waiting} push(es) em espera."
     elif not seen.get("push_ready"):
         for v in seen["items"].values():
             v["pending"] = False
