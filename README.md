@@ -1,10 +1,15 @@
-# GTA6 RP Radar 📡 — Vice City Star
+# VC STAR ⭐ — app privada da staff
 
-![Vice City Star](docs/icons/banner-wide.jpg)
+![VC STAR](docs/icons/banner-wide.jpg)
 
-App pessoal que **apanha automaticamente as notícias sobre GTA 6**, sobretudo sobre **RP, servidores privados,
-FiveM/Cfx.re e ferramentas de criadores**. Junta tudo num só sítio, etiqueta cada notícia pela origem e manda
-**push para o telemóvel** quando sai algo importante.
+App **privada** da staff do servidor de GTA 6 RP **VC STAR** (só para uso interno, não é pública).
+
+**Módulos:**
+- 📡 **Radar** — apanha automaticamente as notícias sobre GTA 6, sobretudo sobre **RP, servidores privados,
+  FiveM/Cfx.re e ferramentas de criadores**, etiqueta-as pela origem e manda **push** (telemóvel e Discord)
+  quando sai algo importante.
+- 🤖 **Discord como código** — a estrutura completa do Discord (cargos, categorias, canais, permissões) vive em
+  `discord_setup/server.yml` e é construída com um clique.
 
 > Projeto de fã, não afiliado à Rockstar Games nem à Take-Two.
 
@@ -62,13 +67,19 @@ GitHub Actions (manual / tag v*) → APK Android (Capacitor) → GitHub Release
 3. **GitHub Pages:** *Settings → Pages → Source: Deploy from a branch → `main` / `/docs` → Save*.
 4. **1.ª recolha:** *Actions → «Radar — recolha» → Run workflow*. Deves receber «✅ Radar ativo».
 5. **APK (opcional):** *Actions → «APK Android» → Run workflow* (versão, ex.: `1.0`). O ficheiro
-   `GTA6-RP-Radar-v1.0.apk` aparece em *Releases*.
+   `VC-STAR-v1.0.apk` aparece em *Releases*.
 
 ### Receber os pushes no telemóvel
 
 Instala a app **ntfy** (Play Store / F-Droid) → **+** → cola o nome do tópico → *Subscribe*.
 Para alertas urgentes mesmo em «Não incomodar», ativa nas definições do tópico a opção de
 ignorar o «Não incomodar» para prioridade máxima.
+
+### Alertas no Discord (#radar-gta6)
+
+No Discord: canal **#radar-gta6** → ⚙️ Editar canal → **Integrações** → **Webhooks** → **Novo webhook** →
+**Copiar URL do webhook**. Guarda-o no GitHub como Secret `DISCORD_WEBHOOK_RADAR`. A partir daí os mesmos
+alertas do ntfy aparecem no canal (os 🚨 urgentes com `@here`).
 
 ### Telegram (opcional, desligado por defeito)
 
@@ -152,6 +163,22 @@ Uma fonte que falhe nunca pára as outras.
 - **Repos públicos com cron** ficam desativados ao fim de 60 dias sem atividade. Os commits automáticos do radar evitam isso. Se um dia parar, vai a *Actions* e reativa o workflow.
 - **Direitos de autor:** guardamos só título, fonte, data, um excerto (máx. 280 caracteres) e o link para o original.
 - **APK sem chave fixa:** cada build usa uma chave de debug nova, por isso tens de desinstalar a versão anterior antes de instalar a nova. Para evitar isso, guarda uma keystore em base64 no Secret `ANDROID_DEBUG_KEYSTORE_B64`.
+
+---
+
+## Discord como código
+
+1. Cria o servidor no Discord (vazio) e um bot em https://discord.com/developers/applications
+   (*New Application* → *Bot* → *Reset Token* → copia o token).
+2. Convida o bot com permissão **Administrador** (*OAuth2 → URL Generator* → `bot` → `Administrator`).
+3. No Discord: *Definições do servidor → Cargos* → arrasta o cargo do bot para o **topo**.
+4. Secrets no GitHub: `DISCORD_BOT_TOKEN` (o token) e `DISCORD_GUILD_ID` (botão direito no servidor →
+   *Copiar ID do servidor*, com o Modo de programador ligado).
+5. *Actions → «Discord — construir servidor»*: corre com `dry-run` (vê o que vai mudar) e depois `apply`.
+
+Para mudar o Discord, edita `discord_setup/server.yml` e volta a correr. O construtor cria o que falta e corrige
+permissões, mas **nunca apaga nada**: o que sobrar é só listado. Pré-visualização sem Discord:
+`python -m discord_setup.build --plan`.
 
 ---
 
