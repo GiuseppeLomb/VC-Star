@@ -1,0 +1,99 @@
+name: APK Android
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Versão (ex.: 1.0)"
+        required: true
+        default: "1.0"
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Versão
+        id: ver
+        env:
+          INPUT_VERSION: ${{ inputs.version }}
+        run: |
+          if [ "$GITHUB_REF_TYPE" = "tag" ]; then V="${GITHUB_REF_NAME#v}"; else V="$INPUT_VERSION"; fi
+          if ! printf '%s' "$V" | grep -Eq '^[0-9]+(\.[0-9]+){1,2}$'; then echo "Versão inválida: $V"; exit 1; fi
+          echo "version=$V" >> "$GITHUB_OUTPUT"
+
+      - name: Dependências Capacitor
+        run: npm ci
+
+      - name: Gerar projeto Android (se não existir)
+        run: |
+          if [ ! -d android ]; then npx cap add android; fi
+          pip install pillow
+          python scripts/android_icons.py android docs/icons/icon-512.png
+          npx cap sync android
+
+      - name: Versão no Gradle
+        env:
+          V: ${{ steps.ver.outputs.version }}
+        run: |
+          sed -i -E "s/versionCode [0-9]+/versionCode ${GITHUB_RUN_NUMBER}/; s/versionName \"[^\"]*\"/versionName \"${V}\"/" android/app/build.gradle
+          grep -E "versionCode|versionName" android/app/build.gradle
+
+      - name: Chave de assinatura fixa (opcional)
+        # Se existir o Secret ANDROID_DEBUG_KEYSTORE_B64, todas as versões usam a mesma
+        # chave e instalam por cima da anterior. Sem ele, desinstala antes de atualizar.
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_DEBUG_KEYSTORE_B64 }}
+        run: |
+          if [ -n "$KEYSTORE_B64" ]; then
+            mkdir -p ~/.android && printf '%s' "$KEYSTORE_B64" | base64 -d > ~/.android/debug.keystore
+            echo "A usar keystore do Secret."
+          else
+            echo "Sem keystore fixa: será usada uma chave de debug nova."
+          fi
+
+      - name: Compilar APK (debug)
+        working-directory: android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon --stacktrace
+
+      - name: Publicar GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          V: ${{ steps.ver.outputs.version }}
+        run: |
+          FILE="GTA6-RP-Radar-v${V}.apk"
+          cp android/app/build/outputs/apk/debug/app-debug.apk "$FILE"
+          ls -la "$FILE"
+          NOTES="APK Android do GTA6 RP Radar (debug, para uso próprio). Lê as notícias do GitHub Pages, por isso está sempre atualizado. Projeto de fã, não afiliado à Rockstar Games nem à Take-Two."
+          if gh release view "v${V}" >/dev/null 2>&1; then
+            gh release upload "v${V}" "$FILE" --clobber
+          else
+            gh release create "v${V}" "$FILE" --title "GTA6 RP Radar v${V}" --notes "$NOTES" --target "$GITHUB_SHA"
+          fi
