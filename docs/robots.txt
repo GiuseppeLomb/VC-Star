@@ -1,0 +1,3 @@
+# App privada da equipa Vice City Star: não indexar.
+User-agent: *
+Disallow: /
