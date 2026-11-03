@@ -1,8 +1,8 @@
 /* Service worker: app shell cached; data/*.json network-first with cache fallback. */
-var VERSION = 'radar-v1';
+var VERSION = 'radar-v2';
 var SHELL = [
   './', './index.html', './style.css', './app.js', './manifest.webmanifest',
-  './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png'
+  './icons/logo-emblem.png', './icons/favicon-48.png', './icons/icon-192.png'
 ];
 
 self.addEventListener('install', function (event) {

@@ -1,4 +1,6 @@
-# GTA6 RP Radar 📡
+# GTA6 RP Radar 📡 — Vice City Star
+
+![Vice City Star](docs/icons/banner-wide.jpg)
 
 App pessoal que **apanha automaticamente as notícias sobre GTA 6**, sobretudo sobre **RP, servidores privados,
 FiveM/Cfx.re e ferramentas de criadores**. Junta tudo num só sítio, etiqueta cada notícia pela origem e manda
@@ -139,6 +141,14 @@ Uma fonte que falhe nunca pára as outras.
 
 ---
 
+## Marca (logo Vice City Star)
+
+A arte original está em `/brand`. Para mudar o logo, substitui os ficheiros mantendo os nomes e corre
+`python scripts/brand_assets.py`: ícones da PWA, favicon, emblema da barra de topo e banner do «Sobre» são
+regenerados. O APK usa a mesma arte (ícone + splash vertical/horizontal) em cada build.
+
+---
+
 ## Para programadores
 
 ```bash
@@ -155,6 +165,7 @@ radar/              fetch.py sources.py classify.py dedup.py notify.py store.py 
 config/             sources.yml · keywords.yml · credible.yml
 data/seen.json      estado: ids vistos (30 dias), pushes pendentes, cache de descobertas
 docs/               PWA (index.html, app.js, style.css, sw.js, manifest) + data/news.json + data/health.json
-scripts/            android_icons.py (ícones/splash do APK)
+scripts/            brand_assets.py (ícones, logo e banner a partir de /brand) · android_icons.py (ícone e splash do APK)
+brand/              arte original Vice City Star (quadrada, vertical, larga)
 tests/              pytest
 ```

@@ -54,7 +54,7 @@ jobs:
         run: |
           if [ ! -d android ]; then npx cap add android; fi
           pip install pillow
-          python scripts/android_icons.py android docs/icons/icon-512.png
+          python scripts/android_icons.py android
           npx cap sync android
 
       - name: Versão no Gradle
