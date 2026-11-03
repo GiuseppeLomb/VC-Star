@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>GTA6 RP Radar</title>
+  <meta name="description" content="Radar pessoal de notícias sobre GTA 6, RP, servidores privados e FiveM. Projeto de fã, não afiliado à Rockstar Games nem à Take-Two.">
+  <meta name="theme-color" content="#0b0418">
+  <meta name="color-scheme" content="dark">
+  <meta name="radar-remote" content="https://giuseppelomb.github.io/VC-Star/">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="GTA6 RP Radar — início">
+      <img src="icons/icon.svg" alt="" width="34" height="34">
+      <span class="brand-text">GTA6 <em>RP</em> Radar</span>
+    </a>
+    <button class="status" id="status" type="button" title="Estado das fontes">
+      <span class="dot" id="status-dot" aria-hidden="true"></span>
+      <span id="updated">a carregar…</span>
+    </button>
+    <a class="about-link" href="#sobre" id="about-link">Sobre</a>
+  </header>
+
+  <main id="view-list">
+    <nav class="chips" id="chips" aria-label="Filtros">
+      <button type="button" data-filter="all">Tudo</button>
+      <button type="button" data-filter="rp">Só RP/Servidores</button>
+      <button type="button" data-filter="oficial">Oficial</button>
+      <button type="button" data-filter="credivel">Credível</button>
+      <button type="button" data-filter="rumor">Rumores</button>
+      <button type="button" data-filter="pt">PT</button>
+    </nav>
+
+    <div class="search">
+      <input type="search" id="q" placeholder="Pesquisar título, fonte, domínio…" autocomplete="off" aria-label="Pesquisar">
+    </div>
+
+    <p class="summary" id="summary" aria-live="polite"></p>
+    <section id="pinned" class="pinned" hidden aria-label="Oficiais sobre RP/Online"></section>
+    <section id="list" class="list" aria-label="Notícias"></section>
+    <button type="button" class="more" id="more" hidden>Mostrar mais</button>
+  </main>
+
+  <main id="view-about" hidden>
+    <a class="back" href="#">← Voltar às notícias</a>
+    <h1>Sobre o Radar</h1>
+    <p>O <strong>GTA6 RP Radar</strong> junta automaticamente, de 10 em 10 minutos, notícias sobre GTA 6
+      e sobretudo sobre <strong>RP, servidores privados, FiveM/Cfx.re e ferramentas de criadores</strong>.</p>
+
+    <h2>Etiquetas</h2>
+    <ul class="legend">
+      <li><span class="badge oficial">🟢 OFICIAL</span> Rockstar, Take-Two, equipa Cfx.re, canal oficial no YouTube, PlayStation Blog / Xbox Wire sobre GTA.</li>
+      <li><span class="badge credivel">🟡 CREDÍVEL</span> Sites com historial sério ou insiders conhecidos.</li>
+      <li><span class="badge rumor">⚪ RUMOR</span> Tudo o resto.</li>
+    </ul>
+    <p class="note">A etiqueta diz <strong>de onde veio</strong> a notícia, não se é verdade.</p>
+
+    <h2>Notificações no telemóvel</h2>
+    <ol>
+      <li>Instala a app <strong>ntfy</strong> (Play Store ou F-Droid).</li>
+      <li>Toca em <strong>+</strong> e cola o nome do tópico privado (está no relatório de instalação; não aparece aqui de propósito).</li>
+      <li>Pronto: 🚨 prioridade máxima para anúncios oficiais sobre RP/Online/servidores/criadores.</li>
+    </ol>
+
+    <h2>Fontes</h2>
+    <div class="sources" id="sources"><p class="muted">A carregar estado das fontes…</p></div>
+
+    <h2>Limitações</h2>
+    <ul>
+      <li>O X/Twitter não é legível de graça. Os posts oficiais chegam pelo Newswire, YouTube e Google News, com alguns minutos de atraso.</li>
+      <li>Os anúncios no Discord (Cfx.re, NoPixel) não são acessíveis sem um bot dentro do servidor.</li>
+      <li>O cron do GitHub pode atrasar 5–15 min em horas de pico.</li>
+      <li>Guardamos só título, fonte, data, um excerto curto e o link para o original.</li>
+    </ul>
+  </main>
+
+  <footer class="footer">
+    Projeto de fã, não afiliado à Rockstar Games nem à Take-Two.
+  </footer>
+
+  <template id="card-tpl">
+    <article class="card">
+      <div class="card-meta">
+        <span class="badge"></span>
+        <span class="source"></span>
+        <time></time>
+        <span class="new-flag" hidden>NOVO</span>
+      </div>
+      <h2 class="card-title"><a target="_blank" rel="noopener noreferrer"></a></h2>
+      <p class="excerpt"></p>
+      <div class="topics"></div>
+      <p class="also" hidden></p>
+      <a class="open" target="_blank" rel="noopener noreferrer">Abrir original ↗</a>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
