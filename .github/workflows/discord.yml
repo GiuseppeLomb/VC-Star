@@ -1,0 +1,48 @@
+name: Discord — construir servidor
+
+# Constrói/atualiza o Discord VC STAR a partir de discord_setup/server.yml.
+#   plan    -> sem Discord: mostra o que seria criado num servidor vazio
+#   dry-run -> lê o servidor real e mostra as diferenças (não altera nada)
+#   apply   -> aplica as alterações (nunca apaga nada)
+# Secrets necessários (dry-run/apply): DISCORD_BOT_TOKEN, DISCORD_GUILD_ID
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Modo"
+        type: choice
+        options: [plan, dry-run, apply]
+        default: dry-run
+
+permissions:
+  contents: read
+
+concurrency:
+  group: discord
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Construir Discord (${{ inputs.mode }})
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+          MODE: ${{ inputs.mode }}
+        run: |
+          case "$MODE" in
+            plan)    python -m discord_setup.build --plan ;;
+            dry-run) python -m discord_setup.build --dry-run ;;
+            apply)   python -m discord_setup.build ;;
+          esac

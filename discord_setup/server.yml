@@ -1,0 +1,210 @@
+# =====================================================================
+#  Discord VC STAR — estrutura do servidor ("Discord como código")
+#
+#  Este ficheiro é a fonte de verdade. Para mudar o Discord:
+#    1. edita aqui (no GitHub, ícone do lápis)
+#    2. Actions → "Discord — construir servidor" → Run workflow
+#       (primeiro com "dry-run" para ver as diferenças, depois "apply")
+#
+#  Regras do construtor:
+#    - cria o que falta e corrige permissões/tópicos/ordem do que existe;
+#    - encontra cargos e canais pelo NOME (mudar um nome aqui cria um novo);
+#    - NUNCA apaga nada: o que existir no Discord e não estiver aqui é só listado.
+#
+#  Permissões dos canais:
+#    visible_to: quem vê   |   write: quem escreve/fala
+#    Podes usar chaves de cargos, grupos (abaixo) ou "everyone".
+#    Um canal herda da categoria, a não ser que tenha visible_to/write próprios.
+# =====================================================================
+
+server:
+  name: VC STAR
+
+# ---------------------------------------------------------------------
+# Cargos — do mais poderoso (topo) para o menos poderoso.
+# permissions: lista de nomes (ver PERMISSIONS em build.py).
+# ---------------------------------------------------------------------
+roles:
+  # --- Staff -----------------------------------------------------------
+  - key: fundador
+    name: "👑 Fundador"
+    color: "#ffb52e"
+    hoist: true
+    permissions: [administrator]
+  - key: direcao
+    name: "💼 Direção"
+    color: "#ff2bd6"
+    hoist: true
+    permissions: [manage_guild, manage_roles, manage_channels, manage_webhooks, manage_events,
+                  view_audit_log, kick_members, ban_members, moderate_members, manage_messages,
+                  manage_threads, manage_nicknames, mention_everyone, move_members, mute_members]
+  - key: dev
+    name: "🛠️ Desenvolvimento"
+    color: "#19e3ff"
+    hoist: true
+    permissions: [manage_webhooks, view_audit_log, manage_messages, manage_threads]
+  - key: financeiro
+    name: "💰 Financeiro"
+    color: "#3dffa0"
+    hoist: true
+    permissions: [view_audit_log]
+  - key: admin
+    name: "🛡️ Admin"
+    color: "#8b5cf6"
+    hoist: true
+    permissions: [kick_members, ban_members, moderate_members, manage_messages, manage_threads,
+                  manage_nicknames, view_audit_log, move_members, mute_members, deafen_members,
+                  manage_events, mention_everyone]
+  - key: moderador
+    name: "🔨 Moderador"
+    color: "#ff4f9a"
+    hoist: true
+    permissions: [moderate_members, kick_members, manage_messages, manage_threads, manage_nicknames,
+                  view_audit_log, move_members, mute_members]
+  - key: suporte
+    name: "🎧 Suporte"
+    color: "#ffd84d"
+    hoist: true
+    permissions: [manage_threads, move_members]
+  - key: staff
+    name: "⭐ Staff"            # cargo base que TODA a staff tem (dá acesso às áreas de staff)
+    color: "#a798c6"
+    permissions: []
+  # --- Comunidade ------------------------------------------------------
+  - key: criador
+    name: "🎥 Criador de Conteúdo"
+    color: "#9146ff"
+    hoist: true
+  - key: apoiante
+    name: "💎 Apoiante"         # vantagens só cosméticas (ver regras de monetização da Rockstar)
+    color: "#e879f9"
+    hoist: true
+  - key: cidadao
+    name: "🏙️ Cidadão"          # whitelist aprovada: pode jogar
+    color: "#f5eeff"
+    hoist: true
+  - key: em_analise
+    name: "⏳ Whitelist pendente"
+    color: "#c9c3d9"
+  - key: membro
+    name: "👤 Membro"           # entrou no Discord e aceitou as regras
+    color: "#6d6585"
+  - key: bots
+    name: "🤖 Bots"
+    color: "#57f287"
+    permissions: [view_audit_log, manage_messages, manage_webhooks]
+
+# ---------------------------------------------------------------------
+# Grupos (atalhos para usar em visible_to / write)
+# ---------------------------------------------------------------------
+groups:
+  gestao: [fundador, direcao]
+  equipa: [fundador, direcao, dev, financeiro, admin, moderador, suporte, staff]   # toda a staff
+  moderacao: [fundador, direcao, admin, moderador]
+  jogadores: [cidadao, apoiante, criador, fundador, direcao, dev, financeiro, admin, moderador, suporte, staff]
+  comunidade: [membro, em_analise, cidadao, apoiante, criador,
+               fundador, direcao, dev, financeiro, admin, moderador, suporte, staff]
+
+# ---------------------------------------------------------------------
+# Categorias e canais (pela ordem em que aparecem no Discord)
+# type: text (por defeito) | voice
+# ---------------------------------------------------------------------
+categories:
+  - name: "📢 INFORMAÇÃO"
+    visible_to: [everyone]
+    write: [gestao]
+    channels:
+      - {name: bem-vindo, topic: "Bem-vindo à VC STAR — o servidor de GTA 6 RP mais personalizável de Portugal."}
+      - {name: regras, topic: "Regras do Discord e do servidor. Ler antes de tudo."}
+      - {name: anúncios, topic: "Anúncios oficiais da VC STAR."}
+      - {name: como-entrar, topic: "Passo a passo para a whitelist."}
+      - {name: changelog, topic: "Atualizações do servidor."}
+
+  - name: "💬 COMUNIDADE"
+    visible_to: [comunidade]
+    write: [comunidade]
+    channels:
+      - {name: geral}
+      - {name: media, topic: "Clips e screenshots."}
+      - {name: sugestões, topic: "Ideias para o servidor."}
+      - {name: procura-grupo}
+      - {name: off-topic}
+      - {name: "🔊 Geral", type: voice}
+      - {name: "🔊 Chill", type: voice}
+
+  - name: "✅ WHITELIST"
+    visible_to: [membro, em_analise, equipa]
+    write: [membro, em_analise, equipa]
+    channels:
+      - {name: candidaturas, topic: "Envia aqui a tua candidatura (modelo em #como-entrar)."}
+      - {name: dúvidas-whitelist}
+      - {name: "🔊 Sala de espera", type: voice}
+      - {name: "🔊 Entrevista", type: voice, visible_to: [em_analise, equipa], write: [em_analise, equipa]}
+
+  - name: "🎭 ROLEPLAY"
+    visible_to: [jogadores]
+    write: [jogadores]
+    channels:
+      - {name: anúncios-rp, topic: "Anúncios dentro da cidade.", write: [equipa]}
+      - {name: eventos}
+      - {name: empresas}
+      - {name: fações}
+      - {name: classificados}
+      - {name: "🔊 Em jogo 1", type: voice}
+      - {name: "🔊 Em jogo 2", type: voice}
+
+  - name: "🆘 SUPORTE"
+    visible_to: [comunidade]
+    write: [comunidade]
+    channels:
+      - {name: ajuda}
+      - {name: reportar-bug}
+      - {name: "🔊 Suporte", type: voice}
+
+  - name: "💎 APOIANTES"
+    visible_to: [apoiante, criador, equipa]
+    write: [apoiante, criador, equipa]
+    channels:
+      - {name: lounge}
+
+  - name: "🔒 STAFF"
+    visible_to: [equipa, bots]
+    write: [equipa]
+    channels:
+      - {name: staff-geral}
+      - {name: staff-avisos, write: [gestao]}
+      - {name: radar-gta6, topic: "Notícias automáticas do VC STAR Radar (oficial/credível sobre GTA 6 RP).", write: [gestao, bots]}
+      - {name: denúncias}
+      - {name: logs, write: [bots]}
+      - {name: "🔊 Reunião Staff", type: voice}
+
+  - name: "💼 DIREÇÃO"
+    visible_to: [gestao, financeiro]
+    write: [gestao, financeiro]
+    channels:
+      - {name: direção}
+      - {name: financeiro, topic: "Custos, receitas e monetização."}
+      - {name: parcerias}
+      - {name: "🔊 Reunião Direção", type: voice}
+
+  - name: "🛠️ DESENVOLVIMENTO"
+    visible_to: [dev, gestao, bots]
+    write: [dev, gestao]
+    channels:
+      - {name: dev-geral}
+      - {name: ideias-servidor}
+      - {name: bugs-internos}
+      - {name: github, topic: "Commits e deploys automáticos.", write: [bots]}
+      - {name: "🔊 Dev", type: voice}
+
+# ---------------------------------------------------------------------
+# Membros da staff → cargos (opcional).
+# ID do Discord: Definições → Avançado → Modo de programador (ligar);
+# depois botão direito no nome da pessoa → "Copiar ID de utilizador".
+# Tira o "#" da linha e cola o ID entre aspas.
+# ---------------------------------------------------------------------
+members:
+#  "000000000000000000": [fundador, direcao, staff]     # Perez — CEO
+#  "000000000000000000": [direcao, financeiro, staff]   # Telmo — Financiamento
+#  "000000000000000000": [direcao, dev, staff]          # Giuseppe — Construção do servidor
+#  "000000000000000000": [moderador, staff]             # Dantas — Moderação do Discord

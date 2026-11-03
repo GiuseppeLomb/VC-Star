@@ -6,6 +6,7 @@ on:
       - "radar/**"
       - "tests/**"
       - "config/**"
+      - "discord_setup/**"
       - "requirements.txt"
       - ".github/workflows/tests.yml"
   pull_request:
