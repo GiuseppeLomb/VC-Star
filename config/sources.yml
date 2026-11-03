@@ -211,5 +211,5 @@ sources:
     relevance: gta6
     max_items: 100
     retries: 2
-    start_delay: 40
+    start_delay: 75
     enabled: true
