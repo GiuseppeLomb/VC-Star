@@ -88,12 +88,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           V: ${{ steps.ver.outputs.version }}
         run: |
-          FILE="GTA6-RP-Radar-v${V}.apk"
+          FILE="VC-STAR-v${V}.apk"
           cp android/app/build/outputs/apk/debug/app-debug.apk "$FILE"
           ls -la "$FILE"
-          NOTES="APK Android do GTA6 RP Radar (debug, para uso próprio). Lê as notícias do GitHub Pages, por isso está sempre atualizado. Projeto de fã, não afiliado à Rockstar Games nem à Take-Two."
+          NOTES="APK Android do VC STAR (debug, uso privado da staff). Lê as notícias do GitHub Pages, por isso está sempre atualizado. Projeto de fã, não afiliado à Rockstar Games nem à Take-Two."
           if gh release view "v${V}" >/dev/null 2>&1; then
             gh release upload "v${V}" "$FILE" --clobber
           else
-            gh release create "v${V}" "$FILE" --title "GTA6 RP Radar v${V}" --notes "$NOTES" --target "$GITHUB_SHA"
+            gh release create "v${V}" "$FILE" --title "VC STAR v${V}" --notes "$NOTES" --target "$GITHUB_SHA"
           fi

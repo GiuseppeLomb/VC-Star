@@ -1,7 +1,7 @@
 {
-  "name": "GTA6 RP Radar",
-  "short_name": "RP Radar",
-  "description": "Vice City Star — radar pessoal de notícias sobre GTA 6 RP, servidores privados e FiveM. Projeto de fã.",
+  "name": "VC STAR",
+  "short_name": "VC STAR",
+  "description": "VC STAR — app privada da staff: radar de notícias sobre GTA 6 RP, servidores privados e FiveM. Projeto de fã.",
   "lang": "pt-PT",
   "start_url": "./",
   "scope": "./",
@@ -10,8 +10,23 @@
   "background_color": "#07020f",
   "theme_color": "#1a0a2e",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }

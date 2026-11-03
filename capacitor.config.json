@@ -1,6 +1,6 @@
 {
-  "appId": "io.github.giuseppelomb.gta6rpradar",
-  "appName": "GTA6 RP Radar",
+  "appId": "io.github.giuseppelomb.vcstar",
+  "appName": "VC STAR",
   "webDir": "docs",
   "server": {
     "androidScheme": "https"
