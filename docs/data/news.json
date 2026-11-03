@@ -1,7 +1,26 @@
 {
- "generated_at": "2026-11-03T19:40:10Z",
- "count": 285,
+ "generated_at": "2026-11-03T19:45:16Z",
+ "count": 209,
  "items": [
+  {
+   "id": "a73f556406de395606bc95a2516b69fcd87756c5",
+   "title": "Micael in GTA VI",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn0kh2/micael_in_gta_vi",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-03T18:16:18Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "I've been watching all the media releases and looking for the three birds or three bullet holes and then seeing Michael's boat in a trailer and all the appearances of Ned Luke wearing the Vice City GTA VI shirt and now I am positive he is the third protagonist! I've been saying…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f",
    "title": "Rockstar confirma 212 GB e pré-carga de GTA 6",
@@ -16,7 +35,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "2bcd33946a9fd36c4f9b447c07902fb70e80ca5a",
@@ -32,7 +52,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "778877557784456335eba7618277d15f930cd8be",
@@ -48,7 +69,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "30f835a61dae8a9cf5da63c8c0602ce22aab6b01",
@@ -67,7 +89,8 @@
    "also_on": [
     "support.rockstargames.com",
     "blog.playstation.com"
-   ]
+   ],
+   "priority": 4
   },
   {
    "id": "770c93cc553ef9568faa5accc2bdd597b2489423",
@@ -85,7 +108,25 @@
    ],
    "score": 10,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "2ae5d3bd388447bebda19d0517de3949a98a1b91",
+   "title": "GTA 6 fan dies just 21 days before game release he longed to see",
+   "url": "https://uz.kursiv.media/en/2026-11-03/gta-6-fan-died",
+   "source_id": "bing_online",
+   "source_name": "Bing News — GTA 6 Online",
+   "domain": "uz.kursiv.media",
+   "published": "2026-11-03T08:57:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "A 25-year-old GTA 6 fan has died weeks before the game's planned launch. His story inspired thousands to donate over $96,000 towards medical expenses.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "92fbfc973a34df2057de0f10b8b669e860fd88e4",
@@ -101,7 +142,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "de638622d7043e4be59258682af1df2339eaa88b",
@@ -117,42 +159,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "02cd95ceb7f67c0c482d88e28cf1489bc1d0e4b2",
-   "title": "GTA 6 Online Release Date: 2027 Report Points to a Longer Wait",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGVjb3dQV0toQ2xEQnUzb1dsTzEzY19mODhtMjVZMHNMenlWY0h0WHVzckVXMlJUeDk5TTkyaXZvV0FiQ3ZrbnEwb2dZalRzWHBoTzY0aTNoVDlFVHY3dHRJX1lJNENmTUZuQTlHUE15R0V1MVdhMnd6ZEdHMFI1NGhOc0hGaWRIVFdFVG9SMmVtWXh0YzVZZGt3",
-   "source_id": "gnews_online",
-   "source_name": "MMOEXP",
-   "domain": "mmoexp.com",
-   "published": "2026-11-03T05:14:18Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online",
-    "data"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "b5327c1d0c316490f3a3be2c3f078c86aab275e7",
-   "title": "Grand Theft Auto VI: Original Score by Justice - Triple Black Vinyl",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS25uU09JRHpVRFRqdUNuR1Bnd3l4RFE5VHNBblFiUThBSWQtZXhNVkdnX1FXWjNOeDBwNlhHRUFMUTZXUmN1RndzcHFNSm4zSExlT3VfZ01YdDZfUGJRaGE2bTJieXRyb3k5aDYzYmIxV1lFSG11cUdaYXFZdy12ZEZYQklEZHk3dXkwOHQ4QkFwOTNUS2hfLUFaVTgyeHlS",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2026-11-02T15:38:49Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "cdb28593279cfc902ebf0b080898c8fff219ef6d",
@@ -168,7 +176,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c30a62fd2d6cc899061a679fb2d582831f4ba552",
@@ -184,7 +193,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c581318b41cfcc224aaabd3d71e06688d4e2904f",
@@ -200,7 +210,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "984c3e6d22f972a792120652511e07b831331e6c",
@@ -216,7 +227,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "18a4604db5991fadb5c04b0363ec559deeb7620e",
@@ -234,7 +246,8 @@
    ],
    "score": 10,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5bfbc5eb550c908065fe91527e7c768b4d8a1dea",
@@ -250,7 +263,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5056eef36b2ce3b4c8915a1f827b69e88d5a5a18",
@@ -266,23 +280,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "692afd185444910a8bf15f7b4a4644644293d716",
-   "title": "Order support",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fNjdIMkxWcjhmRWp4QjBnaFNXYWJ1QnRrdlJ4STJZMDktM0t4QU10SDN6SGQ5WEl4bmpCSGZDR3RHeWlPY210VUJBUksyaTNoTXNFX1ZVOUQtWm0zSThFWGw5elp2bS1iV1owUEljYWpHdW5OU3F6M3N3",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2026-10-31T15:01:12Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "77237ca4f461b2153bb0ffe4e1581c9256d7d2a4",
@@ -298,7 +297,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5616af0df640bdb1655c32a820e24fe961786f10",
@@ -314,7 +314,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "241a9349380fb6cf5265df50b3769bd0ce99dd0c",
@@ -330,7 +331,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "125b83ff88524b252ad2872ec726c2fccdbc88cf",
@@ -348,23 +350,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "63041fae4739668d1904ecf73568e58772d2314c",
-   "title": "GTA 6 Story Lets Players Keep or Lose Jason and Lucia’s Relationship",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1hqaFVlc1lnTzNHWTRiZWdKX05WX253MjhEaXFHZTI4U2NfZ1ZvMjZJbElVNVlkSzBta2ljaTgwUnhTcGl3ei1wWjFPQk1sRkRwSjI2c1QzanNyMlVIMjhWeFhVQ2RYTHVwUWgwSVRuazRqOVdEc25nazlJa01ITmtTeGxaU05DRlJLVzBoZGZrUlJoa2c0SU9aMWo2NUR0eGU1a3dB",
-   "source_id": "gnews_rp",
-   "source_name": "Shane the Gamer",
-   "domain": "shanethegamer.com",
-   "published": "2026-10-30T11:24:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 5
   },
   {
    "id": "ccebcc6d77def2688a89421209237f4751f7db5c",
@@ -380,7 +367,42 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
+  },
+  {
+   "id": "a3fc4137bb2560a1fa7549a053cfa228875731fc",
+   "title": "GTA 6 Story Lets Players Keep or Lose Jason and Lucia’s Relationship",
+   "url": "https://www.shanethegamer.com/news/gta-6-story-lets-players-keep-or-lose-jason-and-lucias-relationship",
+   "source_id": "bing_rp",
+   "source_name": "Bing News — GTA 6 roleplay",
+   "domain": "shanethegamer.com",
+   "published": "2026-10-30T04:24:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "The GTA 6 story opens with Jason Duval and Lucia Caminos giving their relationship another try, and whether it survives is ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "8d040f38c6ffc1a19a9401f3e8fb087c61841efc",
+   "title": "GTA Online Gets Halloween Weather Ahead Of GTA 6, Here’s How To Turn It Off",
+   "url": "https://rockstarintel.com/gta-online-gets-halloween-weather-ahead-of-gta-6-heres-how-to-turn-it-off",
+   "source_id": "bing_online",
+   "source_name": "Bing News — GTA 6 Online",
+   "domain": "rockstarintel.com",
+   "published": "2026-10-30T04:12:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "Rockstar Games have brought back the Halloween weather once again to GTA Online. We'll be sharing all of the details you need to know including how to disable it.",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "2b930c4aa6f5e894fce2dc5dc4bf0aba03edb242",
@@ -396,7 +418,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "792b8e473cfdfc5123312b6c8cdb5adff613bb36",
@@ -412,27 +435,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "ec4c4e39d0b1dfbfb8fb40fbbad1afbc6f32804f",
-   "title": "GTA 6 ‘Roleplay’ Depth Outlined: ‘You Can Have Your Life In The Game’",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkdaYXJ3T21iVHpiMXRadlBMX2tNWHFHd3hHc0hjcHhieEszbFlpbmdmbVI4d3VIVU9uSEV3M0VhV3RpVTdGeGVFV2NYWFFDdzNSMnBSYzBHX2FyY2JKYi1DYmI5b3dPZzEzRERoeXU0ckFMMjlMci1tRThMcXluMWc0cTNCWW4xX2YtRlRMT0JlTlI0c0xr",
-   "source_id": "gnews_rp",
-   "source_name": "Insider Gaming",
-   "domain": "insider-gaming.com",
-   "published": "2026-10-29T13:09:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "rp"
-   ],
-   "score": 48,
-   "lang": "en",
-   "also_on": [
-    "tweaktown.com"
-   ]
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "0f41e27ab05656823e40a0a54d56aecc509734be",
@@ -448,7 +452,29 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
+  },
+  {
+   "id": "bdb651485336c37399d6c6228bb05c514d0749b6",
+   "title": "GTA 6 ‘Roleplay’ Depth Outlined: ‘You Can Have Your Life In The Game’",
+   "url": "https://insider-gaming.com/gta-6-roleplay-depth-outlined-you-can-have-your-life-in-the-game",
+   "source_id": "bing_rp",
+   "source_name": "Bing News — GTA 6 roleplay",
+   "domain": "insider-gaming.com",
+   "published": "2026-10-29T06:09:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "Whilst plenty of fans will be cruising through Grand Theft Auto 6's campaign, many will want the chance to simply live in its open world.",
+   "tag": "CREDIVEL",
+   "topics": [
+    "rp"
+   ],
+   "score": 48,
+   "lang": "en",
+   "also_on": [
+    "tweaktown.com"
+   ],
+   "priority": null
   },
   {
    "id": "5685853961434147257d587833a9c8634095c3ca",
@@ -464,7 +490,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "98918f1e4023d9765b9c49bfe0b5955e0298d787",
@@ -480,7 +507,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "181d4c1cdb13965907fef8c1d4fb1e68ee21cfc3",
@@ -498,7 +526,8 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "cb59d2ad837b3893f7c9f7db94d53dba14f06a15",
@@ -516,7 +545,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d505569a8f17b46a9f2af4adf1dbc2067e135dca",
@@ -534,7 +564,8 @@
    ],
    "score": 10,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "b76a8b8c48ff8f068edea6ca5ee9527d933570ec",
@@ -552,7 +583,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "248742771733beae73b0b7dc9989db55337777dd",
@@ -570,7 +602,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "16246c006179e7b8201965ec273eff94d7ca6fc9",
@@ -589,7 +622,8 @@
    ],
    "score": 50,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "9aa0ff6a20be48d60510e2ae30bb9f8bbaa6af26",
@@ -605,7 +639,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7e6fd13633d4557e1da496511f950c3915a7c9c3",
@@ -621,23 +656,27 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
-   "id": "f61161dac59d9619731d658217b4641024872d7d",
-   "title": "Common Solutions",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aMEN1ZzJSdi1Rd0c4N00tM0NselhkYjlFaEIxbnN1MVNPTjczUFVLUzhuTldtbWlYVndOaVdpdVdjZFBPcFRhUjQ5VXE2WlBmYVRwZTR0NmVSREJ2MHJjYXFXbGEzUQ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2026-10-22T14:28:55Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
+   "id": "583b611bd1dde472a6dd00951df4aa903239e272",
+   "title": "GTA 6 Online wishlist: What we want to see in multiplayer",
+   "url": "https://www.redbull.com/ca-en/gta-6-online-wishlist",
+   "source_id": "bing_online",
+   "source_name": "Bing News — GTA 6 Online",
+   "domain": "redbull.com",
+   "published": "2026-10-20T08:45:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "It’s been 13 years since GTA 5 was released, and a major reason for the game’s longevity comes down to its multiplayer part GTA Online. When Grand Theft Auto VI is hitting the shelves on November 19, ...",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "638d9a8fbced6ea7cf4d73e6e351c2ac615f96ce",
@@ -653,7 +692,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "71ec6148c0c51f7d6ada465cd0f54dc5c7afdcca",
@@ -672,26 +712,27 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
-   "id": "2e0e04ff37e61880279b3665ace1d17727e5bc27",
-   "title": "GTA 6 Release Date: PC Launch Rumors, Next Trailer & Key Dates",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1ZYUmp6NURCUlRpVHE5eUVzMm0yZElRYjYxa0V2M2x4N0xIcWZzbHNPOGJzRGwwRnVNOG9ZUnlZdzdFdnlkektQeTZadDZHNHRoRzU3YWo4Vk1KZXEwWm9ORjhaeERBRmNra1JPd0VmakdrN0RWamdBdFp4ZW05UjBlaF96S0xIdEhKbkhWc1VPMktjdlE",
-   "source_id": "gnews_online",
-   "source_name": "MMOEXP",
-   "domain": "mmoexp.com",
-   "published": "2026-10-19T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
+   "id": "296e79895bd9916d348dd1c4ee235212fe56e337",
+   "title": "GTA 6 PC Release: Likely to Release Months After Its November 19 Console Launch as Fans Point Rockstar is Racing to Beat PS5 Emulators",
+   "url": "https://www.msn.com/en-in/gaming/gaming-platforms/gta-6-pc-release-likely-to-release-months-after-its-november-19-console-launch-as-fans-point-rockstar-is-racing-to-beat-ps5-emulators/ar-AA2fxZAD",
+   "source_id": "bing_fivem",
+   "source_name": "Bing News — FiveM GTA 6",
+   "domain": "msn.com",
+   "published": "2026-10-19T01:48:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "India, Oct. 19 -- Rockstar Games is reportedly targeting a Q1 2027 PC release window for Grand Theft Auto 6, arriving just two to four months after the November 19, 2026 console launch. This ...",
    "tag": "RUMOR",
    "topics": [
-    "trailer",
-    "data"
+    "pc"
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "63c10b32cdfa027387b265c443577cf628b40806",
@@ -709,7 +750,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "49811e3e7f5f5e5e60585f6f369fc216bec0e43f",
@@ -729,7 +771,8 @@
    "lang": "en",
    "also_on": [
     "youtube.com"
-   ]
+   ],
+   "priority": 4
   },
   {
    "id": "9ad55be4597bddbb714bd02dac51b700c70c78ed",
@@ -747,7 +790,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "3320f357e504a722b3f747d71559eb6c00e50064",
@@ -765,7 +809,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "10ecd00cefc8ff9d8a4cb34b3bc9263712d1407a",
@@ -783,7 +828,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "364bfeaf297819c4456d559a645952176d031fdf",
@@ -799,7 +845,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "12ad875e02b027b691cf583bb6431add700c686c",
@@ -820,23 +867,8 @@
    "lang": "en",
    "also_on": [
     "clarin.com"
-   ]
-  },
-  {
-   "id": "17e253a8104b99262e75b94ec5705b82a68fc0ba",
-   "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNnQwTE44RlYxQ2s2R183T2FNbHBOU0hRdnNFWW5TelFwWHMwOUQ0UjE5UnNqd3Y2bkU4REdJODBVc0doOHJiU2lsNlRXOHhDNDNGYm9EQlloU2FHR2xUS0F3Q05uTVY5aHZQUjBkRGU2SU0td0Z6VHdXNm10djdOUndHZHRubEtKMVV6OFFPVmp4NjFQSUN1TldfQ0FkemIwRGRvRElNWUdhd0tSSTZUa2UtMnhmdWx2dHh4NnRQU1dXbEtYS3ZCeWlOdmE0S2tMckN1VTZZZS1CVVFwSGhiMDFDNWFOVlFzcmVWMGhseHZacnA1ZkJuNzJHTQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-10-13T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   ],
+   "priority": null
   },
   {
    "id": "4e250c473111891b41fa9c01e202d96d529ca6f8",
@@ -854,7 +886,8 @@
    ],
    "score": 24,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "18e31b6393cba4857233df4fe90915e70fd7c932",
@@ -870,7 +903,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "8cf70775a42cc891b0c2f612656258b9ac387eb1",
@@ -888,7 +922,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d462372035f0a4217235ca5a546353675176a2c8",
@@ -909,7 +944,8 @@
    "lang": "en",
    "also_on": [
     "tech.yahoo.com"
-   ]
+   ],
+   "priority": null
   },
   {
    "id": "fd6eee51c6b0dfe3f5902ea01768729079dbda2e",
@@ -927,7 +963,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d39ab0be1a50041ceedde10f875b05f72a445e35",
@@ -945,7 +982,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "30c62ec68d8a51bc978ddfe6132e8de02d1835a1",
@@ -963,7 +1001,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7616a1dcdddc20ee3d46cec633590b1b9f807e43",
@@ -979,7 +1018,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "70d4fdb2d5ed062f10d9c9810cefc823d5a1dc9a",
@@ -997,7 +1037,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "cc241b3653231ed1aaa8ebd16240845de60e30ce",
@@ -1015,7 +1056,8 @@
    ],
    "score": 20,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "052394c5eb9aa08ba830bbc53f12e3739a66ab3e",
@@ -1031,7 +1073,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6c26a7c41afc5e09fe108d99c42249759e8f0958",
@@ -1049,55 +1092,27 @@
    ],
    "score": 20,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
-   "id": "4af14e41c924d010d159a26907318f39a31ef607",
-   "title": "Pink Rockstar Games Logo Tee",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN25pRlVkc3JrLTRUUHJaLTFTUVFUMFI3aUgyTU4wYmkyYUx0a25zMExBbkl6QzNUOHpqaWl1THhLbHkxU1RkZDNCZlFvUi1TZnktN1ZrQ29icmM1MFFUVjAyd2hTbGU3ZDdOMUk2WE5nbnhsd1lUY1NzS1FuYWdlTA",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2026-10-08T18:02:57Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
+   "id": "3714a2d8fbd59a5d3535b7c97e100bc32ba1540d",
+   "title": "GTA 6 Online: Release, Price, Crossplay and more – Everything you need to know about the multiplayer mode",
+   "url": "https://mein-mmo.de/en/gta-6-online-release-price-crossplay-and-more-everything-you-need-to-know-about-the-multiplayer-mode,1592128",
+   "source_id": "bing_online",
+   "source_name": "Bing News — GTA 6 Online",
+   "domain": "mein-mmo.de",
+   "published": "2026-10-13T06:05:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "GTA 6 is launching, but the online mode will follow later. When it is expected to be released and what else you should know, you will find out here at MeinMMO.",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 60,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "fb666dca5a6fd9f9473d85caad8d9998ff86bb92",
-   "title": "Rockstar Baseball Cap: Pink and Blue",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0YtbEU5TFBPZm01V0xPUThrTE5NYW5YMnpENnh6cXE5dHpMRC0yQjFKQlNoMXlWX3I1dkRzLXJKcWdEbHE0R2FoS3FXSDZKZVdscHdyOXNVcnk3aG1HZWZEVmZERDZ3X2tXd0FxUXVPWmNWRVl6NnVfN2owdkRseEFpdHRPcm9FQVE",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2026-10-08T18:02:51Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "88d173665b8a90d8dcb52b7673cbb9f08682a26f",
-   "title": "Grand Theft Auto VI: The Album – Exclusive Vinyl",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IMTZjTXhoem5ibDJpcllHYkZ4NFFjRjF6TFMwTTVnNndpUk1MVF9MV0VmODVycXllYlZpLUpRVmdZanppa0pKUzA2X01EMXY4TzNjOG92RUlybEdGeXpUYmdiZzRYQ09aYVd2WVhwRVh6VEk",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2026-10-08T18:02:51Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c27ee01b04ee20a0c58a11ceea5810e4a6f15323",
@@ -1113,7 +1128,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "93d69580deda7af506c083d73c61cdb7939b9eea",
@@ -1129,23 +1145,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "08d26ecaa7ab7433bcf0eeb59ec9c137fe527e85",
-   "title": "Words With Friends Expands Its Dictionary with 25,000 New Words to Herald the Next Era of Word Games",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT1Jqb1RndmItcW5WWWRLM2VrVU1OeTFqaGg1ejMzX19PYU5QWUhUYjFRbG5TZVBGNzFnVUU1ZEdDUTF3OVZjeUNVMkpDT3B4RUdrNzAtd0VhZ1M5MW9XcUE1VkZnX1V3bEhEdE83U2pqUTBfcW0zZnkyOHBmNHdHWlNYeEpER1pyNE5YTUZkNmlhMTR0bG9FbEpyanhmMDdhdkN1MTVmX2o3d1pqd2hpZ1p1aFdQMnlIbUd1NFp0TU44b2dXckhLc3ljWDJHTXJqVDRlQ3dLYXgxTThGN1pMdUM4NkpKMUVELVdrcA",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-10-08T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "e4b005498cf377af54cdaa029c10d305dd73a0b2",
@@ -1163,7 +1164,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "b036a04059a0615b980c1f9a90bbe71fa326e6a9",
@@ -1182,7 +1184,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5d0aad2d6574d8d7ddbe0b1b6610ba3729eaee92",
@@ -1198,23 +1201,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "23afa90b7c59d7e3c2b4d4f669cd6fb01135565c",
-   "title": "Experience Halloween Thrills All Throughout October in GTA Online",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSVN1ZlhLREQzX1BaMVZzamRtNzhPS1FsQ2JaS1JjRzJMaDV5MnlQblZ3Sy1aS3dHRFZ0RmdkX2UwSVRSR2g1MnJNOW5oZlY4S2oxVW9jcktUYm5sc1duem9lZFpPOWo1OHlGTUNvTC1Tcjg2UEE2bUg3QndMZkplNmt2Z0lvRURxcjFPS0ctY2M1UFhoSU5zb1NZRG1wWmNEaHVJeUJHMWxTUHh5cWJUQmZrWDU2bHlRM3VsT0dXWFl6Smc5QkE",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-10-01T14:38:26Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c433dddc14e18badefbb64c42ec7fdfe5a4d315d",
@@ -1232,7 +1220,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d76b3e847b3243121cc215305f87c3d4ba954c3c",
@@ -1250,7 +1239,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "2641ce2da77891b61ef759525d8782ee1e7921f1",
@@ -1268,7 +1258,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "bde4f8a05e892b89c4033f5df457ad6ea7375fb3",
@@ -1284,23 +1275,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "70d90cb44a8d189c894596a9e2af6121fe26153f",
-   "title": "Grand Theft Auto VI: The Goodtime State – Vice City™ Collection",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUZpNC1ieHZEU3lwdXFiZmN6STJRM3FNR05ib2VBdTRfdzdBRGxVMXd5bWVfRk5aZDlDQk1ObEhubUduMURMZW1zVHFlRTA4U3JkYUhZSUdrVzJEaXJjcjBKbzZidUViTTNkSzhaUDdrcV9Lemp2LXktdUpFc3Q3Z1NsWkhJVEFubWl5Ug",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2026-09-24T15:34:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "80b36897690e5fa5a1846e7440b61bb50721fd93",
@@ -1313,10 +1289,14 @@
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "",
    "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
+   "topics": [
+    "rp",
+    "creator"
+   ],
+   "score": 80,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "fae06209ade407274837dd7f7016fb394b02f308",
@@ -1334,7 +1314,8 @@
    ],
    "score": 48,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "538a61c1d0036d95522b809eaa14e839261a8040",
@@ -1352,7 +1333,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "14fb72cdab97f62a8f9f93dca91e39c3655a977f",
@@ -1370,7 +1352,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "2427ab243f6a5542da45849c53122a5783c244cb",
@@ -1389,7 +1372,8 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "7a12d8cabb817381d646f1f610fcbc1da5a80e2f",
@@ -1407,7 +1391,8 @@
    ],
    "score": 48,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "ca19163e29364e13717cc0f5a0a1767cb63adf66",
@@ -1423,7 +1408,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "46fbca5e94bfec80c79bfbf388bf734e35ad506d",
@@ -1441,7 +1427,8 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "295c213e14631c700b9991e424848174e29c8461",
@@ -1457,7 +1444,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "28f9105b0f14c3167f1fa40726bd96cf3fb34e7a",
@@ -1470,10 +1458,13 @@
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "",
    "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
+   "topics": [
+    "creator"
+   ],
+   "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d51f700fe2aa772d76f9554deb4539453988f394",
@@ -1491,25 +1482,8 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "2b3b59cdf08744c72445847b02e9f98b1f9469f8",
-   "title": "GTA 6 Online Multiplayer Coming in 2027, Per Twitch CEO",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTFhdk82RmxFRkd2UXpYQUtFNTcyWVhiVTJrNWowMmhLcTFvN0JRbndreTM3MGtYVmdmVkE1eG9rbnltQmxwVlNzWHcwUEs0YVZrLUpJQWZRcWI3bFJZclZxOXpwd3FCUTJxc0hlNkt5WHdUNlAwb1ZrajBuWHh2RlJ2d09wM2FCMUFqdGt0SQ",
-   "source_id": "gnews_online",
-   "source_name": "PlayDayOne",
-   "domain": "playday.one",
-   "published": "2026-09-19T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 60,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "275c4706717a2180502020c74bdef39dcd532e1b",
@@ -1527,7 +1501,8 @@
    ],
    "score": 72,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "bc4a3d92f7603c083ee1be44fbedbaff013a3187",
@@ -1545,7 +1520,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "588b57c94e2cc15e0c597ef527b16fe95620a4c9",
@@ -1563,7 +1539,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d539b8ed0ec1d890396b7c22d5fb9a59df46fe68",
@@ -1582,7 +1559,8 @@
    ],
    "score": 70,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "feed51b8f4dd3fb93c0016d07211672c8e222be8",
@@ -1598,7 +1576,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "fc625b0d83cd1a00d3089bdedc22ae4328676668",
@@ -1616,7 +1595,27 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "e3c2b9edf8c3c43b4fc5678db7302f81eb938061",
+   "title": "GTA 6 Online Multiplayer Coming in 2027, Per Twitch CEO",
+   "url": "https://playday.one/2026/09/17/gta-6-online-multiplayer-coming-in-2027-per-twitch-ceo",
+   "source_id": "bing_fivem",
+   "source_name": "Bing News — FiveM GTA 6",
+   "domain": "playday.one",
+   "published": "2026-09-17T11:37:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
+   "excerpt": "Twitch CEO Dan Clancy has claimed GTA 6 Online will release next year, in 2027. In a new report by Bloomberg, Twitch CEO Dan Clancy has given the following statement about GTA 6 Online releasing in ...",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 60,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6bca3d39b1342adc638773242fc196c46686d92e",
@@ -1632,7 +1631,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "b6bb0b369771e951026e3117049451fd4149d8f5",
@@ -1650,7 +1650,8 @@
    ],
    "score": 36,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "878be030b8938aae639186765b9ca83cb6b6f59e",
@@ -1668,7 +1669,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6cdeff66f30502f752fe6d2910ad8a193c6d3e5a",
@@ -1686,7 +1688,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "ba5ebacc2991e2a88e9ca071b7843c9e41e69643",
@@ -1705,7 +1708,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "0ef2c145086e6b96be95a7cb71925438f3bc4bdf",
@@ -1723,7 +1727,8 @@
    ],
    "score": 10,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "e98cf19de48d6ea118af32566ed221c617163fc9",
@@ -1741,23 +1746,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "ac17d0fcfa371362e440700881cdf1e292410be9",
-   "title": "Take-Two Interactive to Host Webcast of 2026 Annual Meeting of Stockholders",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTW1fVjQybGM4cVp0SE1taEw0REJDZklfX04zZnpEcW9ZUDdxTUQ3WnhZN2VnTWlQNlljWVdBejM5bkFuSVNrQnk1VnJsRm1nOHZuaTE5LThiLW5MMXIwVlhvU3Y3TkI2X0xhOWYyZE02TkYtSUxyUVdvRS1peUo5Yl9ieWdQSFNVekg5eXJESEh6YnJhbXp6U2RrWGxpXzNCOU8tZDNmc2NueVFld1pzUFJEdWdDZXFYa2dpak9OdEM5cnhMN3A0cWFSOHA",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-09-10T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d462219e56d7d973ea8dbffce747e31df486fce4",
@@ -1775,7 +1765,8 @@
    ],
    "score": 80,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "f71cb57b494f7c21f501d279a183ad07db3696bc",
@@ -1794,23 +1785,8 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "130280dd6ccae81d515d4885b594811991d016db",
-   "title": "Ball Over Everything in NBA® 2K27 Now Available Worldwide",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2Q0QkROSXJGajVLWGFSSzY5cU9hODFka05TRUFjZVltOUlYQ2pHLUlqOFJyYTU1MVBZaWFWWVdGWGJKZ01lUEpjSGNDM0JYR0pDc2lQT1FsZ1BCellEdVVFSkVIMnVFaTJjaTJ3aUhrUUw0LTA1blljR2g3c09NQTg4YWJjNjhKNUdwalBrWDE4VzJqQk56QTZXdExMX24zM1h1Z1JKWHVLckZVSXBodDdxbw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-09-04T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "eb0ba857cbdacb7f20354f9c651a8acf061134aa",
@@ -1828,7 +1804,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "2601402edb7f912f3831cecee2ae7a6f36c4b0ef",
@@ -1846,7 +1823,8 @@
    ],
    "score": 36,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7d9ff7dd904dfc7fdbd1c05e073de20dcb354ae9",
@@ -1865,7 +1843,8 @@
    ],
    "score": 70,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c7a3c8e87cc49ec632e27d271e7f9bb64b58def3",
@@ -1883,7 +1862,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "32fc7cb01fa81010f636aef4050d350ac1f1c7d3",
@@ -1901,7 +1881,8 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "bdbd360b1cb2902aa24f5063e12f42ff0759c4e2",
@@ -1917,23 +1898,8 @@
    "topics": [],
    "score": 12,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "e48ce094a378fa16d8a9ea80347f3eaca406eba2",
-   "title": "Zynga Poker Taps Keegan-Michael Key To Bring Out Your ‘Inner Winner’",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEFKUGdnd2RJc2lISHRONFZzM0Q1dnY2LTNkUUMxc2FWZGVTVHFqZUpLaXViMGlidllRZ2EwaGpLTDB1bXYteGNPRnB4enJyMTllOWJRZlFTck5LWXVOc2RsUjRsQ2czS25jOTM4ZVN1Wnlpc09KZ3dhOFJaTFB6WWVPemJBTWdjMlRBajVEcF90ZVp5Tlh1N0NJd2Q0V2E3WUM5RnRDSG1pdGVOaDZVU0g3eVFtWXRCSTJDaUR1TGQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-09-01T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "4ce5be75abcb8aa78071fcdb4a07d19be84c4885",
@@ -1947,11 +1913,13 @@
    "excerpt": "",
    "tag": "CREDIVEL",
    "topics": [
+    "rp",
     "online"
    ],
-   "score": 72,
+   "score": 100,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "3b0056e7da606e7a8668baac1da4dcf1bbf5f1f2",
@@ -1967,9 +1935,10 @@
    "topics": [
     "rp"
    ],
-   "score": 48,
+   "score": 96,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "fc8c6858bcb0668506cb770e6eaeb86c92f2cd51",
@@ -1989,7 +1958,8 @@
    "lang": "en",
    "also_on": [
     "msn.com"
-   ]
+   ],
+   "priority": null
   },
   {
    "id": "9cd451bd51d50f0187875088f3e77922c56cd876",
@@ -2007,7 +1977,8 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "083b9539aa8c6b35ef0389cf6931089fc6599f8b",
@@ -2025,7 +1996,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "ba9ed02a64357726c0db35055744bc642bbeb59a",
@@ -2043,7 +2015,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "b2195768c7c56fb73adaf796e88ca270b3b1c4da",
@@ -2061,7 +2034,8 @@
    ],
    "score": 10,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "e005009372605815b0f10a2d6fb495b4831852a1",
@@ -2077,7 +2051,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "1c9f96b40a7fa5cfc46540932614b34a0d233247",
@@ -2093,7 +2068,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "0b3e5cd460bcec60f53bb2a8efaf2b8c80f4b4c9",
@@ -2111,7 +2087,8 @@
    "lang": "en",
    "also_on": [
     "youtube.com"
-   ]
+   ],
+   "priority": 4
   },
   {
    "id": "eb0e35a84a81b642dd1fd8758edb1189300d9f4f",
@@ -2129,7 +2106,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7b43388b2af31d0a88bfb71dd68e5c17fb356d05",
@@ -2145,25 +2123,25 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
-   "id": "f70486992cb6e1a30dee1e830882a45338fa687e",
-   "title": "GTA 6 Online: 5 Leaks You Need to Know About the Rumored December Launch",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmU4ejlWVW1CWGJTRGJ4TXg2UlBGb25maF9VcTM0NGxGZ1dVNmhkdzJacXhzRERDQTJvY0daanA2bEhIQ2FvQjU3a0FKWTBETldyWE9sWEFCNUpfZHM3LUFpc0Y4M0xySG12cXhuWHlVY1lNZzdqenNjaVhKU1g5a0lJcEU0bE5fMTYyOWVvdjhwWnJSQ0xTTDBBbmFQN21GVl9GeEJtOA",
-   "source_id": "gnews_rp",
-   "source_name": "MMOEXP",
-   "domain": "mmoexp.com",
-   "published": "2026-08-24T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
+   "id": "4c137efad02a41089ac6f82953caa06fd2b60871",
+   "title": "GTA 6: investigação aponta origem dos vazamentos",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjN5RWtVa2FHOHEtdm11LXE2a3R0M2IwNENyMUtuVHIyVEt0aFRsVi0zTWc5UEZCRkV5U1B4NDVxekVzX3lPRFVOYl81TGlaSDlHeWJkMm1Sem5ET1VOZkFySWFWcGtHSV8xQ3BmNmMzYWdWYXB1dU5OYnRkWmNEbFlR",
+   "source_id": "gnews_pt",
+   "source_name": "diariodamidia.com.br",
+   "domain": "diariodamidia.com.br",
+   "published": "2026-08-26T07:00:00Z",
+   "fetched": "2026-11-03T19:45:16Z",
    "excerpt": "",
    "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": []
+   "topics": [],
+   "score": 0,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d46b46e4c06f6198b0602534fe2debc014cb1e03",
@@ -2184,7 +2162,8 @@
    "lang": "en",
    "also_on": [
     "msn.com"
-   ]
+   ],
+   "priority": 3
   },
   {
    "id": "54f6e2b27b8b1b4d7af4fc7a8106e3888bc7f41d",
@@ -2200,7 +2179,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "4ac61b9b00a94edc4ecdfc4f3e3080d3ce5fce98",
@@ -2218,7 +2198,8 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "4a412b61a259acbfe3894889fb7f46b264a5894a",
@@ -2234,7 +2215,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "cde96ba4c290dd52d351e3dfa2dbca63e23281b0",
@@ -2250,7 +2232,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "26921f7116ff8457e29d2016d6210d86c245468d",
@@ -2266,7 +2249,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "546e78f3ec68e01f90b2dbf59d07ec376762507a",
@@ -2284,7 +2268,8 @@
    ],
    "score": 96,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "a8a6a19a302f1725ee48a574e1c0f1b81faf7dcc",
@@ -2302,7 +2287,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7ec9a5690d44fbb5b0f204fc555ff764fa1472b2",
@@ -2318,7 +2304,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d117830e1efe81221b517458499cc96f2d630295",
@@ -2334,7 +2321,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c1e5f62f0ba3ee3be5ba49e50627f47e832800aa",
@@ -2352,7 +2340,8 @@
    ],
    "score": 10,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6c439bf94152d9910526e917f9991cb360ed517e",
@@ -2368,7 +2357,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "3e40a543394420328cbfdf40f2fc4f03a7ece5f2",
@@ -2384,25 +2374,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "b452cb0d4ee65d35be734d1014ecb305ba69758e",
-   "title": "GTA 6 Online: Everything We Know So Far, Expected Release Window, and the Biggest Features Fans Want",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY29zdWlfYjRiRE9NMHY1TGpNNU5GeUdfYjlwRExRZklfc1pqa19KazJJQjAyZmhCUmZJYmUwYlR3RDJpbGtlYU9BMHJuLUJZV3VvUURYSkVxRmRhQ0pHQ3pjU1Zkc3dOZGpxLXVOVzJPbld0a2tIVjNZQXFBZEZ4Wjc4blZ0VGFzOW1wYWZ4TF8wdmtWSG1jZjYxTThXSVE4MmJsY2F0MnRuZ1ZJb0ZhNGV2UWpRQ1hCakstNjBic0tEWGt3bF81N1NR",
-   "source_id": "gnews_online",
-   "source_name": "MMOEXP",
-   "domain": "mmoexp.com",
-   "published": "2026-08-05T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "ad8886057da1f997d83fa50dbacbb6a346ee7d59",
@@ -2420,7 +2393,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5570170817637ec6dcc514a688db88b2165e5056",
@@ -2439,7 +2413,8 @@
    ],
    "score": 75,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7a4396e19707b7dae68cdb600c80152266ab6d73",
@@ -2457,7 +2432,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "66ec520ead12f38a018e7643727798fb8ae00428",
@@ -2475,7 +2451,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "e791a253fa01cd066dfe06962cf98f1e684b07c3",
@@ -2493,7 +2470,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "86831c4109764a41aebe5fb38aab41f5e7607bc7",
@@ -2511,7 +2489,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "0e016b44e95be8fd3d718662bd2a9459b69300cb",
@@ -2527,7 +2506,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "1cccfec95f409c153db5e2f235c52538611f6a41",
@@ -2543,7 +2523,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "70257d4517f48781de8b3cf09b943de116678449",
@@ -2561,7 +2542,8 @@
    ],
    "score": 30,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "609afaa9f00afc6bf55057b730c446b2108d0cdb",
@@ -2577,7 +2559,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "ea7ee926b9214d5051b8cafe51dc36373df39475",
@@ -2595,7 +2578,8 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "afd73a1cdcf6f0f402b2f31f8337ee828c237964",
@@ -2613,7 +2597,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "cf7369da9b566520f1435355ca1dbc35276653cd",
@@ -2629,7 +2614,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "bff9bad831ae6d11204118592e836f9b23247589",
@@ -2645,7 +2631,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "356798ccbc537c21e07c32fa7b033420ab7e736f",
@@ -2661,7 +2648,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "1f844c72d63036c1b19b3c2692a4fe1ec5d0f97b",
@@ -2677,7 +2665,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7c90e696cca1b9646911eb6e22603d032f85ec24",
@@ -2695,7 +2684,8 @@
    ],
    "score": 40,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "b8389b02402affc5cc59faadb3fff391411459eb",
@@ -2711,7 +2701,10 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [
+    "soapcentral.com"
+   ],
+   "priority": null
   },
   {
    "id": "03a1bdeff2b2bf772ff2b16f3c3a1aaaeb52d841",
@@ -2727,7 +2720,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5c7cf5c37e7bf15c353690ecbaac1fa098893eaa",
@@ -2743,23 +2737,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "76317370fa8de4d14a48fc463f5736c17aeaa25a",
-   "title": "Account Settings - Connections",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmNmc1djVHoxWDdxMnhoMGZyZ1duWlNtcEVsUnRibTRTTHoxbFJSVUFwN1VSUGhwdDY5Sl9MZmlzYXlGUFZGMUowZUtkdmhCaG1aM0ZYTDVLQld4eDV4MlBwck5tYUZZWkxwd3hmSDc5Y1BiZ01zazczbHVfbU5jZHdXaw",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-06-13T00:33:20Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "8524f0a9db373e82f048e0a509fb2a673cdd68fc",
@@ -2775,23 +2754,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "afaadcc64066aa98d21e94ed970fb2901f548f6f",
-   "title": "Account Settings - Connections",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Tnk2TlV5UmQwM0k0alZYWERKTU9SNkFTM1BuaWRrVHl5cldKWUYtUDNJOFpubjl3UjhpbUlfR29YVmlPZ0pvSlFKVG05dEZXRGhfVVFKenN3V2JGUlpRZ2NlOEFiX1ZKaWZLMw",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-06-07T13:20:02Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "00bb1a8c895542f5d2a2cba7a900e457dc8d44e8",
@@ -2807,7 +2771,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "44ada7568ad952f04f70913f21ba9765b6fa8fa6",
@@ -2825,7 +2790,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "26f66276b86fd27ee35696dc9f7d5a6220220767",
@@ -2843,7 +2809,8 @@
    ],
    "score": 48,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "d9117a1af8c11e52d6c4fe4448abb6beb4130712",
@@ -2859,7 +2826,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "38606059ecac7acf446c86c11c4e39a2d837185d",
@@ -2877,7 +2845,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "b6f66da61421f35bf92ef4c6305e2d6a5666b24c",
@@ -2893,7 +2862,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6b634a3073421882c0c9a6938350beef1f12a124",
@@ -2912,7 +2882,8 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "55fdae8bf1efcf992f3bb4190e6d7d049057cbe9",
@@ -2928,7 +2899,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "1832038f8ff0334c2b287caa194fcfeaf0466e27",
@@ -2944,23 +2916,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "8a49fd03f0aeedeea2ad3b236f0db0764cc6a0a0",
-   "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV2szX1ZsRk1GSm1TVjVEUkZXTlNmTmlpd2IyeE5BdVBPQlViYW5IbGtRNEEtYTN3ejIxRjAzaHYweTNMYjk1VWtabFN1S1h1WHRTRndWRElZSDdrMzVTbHVBVC1uMUxMOUVkc1lCbklBaWFmR0Nkc1JZRHVNV3V4amxabjRfb09xWWhuaW9WZFJBY29NYlBZaXpSQUNjZW90em9tVFJsejhVTTcyTzNMQk9qYUd5UzBrRnJfQjZJWUJjS1podHBDUHpyOElscEZwTWhRLXh6VzJ5emxJVzdtSlBsMUd4akw5TEJ0RDhVNS0yal9rUmVubmJB",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-05-11T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "1e202a2b0cfbe910831abf35968bf46eb29c0a00",
@@ -2976,7 +2933,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "f5dc680a8df3eeb82e56f2b9f89160b20ea88f34",
@@ -2992,7 +2950,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "907f85f840039b3cdb5e8b2168097c5cf20c6f35",
@@ -3008,7 +2967,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "2da4271064493e05099218dba1291624878e15d7",
@@ -3026,7 +2986,8 @@
    ],
    "score": 48,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "4a45408aa2143a0f321828560a2796eab6ee6c4d",
@@ -3042,7 +3003,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c58236d2a924c37b3a6321cc6af46d9d84cf46bc",
@@ -3058,7 +3020,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "f90993da5d8adf085bcac781a02d1e37fd465453",
@@ -3076,7 +3039,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "75db68e6d414b95a6c73d96fc48822c7b83b694f",
@@ -3094,7 +3058,8 @@
    ],
    "score": 30,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "11858d3a978dcedb0f3391a1b65eb7cf45badd0a",
@@ -3112,7 +3077,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "64fd93d4d080943157e0ae655218713848e8a0fb",
@@ -3128,7 +3094,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "a899b1b862594aba4d5e7fdea9df5cd6422e1ecf",
@@ -3147,7 +3114,8 @@
    ],
    "score": 80,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "33d4d0a356c242030442c62246358d5fc3a05bcc",
@@ -3163,23 +3131,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "934f7400a2279110d0a1b93ff4b69ad6caa04ed8",
-   "title": "Account Settings - Security",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0cklNLWpGZXJpUzdDMFpGT19PRE45R3dvNnRSVEIyb3FTVFNpN29MQW90bDItRV8zUWp5aGEwXzlLbTI3WjV0MEIycDlDeDd2SU5TZm1rSEJ3dw",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-03-30T18:35:54Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "eb3a3f84be67fe8459515f2af2e1ffafcea81d57",
@@ -3197,7 +3150,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "0a6f0b369c9f015e004957ebe507c92cef3d846e",
@@ -3215,7 +3169,8 @@
    ],
    "score": 60,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "f1c8523cd160e484635d7db58ed8ef567c3c5d7b",
@@ -3231,9 +3186,10 @@
    "topics": [
     "rp"
    ],
-   "score": 48,
+   "score": 96,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "3fa785c4e80d8ce8ddb8b9a2667d540352a1f0ce",
@@ -3252,7 +3208,8 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "acd462aa09a85d7348ec018227fe62ad3d76b570",
@@ -3271,7 +3228,8 @@
    ],
    "score": 70,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "ac525cb27835f88468d591d76ba29e08236393b4",
@@ -3289,7 +3247,8 @@
    ],
    "score": 40,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "12b5cd178761982e6c2abb6a9a06a8b293740921",
@@ -3308,7 +3267,8 @@
    ],
    "score": 84,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "84ee52c44ac91040b99423c052361f29cd4b942b",
@@ -3324,7 +3284,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "bd30abe3492435bb313c6e797f8a6ec83a4610a0",
@@ -3342,7 +3303,8 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "74df230dc6c0e6289c2ce6cebc9771c2dc1e1d5c",
@@ -3358,7 +3320,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "9888a1f53dac3b31efeb793be5dff5d0c111f651",
@@ -3374,7 +3337,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "455e2f76bfb85f6d4ab69c7ab7aee2fb5146490d",
@@ -3390,23 +3354,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "1ac85c19723f56cd562c34b5a45da4582291ffca",
-   "title": "Grand Theft Auto Trilogy Enamel Pins Set 1",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjlWWE9DNXdSTmhtVk9rZG91aEZJZUJIWDZ4VFZjT2Y3RDBNbS00MWprRXZfTm9UZmtDS0NaXzN1WVIxdDl1YkdnQ2QxZVpEZ0E4cE0yOEtrOTF4T1NrMzN4eS1QSE1idEJ1OC1yamhxUlI4NERicGNlN2JjRFdhZ0N3",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2025-12-05T17:24:23Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5426cbf90b29d3390df73faeaa807b493924a64a",
@@ -3422,7 +3371,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "c7b0801c793508bea5d1b07be04b7fd37e4fec50",
@@ -3438,23 +3388,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "52a832c45835fc305050cc2cd0574752cdd65dcc",
-   "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2026 Results on Thursday, November 6, 2025",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdHp6bDdiaHlNUjZUcnNhNUZkT2xWLW9KaDQtTW9NelIyWElRQTBDb2ZGdDlyQkNJRFhEN2tOZ1I0RTRZWnU1N3lQY1ZCLTVUNjZUY3lwMDdKU2JKbWNZMHNVMzZibnlSX3NLYlNGSmtrMkQzMG16eExmWmZzWWc5SGxMMFRLVUNDMlNyWVRPUndlNW1XNUVJSHBtYnQyWUhoRnJQLVRCQ2Fkc0tlNzRQcXlUbzlfVGF3RHdTR1ZnVTBrd2V2RV9acnBzR3M4S3NNTVZ4dTVBN19XeEQtQ3RXQkh5STZWRGFlUVNheXE0VVVQVW91dktzS0lkUzZDQQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2025-10-09T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7e1ffbd4bd487d9983e2dd83e816d41209a6f190",
@@ -3472,7 +3407,8 @@
    ],
    "score": 100,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "83dc9c4e0712e4062919a210fab7a31dd897acf2",
@@ -3490,7 +3426,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "396c6b56d59fd75969927d5bf9344b751ffa81cd",
@@ -3508,7 +3445,8 @@
    ],
    "score": 96,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": 3
   },
   {
    "id": "c02ca33264ed4705b431b710224ef9ee75e2181c",
@@ -3526,7 +3464,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "79416fb4f6deea2a25fccbea360dbb495dbd2646",
@@ -3542,41 +3481,10 @@
    "topics": [
     "rp"
    ],
-   "score": 40,
+   "score": 80,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "ee6914351e46e0c1b3d1953476c416bc9c67d500",
-   "title": "GTA Online Twitch Drops",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15YmNhMk9oS2l2Z2lDTDhuWXlRdmtBQkFFRG1hdjU0dk1wMTFjcWtOZGJaS3I4V0xqM1JHVGNPeXBaZl9rR3VYVjdxZGtBeXF6V05WU0IxQ1NadkxZREpKZ2sySQ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2025-08-28T16:57:45Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "9d1b96350b0ea70f7c613d734eb51b41f097ad95",
-   "title": "Your Poker Crew Just Got Bigger: Zynga Poker Launches on Steam",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlBvMVNvZU93a0ppNEhSclh3ZjdlT3hrMTlBQXpCTnRmcC1QRV9mRS1KLTF6ZGIwRmJMT3FDQUFhMHo2SkRBdXNhVUVRWFZQLWhTVUxYQ1J2V1I2SmhvVHRNMjFibUppck0ydlVtQk10QXEyMG5zWWRyX3J0Z2JpZ09uUjhJejZodG1tRzdHQVRnWnhob0d2Sld3bjlWUk9ZVndDSjdnTGY3LTAzU1h3UHZSaFJvRXBMekE",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2025-08-15T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "eac6f73320ad90888572bd062f86d71b94cb331f",
@@ -3592,7 +3500,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "be5ccc86dd42bf66817fefe10acdf888c6c62049",
@@ -3606,27 +3515,13 @@
    "excerpt": "",
    "tag": "RUMOR",
    "topics": [
+    "rp",
     "online"
    ],
-   "score": 30,
+   "score": 70,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "c557477a9839b18150cb3cf16dabcfc528b4ced7",
-   "title": "Borderlands® 4 Now Available for Pre-Order; Post-Launch Content to Include Story Missions and All-New Vault Hunters",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ1RlMTlPTzNwQ3FxNGEydTRNMWl6dlBzeXYxWC00NVRiZ3Ywb0ZlWXJFa25mMVpBWEJMTHNnVXFWaU9HMEFobWp0YU45cDFFSHpWeHZRRUx6SW9Rb044WWhkOUJURlNSaUtaNlNhdG43bjFsY2ttekdxa3ZGNVdkbUFRQ2lkUzVSSEJHRlNIajBNQ2lveFJ2MzJTTkxVbHNhQzhUUjRzVUZ3Nm1pdTVhSThtejFtbjZ4blE4LXZpWHdLXzl6RkVxTGpyQVVwbWRLNEhqNHRfVUR2NUFEZTBjLTNtOFc1WnNEWnZvWXN2RzdnbktNNTRWWW5EZnN3eTg",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2025-06-16T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "ba9859f8616b219636f9c2bda4eebc1bfbc1c3bc",
@@ -3642,71 +3537,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "026026bfe3459ffd850351f33c439372fbe78139",
-   "title": "Submit a Request",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JS0otU2FrcHlETWc5dFhocHpqOXJFbVdMaFFEQlp6Y3NRc25CYVN6YnlGeTZpRk82M2R3MkRkM05nekhqYVhPTmU5R2ozRmY5eXpj",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2025-06-04T15:12:37Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "208480bfb9810ab6d33f344d6b9f4af9bd95403a",
-   "title": "Grand Theft Auto V",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBReF9JU3lnN1ZPYWlQNVNMcURrTks0d1Bla1htdExReVNpRzcyMGJyakZ3V1kxS3ZzVWhremY1bWFNV1JqSENHSC1BLWt0UTBf",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2025-05-28T15:24:11Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "0f96fe329ae815f2503b9bd4101a8812e54c56c8",
-   "title": "Take-Two Interactive Software, Inc. Announces Proposed Public Offering of Common Stock",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcU9uc0RDUGV4V0s4TER0cWVZc0N5WkNRaXNGd2RmeFRFSl9ETENqczBiZzBndHdsTUZDU0FweUxrWXZiZEZPZ1lGQ0I4V0JQYTJoWkU3WUhCZld3ZjB2eVBsUlY2bjRrc3drMmRwemx0RklFRHFIXzF6SGF4Y281ZkFCQzNKR05jREFtdVVfRVA0b3hHTW00TmpOV0ZqNXVuLWZnLUViR0gxSEFwYlRkU2tLeDA0d2RxTXBPTENaaG82TUtRM3pHNFJGc1pGTU5GdWZLVFBFTkJ3dw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2025-05-20T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "e2d3e2fe182640967f491f439b49f33d42170783",
-   "title": "TTWO Investors Have Opportunity to Join Take-Two Interactive Software, Inc. Fraud Investigation with the Schall Law Firm",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZmtmajRwTjNEX2hwMHFyVWZ2MER1RE8yWmVDd2tZMmc1bXlPNVMwZjd6YXdxN3ZyVEg0YmlIa05RUC1GOURUempPV3RGZ2NVMDE0aG93TFdMdnUwRjlTMG16QVJHc1ItWU9QU0JUODMxN2I0VW1jdXZQc2wxeEVvWXZic2dHX1JocTltaTdCTHNMTlFfV0g0T0dBMDF0YmctdWR3Sk5zaGZBd2YwQks0dzJ2OWZPdTYtUlJNUjktaDBGN05ITjd5SkJ2bURLemFQQ2R3Q1pkXy1vQjNFdEFPR3JhRVBWUnozTG5vSzB2cmdieXExNUZqakxvaWFjaXBhUXdvckFTMA",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2025-05-15T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6e73f4d6a693b711d7e58dcb797c762035f292de",
@@ -3724,23 +3556,8 @@
    ],
    "score": 15,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "e9d72753a071213da237c2afc5dd6c0407067d2d",
-   "title": "Take-Two Interactive Software, Inc. Reiterates Expectations to Achieve Sequential Increases in, and Record Levels of, Net Bookings in Fiscal 2026 and 2027",
-   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjdHaTdLNld1TkRFYTFxd0tCdDBXWkpIVzJ4aGpIUkNQUW5NZVFkdWkyREE3Q3drSlU0SEp4bFpfRHBYSTVpWFdIR190bDdreGRqRjgwbFFyM05Xa0tVUmlpeW5fOW5YcjJZYkNXcnMtUlFyelRsTVdtNF9qcUQzNFVLOTdvVURnMUkyNE9pQTQ2WVdjWFBfekdDd3hvZ3gxSkxfX25SdXV4MHJFNVR6Z2JPU1VkeWFLMlRKbzlzaE5WSkdtRGFFQkw4WE5SMVMzV0szZWlZMG9oN3AyNlAzWnRTUHEwNVBpVXNhQzNWZS1sbWNCRnpTVV81a3ZUTjRpV2lLemU4TEswWHBkcWdlSS0wekphYi1XUjRKWWs0QmI5dHNPSmlzNFVWYjRwSXRNYmc",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2025-05-02T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "646a3e9e024e04c61b2c9017f668dc6ea2766e3c",
@@ -3758,25 +3575,8 @@
    ],
    "score": 40,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "eac00657a5554d78dfdc48195582f08b4cc8a338",
-   "title": "Rockstar Store | GTA+ Membership for PC",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDOUpDRjhHN3Z3U1NTX0FTNW4wVWE1RE5vNFhiMDVJS2hyV2VlR3RJRVlRUmUxTzhwcjhiVzN0NFE0cVNpdjlpMTNIWnJ3SVJLRXFpdkw1MA",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2025-03-04T12:19:26Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "pc"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "58eb4d30284d4f7c416607f4be25cad8f51a2cec",
@@ -3792,7 +3592,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "f6e255df7c18c8a9974c9f4fcfcc3ecc469948df",
@@ -3808,93 +3609,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "5501d081d88be4ad7255aff4c048e9ab122bc705",
-   "title": "Red Dead Redemption and Undead Nightmare Now Available For PC",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1ZBbzNyTmQtNnlMM1BrelU3UThremlQNkxmLVJicUIwWXJBUjAxeXNEd2gyZUowMnpsYUYzSExBN2k3REFEaWU3ZjFjM0JlMVVkWHZoeTNaZTBkSEZ4WjJ1MmttdnllejVPc2V2MnBjYkkxbHBGR2JLM3pGbkdVMy03c3VZc05wRUowcm5GQjVKQ2tjREJOaUt4MHhGXy1sMlI2LXQybmNvQXprX2g3T1lDN0RIQmhMMkE",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-10-29T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "pc"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "3b03259bbaed3d8fea93c1a22708b11150f9682c",
-   "title": "Zynga’s Game of Thrones: Legends Now Available Worldwide with Launch Trailer Starring Kit Harington",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVElIVDIwaXVZV0locUJhZldfSUNoVWh5Q0otT21Wc29mVk1aNWQ2S09KSEI0NUs4TC1IZkpEN3ltcEJYZHhjQVdDVXBMQ29rSFJKYlRXVFNfU29LR2YtbWNUVl9mUGZiSjVhWW9KV0FzN0VqN0dzUGx2bmZ3TWVUaXRjdTR4Vy05em1tUUhvMjdjNDk5R1NuRUNCZlpOMGJXWG9RRldDeXIwTWV3VXhJbTU3NW5TVnJPYXFCZmF0Q0VDbWdLWktWR1c1b3E0UXFZZDJHYUJrRXVxNmRsWFVnS2xoaWZYMnl5dEE",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-07-25T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "trailer"
-   ],
-   "score": 15,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "cbda33203b0a3adaf9aa6738e934669cd8d98c1b",
-   "title": "Zynga Opens Pre-Registration with First Trailer for Upcoming Game of Thrones: Legends",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbzZYUnNrSUZWaU9kRXpFaWVGM21POTltbWlwTFVmWC1HcGJPcjRKeWdUd2xNWGluemtHazZYZkdZQ01lS1VIbUd4UFQ3QmIyOXNibThmalU3bWpkZVk3TzRWZXAtd2JrX0dIUUdFMHdNSUd2ZVB5QkFVcmJodXVyYTRHemMwVFVLeDhZUjV2NjhrSjV3dXFvTUdObnlYVjBVb0ZWZVJ2T2J5V1VZLVZiYVg4Z1VsYmFDSGxVeXRVZkNGbG5SanRwbjBxdEVfMHY0Z1ZTcmdlVEI",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-06-10T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "trailer"
-   ],
-   "score": 15,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "92136629d294b2e171cb1199ecf9865500ade0ee",
-   "title": "GTA Online Career Progress",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tX2pXRHpUb2I1YXF0dll2bmpkUmRXU2ZHRGNhMVpUb3NGdDJ4clF6aUFsTVRHWWhXbHB1bS01VXVDdks2TGpZZkw1V19Md3FKRU9YbnNxU1YyWDhBVXNVRDVTRHVfa3hPZWZF",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2024-06-09T23:56:51Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "1d4dffd5760fd8ec63c2370eceed3205b6bbafde",
-   "title": "Zynga Launches Star Wars ™: Hunters on Nintendo Switch, Mobile Devices",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHN5TDk5OGpZNWJEVm84STFJbVhYRXotenVvNlNVN1ktdXpxZ0xTYmhQclBVejBaWFhLdkJYREROZE5LaUlwdUhKTHpDdkRZdm9yMW1WcmlXZFAyU0JsT3NOblVPRERROW5ZdWRaVDdmTXBNQkxnLXhzUTdFbldDQUhDcjVlaUF5WU8zX21CZGFhY1hUQW9vYnhVZ3FWS3ZzeVFDUHNkR3gxd0UzT3NQelE4RFlub09ER09IcVBvU3o",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-06-04T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "8670e2d16c25a80e33263100b5580b6e6ced6856",
@@ -3912,119 +3628,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "5a5c1144a11fe1c60c549074d4c307dcd6967fd4",
-   "title": "Grand Theft Auto Online PC Connection Troubleshooting",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GR0JmRlA1dFd0X0VxZVNrZGZ3ZjdncnYzaDFSWmpTQmw0Y2loWmt6X284MGYtZXFhZDBsLXZ6Y2JKZjhqTmxXTlVMSVdLTnJlemVYRzdEemJPakVmYmZkZVVKMHRGMjNiY3dUODFKVGptOTg",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2024-05-02T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "b04645aed7f063937e594148c22e5ae6d0c0d792",
-   "title": "No Rest for the Wicked Available Now in Early Access",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3k4aENMVWtMckdtbWlRVHdaX3F0aDg0c0thY09NejBhSjNoc2ZhMmE3NlBCT2NQaUtDV2ZEVGVDUm5VNTdQbE5xS2pnZGVmN0VVZTVsd0dlMy0zX2gwbmExdXJQa0pwVjBqVEhsb2w2eVVHT2FZUkRFWDNqSGhiTktNZ1hVN2ZwTlBCQWcwQ0x3R0dUTkhzRF80TEdzVWZJUXNFcUt2bXNlTXJMUGc",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-04-18T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "a78ff026dc6d84b7a0d723ef117fb3118ed817ec",
-   "title": "Take-Two Interactive Software, Inc. to Acquire The Gearbox Entertainment Company Inc., Developer of Highly Successful Borderlands Franchise",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNYk12dE9IUFZDcmhQQkRNSEtrUzQwWWpQNlJtaVdlRnA5ZThtTVZkSWhpbllVSVJEa2dSN21UY1J3VHJQUHJ5em8tTjFoQmVDYXhES0JTcEQzZWxpU0tYSkVTQ0hRVDNVNThFYVd5cXNiNkMwcUVrV3R6UmFRNkdTNi1qRmY4SXJ5YVB3b3h2anBGOTVlN2xJWGtEZFpVSVVVTTFxZVFjZHBfMlZKOGs3WUpGZHdyYWxYV1Z4WWdCTTY3M0l3bmRSZUtCZkxyUnpGNnNTNnROR2lWcF9RdlY4UW5GSU5sUVV0d3JwOUlTRFNRME1EZW9qOW1NVWZPZ1pMSV9WMENFc1lsMm1OYUI2WUhjcnpsQ1UwWWowZU9qWQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-03-27T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "6b8832a6f4fe8a182f9b7c71982d7834fa2716dd",
-   "title": "Penny’s Big Breakaway is Out Now",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUdZYldBZ0pSSG9uOUVOaXpYcl91dDhKNzJwZnNsVGFsVGpnS2NIRTFRaG1zUlRvc3lmM1hVc3I3Z1VEem94UGNUMHZxaTVIRmlSd1ZCN01HZ0FHcElhNUUyMWlxQ280TjVKY2VoNUtkZDV2VFJfel9GSnRQZlFOdVpmS0JNWHJXZGtSaWViakpTUQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2024-02-21T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "c94a6c9facfe6a2281bf07b5685ef9719ced5248",
-   "title": "Grand Theft Auto: Vice City",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Bb3daaEVzcGZNMWszczM3TDVHd2NPQ0Q2OHNOZ1hPWllCS243WDROcnRqVTFuRDJ1Ykg0RzlwWWx4SDN5SUR1eW4wZnYtbmZNSUIySzhxVQ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2023-12-26T21:03:26Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "2418ae4bb133549e310bdcb4a442d4137659fee4",
-   "title": "Zynga and Warner Bros. Pictures Bring Wonka to Words With Friends and Other Games",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWExXdnJBZVVYNjZRWkNYZHJfUjM1RUNNeEg4REFfdjNUbWFLcWNSNFBPcWZKWmZlNVNuT1FNZTRKUVh0Nk9IMUFneEp2a25RQUt6V0szVC1PVGdjMWhTMzRBWmhUWUNpVXFER0JxcEk2UEFhQUVxN0VsVi1KbkkzN01iZVhiVWhkWlZEWkFMamNkMzZRekJrQWpRNzZNWmYwcV80VDFOSkdHejQ0ajcteUNJMGhjbG8zRWtVU18zb1FTNGhtWmp2elBuSUU0dTJkSWFTMA",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2023-12-12T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "df869367a30ccb3a084cbf5cf3573b8d3665df48",
-   "title": "Private Division and Moon Studios Announce No Rest for the Wicked",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWhlOHlTakFWczFublllLUFfQWtCRWhHRE5qYjk5bjlsZjl6VzJmdGRwMEZyS3dpODNnci1uY2tfTnJRRnpPLWlJVmliSTh0S2stQzFmZnZuOUdMaGc5Q2ZHWjVVQmdRT1djQkNXUlJFYzZDQ3JxSHp4NjVqcnRPd2ZxaDFwakRQNGNMQmpqel91cGZGQXRpa3lPSjBDa2piRmJ6Y1JUZnd4M3lmbndoblVjOEhKSE1SNWwyWmtzVQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2023-12-07T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "df85bddf96d50299643126423f613ecc73ebb732",
@@ -4042,23 +3647,8 @@
    "lang": "en",
    "also_on": [
     "rockstargames.com"
-   ]
-  },
-  {
-   "id": "5c5cbbe4f78e08bf4f2d5be0d265d7a08d204b4a",
-   "title": "Zynga’s Socialpoint Studio Launches Top Troops Worldwide",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYV84MWtuNXpxNGkzTVh3ZGwwdmh3ZEFNYnl5U1NkUnNqV3FRNU85U3VjaTNVMVl1dW1wZEVtUk9YSUc0R2VJSDEyRzhjZWpWLXh3QWZ1VkVWRnVBYnlGcm9iOTBYbmtSTVR4RVgtUFNyX2xzelYzYVRKczJxUTNUZ1hsX3VlVEhYRHp2d3lPSDhXTWpKbkdLcF8wQTlUZElldkgzQ3pfay0yUW8xN3c3YnNR",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2023-10-03T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   ],
+   "priority": 4
   },
   {
    "id": "b9581801f777729717dd2408b98f27c126e006ed",
@@ -4074,7 +3664,8 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7d006dbe143166aff2f135ccc581da65f11ebd2a",
@@ -4092,7 +3683,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "6d171e7f994f3f6a31306674ee23430434e4bb8d",
@@ -4110,7 +3702,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "7feb1f47766cd8d63dd662046b1006e666297bac",
@@ -4128,135 +3721,8 @@
    ],
    "score": 80,
    "lang": "pt",
-   "also_on": []
-  },
-  {
-   "id": "ac48e90003cf59ad67758d3955b323d0137cc4df",
-   "title": "Private Division Announces Publishing Partnership with Game Freak",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3AwMG81ZlAxYlBkSWJHWkgyS3J3cl9nVW90cVlwYU5Ed0RhOTlfVV9ONmNPYnF3QU9SR21Jd0hUUDBVX0RpcGFoYzU5RnpEVm1wclpmblgxZ1J6ZVRVcjVydHVmLUowUHRDR0tBLVBBQU9ZQ2FNZTJ2cV9pTmp5Um1BS3I0NVVpVGVJcm1YTjRseUNGM2JBSm1aZ3B0OUYxdUxUTmF3aXBENTVFZnc2eWRtQnFfcXpMSDNWVlU0WQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2023-05-09T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "13daffd7f0eea1c45d207b06d3973b77478ba100",
-   "title": "Take-Two Interactive Software, Inc. Announces Pricing of $1.0 Billion Senior Notes Offering",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONmZoamZqUFJqMEZxcFZPY0RvUHFUdVRVcXZlRk5qV0x3V1l0RmZQTGNNc1lfVndGWU9NSHo3VkhQa0pDUnV5MjZrLWtsTVJQNEt3QmY2NVJxZWVPTFNGU3dyQ21tVzlSUG1vQXJqb0RadHpxSmVONFVTZm1DNjRwbjJoUVZMcnVTWTNidUt6QW1oLVg2VU5oaVpNODg4aFQ1Q2FhOGpQc1BEQmJmUUdtUkVobEk4ZWVaaVNCeE50MXNNUXV3R1J1cmo5LVdhTDZET1RjNGJXeFNtek9qYzF2TlllRQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2023-04-10T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "9f0aa637fa155d12c020c290f770d17e3abc8dad",
-   "title": "Rollic Completes Acquisition of Mobile Game Developer Popcore",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlk5SUlSc292cTg3THRvSTI5dnpBVUE1SWhsYkZJeXdsanhRWGt6LWdmZEREX0RGNkh1eW1EN0ZKX1Ixd3g5cGJkTGsydExIby1kZHM1aUlhd3c4Q3hMWkFKbktTVFBqYmR6dFppVk43M0x0YUliZy1IU0FodVp3d2V4dFVUdmVadThGZlNwRW0zcHBPWnpLcm1Xa08zbzhncXRTblFqWl9SZkVyLU1RX2pGanhfay1lNUE",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2022-11-17T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "4ad5cfa88e2a8ae55a20487b77d16dd41602b387",
-   "title": "New Tales from the Borderlands® is Now Available Worldwide",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnBWUml2MzFQc3ZkLWxzTHRKM0djZkMyZklPdjhRS3F1VURKcmk2RWpYQVpaZGltaWJ1RzBKMXNCMjA5ZWhJZW5aS1lORlhyY3FkOXRuandSd1JldGFUNjNwb3pCN09JYVlTVDJEREdJVzc4d0I5SmlGUUVxV1NTVDBfaVJFVXFINU94Z2c5MHAxUDZiZVlUWVIyQ2Q3M1FtMVd2bURna1AwQ2dWcWpKWWxLM0o",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2022-10-21T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "fd56b08e6f281ba53577193131022976b7d01d46",
-   "title": "Marvel’s Midnight Suns to Launch Worldwide on October 7, 2022",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRVMUtlaUFPdTd4Rkstend0Vm54TlVmU3RpSEl6SkJYUDVZN2p5NlpPbGdNWTA2TGtSeG9WNTVJb2E2YWc4QXVFTE01dVVTSUV5YmhhRURRa2lCMjd1YXVncHZpOW14cG9fRS1uVnA3VnZHd2tSbUk1TzlDZExNd01Uekh6V3pFeVV3VjFlN0lSU3A3bF90SldaX042ZlFVTTlqY0VNbWtQYlMzTGlBNm9lNi1ST28",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2022-06-09T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "1c66f5310da02fbf686c18c40f9a8807ceddf5f8",
-   "title": "Take-Two Interactive Software, Inc. Completes Combination with Zynga Inc.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYm9CRHV0NmxhSF9RSk9PUVpaSkhYNXJhczRta05qbkViNjZWMmJmb3NPYjNWY2hGdE02Ql9LaTZkSWg3UUJDTGpsYVVTdFJXanhYXzlKeFlPcVZDSjg1eGV0bEQ4SWRKZElISHlQb1c4cVJ4SmRnbmthQ3JjVGpxLUN2M2J0RzcxX0U1NVQ2dWlXdUs3MU9VSVNUTnhhbzVPUmxqS3JVb0NzYmR1cXRGQmZNSDA2MVhxUndHY3N0RTlGSUllS0VHVQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2022-05-23T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "fcc60c5f776e1de19e95a230b1ba2669f8f4b623",
-   "title": "Take-Two Interactive Software, Inc. and Zynga Inc. Stockholders Approve Proposals Related to Pending Transaction",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONFFWVnk1dlhtV0tGSHdLMFlwMGs4Zzl1dGtwSVZYd2hLX2E1VU12bWszRDhHS2lab0FVYUFEU09tT3BnVXpTdVNLbzhhTzBEWkVBV2xGRTVNUm9hRUcySlZuY3ZuTDRubUJZbnJJQTBTYnI5ODkyQTBfZ2pYaXN6dTl0VTVtNEpUVDV4LWJ5S0V1cnVPQXB6bUxYUHEtY1FQUW9uNFhUNTVBeTUtVHQ0RkdjZDZQeEpfTWc5b2ZCZkliU2NZb29LMUd4UDZ2ZlEzbDlrd25RVzRsemoyZ0t1OWtSTWQzRzl6WVBPYnZTalFrZHpUcU1wNjlpWGo",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2022-05-19T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "a28b09ed7572aa07b6ffbaaa243d323f2b21ad5b",
-   "title": "GTA Online",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41QklnX1FLdEI0cTBrOXF0RVAzeExJTHQtVkRnUmo2MGloQ0xVUkNCcGtPSmY4VGF5ZnJkMGZrTnRTeV9JMmdDazU1Z082TWkyVnc",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2022-03-15T12:35:34Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "eeed7b9882f4864b4dc06320ad192914c82c9c6e",
@@ -4272,87 +3738,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "1e7b0194b412c5a3802bd15413dafe09e319565c",
-   "title": "Grand Theft Auto V",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hTnpMZjBySnpoTDNsd09Rd3N0TzJUbnJRcG9lVkR3QTJGbnBFdGIzbFNvamdZdEd0N2FXU051a2dkVVZ6Mml5dXhiQQ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2022-03-10T11:06:39Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "b903a03f4310e9a7961b2f4ad8467fbfa4474125",
-   "title": "GTAV and GTA Online Coming March 15 for PlayStation 5 and Xbox Series X|S",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM0c2TkY5SzZYeTl4UmhXbEpTNzRnRUplODhyckRZd1U5QlpWMVFDRzVmcWR6Vm51b0tqZGdORUpJbUVoamxmcDBGS3RFalRrMGt0T0kyUDcxU2huR2ZSWG5OTWllcUVBOHlkYkVWTmc5cWM5d3EwQ3pBZlNnMEhkeDdPMmtWUFpwcjNuRUtuUWs0MzJBbEd2TWNOalRPclhkeTNYOEhjdDVUcEZOU1NyeEdOWlZsbWppcXpjdFpLR1ltcE1KX1NWTXlydw",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2022-03-04T15:18:37Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "9f83f49f4a2437268c1cfd2b184a766d2f45966c",
-   "title": "Buy Grand Theft Auto: The Trilogy",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aWHJpN2wyMzVGRXFmaThjLXR2YjlPdUZfRDQ4Qy1pZERlZHpRMDBhZXNJb3BlLVNrdHk0S25jRWF2YVJNdmF6SzV3V1JTREZCeHFqVHFFMjJBYkFvZU1jVkMtUTkyMXloSXlyam81eC1QNFVZNUNV",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2022-02-23T12:22:47Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "8feacda0ce9c6c11b80e9df92a7602abdbb0fe3e",
-   "title": "Buy Grand Theft Auto V and Grand Theft Auto Online",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qQVpmb1JvZGloTVNZcjJXUktXOExzOUZjTDZfeEZCTWlyLU8wV2F1bkZuMDlEa0dNUU5PRTNYLWFmNUk5RzZfQm1pZDRJejJtRTNfUnk5WW4",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Store",
-   "domain": "store.rockstargames.com",
-   "published": "2022-02-15T03:46:59Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "9cc13465861ad72e786c8372c6b80de933a9f3a8",
-   "title": "Take-Two and Zynga to Combine, Bringing Together Best-in-Class Intellectual Properties and a Market-Leading, Diversified Mobile Publishing Platform, to Enhance Positioning as a Global Leader in Interactive Entertainment",
-   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOcmpFM3ZDVmlYeFJ0ZnhCTEJFajhFZ2x4SmRXUUFQR2dId0pNS0NvN1A1WEJTT2VfY1B2UVFGazFqcTZQekk5QWlhRkd1X2R4b3djN3VCRkZKSGItTGsxZWluUEhTa2VkOXFDT2hfR2o2VWtweDU2V0lzeE9rejZEYi1zczZMYlpEZmR1MmZpNVMtOVZFOFBDQWc0c2tRNkdXRWMxQ1ZLX2NyZGplb21CNXZhRlN4Z0VUbmZoV1NydTVfcXpmaDBEZUVKOVJpYzB0RXJTN1RwRkRRTzNlR0NwLVJMYm9JVGRSbkItdmdrQTZsTHNkVkNrYUJaTW1jN0QtZjBZWkx1WXZENElPQ0FNcnJuQkJUanA0ektoYXl1eDBnWjNhZnk4RFpqYTNXUWxvYlVSMVduOHVkSGxONE9BV1JHX3plTnY3TEdVR0RBVGFtRW9FckdNdnZVUHhzWTFqbE9mdkQ4d0R3M2txUWN2WGtuOVM0eXp6dnhobE5FVXluMHF5TWc1Sw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2022-01-10T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "71f633f88abdbf33f5b650ed410ee7c44e7c834d",
@@ -4368,23 +3755,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "c8aa215473adb847645d6896b2e3cbb785801bde",
-   "title": "Private Division Acquires Developer Roll7",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcXNIVUV4TUFyVDBQbHN3UlJ5cVJTWnBIRUVQQi1lbWQtYkIxWFFzNmFwM2QyN0tyb2tUZzNMeTV2eGJaWlhnQlRIMkg3NnA2LTdaVU5yVC04MlVlRUhQcm9sU2F2aU9rN0IzQmJ4SWJ2dUoyRDNhVVNmU3Y4aVBjX0d0NDVoM3B4d2ZIMjBWNUYwOHh3c3ZIMkEzVGpwem8",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2021-11-15T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "df8fb1dee0fb90e63430b70fc44e5e37d87ae448",
@@ -4400,119 +3772,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "328f201928d51ea1300ea8b4a13bf8b7fdef1214",
-   "title": "Grand Theft Auto IV",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bFhRMXZqWE1uSkd3VmFRVC1JMHRKczdBTDk5TmZHZUpvaUdReUtsck5vUmNOQzdieHhlc21hQzlnMVY4bXlPZldzbVdybEk",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2021-09-26T13:26:01Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "345818e1a978956355047897f4f2700feeb45d8a",
-   "title": "Take-Two Interactive Software Acquires Dynamixyz",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlhjTWpkdl9yQUktU0twcGpLQ0JvSi12dDhpYXp0NGFOYXc5d1Y3R0pXR2czLVJITU0yM0ZGd21TM3hRYU9YRUc5R2pScUhxNkhzcHppVWM0Uk4xQjhBVFJraWFBV1g2clBLa3FfNnRDV2RRUFFlMlg0MkxydFVlNVNRMDc0OHJQMERMZ2VibDZQUXFqeXROeW9yYXpXQ3p4RnkzN3ZPSTE",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2021-07-01T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "35027f50da9095eb7a3d708d49f6325f1c26fa75",
-   "title": "Private Division Announces Kerbal Space Program Enhanced Edition Coming to PlayStation",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUUY5NjRscGJ1bERPcmQxcjNuUndOX1MtNVZJMVVWRl9KcG9pQTVISy04TVNhMi1LZ3pRaXBQY2s1OEYyVnRqcTU5TjZpTXJmakJKU0ZrdnBTdGtUWlA4enlTZU1jZU9STXN6bjVFakxvQV9kMXVFY3VIR1o1TnJVNE9sQXdYQlhGVTdFZ25NWTVRdERRVGI4WmNjbDNwS28tWEV3WWE5NVhZZWNVcDJuWGxxcXdFa0tzaWpKakJta1Vtbm9yRE1FTVlXX09WRVBfVjl5d1IyNVB6M1p6RHlLaW1oQXhnc0F0SEluZjM2TnIxYVM4SnlKdFFLOGluUlZsWmFv",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2021-06-24T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "f948aa68c5d41a6296b2f32d1d74169dfeed499d",
-   "title": "Take-Two Interactive Software to Acquire Mobile Games Developer Nordeus",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUpaTkJuQ2NDOE1aLW1kM1NJb3FUQTEwU0w1U3NOVEh4SnNlN2FaTnBRalRualdyUmJDWGlEMnNuNnVnaDBMLTNKSHBHWGhMYUdCX3dWVEI0TzIyWEZRQmY0TV9iRjFKUlRmM0h0Qk1mTGl2aklBV3p3aXBxZ0QzUExyci1MQ3drRXF5eUNhYlJ4bHRYR0QzTzNqUlpvMWJEcDRGVFB4dWJRc1pJMjY0cGlPZWlFb01KS0g5ZmVmTkVUSERLTmVj",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2021-06-02T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "e5c7a7093e129eb1263cba9eb9b667b70f009de7",
-   "title": "Tiger Woods Inks Long-Term Exclusive Deal with 2K",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenRHMzJlaEtwLTBIVlhOMUJxMUw2R0VBSUZhalVUeVNxY3VET0MzOWRfNlJwNUxXSkVfOWVXOGI3X2FVdWloODdiRlhGNU02eGFWZjgxX25JNWtHQldrdGdxMVhjZGI0ZlhTWC1xRm1uakExZnJVRzhGV3A5Sm5NZ2lRMlA3WnBuSzhWWVZyZTU5UURJRmtONXV1M0c5UUZuTWthbGF0OFlyUQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2021-03-16T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "86e0331864e48659fc6bad715b8ab722e5e21bf8",
-   "title": "Screen Songs: The Music of Grand Theft Auto Now on Pandora",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1IwbWNlbUJDTFMzanJYdFNQajZOZHE4Mm0zdDJxaW9hWi1xNlhRcnRXN2JlWTdVR2lxX0hTTkprS1lQUEMzTlNfbmJ0NzBxQ1FucG9jQ1NSZFRiUHFac1JCMWtQVm1zUFAyNW5zdENwVDRocm5BcDVUMFN6NHUxQ3lKR0JhbGV2Q1VnN1FuLUI1T1JhWWV4dC1yeUhpR2xMSEJzSHQ0UzMwbjR5eHF4QnpyZUxkNllNcXdJ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2021-02-10T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "1ae3fc56298a6a78149dcdc3041b81ae99799a7f",
-   "title": "Take-Two Interactive Software, Inc. Announces Lapse of Offer to Acquire Codemasters Group Holdings PLC",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGd6RTdNYXVycklBV2ZHT3BmTHNpWkJTRU9nVFdzRWZWWXdkUFdVNUQxME9rUmJDcjAxS1pFQ3M1SlZXUDZ1RUtvZTItMkx6N002dFhWcjBya2RrOGhnVzNFUE1KNG9PbkdVSy1ZQnVhRU1qcm5VNS1VZjFTTkV1VlhRSWpDTTRWelowUzk1d3BlUS1rSEotazUxbVl6YW4wZUM0cWZJSWhJU2ZuanhiTFoyam9Td3BfSXhBSXdqb0llUy1iT0lQNzRuZEV4RkdhVFllUFI0SE1JZXFrZTV2VHNIWUNad0lOWFFCRE9BSQ",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2021-01-13T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "3cf16989e60e82b0af2713c737d461aeb0fcf629",
@@ -4528,55 +3789,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "3143681fdf4333813362fd4b214f1ce98cae2bcd",
-   "title": "Take-Two Interactive Software, Inc. Reaches Agreement for Recommended Acquisition of Codemasters Group Holdings PLC",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMlVNTmpSTi1Tc3RjOEFGWkRzeHhCdkpBbGRpelpWeTdjalVKUmJzX0lHcEdFRV9VY2pqX2xJaDZQVXRsTXMwakxEaGVXd2tjSW5scW90dWpFQzlKR0U1WW1qdmRjN1dhUl9nMDlweGlqR2ZiZmtFX3o5S0QtNmpoNEtGaER1UVNSR1VjVWtLS1VPLWpZdzJhMXBmOXdwTFYxM0wzLXN1MzY0cGN5SFJEX0NLeXN4a1pfMTZiZkozZnN3M2Y4SzF1ZHkwbHluQ0tNeGdxMVJjejVUT0hveTFuQVBjelJGeUl2XzJpd1BfNkRBRVpDOVdyS1N5UEJ0TDNB",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-11-10T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "a885fcb21b1e285a2c8cd7df5ed36337405cac90",
-   "title": "Everything is Game: The Next Generation of NBA® 2K21 Now Available Worldwide",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2loNGJtaDRSUVpIQ3BQT0VIT0JudHRUc0d4ajRObXNBeGkyZEJicXJJWkZIbDdkUlVDdTBfYU54Q3RkRFNpdnNfUlVxMUd5NE1fRkktR0lxd2N2SGRnSU1zdWZiLW9vcVJLc2pqZzlLd2paUEo3Tm1OVF9veXlSV0s4UDd3MTNTZWZUVkNodjNCREJJc0Y1LVpqdE5PVDdHdVE4b1B4Z1c5RG5SeHhpbVdwOEJicnMwaTB2NTM5Q3JveVI5NGZpUWg4dw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-11-10T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "21c86e94527f2438c7b715ad4d7b2b1fbf1b16c1",
-   "title": "Take-Two Interactive Software, Inc. Reports Strong Results for Fiscal Second Quarter 2021",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0JnSjl1YXgzTmg0Zk5QTHEzbGxGZ2Q3cXpWT1Q5VkhwR3diTDhaaEg1S2dzei10UmJTSUZGYnlFMnpBNDBacmt2aF9pVTBTdTZiMTNWQWZ1TkR4SnJNaUFqRUZJbi1lZHQ2WEJEbWVIb3lyWm1rd2JCbEdhOV9NMUROYWZUajB6VmRDRkJKQ0RkbHhHbF9PbXY3b20wOWlZYmJMTlpuYTlFYzV6c1lacXJUX0pjTVppR2pTMXgyQU9KZloyTlh4WUc3dFpiTElYcU00c0gxb285RjB3eHc",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-11-05T08:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "147938dccdb26e112b1efd6c8e3f6968c10a3884",
@@ -4592,103 +3806,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "2d1cbf73bcd5fedbdc208f547390b177cb001ce5",
-   "title": "Everything is Game: NBA® 2K21 Now Available Worldwide",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeU05V1ZKbzVhZGdRamcwTXN2Z0FYMWVxcGYzRkVvYVBrRlZoZWU3U2NSR2duNnBhVkZZZ2lOSzNwQzBxUDBNWXBTNVMzR2o1OHdDZG9yMkYyZnFiekx0TFNlMnlKZ2dxOGdsY1dDeXBTcUIxS19RS2xla1VibEJUYkptSGhtVHZoakNpdGU4aVpnbnp3ZDB1Y2tkb3hxODBscXNHRzMyQmhzYWpw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-09-04T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "2e22f0e4da8533db4697de63a55905769bd62593",
-   "title": "Take-Two Interactive Software to Acquire Mobile Games Developer Playdots",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUl4dlUtZGVITmhXQjlCZEJWRUljMTZsYllaVlFnZG4yeThuWlJEVkdoSVNEb05pMmdjQUk2SFJpeXd1dEdPZVpmQ0JTQkNhYk1hOF9HS05MSkZ3U1FHZDFhSkVSdUpKckdKMXBHeEdHRmN4QUJFXzdRRC1DUDh1ODl1OWNfVjc4eWp0N1JuOTB3VUZ6ekxkR0xKQ2l2UE1qOE9sSi1VS3gwdnFfM1pma1NrSzJMaXlQTENvcExoR0s2bUk2RU1scg",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-08-18T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "e8bc565a49861957a6ec594866627e5469c757eb",
-   "title": "Private Division Teams Up with Moon Studios, League of Geeks, and Roll7 on Upcoming New Games",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb3NWcGN4SjN1NUVSWUNWcVk2YVE0WUoxU2R5NWxRY2F2V2puUnBsbXAwYnp0OXNPZVFDZmdJYkw4OTc0NHNYVW56OUt1ZkhVVjBIRmNWVG54clVHeXNpTk1wbXNiWVFPQjNEWm1QV2FURWd0X09CbmNzQU9ibEZONkx4b0VBQ3FEMThsdHFDR0lzeGIwRjlqbHRWdUM3SjBlUjBnU05VUGlrNkd5ZUs4UTRWNFh2cVI3RXFYLTFmNkRSeVRoRzNQbmk5bzdRNHBuTjFlT2xpUUxFV0NLcTlSU2JB",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-07-29T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "b28b0074ad1182b3dfe6eadb5e271f8bb9b5bb34",
-   "title": "Grand Theft Auto: Chinatown Wars",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qcDhVVmR3NkpYZ2RrQlRGVG1nMHN1N0M5Tkg3eDdScWZSQ01jWDNpTGdxendEeTdZaHdaQ2NqWUlXYU54N1pVRHEtTTF3cUtKdks1NUhRX0ZxdHFmU2c",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2020-07-28T17:04:43Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "7d66dc0a1584afe6f66c703bdee08e5e179debc2",
-   "title": "Private Division and V1 Interactive Announce Disintegration Launching on June 16, 2020",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYXk5SHFxNjg4VGpsMHBETGZ4UWFaTGFxTlpUeE0zemJNSEY1MERlcTRLSGpUeE1ZT1JHajdYME02cFQzRE8zVm5SdUE0Y1Z1cEtZZFFMaVlRb0VqVFd3MkdoQUFvbnB6ZVJaZjZpY09LeFdxbTI2bEJzNzJNU1JrNUF6VnpHaXBYcXFkenlXb1BhdmFyaEkzNnFCTkQ2d0doUDd2U0o1aTlSUkZqbjZNM2NpR01rR3BwZ2p4X3B6VGlKRnpqLUpmVmVIVFQ3TzRRMEtjdEpJYjdVZw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2020-05-07T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "ac9d84cb44aaabcd4c1d55a2144e4da00f329022",
-   "title": "Do Not Sell My Personal Information",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91RUhBcUxIVlNnamg4eHNtSEMxRjUyc1pFUk1DWTZPSnA3MGxUdmxDQTJPS3B4WTBlaXJsUDF2LWYtaEFXeEZ3YWJB",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2020-04-21T15:01:59Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "1588628cf3559730c729f8d1182d56693e3bae0d",
@@ -4704,135 +3823,8 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "821fb589160fb13f1404b1f99aea45433723ad8e",
-   "title": "Jobs",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBraDZZNEF2dDMwcGNtSGljcm9kQzdiYnZ6T2s0TzlIdkUwOW1GZXplUGM4a0xZREQtUWE3aEQ4bHVaZTBjQURFN3hpR0tydW5JUzBv",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "socialclub.rockstargames.com",
-   "published": "2018-10-03T14:46:15Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "343a24723bca5ce5e54893eb4bb1772bac7399bf",
-   "title": "Grand Theft Auto V: Weapons",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XSWVWTGllVFEwTkxzSEN6N1RwYnhaMnRHUGhYNVAtSjlOYzFKa0txYkd3U05vNUlUR2tyQng3TXk1VmVsQWhmb2JFdFBPSmtZNXA2d05LaWlMUzlRSmxlT01lVGR3b0tBZmZKUy1EOWowWmM",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "socialclub.rockstargames.com",
-   "published": "2016-04-29T19:27:23Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "650d418bb4187e9656a1562adb58af2cb4912a88",
-   "title": "Rockstar Games Customer Support",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OaDRrOWw2anN4eVJUOGh2MVdFVUdEaUt2TjZ1VlFSTkw1ZzdGUE80VmdXT0dvblJYWTU2MDJ0bFpRYTVJczM3YkR3",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2012-05-20T21:38:19Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "f3f9604c5670728d682a8b6665170f306e611260",
-   "title": "Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmTE5OS01mVFdwLWRaU1FVNFNLQmlhdDkweXdBMWl5V3A5WVZRMnBNZmxqcEFYUGNuWmpzNE8tbklhZDVOYXpHS2lqU3RkODQ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2012-03-17T03:05:42Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "ea1d952a5125f80d9e38e3399bf8da1bebd627ba",
-   "title": "Legal",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uOXhrTGpCOGJDVFR4d1JtWkQxSG5XY2x2YmNESUhkejhPbnRqVEFjd0FmVHJNS0gtNlZDSkJUbW5LX25lekNoYkJOMA",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2012-03-17T02:54:42Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "5ebff83dc66dc3e5d9142f0ca248bad69e41b157",
-   "title": "Downloads",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lcXhEVHF3TGdKTjNFSlhHaEtQbFdUVG52UThmdUdyNjN0M0Q2ZFpxUjRtNGRLZmlXOHpic0dTOHVyeVExdG5IMk5GNTlvMW1I",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2012-03-17T02:50:07Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "a0b50bbdc5f09db5a5e75f65309b8a11b0daddda",
-   "title": "All Games",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nekc3LU9pOXpxa29JeHd1ZXZ3dEJwMXl0UXVMclNVbllabkVKdkpfWE1CQzNMWDZ6TjZDWnB4dWlzV1ItUDlaM2htOA",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2012-03-17T02:35:55Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
-  },
-  {
-   "id": "7959c3707ffb699b29659dfc034b2923e0fecaf5",
-   "title": "Rockstar Games",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9QN2lxUW9Ed01TMjRmSGZnU3ZmbUVtNWI0WkJRak5DRGFnMlhfOUtsd0pSejR6YjV1Rkp4WkdRWDZkZTVt",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2011-07-28T11:20:28Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": []
+   "also_on": [],
+   "priority": null
   }
  ]
 }
