@@ -112,7 +112,7 @@ def parse_rss(content: bytes, base_url: str = "") -> tuple[list[dict], dict]:
             published=struct_to_dt(e.get("published_parsed") or e.get("updated_parsed")),
             summary=summary,
             author=e.get("author", ""),
-            source_title=src.get("title"),
+            source_title=src.get("title") or e.get("news_source"),  # Google <source> / Bing <News:Source>
             source_url=src.get("href") or src.get("url"),
         ))
     return items, meta

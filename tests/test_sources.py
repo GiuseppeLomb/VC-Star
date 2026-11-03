@@ -128,3 +128,12 @@ def test_helpers():
     found = walk_posts({"a": [{"title": "X post", "url": "/newswire/article/9/x"}, {"title": "nav", "url": "/games"}]},
                        "https://www.rockstargames.com", "/newswire/article/")
     assert len(found) == 1
+
+
+def test_bing_publisher_name_is_used():
+    bing = b"""<?xml version="1.0"?><rss version="2.0" xmlns:News="https://www.bing.com/news/search?q=x&amp;format=rss">
+<channel><title>Bing</title><item><title>GTA 6 roleplay depth outlined</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;url=https%3a%2f%2fwww.insider-gaming.com%2fgta-6-rp%2f</link>
+<News:Source>Insider Gaming</News:Source></item></channel></rss>"""
+    items, _ = parse_rss(bing)
+    assert items[0]["source_title"] == "Insider Gaming"
