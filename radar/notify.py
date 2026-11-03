@@ -1,0 +1,174 @@
+"""Push notifications via ntfy.sh (free, no account). Optional Telegram mirror."""
+from __future__ import annotations
+
+import logging
+import os
+from dataclasses import dataclass, field
+from datetime import timedelta
+
+import httpx
+
+from .classify import CREDIVEL, OFICIAL, Rules, mentions_gta6
+from .util import parse_iso
+
+log = logging.getLogger("radar.notify")
+
+NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+TOPIC_LABELS = {
+    "rp": "RP", "servidores": "servidores", "creator": "criadores", "online": "Online",
+    "pc": "PC", "trailer": "trailer", "data": "data",
+}
+
+
+def pages_url() -> str:
+    explicit = os.environ.get("RADAR_PAGES_URL")
+    if explicit:
+        return explicit
+    repo = os.environ.get("GITHUB_REPOSITORY", "GiuseppeLomb/VC-Star")
+    owner, _, name = repo.partition("/")
+    return f"https://{owner.lower()}.github.io/{name}/"
+
+
+# --------------------------------------------------------------------------- rules
+def push_priority(item: dict, rules: Rules) -> int | None:
+    """5 = OFICIAL + urgent topic, 4 = OFICIAL, 3 = CREDIVEL with high score, None = no push."""
+    cfg = rules.notify
+    tag = item.get("tag")
+    topics = set(item.get("topics") or [])
+    if tag == OFICIAL:
+        if topics & set(cfg.get("urgent_topics") or []):
+            return 5
+        if cfg.get("official_requires_match", True) and not topics and not mentions_gta6(
+                f"{item.get('title', '')} {item.get('excerpt', '')}", rules):
+            return None
+        return 4
+    if tag == CREDIVEL and int(item.get("score") or 0) >= int(cfg.get("credible_min_score", 60)):
+        return 3
+    return None  # RUMOR never pushes
+
+
+@dataclass
+class Message:
+    title: str
+    body: str
+    priority: int
+    tags: list[str]
+    click: str
+    item_ids: list[str] = field(default_factory=list)
+
+
+def item_message(item: dict, priority: int) -> Message:
+    title = item["title"]
+    if priority == 5:
+        head, tags = f"🚨 OFICIAL: {title}", ["rotating_light"]
+    elif priority == 4:
+        head, tags = f"🟢 OFICIAL: {title}", ["green_circle"]
+    else:
+        head, tags = f"🟡 CREDÍVEL: {title}", ["yellow_circle"]
+    topics = ", ".join(TOPIC_LABELS.get(t, t) for t in item.get("topics") or [])
+    meta = " · ".join(x for x in (item.get("source_name"), topics, f"score {item.get('score', 0)}") if x)
+    excerpt = (item.get("excerpt") or "")[:200]
+    body = meta + (f"\n{excerpt}" if excerpt else "")
+    return Message(head[:250], body, priority, tags, item["url"], [item["id"]])
+
+
+def plan_messages(candidates: list[tuple[dict, int]], max_per_run: int = 10) -> list[Message]:
+    """At most `max_per_run` pushes. If there are more, the last one is a single summary."""
+    ordered = sorted(candidates, key=lambda c: (-c[1], _neg_time(c[0])))  # priority, then newest
+    if len(ordered) <= max_per_run:
+        return [item_message(it, p) for it, p in ordered]
+    head = ordered[: max_per_run - 1]
+    rest = ordered[max_per_run - 1:]
+    msgs = [item_message(it, p) for it, p in head]
+    msgs.append(Message(
+        title=f"📡 {len(rest)} novidades — abre o Radar",
+        body="Há mais notícias importantes do que o limite de pushes. Vê tudo na app.",
+        priority=max(p for _, p in rest),
+        tags=["satellite"],
+        click=pages_url(),
+        item_ids=[it["id"] for it, _ in rest],
+    ))
+    return msgs
+
+
+def _neg_time(item: dict) -> float:
+    dt = parse_iso(item.get("published"))
+    return -dt.timestamp() if dt else 0.0
+
+
+def is_fresh(item: dict, now, max_age_hours: int) -> bool:
+    dt = parse_iso(item.get("published"))
+    return dt is None or now - dt <= timedelta(hours=max_age_hours)
+
+
+# --------------------------------------------------------------------------- transport
+class Notifier:
+    def __init__(self, topic: str | None = None, telegram_token: str | None = None,
+                 telegram_chat: str | None = None, client: httpx.Client | None = None):
+        self.topic = (topic or "").strip() or None
+        self.telegram_token = telegram_token or None
+        self.telegram_chat = telegram_chat or None
+        self.client = client or httpx.Client(timeout=15)
+        self.sent: list[Message] = []
+
+    @classmethod
+    def from_env(cls) -> "Notifier":
+        return cls(os.environ.get("NTFY_TOPIC"), os.environ.get("TELEGRAM_BOT_TOKEN"),
+                   os.environ.get("TELEGRAM_CHAT_ID"))
+
+    @property
+    def enabled(self) -> bool:
+        return bool(self.topic)
+
+    def send(self, msg: Message) -> bool:
+        if not self.topic:
+            return False
+        payload = {
+            "topic": self.topic,
+            "title": msg.title,
+            "message": msg.body,
+            "priority": msg.priority,
+            "tags": msg.tags,
+            "click": msg.click,
+            "actions": [{"action": "view", "label": "Abrir Radar", "url": pages_url(), "clear": False}],
+        }
+        ok = False
+        for attempt in range(2):
+            try:
+                r = self.client.post(NTFY_SERVER + "/", json=payload)
+                if r.status_code < 300:
+                    ok = True
+                    break
+                log.warning("ntfy respondeu %s: %s", r.status_code, r.text[:200])
+            except httpx.HTTPError as exc:
+                log.warning("ntfy falhou (%s): %s", attempt + 1, exc)
+        if ok:
+            self.sent.append(msg)
+        self._telegram(msg)
+        return ok
+
+    def _telegram(self, msg: Message) -> None:
+        if not (self.telegram_token and self.telegram_chat):
+            return
+        try:
+            self.client.post(
+                f"https://api.telegram.org/bot{self.telegram_token}/sendMessage",
+                json={"chat_id": self.telegram_chat, "text": f"{msg.title}\n{msg.body}\n{msg.click}",
+                      "disable_web_page_preview": False},
+            )
+        except httpx.HTTPError as exc:
+            log.warning("telegram falhou: %s", exc)
+
+
+class DryRunNotifier(Notifier):
+    """Records what would be sent; never touches the network."""
+
+    def __init__(self, topic: str | None = "dry-run"):
+        self.topic = topic
+        self.telegram_token = self.telegram_chat = None
+        self.client = None
+        self.sent = []
+
+    def send(self, msg: Message) -> bool:  # noqa: D401
+        self.sent.append(msg)
+        return True

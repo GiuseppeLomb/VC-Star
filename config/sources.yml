@@ -1,0 +1,198 @@
+# =====================================================================
+#  Fontes do GTA6 RP Radar
+#  Podes editar este ficheiro diretamente no GitHub (ícone do lápis).
+#  A próxima recolha (até 10 min) já usa as alterações.
+#
+#  Campos de cada fonte:
+#    id         identificador único, sem espaços (ex.: ign_gta6)
+#    name       nome mostrado na app
+#    type       rss | html | json
+#    url        endereço do feed / página
+#    tier       official | credible | community
+#    enabled    true / false  (desliga sem apagar)
+#    timeout    segundos (opcional)
+#    lang       en | pt (opcional)
+#    relevance  gta6   -> só entra se mencionar GTA 6 / GTA VI (por defeito)
+#               topic  -> só entra se tiver um tópico de keywords.yml (RP, servidores, ...)
+#               always -> entra tudo (usar só em fontes oficiais)
+#    max_items  máximo de itens lidos por recolha (opcional)
+#
+#  Estado de cada fonte (último sucesso, erros): docs/data/health.json
+#  e no ecrã "Sobre" da app.
+# =====================================================================
+
+defaults:
+  timeout: 15
+  retries: 1          # tentativas extra após falha (total = 2)
+  max_items: 60
+  lang: en
+  relevance: gta6
+
+sources:
+  # ------------------------------------------------------------ OFFICIAL
+  # Newswire: sem RSS e renderizado por JavaScript. O radar procura sozinho o
+  # endpoint GraphQL interno (persisted query) nos scripts da página. Se a
+  # Rockstar mudar o site, a fonte "rockstar_gnews" abaixo serve de reserva.
+  - id: rockstar_newswire
+    name: Rockstar Newswire
+    type: json
+    parser: rockstar_newswire
+    url: https://www.rockstargames.com/newswire
+    tier: official
+    relevance: always
+    user_agent: browser
+    link_pattern: /newswire/article/
+    enabled: true
+    # graphql_hash: ""      # opcional: cola aqui o sha256 se a descoberta falhar
+
+  # Reserva oficial: tudo o que o Google News indexa em rockstargames.com.
+  - id: rockstar_gnews
+    name: Rockstar Games (via Google News)
+    type: rss
+    url: https://news.google.com/rss/search?q=site:rockstargames.com+GTA&hl=en-US&gl=US&ceid=US:en
+    tier: official
+    relevance: always
+    enabled: true
+
+  # Canal oficial no YouTube. O channel_id é descoberto a partir do @handle
+  # e confirmado pelo nome do autor do feed (não confiamos em IDs de memória).
+  - id: rockstar_youtube
+    name: Rockstar Games (YouTube)
+    type: rss
+    resolver: youtube_handle
+    handle: RockstarGames
+    expect_author: Rockstar Games
+    url: ""                 # preenchido automaticamente; podes fixar aqui o feed
+    tier: official
+    relevance: always
+    user_agent: browser
+    enabled: true
+
+  # Fórum Cfx.re (Discourse). A categoria de anúncios é descoberta via
+  # /categories.json pelo slug abaixo. Anúncios da equipa = OFICIAL.
+  - id: cfx_announcements
+    name: Cfx.re — Anúncios
+    type: rss
+    resolver: discourse_category
+    base_url: https://forum.cfx.re
+    category: announcements
+    url: https://forum.cfx.re/c/announcements.rss
+    tier: official
+    relevance: always
+    enabled: true
+
+  - id: cfx_latest
+    name: Cfx.re Fórum (geral)
+    type: rss
+    url: https://forum.cfx.re/latest.rss
+    tier: community
+    relevance: gta6
+    enabled: true
+
+  - id: playstation_blog
+    name: PlayStation Blog
+    type: rss
+    url: https://blog.playstation.com/feed/
+    tier: official
+    relevance: gta6         # só anúncios que falem de GTA 6
+    enabled: true
+
+  - id: xbox_wire
+    name: Xbox Wire
+    type: rss
+    url: https://news.xbox.com/en-us/feed/
+    tier: official
+    relevance: gta6
+    enabled: true
+
+  # Take-Two: os comunicados de imprensa saem pela Business Wire.
+  - id: taketwo_press
+    name: Take-Two (comunicados)
+    type: rss
+    url: https://news.google.com/rss/search?q=site:businesswire.com+%22Take-Two+Interactive%22&hl=en-US&gl=US&ceid=US:en
+    tier: official
+    relevance: always
+    enabled: true
+
+  # Rockstar Support: não há página pública de anúncios em formato legível
+  # (o estado dos serviços é um widget JavaScript). Fica de fora.
+
+  # ------------------------------------------------------------ COMMUNITY
+  # Google News: a etiqueta final depende do domínio real (credible.yml).
+  - id: gnews_rp
+    name: Google News — GTA 6 RP
+    type: rss
+    url: https://news.google.com/rss/search?q=%22GTA+6%22+(roleplay+OR+RP+OR+FiveM+OR+%22private+servers%22+OR+%22creator+platform%22)&hl=en-US&gl=US&ceid=US:en
+    tier: community
+    enabled: true
+
+  - id: gnews_online
+    name: Google News — GTA 6 Online
+    type: rss
+    url: https://news.google.com/rss/search?q=%22GTA+6+Online%22&hl=en-US&gl=US&ceid=US:en
+    tier: community
+    enabled: true
+
+  - id: gnews_pt
+    name: Google News — PT
+    type: rss
+    url: https://news.google.com/rss/search?q=%22GTA+6%22+servidor+OR+roleplay&hl=pt-PT&gl=PT&ceid=PT:pt-150
+    tier: community
+    lang: pt
+    enabled: true
+
+  - id: bing_rp
+    name: Bing News — GTA 6 roleplay
+    type: rss
+    url: https://www.bing.com/news/search?q=GTA+6+roleplay&format=rss
+    tier: community
+    enabled: true
+
+  - id: bing_online
+    name: Bing News — GTA 6 Online
+    type: rss
+    url: https://www.bing.com/news/search?q=%22GTA+6+Online%22&format=rss
+    tier: community
+    enabled: true
+
+  - id: bing_fivem
+    name: Bing News — FiveM GTA 6
+    type: rss
+    url: https://www.bing.com/news/search?q=FiveM+%22GTA+6%22&format=rss
+    tier: community
+    enabled: true
+
+  # Reddit bloqueia muitas vezes os IPs do GitHub Actions (403/429).
+  # Se ficarem sempre em erro no health.json, muda para enabled: false.
+  - id: reddit_gta6
+    name: r/GTA6
+    type: rss
+    url: https://www.reddit.com/r/GTA6/new/.rss
+    tier: community
+    relevance: topic        # o sub é todo sobre GTA 6: só entra o que fala de RP/servidores/online/...
+    max_items: 25
+    enabled: true
+
+  - id: reddit_fivem
+    name: r/FiveM
+    type: rss
+    url: https://www.reddit.com/r/FiveM/new/.rss
+    tier: community
+    max_items: 25
+    enabled: true
+
+  - id: reddit_rpclips
+    name: r/RPClipsGTA
+    type: rss
+    url: https://www.reddit.com/r/RPClipsGTA/new/.rss
+    tier: community
+    max_items: 25
+    enabled: true
+
+  - id: reddit_gtaonline
+    name: r/gtaonline
+    type: rss
+    url: https://www.reddit.com/r/gtaonline/new/.rss
+    tier: community
+    max_items: 25
+    enabled: true

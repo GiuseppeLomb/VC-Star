@@ -1,0 +1,35 @@
+# =====================================================================
+#  Domínios e autores
+#  - official_domains: notícias destes domínios ficam 🟢 OFICIAL
+#  - domains:          notícias destes domínios ficam 🟡 CREDÍVEL
+#  - insiders:         se o título (ou o autor) citar um destes nomes -> 🟡 CREDÍVEL
+#  Os subdomínios também contam (ex.: support.rockstargames.com).
+#  Lembrete: a etiqueta diz DE ONDE veio a notícia, não se é verdade.
+# =====================================================================
+
+official_domains:
+  - rockstargames.com
+  - take2games.com
+  # Nota: forum.cfx.re NÃO está aqui de propósito. Os anúncios da equipa Cfx.re
+  # já são oficiais pela fonte "cfx_announcements"; o resto do fórum é comunidade.
+
+domains:
+  - insider-gaming.com
+  - bloomberg.com
+  - ign.com
+  - gamesradar.com
+  - eurogamer.net
+  - eurogamer.pt
+  - pcgamer.com
+  - kotaku.com
+  - theverge.com
+  - videogameschronicle.com
+  - gtaboom.com
+  - rockstarintel.com
+  - gtaforums.com     # idealmente só notícias da staff; o Google News raramente indexa outra coisa
+
+insiders:
+  - Tez2
+  - NateTheHate
+  - Tom Henderson
+  - Jason Schreier

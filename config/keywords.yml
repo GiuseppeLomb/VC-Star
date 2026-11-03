@@ -1,0 +1,108 @@
+# =====================================================================
+#  Palavras-chave, pesos e regras de push
+#  - Cada entrada em "keywords" conta UMA vez por notícia (título + excerto),
+#    mesmo que apareçam vários termos dessa entrada.
+#  - Não distingue maiúsculas/minúsculas. Espaço também apanha hífen
+#    ("private server" apanha "private-server").
+#  - score = soma dos pesos × multiplicador da etiqueta, limitado a 100.
+# =====================================================================
+
+# Como reconhecer uma menção ao GTA 6 (expressões regulares).
+gta6_patterns:
+  - '\bgta[\s\-]?(6|vi)\b'
+  - '\bgrand theft auto[\s\-]?(6|vi)\b'
+
+multipliers:
+  OFICIAL: 1.5
+  CREDIVEL: 1.2
+  RUMOR: 1.0
+
+max_score: 100
+
+keywords:
+  # ---------------------------------------------------------------- +40
+  - topic: rp
+    weight: 40
+    terms: [roleplay, role-play, "role play", "gta rp", "gta 6 rp", "gta vi rp", gtarp]
+  - topic: rp
+    weight: 40
+    terms: ["rp server", "rp servers", "servidor rp", "servidores rp", "servidor de roleplay", "servidores de roleplay"]
+  - topic: servidores
+    weight: 40
+    terms: ["private server", "private servers", "servidor privado", "servidores privados"]
+  - topic: servidores
+    weight: 40
+    terms: ["dedicated server", "dedicated servers", "servidor dedicado", "servidores dedicados"]
+  - topic: rp
+    weight: 40
+    terms: [fivem]
+  - topic: rp
+    weight: 40
+    terms: [cfx, "cfx.re"]
+  - topic: creator
+    weight: 40
+    terms: ["creator platform", "creators platform", "plataforma de criadores", "creator tools", "ferramentas de criadores", "ferramentas para criadores"]
+  - topic: creator
+    weight: 40
+    terms: [modding, "mod support", "suporte a mods", "mod tools", "ferramentas de modding"]
+  - topic: rp
+    weight: 40
+    terms: [nopixel]
+  # ---------------------------------------------------------------- +30
+  - topic: online
+    weight: 30
+    terms: ["gta 6 online", "gta vi online", "gta online vi", "gta online 6", "grand theft auto vi online", "gta 6 multiplayer"]
+  - topic: online
+    weight: 30
+    terms: [multiplayer, multijogador]
+  # ---------------------------------------------------------------- +20
+  - topic: pc
+    weight: 20
+    terms: ["pc release", "pc version", "pc port", "on pc", "for pc", "versão pc", "versão para pc", "para pc", "no pc"]
+  # ---------------------------------------------------------------- +10
+  - topic: trailer
+    weight: 10
+    terms: [trailer]
+  - topic: data
+    weight: 10
+    terms: ["release date", "launch date", "data de lançamento"]
+  - topic: data
+    weight: 10
+    terms: [delay, delayed, postponed, adiado, adiamento]
+  - weight: 10              # sem tópico próprio, só soma ao score
+    terms: [gameplay]
+
+# Termos de exclusão: os scams são comuns neste nicho.
+exclude:
+  # Descarta logo a notícia.
+  discard:
+    - "free download"
+    - "download free"
+    - "leak download"
+    - "download gta 6"
+    - "download gta vi"
+    - "gta 6 apk"
+    - "gta vi apk"
+    - "apk download"
+    - "mod menu"
+    - "mod menus"
+    - "gta 5 cheats"
+    - "gta v cheats"
+    - "cracked version"
+    - "gta 6 crack"
+    - "download grátis"
+    - "baixar gta 6"
+  # Baixa o score (não descarta).
+  penalty:
+    weight: -30
+    terms: [cheats, "cheat codes", giveaway, sorteio, "gift card", "free gta"]
+
+# Regras de push (ntfy)
+notify:
+  urgent_topics: [rp, online, servidores, creator]   # OFICIAL + um destes -> prioridade 5
+  credible_min_score: 60                             # CREDÍVEL com score >= isto -> prioridade 3
+  # Fontes oficiais publicam muita coisa de outros jogos (Red Dead, GTA V).
+  # true = um item OFICIAL só faz push se mencionar GTA 6 ou tiver um tópico.
+  official_requires_match: true
+  max_per_run: 10
+  max_age_hours: 48       # nunca notifica notícias publicadas há mais do que isto
