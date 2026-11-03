@@ -1,8 +1,8 @@
 /* Service worker: app shell cached; data/*.json network-first with cache fallback. */
-var VERSION = 'vcstar-v4';
+var VERSION = 'vcstar-v5';
 var SHELL = [
   './', './index.html', './style.css', './app.js', './manifest.webmanifest',
-  './icons/logo-emblem.png', './icons/favicon-48.png', './icons/icon-192.png'
+  './icons/logo-emblem.png', './icons/pattern.svg', './icons/favicon-48.png', './icons/icon-192.png'
 ];
 
 self.addEventListener('install', function (event) {

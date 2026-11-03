@@ -37,6 +37,7 @@ GitHub Actions (manual / tag v*) → APK Android (Capacitor) → GitHub Release
 |---|---|
 | 🟢 **OFICIAL** | Rockstar (Newswire, YouTube, rockstargames.com), Take-Two, anúncios da equipa Cfx.re, PlayStation Blog / Xbox Wire sobre GTA 6 |
 | 🟡 **CREDÍVEL** | Domínio em `config/credible.yml` ou título que cita um insider da lista |
+| 🟠 **LEAKER CONFIÁVEL** | Título/autor cita um leaker com taxa de acerto alta (`leakers:` em `config/credible.yml`) |
 | ⚪ **RUMOR** | Tudo o resto |
 
 ### Quando há push
@@ -46,6 +47,7 @@ GitHub Actions (manual / tag v*) → APK Android (Capacitor) → GitHub Release
 | OFICIAL + tópico RP / Online / servidores / criadores | **5 (urgente)** 🚨 |
 | OFICIAL (outro tópico, desde que fale de GTA 6) | 4 |
 | CREDÍVEL com score ≥ 60 | 3 |
+| LEAKER CONFIÁVEL com score ≥ 80 | 3 |
 | RUMOR | nunca (fica só na app) |
 
 - No máximo **10 pushes por execução**. Se houver mais, o 10.º é um resumo: «N novidades — abre o Radar».
@@ -115,8 +117,11 @@ já usa as alterações. O workflow **Testes** valida os YAML a cada alteração
     terms: [roleplay, "rp server", "servidor rp", "whitelist"]   # acrescenta termos aqui
 ```
 
-**Domínio ou insider credível** (`config/credible.yml`): acrescenta uma linha em `domains:` (ex.: `- 3djuegos.com`)
-ou em `insiders:` (ex.: `- Billbil-kun`).
+**Domínio, jornalista ou leaker** (`config/credible.yml`): acrescenta uma linha em `domains:` (ex.: `- 3djuegos.com`),
+em `insiders:` (jornalistas → CREDÍVEL) ou em `leakers:` (só leakers com alta taxa de acerto → LEAKER CONFIÁVEL).
+
+**Links em português:** todos os links (app, ntfy, Discord) abrem já traduzidos pelo Google Tradutor;
+notícias em PT e vídeos abrem diretamente. Na app, «original» abre a página sem tradução.
 
 **Termos de scam** (`config/keywords.yml → exclude`): `discard` descarta a notícia, `penalty` baixa o score.
 

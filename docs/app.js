@@ -1,4 +1,4 @@
-/* GTA6 RP Radar — vanilla JS, no build step. */
+/* VC STAR — vanilla JS, no build step. */
 (function () {
   'use strict';
 
@@ -13,6 +13,7 @@
   var TAGS = {
     OFICIAL: { text: '🟢 OFICIAL', cls: 'oficial' },
     CREDIVEL: { text: '🟡 CREDÍVEL', cls: 'credivel' },
+    LEAKER: { text: '🟠 LEAKER CONFIÁVEL', cls: 'leaker' },
     RUMOR: { text: '⚪ RUMOR', cls: 'rumor' }
   };
   var FILTERS = {
@@ -20,15 +21,25 @@
     rp: function (it) { return (it.topics || []).some(function (t) { return URGENT.indexOf(t) !== -1; }); },
     oficial: function (it) { return it.tag === 'OFICIAL'; },
     credivel: function (it) { return it.tag === 'CREDIVEL'; },
+    leaker: function (it) { return it.tag === 'LEAKER'; },
     rumor: function (it) { return it.tag === 'RUMOR'; },
     pt: function (it) { return it.lang === 'pt'; }
   };
+  var PERIODS = { all: null, '1': 1, '7': 7, '30': 30 };
+  var SOURCE_GROUPS = [
+    ['rockstar', 'Rockstar', /^rockstar_/], ['cfx', 'Cfx.re / FiveM', /^cfx_/],
+    ['plataformas', 'PlayStation / Xbox', /^(playstation_blog|xbox_wire)$/], ['taketwo', 'Take-Two', /^taketwo_/],
+    ['gnews', 'Google News', /^gnews_/], ['bing', 'Bing News', /^bing_/], ['reddit', 'Reddit', /^reddit_/]
+  ];
+  var NO_TRANSLATE = /(^|\.)(youtube\.com|youtu\.be|twitch\.tv)$/i;
+  var FILTERS_KEY = 'vcstar:filters';
   var PAGE = 60;
   var PIN_DAYS = 30;
   var REFRESH_MS = 2 * 60 * 1000;
   var LAST_VISIT_KEY = 'radar:lastVisit';
 
-  var state = { items: [], health: null, updatedAt: null, filter: 'rp', query: '', shown: PAGE, prevVisit: null, loaded: false };
+  var state = { items: [], health: null, updatedAt: null, filter: 'rp', query: '', shown: PAGE, prevVisit: null, loaded: false,
+                period: 'all', topics: [], group: 'all', sort: 'recent' };
   var $ = function (id) { return document.getElementById(id); };
 
   // ------------------------------------------------------------------ storage (may be unavailable)
@@ -57,6 +68,29 @@
   }
 
   function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+
+  // Opens the article already translated to Portuguese (PT articles and videos open directly).
+  function ptUrl(it) {
+    var url = safeUrl(it.url);
+    var dom = (it.domain || '').toLowerCase();
+    if (url === '#' || it.lang === 'pt' || /\.(pt|br)$/.test(dom) || NO_TRANSLATE.test(dom)) return url;
+    return 'https://translate.google.com/translate?sl=auto&tl=pt&hl=pt-PT&u=' + encodeURIComponent(url);
+  }
+
+  function groupOf(it) {
+    for (var i = 0; i < SOURCE_GROUPS.length; i++) if (SOURCE_GROUPS[i][2].test(it.source_id || '')) return SOURCE_GROUPS[i][0];
+    return 'outras';
+  }
+
+  function dayBucket(ts) {
+    var d = new Date(); d.setHours(0, 0, 0, 0);
+    var today = d.getTime();
+    if (ts >= today) return 'Hoje';
+    if (ts >= today - 864e5) return 'Ontem';
+    if (ts >= today - 6 * 864e5) return 'Esta semana';
+    if (ts >= today - 29 * 864e5) return 'Este mês';
+    return 'Mais antigas';
+  }
 
   function fold(s) {
     return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -158,11 +192,20 @@
     time.textContent = ago(t);
     if (t) { time.dateTime = it.published; time.title = new Date(t).toLocaleString('pt-PT'); }
     if (isNew(it)) node.querySelector('.new-flag').hidden = false;
-    var url = safeUrl(it.url);
+    var url = ptUrl(it);
     var a = node.querySelector('.card-title a');
     a.textContent = it.title;
     a.href = url;
-    node.querySelector('.open').href = url;
+    var open = node.querySelector('.open');
+    open.href = url;
+    var orig = node.querySelector('.orig');
+    if (url !== safeUrl(it.url)) {
+      open.textContent = 'Abrir em português ↗';
+      orig.href = safeUrl(it.url);
+      orig.hidden = false;
+    } else {
+      open.textContent = 'Abrir notícia ↗';
+    }
     node.querySelector('.excerpt').textContent = it.excerpt || '';
     var topics = node.querySelector('.topics');
     (it.topics || []).forEach(function (tp) {
@@ -201,7 +244,20 @@
 
   function renderList() {
     var filter = FILTERS[state.filter] || FILTERS.all;
-    var visible = state.items.filter(function (it) { return filter(it) && matchesQuery(it); });
+    var days = PERIODS[state.period];
+    var since = days ? Date.now() - days * 864e5 : null;
+    var visible = state.items.filter(function (it) {
+      if (!filter(it) || !matchesQuery(it)) return false;
+      if (since && (parseTime(it.published) || 0) < since) return false;
+      if (state.group !== 'all' && groupOf(it) !== state.group) return false;
+      if (state.topics.length && !(it.topics || []).some(function (t) { return state.topics.indexOf(t) !== -1; })) return false;
+      return true;
+    });
+    if (state.sort === 'score') {
+      visible = visible.slice().sort(function (a, b) {
+        return (b.score || 0) - (a.score || 0) || (parseTime(b.published) || 0) - (parseTime(a.published) || 0);
+      });
+    }
     var pinned = visible.filter(isPinned).slice(0, 5);
     var pinnedIds = {};
     pinned.forEach(function (it) { pinnedIds[it.id] = true; });
@@ -221,7 +277,20 @@
     var list = $('list');
     list.textContent = '';
     var frag = document.createDocumentFragment();
-    rest.slice(0, state.shown).forEach(function (it) { frag.appendChild(card(it, false)); });
+    var lastBucket = null;
+    rest.slice(0, state.shown).forEach(function (it) {
+      if (state.sort === 'recent') {
+        var bucket = dayBucket(parseTime(it.published) || 0);
+        if (bucket !== lastBucket) {
+          var h = document.createElement('h3');
+          h.className = 'day-head';
+          h.textContent = bucket;
+          frag.appendChild(h);
+          lastBucket = bucket;
+        }
+      }
+      frag.appendChild(card(it, false));
+    });
     list.appendChild(frag);
     $('more').hidden = rest.length <= state.shown;
 
@@ -307,6 +376,51 @@
     if (location.hash === '#sobre') renderSources();
   }
 
+  // ------------------------------------------------------------------ advanced filters
+  function activeExtra() {
+    return (state.period !== 'all' ? 1 : 0) + (state.group !== 'all' ? 1 : 0) + state.topics.length + (state.sort !== 'recent' ? 1 : 0);
+  }
+
+  function saveFilters() {
+    store(FILTERS_KEY, JSON.stringify({ period: state.period, topics: state.topics, group: state.group, sort: state.sort }));
+  }
+
+  function renderFilterPanel() {
+    Array.prototype.forEach.call(document.querySelectorAll('#periods button'), function (b) {
+      b.setAttribute('aria-pressed', String(b.getAttribute('data-period') === state.period));
+    });
+    var tbox = $('topic-chips');
+    tbox.textContent = '';
+    Object.keys(TOPIC_LABEL).forEach(function (t) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'mini';
+      b.setAttribute('data-topic', t);
+      b.setAttribute('aria-pressed', String(state.topics.indexOf(t) !== -1));
+      b.textContent = '#' + TOPIC_LABEL[t];
+      tbox.appendChild(b);
+    });
+    var sel = $('group');
+    if (!sel.options.length) {
+      var all = document.createElement('option'); all.value = 'all'; all.textContent = 'Todas'; sel.appendChild(all);
+      SOURCE_GROUPS.forEach(function (g) {
+        var o = document.createElement('option'); o.value = g[0]; o.textContent = g[1]; sel.appendChild(o);
+      });
+    }
+    sel.value = state.group;
+    $('sort').value = state.sort;
+    var n = activeExtra();
+    $('filters-toggle').textContent = n ? '⚙️ Filtros (' + n + ')' : '⚙️ Filtros';
+    $('filters-toggle').classList.toggle('on', n > 0);
+  }
+
+  function applyExtra() {
+    state.shown = PAGE;
+    saveFilters();
+    renderFilterPanel();
+    renderList();
+  }
+
   function setFilter(f) {
     state.filter = FILTERS[f] ? f : 'all';
     state.shown = PAGE;
@@ -335,6 +449,38 @@
       timer = setTimeout(function () { state.query = e.target.value.trim(); state.shown = PAGE; renderList(); }, 150);
     });
     $('more').addEventListener('click', function () { state.shown += PAGE; renderList(); });
+    try {
+      var saved = JSON.parse(store(FILTERS_KEY) || 'null');
+      if (saved) {
+        if (saved.period in PERIODS) state.period = saved.period;
+        if (Array.isArray(saved.topics)) state.topics = saved.topics.filter(function (t) { return t in TOPIC_LABEL; });
+        if (typeof saved.group === 'string') state.group = saved.group;
+        if (saved.sort === 'score' || saved.sort === 'recent') state.sort = saved.sort;
+      }
+    } catch (e) { /* ignore broken saved filters */ }
+    $('periods').addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-period]');
+      if (b) { state.period = b.getAttribute('data-period'); applyExtra(); }
+    });
+    $('topic-chips').addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-topic]');
+      if (!b) return;
+      var t = b.getAttribute('data-topic'), i = state.topics.indexOf(t);
+      if (i === -1) state.topics.push(t); else state.topics.splice(i, 1);
+      applyExtra();
+    });
+    $('group').addEventListener('change', function (e) { state.group = e.target.value; applyExtra(); });
+    $('sort').addEventListener('change', function (e) { state.sort = e.target.value; applyExtra(); });
+    $('filters-toggle').addEventListener('click', function () {
+      var p = $('filters-panel');
+      p.hidden = !p.hidden;
+      $('filters-toggle').setAttribute('aria-expanded', String(!p.hidden));
+    });
+    $('filters-clear').addEventListener('click', function () {
+      state.period = 'all'; state.topics = []; state.group = 'all'; state.sort = 'recent';
+      applyExtra();
+    });
+    renderFilterPanel();
     $('status').addEventListener('click', function () { location.hash = '#sobre'; });
     window.addEventListener('hashchange', route);
 

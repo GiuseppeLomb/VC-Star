@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
+  <!-- VC STAR doodle pattern (original line art, tiles seamlessly) -->
+  <g fill="none" stroke="#c084fc" stroke-opacity="0.17" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- palm tree -->
+    <g transform="translate(34 30)">
+      <path d="M8 58 C10 40 12 24 18 10"/>
+      <path d="M18 10 C8 4 -2 6 -8 14 M18 10 C26 2 36 4 42 12 M18 10 C14 -2 8 -6 0 -8 M18 10 C24 -4 32 -6 38 -4 M18 10 C18 0 20 -8 22 -14"/>
+      <path d="M-4 58 Q8 52 22 58"/>
+    </g>
+    <!-- star -->
+    <path transform="translate(150 40) rotate(-12)" d="M0 -15 L4.4 -4.6 L14.3 -4.6 L6.3 1.7 L8.8 12.1 L0 5.9 L-8.8 12.1 L-6.3 1.7 L-14.3 -4.6 L-4.4 -4.6 Z"/>
+    <!-- retro sun -->
+    <g transform="translate(268 62)">
+      <path d="M-24 0 A24 24 0 0 1 24 0"/>
+      <path d="M-22 -8 H22 M-17 -15 H17 M-9 -21 H9"/>
+      <path d="M-34 6 H34 M-24 13 H24"/>
+    </g>
+    <!-- sunglasses -->
+    <g transform="translate(64 168) rotate(8)">
+      <path d="M-26 -4 H-4 V2 Q-5 12 -15 12 Q-25 12 -26 2 Z M4 -4 H26 V2 Q25 12 15 12 Q5 12 4 2 Z"/>
+      <path d="M-4 -1 Q0 -5 4 -1 M-26 -4 L-34 -8 M26 -4 L34 -8"/>
+    </g>
+    <!-- retro car -->
+    <g transform="translate(178 158)">
+      <path d="M-32 8 H32 V0 Q30 -7 20 -8 L10 -18 H-12 L-22 -8 Q-32 -7 -32 0 Z"/>
+      <path d="M-8 -16 V-8 M-20 -8 H22"/>
+      <circle cx="-18" cy="9" r="6"/><circle cx="18" cy="9" r="6"/>
+    </g>
+    <!-- waves -->
+    <g transform="translate(292 170)">
+      <path d="M-30 0 q7.5 -7 15 0 t15 0 t15 0 t15 0"/>
+      <path d="M-30 11 q7.5 -7 15 0 t15 0 t15 0 t15 0"/>
+    </g>
+    <!-- gamepad -->
+    <g transform="translate(52 282) rotate(-10)">
+      <path d="M-20 -10 H20 Q32 -10 32 4 Q32 18 22 18 Q16 18 12 10 H-12 Q-16 18 -22 18 Q-32 18 -32 4 Q-32 -10 -20 -10 Z"/>
+      <path d="M-20 2 H-10 M-15 -3 V7"/>
+      <circle cx="12" cy="0" r="2"/><circle cx="19" cy="5" r="2"/>
+    </g>
+    <!-- cocktail -->
+    <g transform="translate(150 268)">
+      <path d="M-14 -16 H14 L0 0 Z M0 0 V16 M-8 16 H8 M5 -12 L14 -26"/>
+      <circle cx="13" cy="-16" r="5"/>
+    </g>
+    <!-- map pin -->
+    <path transform="translate(244 262)" d="M0 16 C-12 3 -12 -4 -12 -7 A12 12 0 1 1 12 -7 C12 -4 12 3 0 16 Z M0 -11 A4 4 0 1 0 0.01 -11"/>
+    <!-- cassette -->
+    <g transform="translate(318 286) rotate(6)">
+      <rect x="-18" y="-12" width="36" height="24" rx="3"/>
+      <circle cx="-8" cy="-2" r="3.5"/><circle cx="8" cy="-2" r="3.5"/>
+      <path d="M-11 12 L-8 6 H8 L11 12"/>
+    </g>
+    <!-- money -->
+    <g transform="translate(232 340) rotate(-8)">
+      <rect x="-18" y="-10" width="36" height="20" rx="2"/>
+      <circle cx="0" cy="0" r="5"/>
+    </g>
+    <!-- radar -->
+    <g transform="translate(110 100)">
+      <circle r="10"/><circle r="4"/><path d="M0 0 L9 -6"/>
+    </g>
+    <!-- flamingo-ish feather / sparkles -->
+    <path d="M206 18 v8 M202 22 h8 M330 120 v8 M326 124 h8 M18 220 v8 M14 224 h8 M100 340 v8 M96 344 h8 M216 112 v6 M213 115 h6"/>
+  </g>
+  <g fill="#c084fc" fill-opacity="0.16" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-style="italic">
+    <text x="296" y="230" font-size="16">VC★</text>
+    <text x="16" y="120" font-size="12">VC★</text>
+  </g>
+</svg>
