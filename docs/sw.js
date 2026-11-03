@@ -1,7 +1,7 @@
 /* Service worker: app shell cached; data/*.json network-first with cache fallback. */
-var VERSION = 'vcstar-v6';
+var VERSION = 'vcstar-v7';
 var SHELL = [
-  './', './index.html', './style.css', './app.js', './manifest.webmanifest',
+  './', './index.html', './style.css', './app.js', './auth.js', './vendor/supabase-2.45.4.js', './vendor/591.supabase.js', './manifest.webmanifest',
   './icons/logo-emblem.png', './icons/pattern.svg', './icons/favicon-48.png', './icons/icon-192.png'
 ];
 

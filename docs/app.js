@@ -501,5 +501,7 @@
     setInterval(renderStatus, 30 * 1000);
   }
 
-  boot();
+  // Só arranca depois do login (auth.js dispara 'vcstar:ready').
+  if (window.VCSTAR && window.VCSTAR.ready) boot();
+  else window.addEventListener('vcstar:ready', boot, { once: true });
 })();

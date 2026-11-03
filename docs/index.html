@@ -15,7 +15,34 @@
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="locked">
+  <div class="auth" id="auth">
+    <div class="auth-card">
+      <img src="icons/logo-emblem.png" alt="VC STAR" width="117" height="72" class="auth-logo">
+      <h1 class="auth-title">VC <em>STAR</em></h1>
+      <p class="auth-sub">Acesso exclusivo da staff</p>
+
+      <p id="auth-loading" class="auth-note">A verificar sessão…</p>
+
+      <form id="auth-login" hidden autocomplete="on">
+        <label>Utilizador<input id="login-user" name="username" autocomplete="username" autocapitalize="characters" placeholder="ex.: PEREZ" required></label>
+        <label>Password<input id="login-pass" name="password" type="password" autocomplete="current-password" required></label>
+        <p class="auth-error" id="login-error" role="alert" hidden></p>
+        <button type="submit" id="login-btn">Entrar</button>
+      </form>
+
+      <form id="auth-change" hidden>
+        <p class="auth-note"><strong id="change-user"></strong><br>Primeiro acesso: tens de definir a tua password para continuar.</p>
+        <label>Nova password<input id="new-pass" type="password" autocomplete="new-password" required></label>
+        <label>Repetir nova password<input id="new-pass2" type="password" autocomplete="new-password" required></label>
+        <p class="auth-hint">Mínimo 8 caracteres e diferente da password inicial.</p>
+        <p class="auth-error" id="change-error" role="alert" hidden></p>
+        <button type="submit" id="change-btn">Guardar e continuar</button>
+        <button type="button" class="auth-link" id="change-logout">Sair</button>
+      </form>
+    </div>
+  </div>
+
   <header class="topbar">
     <a class="brand" href="#" aria-label="VC STAR — início">
       <img class="brand-logo" src="icons/logo-emblem.png" alt="" width="58" height="36">
@@ -87,6 +114,13 @@
       junta automaticamente, de 10 em 10 minutos, notícias sobre GTA 6
       e sobretudo sobre <strong>RP, servidores privados, FiveM/Cfx.re e ferramentas de criadores</strong>.</p>
 
+    <div class="session" id="session" hidden>
+      <p>Sessão: <strong id="session-user"></strong></p>
+      <button type="button" class="logout" id="logout-btn">Terminar sessão</button>
+      <h2>Staff</h2>
+      <ul class="staff-list" id="staff-list"></ul>
+    </div>
+
     <h2>Etiquetas</h2>
     <ul class="legend">
       <li><span class="badge oficial">OFICIAL</span> Rockstar, Take-Two, equipa Cfx.re, canal oficial no YouTube, PlayStation Blog / Xbox Wire sobre GTA.</li>
@@ -138,6 +172,8 @@
     </article>
   </template>
 
+  <script src="vendor/supabase-2.45.4.js" defer></script>
+  <script src="auth.js" defer></script>
   <script src="app.js" defer></script>
 </body>
 </html>
