@@ -16,7 +16,7 @@ HISTORY = {
             source_title="IGN", source_url="https://www.ign.com"),
         raw("GTA 6 trailer breakdown", "https://random-blog.xyz/trailer", 40),
     ],
-    "reddit_fivem": [raw("Will FiveM move to GTA 6?", "https://www.reddit.com/r/FiveM/comments/1", 5)],
+    "reddit_rp": [raw("Will FiveM move to GTA 6?", "https://www.reddit.com/r/FiveM/comments/1", 5)],
 }
 
 
@@ -125,7 +125,7 @@ def test_dry_run_writes_nothing(workdir):
 
 def test_all_sources_failing_on_first_run_does_not_repeat_test_push(workdir):
     n = RecordingNotifier()
-    errors = {"gnews_online": "HTTP 503", "reddit_fivem": "HTTP 403"}
+    errors = {"gnews_online": "HTTP 503", "reddit_rp": "HTTP 403"}
     run(workdir, fetcher=FakeFetcher({}, errors=errors), notifier=n, now=NOW, out=quiet)
     run(workdir, fetcher=FakeFetcher({}, errors=errors), notifier=n, now=NOW + timedelta(minutes=10), out=quiet)
     assert len(n.sent) == 1  # one test push only

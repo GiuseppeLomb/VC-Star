@@ -3,12 +3,13 @@ from __future__ import annotations
 
 import logging
 import os
+from urllib.parse import quote
 from dataclasses import dataclass, field
 from datetime import timedelta
 
 import httpx
 
-from .classify import CREDIVEL, OFICIAL, Rules, mentions_gta6
+from .classify import CREDIVEL, LEAKER, OFICIAL, Rules, mentions_gta6
 from .util import parse_iso
 
 log = logging.getLogger("radar.notify")
@@ -18,6 +19,22 @@ TOPIC_LABELS = {
     "rp": "RP", "servidores": "servidores", "creator": "criadores", "online": "Online",
     "pc": "PC", "trailer": "trailer", "data": "data",
 }
+
+
+NO_TRANSLATE = ("youtube.com", "youtu.be", "twitch.tv")
+
+
+def pt_url(item: dict) -> str:
+    """Link that opens the article already translated to Portuguese (Google Translate).
+
+    Portuguese articles and videos open directly.
+    """
+    url = item.get("url") or ""
+    domain = (item.get("domain") or "").lower()
+    if (not url.startswith("http") or item.get("lang") == "pt" or domain.endswith((".pt", ".br"))
+            or any(domain == d or domain.endswith("." + d) for d in NO_TRANSLATE)):
+        return url
+    return "https://translate.google.com/translate?sl=auto&tl=pt&hl=pt-PT&u=" + quote(url, safe="")
 
 
 def pages_url() -> str:
@@ -50,6 +67,8 @@ def push_priority(item: dict, rules: Rules, source=None) -> int | None:
         return 4
     if tag == CREDIVEL and int(item.get("score") or 0) >= int(cfg.get("credible_min_score", 60)):
         return 3
+    if tag == LEAKER and int(item.get("score") or 0) >= int(cfg.get("leaker_min_score", 80)):
+        return 3
     return None  # RUMOR never pushes
 
 
@@ -69,13 +88,15 @@ def item_message(item: dict, priority: int) -> Message:
         head, tags = f"🚨 OFICIAL: {title}", ["rotating_light"]
     elif priority == 4:
         head, tags = f"🟢 OFICIAL: {title}", ["green_circle"]
+    elif item.get("tag") == LEAKER:
+        head, tags = f"🟠 LEAKER: {title}", ["orange_circle"]
     else:
         head, tags = f"🟡 CREDÍVEL: {title}", ["yellow_circle"]
     topics = ", ".join(TOPIC_LABELS.get(t, t) for t in item.get("topics") or [])
     meta = " · ".join(x for x in (item.get("source_name"), topics, f"score {item.get('score', 0)}") if x)
     excerpt = (item.get("excerpt") or "")[:200]
     body = meta + (f"\n{excerpt}" if excerpt else "")
-    return Message(head[:250], body, priority, tags, item["url"], [item["id"]])
+    return Message(head[:250], body, priority, tags, pt_url(item), [item["id"]])
 
 
 def plan_messages(candidates: list[tuple[dict, int]], max_per_run: int = 10) -> list[Message]:

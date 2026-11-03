@@ -137,3 +137,25 @@ def test_bing_publisher_name_is_used():
 <News:Source>Insider Gaming</News:Source></item></channel></rss>"""
     items, _ = parse_rss(bing)
     assert items[0]["source_title"] == "Insider Gaming"
+
+
+def test_reddit_429_waits_retry_after_then_succeeds(monkeypatch):
+    import radar.fetch as fetch
+    waits = []
+
+    async def fake_sleep(sec):
+        waits.append(sec)
+    monkeypatch.setattr(fetch.asyncio, "sleep", fake_sleep)
+    calls = []
+
+    def handler(req):
+        calls.append(1)
+        if len(calls) == 1:
+            return httpx.Response(429, headers={"x-ratelimit-reset": "12"})
+        return httpx.Response(200, content=RSS)
+
+    src = make_source(id="reddit_rp", url="https://www.reddit.com/r/FiveM+gtaonline/new/.rss",
+                      retries=2, extra={"start_delay": 20})
+    res = run_source(src, handler)
+    assert res.error is None and len(res.items) == 1
+    assert waits == [20.0, 12.0]

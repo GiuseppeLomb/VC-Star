@@ -25,7 +25,7 @@ def test_priority_rules(rules):
 def test_urgent_message_format(rules):
     msg = plan_messages([(it("OFICIAL", ["servidores"], title="Private servers", i="a"), 5)])[0]
     assert msg.priority == 5 and msg.title.startswith("🚨 OFICIAL: ") and msg.tags == ["rotating_light"]
-    assert msg.click == "https://e.com/a"
+    assert msg.click == "https://translate.google.com/translate?sl=auto&tl=pt&hl=pt-PT&u=https%3A%2F%2Fe.com%2Fa"
 
 
 def test_at_most_ten_pushes_with_summary():
@@ -59,7 +59,7 @@ def test_discord_webhook_receives_urgent_alert_with_here_mention():
     url, body = posts[0]
     assert url.startswith("https://discord.com/api/webhooks/")
     assert body["content"].startswith("@here") and body["allowed_mentions"] == {"parse": ["everyone"]}
-    assert body["embeds"][0]["url"] == "https://e.com/a" and body["embeds"][0]["color"] == 0xFF2BD6
+    assert body["embeds"][0]["url"].endswith("u=https%3A%2F%2Fe.com%2Fa") and body["embeds"][0]["color"] == 0xFF2BD6
 
 
 def test_discord_non_urgent_has_no_mention():
@@ -74,3 +74,21 @@ def test_discord_non_urgent_has_no_mention():
     discord = [json.loads(b) for b in bodies if b"embeds" in b][0]
     assert discord["content"] is None and discord["allowed_mentions"] == {"parse": []}
     assert len(bodies) == 2  # ntfy + discord
+
+
+def test_leaker_priority_and_label(rules):
+    from radar.notify import item_message
+    assert push_priority(it("LEAKER", ["rp", "servidores"], score=88), rules) == 3
+    assert push_priority(it("LEAKER", ["rp"], score=44), rules) is None
+    leak = it("LEAKER", ["rp"], score=88, title="Tez2: RP servers")
+    leak["tag"] = "LEAKER"
+    assert item_message(leak, 3).title.startswith("🟠 LEAKER:")
+
+
+def test_pt_links():
+    from radar.notify import pt_url
+    assert pt_url({"url": "https://www.ign.com/a", "domain": "ign.com", "lang": "en"}).startswith(
+        "https://translate.google.com/translate?sl=auto&tl=pt")
+    assert pt_url({"url": "https://www.eurogamer.pt/a", "domain": "eurogamer.pt", "lang": "en"}) == "https://www.eurogamer.pt/a"
+    assert pt_url({"url": "https://x.com.br/a", "domain": "x.com.br", "lang": "pt"}) == "https://x.com.br/a"
+    assert pt_url({"url": "https://www.youtube.com/watch?v=1", "domain": "youtube.com"}) == "https://www.youtube.com/watch?v=1"

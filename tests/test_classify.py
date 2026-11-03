@@ -31,9 +31,19 @@ def test_credible_domain(rules, source_factory, raw_factory):
     assert out["tag"] == CREDIVEL
 
 
-def test_insider_in_title_is_credible(rules, source_factory, raw_factory):
-    out = run(raw_factory("Tom Henderson: GTA 6 Online gets RP mode", "https://random-blog.xyz/p/1"),
+def test_journalist_in_title_is_credible(rules, source_factory, raw_factory):
+    out = run(raw_factory("Jason Schreier: GTA 6 Online gets RP mode", "https://random-blog.xyz/p/1"),
               source_factory(), rules)
+    assert out["tag"] == CREDIVEL
+
+
+def test_high_rate_leaker_gets_leaker_tag(rules, source_factory, raw_factory):
+    for who in ("Tom Henderson", "Tez2", "NateTheHate"):
+        out = run(raw_factory(f"{who}: GTA 6 Online gets RP mode", f"https://random-blog.xyz/{who}"),
+                  source_factory(), rules)
+        assert out["tag"] == "LEAKER", who
+    # a credible outlet stays CREDIVEL even when quoting a leaker
+    out = run(raw_factory("Tez2 says GTA 6 roleplay servers are coming", "https://www.ign.com/x"), source_factory(), rules)
     assert out["tag"] == CREDIVEL
 
 

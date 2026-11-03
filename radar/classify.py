@@ -24,8 +24,9 @@ from .util import (
     url_id,
 )
 
-OFICIAL, CREDIVEL, RUMOR = "OFICIAL", "CREDIVEL", "RUMOR"
-TAG_RANK = {OFICIAL: 3, CREDIVEL: 2, RUMOR: 1}
+OFICIAL, CREDIVEL, LEAKER, RUMOR = "OFICIAL", "CREDIVEL", "LEAKER", "RUMOR"
+# LEAKER = leaker com historial de acertos alto (abaixo de CREDÍVEL, acima de RUMOR)
+TAG_RANK = {OFICIAL: 4, CREDIVEL: 3, LEAKER: 2, RUMOR: 1}
 
 
 def term_regex(terms) -> re.Pattern | None:
@@ -61,6 +62,7 @@ class Rules:
     credible_domains: list[str]
     blocked_domains: list[str]
     insiders: re.Pattern | None
+    leakers: re.Pattern | None
     notify: dict = field(default_factory=dict)
 
 
@@ -68,6 +70,7 @@ NOTIFY_DEFAULTS = {
     "urgent_topics": ["rp", "online", "servidores", "creator"],
     "credible_min_score": 60,
     "official_requires_match": True,
+    "leaker_min_score": 80,
     "max_per_run": 10,
     "max_age_hours": 48,
 }
@@ -86,7 +89,7 @@ def load_rules(keywords_path: str | Path, credible_path: str | Path) -> Rules:
     return Rules(
         gta6=[re.compile(p, re.IGNORECASE) for p in kw.get("gta6_patterns") or [r"\bgta[\s\-]?(6|vi)\b"]],
         keywords=keywords,
-        multipliers={OFICIAL: 1.5, CREDIVEL: 1.2, RUMOR: 1.0, **(kw.get("multipliers") or {})},
+        multipliers={OFICIAL: 1.5, CREDIVEL: 1.2, LEAKER: 1.1, RUMOR: 1.0, **(kw.get("multipliers") or {})},
         max_score=int(kw.get("max_score", 100)),
         discard=term_regex(exclude.get("discard")),
         penalty_weight=int(penalty.get("weight", -30)),
@@ -95,6 +98,7 @@ def load_rules(keywords_path: str | Path, credible_path: str | Path) -> Rules:
         credible_domains=list(cr.get("domains") or []),
         blocked_domains=list(cr.get("blocked_domains") or []),
         insiders=term_regex(cr.get("insiders")),
+        leakers=term_regex(cr.get("leakers")),
         notify={**NOTIFY_DEFAULTS, **(kw.get("notify") or {})},
     )
 
@@ -124,6 +128,8 @@ def tag_for(domain: str, source: Source, title: str, author: str, rules: Rules) 
         return CREDIVEL
     if rules.insiders is not None and rules.insiders.search(f"{title} {author}"):
         return CREDIVEL
+    if rules.leakers is not None and rules.leakers.search(f"{title} {author}"):
+        return LEAKER
     return RUMOR
 
 

@@ -15,6 +15,7 @@ gta6_patterns:
 multipliers:
   OFICIAL: 1.5
   CREDIVEL: 1.2
+  LEAKER: 1.1
   RUMOR: 1.0
 
 max_score: 100
@@ -101,6 +102,7 @@ exclude:
 notify:
   urgent_topics: [rp, online, servidores, creator]   # OFICIAL + um destes -> prioridade 5
   credible_min_score: 60                             # CREDÍVEL com score >= isto -> prioridade 3
+  leaker_min_score: 80                               # LEAKER CONFIÁVEL com score >= isto -> prioridade 3
   # Fontes oficiais publicam muita coisa de outros jogos (Red Dead, GTA V).
   # true = um item OFICIAL só faz push se mencionar GTA 6 ou tiver um tópico.
   official_requires_match: true

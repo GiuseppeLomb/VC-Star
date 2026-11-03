@@ -66,7 +66,7 @@ async def http_get(client: httpx.AsyncClient, source: Source, url: str, *, ua: s
             async with _host_slot(url):
                 resp = await client.get(url, params=params, headers=hdrs, timeout=source.timeout)
             if resp.status_code in RETRY_STATUS and attempt < attempts - 1:
-                await asyncio.sleep(2 * (2 ** attempt))
+                await asyncio.sleep(_retry_wait(resp, attempt))
                 continue
             if resp.status_code >= 400:
                 raise FetchError(f"HTTP {resp.status_code} em {url[:120]}")
@@ -212,8 +212,23 @@ def _unique(items: list[dict]) -> list[dict]:
 
 
 # --------------------------------------------------------------------------- main entry
+def _retry_wait(resp: httpx.Response, attempt: int) -> float:
+    """Reddit/Discord tell us how long to wait (Retry-After / x-ratelimit-reset)."""
+    for header in ("retry-after", "x-ratelimit-reset"):
+        try:
+            value = float(resp.headers.get(header, ""))
+        except ValueError:
+            continue
+        if value > 0:
+            return min(value, 30.0)
+    return 2.0 * (2 ** attempt)
+
+
 async def fetch_source(client: httpx.AsyncClient, source: Source, cache: dict) -> FetchResult:
     result = FetchResult(source=source)
+    if float(source.opt("start_delay", 0) or 0) > 0:
+        # spread requests to rate-limited hosts (Reddit) inside the same run
+        await asyncio.sleep(float(source.opt("start_delay")))
     try:
         if source.type == "json" and source.opt("parser") == "rockstar_newswire":
             items, used = await fetch_rockstar_newswire(client, source, cache)

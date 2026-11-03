@@ -179,41 +179,37 @@ sources:
     tier: community
     enabled: true
 
-  # Reddit bloqueia muitas vezes os IPs do GitHub Actions (403/429).
-  # Se ficarem sempre em erro no health.json, muda para enabled: false.
+  # Reddit: limita muito os pedidos vindos do GitHub (HTTP 429). Por isso fazemos
+  # POUCOS pedidos, espaçados (start_delay) e juntamos vários subreddits num só
+  # (multireddit "A+B+C"). Testado a 03/11/2026: 4 pedidos seguidos = 3 bloqueados.
   - id: reddit_gta6
     name: r/GTA6
     type: rss
-    url: https://www.reddit.com/r/GTA6/new/.rss
+    url: https://www.reddit.com/r/GTA6/new/.rss?limit=100
     tier: community
     relevance: topic        # o sub é todo sobre GTA 6: só entra o que fala de RP/servidores/online/...
-    max_items: 25
+    max_items: 100
     retries: 2
     enabled: true
 
-  - id: reddit_fivem
-    name: r/FiveM
+  - id: reddit_rp
+    name: Reddit RP (r/FiveM, r/RPClipsGTA, r/gtaonline, r/GTAV)
     type: rss
-    url: https://www.reddit.com/r/FiveM/new/.rss
+    url: https://www.reddit.com/r/FiveM+RPClipsGTA+gtaonline+GTAV/new/.rss?limit=100
     tier: community
-    max_items: 25
+    relevance: gta6         # só posts que falem de GTA 6
+    max_items: 100
     retries: 2
+    start_delay: 20
     enabled: true
 
-  - id: reddit_rpclips
-    name: r/RPClipsGTA
+  - id: reddit_search
+    name: Reddit — pesquisa GTA 6 RP
     type: rss
-    url: https://www.reddit.com/r/RPClipsGTA/new/.rss
+    url: https://www.reddit.com/search.rss?q=%22GTA+6%22+(roleplay+OR+RP+OR+FiveM+OR+%22private+server%22+OR+%22servidor%22)&sort=new&t=week&limit=100
     tier: community
-    max_items: 25
+    relevance: gta6
+    max_items: 100
     retries: 2
-    enabled: true
-
-  - id: reddit_gtaonline
-    name: r/gtaonline
-    type: rss
-    url: https://www.reddit.com/r/gtaonline/new/.rss
-    tier: community
-    max_items: 25
-    retries: 2
+    start_delay: 40
     enabled: true

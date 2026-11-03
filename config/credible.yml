@@ -2,7 +2,8 @@
 #  Domínios e autores
 #  - official_domains: notícias destes domínios ficam 🟢 OFICIAL
 #  - domains:          notícias destes domínios ficam 🟡 CREDÍVEL
-#  - insiders:         se o título (ou o autor) citar um destes nomes -> 🟡 CREDÍVEL
+#  - insiders:         jornalistas citados no título/autor -> 🟡 CREDÍVEL
+#  - leakers:          leakers com alta taxa de acerto -> 🟠 LEAKER CONFIÁVEL
 #  Os subdomínios também contam (ex.: support.rockstargames.com).
 #  Lembrete: a etiqueta diz DE ONDE veio a notícia, não se é verdade.
 # =====================================================================
@@ -28,11 +29,16 @@ domains:
   - rockstarintel.com
   - gtaforums.com     # idealmente só notícias da staff; o Google News raramente indexa outra coisa
 
+# Jornalistas com historial sério: se o título/autor os citar -> 🟡 CREDÍVEL
 insiders:
+  - Jason Schreier
+
+# Leakers com taxa de acerto ALTA (só estes!): se o título/autor os citar -> 🟠 LEAKER CONFIÁVEL
+# (fica abaixo de CREDÍVEL e acima de RUMOR)
+leakers:
   - Tez2
   - NateTheHate
   - Tom Henderson
-  - Jason Schreier
 
 # Domínios bloqueados: notícias daqui são sempre descartadas.
 # (sites de venda de moeda/contas que publicam "notícias" para SEO)
