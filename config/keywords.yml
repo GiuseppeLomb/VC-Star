@@ -23,7 +23,7 @@ keywords:
   # ---------------------------------------------------------------- +40
   - topic: rp
     weight: 40
-    terms: [roleplay, role-play, "role play", "gta rp", "gta 6 rp", "gta vi rp", gtarp]
+    terms: [roleplay, role-play, "role play", rp, "gta rp", "gta 6 rp", "gta vi rp", gtarp]
   - topic: rp
     weight: 40
     terms: ["rp server", "rp servers", "servidor rp", "servidores rp", "servidor de roleplay", "servidores de roleplay"]
@@ -44,7 +44,7 @@ keywords:
     terms: ["creator platform", "creators platform", "plataforma de criadores", "creator tools", "ferramentas de criadores", "ferramentas para criadores"]
   - topic: creator
     weight: 40
-    terms: [modding, "mod support", "suporte a mods", "mod tools", "ferramentas de modding"]
+    terms: [modding, mods, "mod support", "suporte a mods", "mod tools", "ferramentas de modding"]
   - topic: rp
     weight: 40
     terms: [nopixel]

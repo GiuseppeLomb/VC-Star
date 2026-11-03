@@ -12,10 +12,15 @@
 #    enabled    true / false  (desliga sem apagar)
 #    timeout    segundos (opcional)
 #    lang       en | pt (opcional)
-#    relevance  gta6   -> só entra se mencionar GTA 6 / GTA VI (por defeito)
-#               topic  -> só entra se tiver um tópico de keywords.yml (RP, servidores, ...)
-#               always -> entra tudo (usar só em fontes oficiais)
+#    relevance  gta6          -> só entra se mencionar GTA 6 / GTA VI (por defeito)
+#               topic         -> só entra se tiver um tópico de keywords.yml (RP, servidores, ...)
+#               gta6_or_topic -> entra se mencionar GTA 6 OU tiver um tópico
+#               always        -> entra tudo (usar só em fontes oficiais)
 #    max_items  máximo de itens lidos por recolha (opcional)
+#  Opcionais:
+#    title_filter        regex: só entram títulos que a cumpram
+#    exclude_domains     lista de domínios a ignorar nesta fonte
+#    push_requires_gta6  true = só faz push se a notícia mencionar GTA 6
 #
 #  Estado de cada fonte (último sucesso, erros): docs/data/health.json
 #  e no ecrã "Sobre" da app.
@@ -33,6 +38,11 @@ sources:
   # Newswire: sem RSS e renderizado por JavaScript. O radar procura sozinho o
   # endpoint GraphQL interno (persisted query) nos scripts da página. Se a
   # Rockstar mudar o site, a fonte "rockstar_gnews" abaixo serve de reserva.
+  #
+  # DESLIGADA (testado a 03/11/2026 a partir do runner do GitHub Actions): a página
+  # não traz as notícias no HTML e a descoberta automática do endpoint GraphQL
+  # não encontrou o "persisted query". A reserva oficial (rockstar_gnews) cobre o
+  # Newswire. Para tentar de novo: cola o hash em graphql_hash e põe enabled: true.
   - id: rockstar_newswire
     name: Rockstar Newswire
     type: json
@@ -42,8 +52,8 @@ sources:
     relevance: always
     user_agent: browser
     link_pattern: /newswire/article/
-    enabled: true
-    # graphql_hash: ""      # opcional: cola aqui o sha256 se a descoberta falhar
+    enabled: false
+    # graphql_hash: ""      # opcional: sha256 do persisted query "NewswireList"
 
   # Reserva oficial: tudo o que o Google News indexa em rockstargames.com.
   - id: rockstar_gnews
@@ -51,7 +61,8 @@ sources:
     type: rss
     url: https://news.google.com/rss/search?q=site:rockstargames.com+GTA&hl=en-US&gl=US&ceid=US:en
     tier: official
-    relevance: always
+    relevance: gta6_or_topic   # corta páginas genéricas de suporte ("Order support")
+    exclude_domains: [store.rockstargames.com]   # merchandise
     enabled: true
 
   # Canal oficial no YouTube. O channel_id é descoberto a partir do @handle
@@ -79,6 +90,9 @@ sources:
     url: https://forum.cfx.re/c/announcements.rss
     tier: official
     relevance: always
+    # Os posts da Cfx.re falam sempre de FiveM (tópico RP): sem isto, cada
+    # promoção ou "Community Spotlight" daria um push urgente.
+    push_requires_gta6: true
     enabled: true
 
   - id: cfx_latest
@@ -112,6 +126,9 @@ sources:
     url: https://news.google.com/rss/search?q=site:businesswire.com+%22Take-Two+Interactive%22&hl=en-US&gl=US&ceid=US:en
     tier: official
     relevance: always
+    # Só Rockstar/GTA e resultados financeiros (datas e GTA Online aparecem aí).
+    # Fica de fora: NBA 2K, Zynga, Words With Friends, conferências...
+    title_filter: 'Rockstar|Grand Theft Auto|\bGTA\b|Reports Results'
     enabled: true
 
   # Rockstar Support: não há página pública de anúncios em formato legível
@@ -171,6 +188,7 @@ sources:
     tier: community
     relevance: topic        # o sub é todo sobre GTA 6: só entra o que fala de RP/servidores/online/...
     max_items: 25
+    retries: 2
     enabled: true
 
   - id: reddit_fivem
@@ -179,6 +197,7 @@ sources:
     url: https://www.reddit.com/r/FiveM/new/.rss
     tier: community
     max_items: 25
+    retries: 2
     enabled: true
 
   - id: reddit_rpclips
@@ -187,6 +206,7 @@ sources:
     url: https://www.reddit.com/r/RPClipsGTA/new/.rss
     tier: community
     max_items: 25
+    retries: 2
     enabled: true
 
   - id: reddit_gtaonline
@@ -195,4 +215,5 @@ sources:
     url: https://www.reddit.com/r/gtaonline/new/.rss
     tier: community
     max_items: 25
+    retries: 2
     enabled: true

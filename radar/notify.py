@@ -30,16 +30,22 @@ def pages_url() -> str:
 
 
 # --------------------------------------------------------------------------- rules
-def push_priority(item: dict, rules: Rules) -> int | None:
-    """5 = OFICIAL + urgent topic, 4 = OFICIAL, 3 = CREDIVEL with high score, None = no push."""
+def push_priority(item: dict, rules: Rules, source=None) -> int | None:
+    """5 = OFICIAL + urgent topic, 4 = OFICIAL, 3 = CREDIVEL with high score, None = no push.
+
+    A source with `push_requires_gta6: true` (e.g. Cfx.re, whose posts always say
+    "FiveM") only pushes items that actually mention GTA 6.
+    """
     cfg = rules.notify
     tag = item.get("tag")
     topics = set(item.get("topics") or [])
+    text = f"{item.get('title', '')} {item.get('excerpt', '')}"
+    if source is not None and source.opt("push_requires_gta6") and not mentions_gta6(text, rules):
+        return None
     if tag == OFICIAL:
         if topics & set(cfg.get("urgent_topics") or []):
             return 5
-        if cfg.get("official_requires_match", True) and not topics and not mentions_gta6(
-                f"{item.get('title', '')} {item.get('excerpt', '')}", rules):
+        if cfg.get("official_requires_match", True) and not topics and not mentions_gta6(text, rules):
             return None
         return 4
     if tag == CREDIVEL and int(item.get("score") or 0) >= int(cfg.get("credible_min_score", 60)):

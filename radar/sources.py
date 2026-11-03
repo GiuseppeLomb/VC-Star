@@ -16,7 +16,7 @@ from .util import clean_text, parse_iso, struct_to_dt
 
 TIERS = ("official", "credible", "community")
 TYPES = ("rss", "html", "json")
-RELEVANCE = ("gta6", "topic", "always")
+RELEVANCE = ("gta6", "topic", "gta6_or_topic", "always")
 
 
 @dataclass

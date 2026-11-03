@@ -1,5 +1,5 @@
 /* Service worker: app shell cached; data/*.json network-first with cache fallback. */
-var VERSION = 'radar-v2';
+var VERSION = 'radar-v3';
 var SHELL = [
   './', './index.html', './style.css', './app.js', './manifest.webmanifest',
   './icons/logo-emblem.png', './icons/favicon-48.png', './icons/icon-192.png'

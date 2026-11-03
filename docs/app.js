@@ -62,11 +62,11 @@
     return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
   }
 
+  // Pinned = exactly the items the pipeline rates as urgent pushes (priority 5).
   function isPinned(it) {
-    if (it.tag !== 'OFICIAL') return false;
-    var hot = (it.topics || []).some(function (t) { return URGENT.indexOf(t) !== -1; });
+    if (it.priority !== 5) return false;
     var t = parseTime(it.published);
-    return hot && t != null && Date.now() - t < PIN_DAYS * 864e5;
+    return t != null && Date.now() - t < PIN_DAYS * 864e5;
   }
 
   function isNew(it) {

@@ -28,7 +28,7 @@ BROWSER_UA = (
 )
 TOTAL_DEADLINE = 170  # seconds (~3 min budget for the whole collection)
 RETRY_STATUS = {429, 500, 502, 503, 504}
-PER_HOST = 2  # be polite: at most 2 simultaneous requests per host (Google News has several queries)
+PER_HOST = 1  # be polite: one request at a time per host (Google News/Reddit rate-limit bursts)
 _host_sems: dict[tuple[int, str], asyncio.Semaphore] = {}
 
 

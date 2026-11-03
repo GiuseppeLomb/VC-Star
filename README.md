@@ -48,6 +48,9 @@ GitHub Actions (manual / tag v*) → APK Android (Capacitor) → GitHub Release
 - Notícias publicadas há mais de 48 h nunca geram push.
 - Itens oficiais de outros jogos (ex.: Red Dead Online) sem tópico e sem menção a GTA 6 ficam só na app
   (`official_requires_match` em `config/keywords.yml`).
+- Anúncios da Cfx.re só fazem push se mencionarem GTA 6 (`push_requires_gta6`): todos falam de FiveM,
+  e sem isto cada promoção daria um alerta urgente.
+- Os cartões **fixados no topo** da app são exatamente os itens com prioridade 5.
 
 ---
 
@@ -106,6 +109,17 @@ ou em `insiders:` (ex.: `- Billbil-kun`).
 
 **Termos de scam** (`config/keywords.yml → exclude`): `discard` descarta a notícia, `penalty` baixa o score.
 
+**Bloquear um site** (`config/credible.yml → blocked_domains`): notícias desse domínio são sempre descartadas.
+
+**Opções extra por fonte** (`config/sources.yml`):
+
+```yaml
+    title_filter: 'Rockstar|Grand Theft Auto'   # só títulos que cumpram esta regex
+    exclude_domains: [store.rockstargames.com]  # ignora estes domínios nesta fonte
+    push_requires_gta6: true                    # só faz push se mencionar GTA 6
+    relevance: gta6_or_topic                    # entra se falar de GTA 6 OU tiver tópico
+```
+
 ---
 
 ## Fontes
@@ -115,12 +129,12 @@ Uma fonte que falhe nunca pára as outras.
 
 | Fonte | Tier | Notas |
 |---|---|---|
-| Rockstar Newswire | oficial | Sem RSS. O radar descobre sozinho o endpoint GraphQL interno nos scripts da página |
-| Rockstar via Google News (`site:rockstargames.com`) | oficial | Reserva do Newswire |
+| Rockstar Newswire | oficial | **Desligada.** Sem RSS e a descoberta automática do endpoint interno falhou no runner (03/11/2026) |
+| Rockstar via Google News (`site:rockstargames.com`) | oficial | Reserva do Newswire: apanha os posts do Newswire e do suporte sobre GTA 6 |
 | Rockstar Games no YouTube | oficial | `channel_id` descoberto pelo @handle e confirmado pelo autor do feed |
-| Cfx.re — Anúncios | oficial | Categoria descoberta via `/categories.json` (Discourse) |
+| Cfx.re — Anúncios | oficial | Categoria descoberta via `/categories.json` (Discourse); push só se falar de GTA 6 |
 | PlayStation Blog, Xbox Wire | oficial | Só itens que falem de GTA 6 |
-| Take-Two (comunicados via Business Wire) | oficial | Via Google News |
+| Take-Two (comunicados via Business Wire) | oficial | Via Google News; só Rockstar/GTA e resultados financeiros |
 | Cfx.re fórum geral | comunidade | Só itens que falem de GTA 6 |
 | Google News (EN + PT), Bing News | comunidade | Etiqueta final pelo domínio real da notícia |
 | Reddit: r/GTA6, r/FiveM, r/RPClipsGTA, r/gtaonline | comunidade | Ver limitações |

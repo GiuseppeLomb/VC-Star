@@ -49,7 +49,7 @@ def test_injected_official_private_servers_item_pushes_priority_5(workdir):
     run(workdir, fetcher=FakeFetcher(HISTORY), notifier=n, now=NOW, out=quiet)
     n.sent.clear()
     fake = dict(HISTORY)
-    fake["rockstar_newswire"] = [raw("Grand Theft Auto VI: Private Servers Coming to GTA Online",
+    fake["rockstar_gnews"] = [raw("Grand Theft Auto VI: Private Servers Coming to GTA Online",
                                      "https://www.rockstargames.com/newswire/article/999/gta-vi-private-servers", 0.2)]
     later = NOW + timedelta(minutes=10)
     res = run(workdir, fetcher=FakeFetcher(fake), notifier=n, now=later, out=quiet)
@@ -79,7 +79,7 @@ def test_more_than_ten_important_items_are_capped(workdir):
     subjects = ["Vice City police", "Leonida beaches", "Port Gellhorn races", "Ambrosia farms", "Grassrivers boats",
                 "Mount Kalaga hikes", "Kelly County bikers", "Keys fishing", "Downtown nightclubs", "Airport heists",
                 "Swamp airboats", "Studio lots", "Stock market", "Radio stations"]
-    burst = {"rockstar_newswire": [
+    burst = {"rockstar_gnews": [
         raw(f"GTA VI Online roleplay: {s} explained", f"https://www.rockstargames.com/newswire/article/{k}", 0.1)
         for k, s in enumerate(subjects)]}
     run(workdir, fetcher=FakeFetcher(burst), notifier=n, now=NOW + timedelta(minutes=10), out=quiet)
@@ -89,7 +89,7 @@ def test_more_than_ten_important_items_are_capped(workdir):
 def test_without_topic_pushes_wait_then_bootstrap_silences_history(workdir):
     off = RecordingNotifier(topic=None)
     run(workdir, fetcher=FakeFetcher(HISTORY), notifier=off, now=NOW, out=quiet)
-    fake = {"rockstar_newswire": [raw("GTA VI private servers", "https://www.rockstargames.com/newswire/article/5", 0.1)]}
+    fake = {"rockstar_gnews": [raw("GTA VI private servers", "https://www.rockstargames.com/newswire/article/5", 0.1)]}
     run(workdir, fetcher=FakeFetcher(fake), notifier=off, now=NOW + timedelta(minutes=10), out=quiet)
     on = RecordingNotifier()
     run(workdir, fetcher=FakeFetcher(fake), notifier=on, now=NOW + timedelta(minutes=20), out=quiet)
@@ -99,7 +99,7 @@ def test_without_topic_pushes_wait_then_bootstrap_silences_history(workdir):
 def test_failed_push_is_retried_next_run(workdir):
     ok = RecordingNotifier()
     run(workdir, fetcher=FakeFetcher(HISTORY), notifier=ok, now=NOW, out=quiet)
-    fake = {"rockstar_newswire": [raw("GTA VI Online roleplay announced", "https://www.rockstargames.com/newswire/article/7", 0.1)]}
+    fake = {"rockstar_gnews": [raw("GTA VI Online roleplay announced", "https://www.rockstargames.com/newswire/article/7", 0.1)]}
     bad = RecordingNotifier(fail=True)
     run(workdir, fetcher=FakeFetcher(fake), notifier=bad, now=NOW + timedelta(minutes=10), out=quiet)
     ok.sent.clear()

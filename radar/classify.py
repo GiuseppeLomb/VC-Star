@@ -59,6 +59,7 @@ class Rules:
     penalty: re.Pattern | None
     official_domains: list[str]
     credible_domains: list[str]
+    blocked_domains: list[str]
     insiders: re.Pattern | None
     notify: dict = field(default_factory=dict)
 
@@ -92,6 +93,7 @@ def load_rules(keywords_path: str | Path, credible_path: str | Path) -> Rules:
         penalty=term_regex(penalty.get("terms")),
         official_domains=list(cr.get("official_domains") or []),
         credible_domains=list(cr.get("domains") or []),
+        blocked_domains=list(cr.get("blocked_domains") or []),
         insiders=term_regex(cr.get("insiders")),
         notify={**NOTIFY_DEFAULTS, **(kw.get("notify") or {})},
     )
@@ -168,6 +170,9 @@ def classify(item: dict, source: Source, rules: Rules) -> dict | None:
     text = f"{item['title']} {item.get('excerpt', '')}"
     if rules.discard is not None and rules.discard.search(text):
         return None
+    if domain_matches(item["domain"], rules.blocked_domains) or domain_matches(
+            item["domain"], source.opt("exclude_domains") or []):
+        return None
     title_filter = source.opt("title_filter")
     if title_filter and not re.search(title_filter, item["title"], re.IGNORECASE):
         return None
@@ -175,6 +180,8 @@ def classify(item: dict, source: Source, rules: Rules) -> dict | None:
     if source.relevance == "gta6" and not mentions_gta6(text, rules):
         return None
     if source.relevance == "topic" and not topics:
+        return None
+    if source.relevance == "gta6_or_topic" and not topics and not mentions_gta6(text, rules):
         return None
     tag = tag_for(item["domain"], source, item["title"], item.pop("_author", ""), rules)
     item.pop("_author", None)

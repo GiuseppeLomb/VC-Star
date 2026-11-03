@@ -81,6 +81,7 @@ def run(root: Path = ROOT, *, dry_run: bool = False,
             item = classify(item, r.source, rules)
             if item is None:
                 continue
+            item["priority"] = push_priority(item, rules, r.source)
             kept += 1
             fresh_items.append(item)
         report.append((r, kept))
@@ -94,6 +95,7 @@ def run(root: Path = ROOT, *, dry_run: bool = False,
             continue
         again = classify(dict(it), src, rules)
         if again is not None:
+            again["priority"] = push_priority(again, rules, src)
             rescored.append(again)
 
     existing_ids = {it["id"] for it in existing}
@@ -104,7 +106,7 @@ def run(root: Path = ROOT, *, dry_run: bool = False,
     # ---- seen state + notification candidates
     max_age = int(rules.notify.get("max_age_hours", 48))
     for it in new_items:
-        prio = push_priority(it, rules)
+        prio = it.get("priority")
         seen["items"][it["id"]] = {
             "t": it["title"][:140],
             "first_seen": iso(now),
@@ -212,7 +214,7 @@ def _print_report(out, report, new_items, sent, note, dry_run, selected, rules) 
     for m in sent:
         out(f"  push p{m.priority} [{label}]: {m.title}")
     if dry_run:
-        hot = [(push_priority(it, rules), it) for it in selected]
+        hot = [(it.get("priority"), it) for it in selected]
         hot = [(p, it) for p, it in hot if p]
         hot.sort(key=lambda x: (-x[0], x[1].get("published") or ""))
         if hot:

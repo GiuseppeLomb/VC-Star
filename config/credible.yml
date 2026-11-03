@@ -33,3 +33,16 @@ insiders:
   - NateTheHate
   - Tom Henderson
   - Jason Schreier
+
+# Domínios bloqueados: notícias daqui são sempre descartadas.
+# (sites de venda de moeda/contas que publicam "notícias" para SEO)
+blocked_domains:
+  - mmoexp.com
+  - u4gm.com
+  - lootbar.gg
+  - eldorado.gg
+  - g2g.com
+  - z2u.com
+  - mmogah.com
+  - igvault.com
+  - aoeah.com
