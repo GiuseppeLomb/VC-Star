@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHYmtFLekfqyCbUHquT2s2g"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2349,6 +2348,79 @@
   "2d200a3386c02a5d0e40eebf582603d18915edb8": {
    "t": "Grand Theft Auto VI",
    "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "d7664ce62853c3ed449c7f52c5dc533e7a8e5dd5": {
+   "t": "GTA 6 Launch Trailer Surpassed Trailer 1 First Month View Count by a lot",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "cce6e62b27de40bc9213041a43959bce86363b23": {
+   "t": "I really hope they have cross platform multiplayer incl PC (with the option to turn it off of course)",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "52a2637dc3177d1e733a3b833649bf8228b8999b": {
+   "t": "Grand Theft Auto Circle",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "f4a5183897d8820283a0f858885ba9d21c264200": {
+   "t": "Criminal Mastermind PS5",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "847c9b49bb8d91cc68523725e2bea58c5071dcd8": {
+   "t": "Here's where to shop PlayStation 5 online before GTA 6 drops online",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "146f5d86073e8ff8d61be598b9f0d5826a3805e8": {
+   "t": "GTA 6 Preloading Starts Nov. 10, Requires Up to 212GB of Space",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "890e0fa3a4bf745c839be793fa78655faff64439": {
+   "t": "Grand Theft Auto VI Pre-Load Begins on November 10",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": 4,
+   "pending": false,
+   "notified": "2026-11-04T06:40:48Z"
+  },
+  "c4743128a3c76d34da3983e517324fa3723508db": {
+   "t": "GTA 6 Leak Economy: $40 Builds, 7-Step Roadmap [2026]",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "c2404d29e90208d15f550b42d8aafc648903e34f": {
+   "t": "GTA 6 PC Launch Reportedly Set for Q1 2027, After Console Debut",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "ecb0df457e78e96142819c378746641634e29955": {
+   "t": "Grand Theft Auto VI Pre-Orders Begin on June 25",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": 4,
+   "pending": false
+  },
+  "0b761eabb1fe43a00c83c36ed9d5a1e35d5d84fb": {
+   "t": "Grand Theft Auto VI is Now Coming May 26, 2026",
+   "first_seen": "2026-11-04T06:40:48Z",
+   "p": 4,
+   "pending": false
+  },
+  "714d376cc15fd783613e9641e1a321d50a4eee93": {
+   "t": "GTA 6 Pre-Loading Date, Size Confirmed by Rockstar Games",
+   "first_seen": "2026-11-04T06:40:48Z",
    "p": null,
    "pending": false
   }
