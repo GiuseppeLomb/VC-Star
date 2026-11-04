@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T06:40:48Z",
- "count": 316,
+ "generated_at": "2026-11-04T14:54:06Z",
+ "count": 322,
  "items": [
   {
    "id": "d7664ce62853c3ed449c7f52c5dc533e7a8e5dd5",
@@ -17,6 +17,40 @@
     "trailer"
    ],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "f3b82d31a35c7225baeba8951fde6936c418f15e",
+   "title": "Rockstar will take down videos with GTA 6 story spoilers even after launch",
+   "url": "https://www.msn.com/en-in/news/other/rockstar-will-take-down-videos-with-gta-6-story-spoilers-even-after-launch/ar-AA2gKccy",
+   "source_id": "bing_online",
+   "source_name": "Metro on MSN",
+   "domain": "msn.com",
+   "published": "2026-11-04T05:46:16Z",
+   "fetched": "2026-11-04T14:54:06Z",
+   "excerpt": "If you're planning on sharing GTA 6 spoilers in clips after the game's launch, you'll face the wrath of Rockstar.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "c813873929e71bc726f635d2f9b5027a178db8a2",
+   "title": "How To Safely Pack Your PS5 For A Trip To New Zealand So You Can Play GTA 6 Early",
+   "url": "https://travel.yahoo.com/advice/travel-tips/articles/safely-pack-ps5-trip-zealand-122023674.html",
+   "source_id": "bing_online",
+   "source_name": "travel",
+   "domain": "travel.yahoo.com",
+   "published": "2026-11-04T04:20:00Z",
+   "fetched": "2026-11-04T14:54:06Z",
+   "excerpt": "Grand Theft Auto 6 is almost here, and the first people to play it will be those lovely folks in New Zealand. Developer Rockstar Games has announced that GTA 6 will officially be ready to play at ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -1317,8 +1351,8 @@
    "source_id": "gnews_online",
    "source_name": "SVG",
    "domain": "svg.com",
-   "published": "2026-10-24T16:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
+   "published": "2026-10-24T07:00:00Z",
+   "fetched": "2026-11-04T14:54:06Z",
    "excerpt": "",
    "tag": "RUMOR",
    "topics": [],
@@ -2056,6 +2090,26 @@
    "priority": null
   },
   {
+   "id": "7f695ed3283b8b943960e6f3b608572ca72b70f2",
+   "title": "GTA 6 Online's Release Date Is Clearer After Twitch CEO Comments",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13ZjBwcEVMZGU5QVlSX2pyVHdmOEV4M0tLZHBOb1lYVFY5UDBPXzFEZ2ZqMVRWSldpdDU3SlZLdi1FZ1ZxVEViSjEwc1d1eWhpd18wd1JZZmZvTENHX2MyLVp3",
+   "source_id": "gnews_online",
+   "source_name": "WIN.GG",
+   "domain": "win.gg",
+   "published": "2026-09-23T07:00:00Z",
+   "fetched": "2026-11-04T14:54:06Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "fae06209ade407274837dd7f7016fb394b02f308",
    "title": "Rockstar Games aperta as regras de modding antes do lançamento de GTA 6",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenpvbTJmcm9lcE5wN2FndjRsQ1ozRnVQYUFSX1pqcU1sWEt0d004LVg5M09kMG1QYWtFZjhjdU55Ti1rS2lHM2dMelpDWmVPdjVVcUdZNTBaSjNhSnhiLXlDOGhOZlJGcnBVUm50TTRJaXpTNVNjMG5kekRkWGF1bTBuY1daWXNIZTg3UF9Ub3k3bm1LaXNJRHJEaTNzQkZFd2k5V1B3",
@@ -2129,7 +2183,9 @@
    ],
    "score": 100,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "in.ign.com"
+   ],
    "priority": 3
   },
   {
@@ -2333,6 +2389,25 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "33250609d9383206015603cde75d0e386547877d",
+   "title": "GTA 6 Online could arrive next year, says Twitch CEO",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHc5bFREOWVKSk5PMFU2Z2E3ZFdjTHFOVzJEcEY3aGZ5MVM3M1lNZWZldTFRNDlpNGlpTzJyZGp4dmIyeGZUSjBEenV4cldIRzROUllFYkY4YnRMdG4wWXlKeTFoN3c5bU84b1ZTN01wNzFNcmFLMlFJNmFsZC1ZaUt5UTAxcC1k",
+   "source_id": "gnews_online",
+   "source_name": "The Shortcut | Matt Swider",
+   "domain": "theshortcut.com",
+   "published": "2026-09-18T07:00:00Z",
+   "fetched": "2026-11-04T14:54:06Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
    "also_on": [],
    "priority": null
   },
@@ -5394,6 +5469,25 @@
    "priority": null
   },
   {
+   "id": "6e8f0c24ee912e4571632528573d014dcb3c0fff",
+   "title": "Grand Theft Auto VI - Trailer 1",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yS3I2TF9oR1V6WjU4NHliQjZfVHMyZWd4MEZUTlRCbGVsX2RBVDF3MjFKaWxxQ2Z1R3AzeHVHbjZEczExaUc2c2tNNDJGeVlfNnIwQ0hyZ2E",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2024-06-25T18:27:44Z",
+   "fetched": "2026-11-04T14:54:06Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [
+    "trailer"
+   ],
+   "score": 15,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
+  },
+  {
    "id": "a5f6a3aecb3701b59593c8590f58264216c1eaca",
    "title": "Online is definitely gonna feel more like GTA roleplay now\": GTA 6's Online Experience Gets a Big Leg Up as Rockstar Add More Experts to the Team",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRmRuaWpzMElBRGdrVlFkV3FnN3ItbUNvSHZLbUZaWTJsR1Vpd21pYS1tai1ueDBUT0g2NzVYYVhPMGF4RUl4SXhRaGFRNktVdXpRME1nenEzYUxIMEtRQ1NTME5aS3I0ck91QzFteklCcDJ1ajBDcFNfamlfMkMyTDBYcUo4eF9mbjRHSVduWVEwV2lnQ3lzY1ZnTTNWQ2hLd2FMNzRmNS1DNFh6bGVodXhrdWxvckd0RTNuR1VrMXlKcWF0R2hfWlZJMGhyTFFUVFB4YS1ZTEg2NWpFMWFoWnlhVFF1NF8waFFDUmVjMG5DYm9LWGtKdG93",
@@ -5427,6 +5521,23 @@
     "rp"
    ],
    "score": 80,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "4c51db311c480f2b425a1d9fdf43f8afec9ae9b6",
+   "title": "Rapper famoso confirma presença em GTA 6 de maneira inusitada",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3c4Vm9OcnVmQzFlRlFLb0YxRkVodTAxczkwVEdPY3JvRWxEZWhiRmx1OHdCclM4c1FpdmRjR05HUkFxSS1uZ2UyRFAwY3h6Ny1SQzFaTEVaTXcwU28weTdnUjBNSEYzd1lUSGx3a0ZseGhsLUZqRGZVVUhLSWRfaDl4QkktVzEzd2tvM1ROOFh4MnZpQ0k0M0g2em1kRkVKd1ltaGRhZU_SAa4BQVVfeXFMTWZROC1QcFFPMTQ3b0pGcjJiNllFT0hjT2sxX2Y0ODRmR201U29JNkl1UEwtaUZNQ2Q5c0VUMFN0ZFQzYXg0U2ozcmdvazlhQUthX3pIUElFbWM0LWVMN09iVVJzbzNJcEM4Um5aY2lydVg0U202VlhYaTdUTjlIQzlDeHVjamlENFlEd1J4TnZjekc0RXFnQ0Y4LUlXcmxCX2ljSm9ySWlSV1Q5SDRn",
+   "source_id": "gnews_pt",
+   "source_name": "Estadão",
+   "domain": "estadao.com.br",
+   "published": "2024-01-15T08:00:00Z",
+   "fetched": "2026-11-04T14:54:06Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "pt",
    "also_on": [],
    "priority": null

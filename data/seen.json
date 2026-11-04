@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2421,6 +2422,42 @@
   "714d376cc15fd783613e9641e1a321d50a4eee93": {
    "t": "GTA 6 Pre-Loading Date, Size Confirmed by Rockstar Games",
    "first_seen": "2026-11-04T06:40:48Z",
+   "p": null,
+   "pending": false
+  },
+  "f3b82d31a35c7225baeba8951fde6936c418f15e": {
+   "t": "Rockstar will take down videos with GTA 6 story spoilers even after launch",
+   "first_seen": "2026-11-04T14:54:06Z",
+   "p": null,
+   "pending": false
+  },
+  "c813873929e71bc726f635d2f9b5027a178db8a2": {
+   "t": "How To Safely Pack Your PS5 For A Trip To New Zealand So You Can Play GTA 6 Early",
+   "first_seen": "2026-11-04T14:54:06Z",
+   "p": null,
+   "pending": false
+  },
+  "7f695ed3283b8b943960e6f3b608572ca72b70f2": {
+   "t": "GTA 6 Online's Release Date Is Clearer After Twitch CEO Comments",
+   "first_seen": "2026-11-04T14:54:06Z",
+   "p": null,
+   "pending": false
+  },
+  "33250609d9383206015603cde75d0e386547877d": {
+   "t": "GTA 6 Online could arrive next year, says Twitch CEO",
+   "first_seen": "2026-11-04T14:54:06Z",
+   "p": null,
+   "pending": false
+  },
+  "6e8f0c24ee912e4571632528573d014dcb3c0fff": {
+   "t": "Grand Theft Auto VI - Trailer 1",
+   "first_seen": "2026-11-04T14:54:06Z",
+   "p": 4,
+   "pending": false
+  },
+  "4c51db311c480f2b425a1d9fdf43f8afec9ae9b6": {
+   "t": "Rapper famoso confirma presença em GTA 6 de maneira inusitada",
+   "first_seen": "2026-11-04T14:54:06Z",
    "p": null,
    "pending": false
   }
