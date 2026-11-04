@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHYmtFLekfqyCbUHquT2s2g"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2162,6 +2163,192 @@
   "fb0c18f70dd86b9fbbc131412ec5c0793cf1296f": {
    "t": "Rockstar's acquisition of FiveM mod team could be absolutely massive for GTA 6",
    "first_seen": "2026-11-03T23:23:07Z",
+   "p": null,
+   "pending": false
+  },
+  "d95cda24bae2a6ce6e8a26d79b8746bbc1a9d6d3": {
+   "t": "How many of you are going to watch the entire GTA 6 playthrough on YouTube?",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "a9408f281f1c714151610b2d2fca6d4b00690871": {
+   "t": "Pré-load de GTA VI começa em 10 de novembro",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "c191c1d03aee6e80a318d0b8bebb4c3aee484418": {
+   "t": "¡GTA 6 también conquista las calles de Miami! 🔥",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "d5be154803787817d247bdd61b3c009d9fb12e4f": {
+   "t": "Gta 6 online",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "a08f5abddfe3d946bd242a1aa1f672af3eb40c54": {
+   "t": "GTA 6 WALMART PREORDERS MAY COME WITH A BONUS BAG",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "4a00982753d3f9350408aab97666b1d8066b6160": {
+   "t": "Do you think GTA 6 Online will be a Metaverse?",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "701e5dbaaff65bb18ec2c6dcc3300fe529a29aec": {
+   "t": "Looking for a Gta6 Console RP Server?",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "c7eeb6fff26725a0fe99da35d30d27537a17765b": {
+   "t": "🌆 Brookstone City RP | A New FiveM City Looking for Players to Grow With Us! ❤️ Fresh Start, Real Roleplay, Your Voice Matters, and Opportun",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "fb5774b5dd1d96bb8875e3e62b52ef0a9229eedd": {
+   "t": "Got an OLED LG C6 + Sound bar for the ultimate GTA 6 experience.",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "88235b0a5ff3d494945c54e48705a6030f0390f8": {
+   "t": "🌆 Ready for a Fresh Start? Discover Brookstone City RP – Where Your Story, Your Voice, and Your Future Matter! ❤️",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "61e01229a3ae660d29f1d621053548ee7b20590a": {
+   "t": "GTA 6",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "f04f5a2987de3732ac67aabeef177b82332b4965": {
+   "t": "Can the team cfx.re be involved in the GTA 6 leak?",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "d0497e4abecf4064bdaa16c966e202a8479c4a89": {
+   "t": "3 years from the end of the decade, Elden Ring and Baldur’s Gate 3 are still the best games of the 2020s (IMO).",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "9ead62bf44bd451da040be847ec530fa3f7c1248": {
+   "t": "Challenge Idea: Get to RP: 1000 before playing GTA 6.",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "a5196a8b855d9da1718f6f39b264ef988a1b2f30": {
+   "t": "Bande-annonce de lancement de Grand Theft Auto VI",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": 4,
+   "pending": false
+  },
+  "eec9b6e9fca5723279455b1f814b4a4796b1040a": {
+   "t": "Grand Theft Auto VI : Un large aperçu, vous attend le 27 août",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": 4,
+   "pending": false
+  },
+  "6ecff683abb0cc822b195112d01947ed4ef78ec9": {
+   "t": "GTA Online : Le Braquage du Kortz Center est désormais disponible",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "84268cb81d66708e97cb571920b78b4130653967": {
+   "t": "Grand Theft Auto VI : présentation de l'illustration officielle de la jaquette",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": 4,
+   "pending": false
+  },
+  "8f868bfde6df394f28da9159643eb42e54080f61": {
+   "t": "LD Organics présente l’évènement 420 dans GTA Online",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "9d146d9e507352deabd137a33b901e2a7dac90d9": {
+   "t": "Ajoutez le tuning drift à de nouveaux véhicules dans GTA Online",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "7f1bd63cee521ddf8c615ce68cbbeb146294224b": {
+   "t": "Nouveau mode Retour à la ligne en duo dans GTA Online",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "9634b24941bb13bcde905504e309b34e9aa85a4e": {
+   "t": "Célébrez les fêtes de fin d'année dans GTAOnline",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "879b5345889e3642a25834b71e568110b259dce3": {
+   "t": "La nouvelle supersportive futuriste Progen Luiva débarque dans GTA Online",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "785e1da0d565b469a2f3b3b1a4625bd30f312a74": {
+   "t": "GTA Online : Une planque au sommet maintenant disponible",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "016df905482062f101ec3ce9d19b5a8a749418c1": {
+   "t": "GTA Online : Une planque au sommet disponible le 10 décembre",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "44fab0a1d43ae78dda4fde763bc2640fc1d1eb66": {
+   "t": "Red Dead Redemption débarque sur Netflix, iOS, Android, PS5, Xbox Series X|S et Nintendo Switch 2",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "6db4330642910e2fb25d1042383d85c65ad19403": {
+   "t": "GTA Online : Une planque au sommet, disponible en décembre",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "33af65ad2375f83909319a49a126d27b7d9b42d5": {
+   "t": "Red Dead Redemption débarque sur Netflix, iOS, Android, PS5, Xbox SeriesX|S et Nintendo Switch2",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "2a473e84ee6154c7ce1d474892e2059f07616bf6": {
+   "t": "Affrontez des morts-vivants dans la nouvelle survie à Cayo Perico dans GTA Online",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "60678aa9cc2acb380daec1036c69752d5c5b8502": {
+   "t": "GTAVIRP",
+   "first_seen": "2026-11-04T00:13:44Z",
+   "p": null,
+   "pending": false
+  },
+  "2d200a3386c02a5d0e40eebf582603d18915edb8": {
+   "t": "Grand Theft Auto VI",
+   "first_seen": "2026-11-04T00:13:44Z",
    "p": null,
    "pending": false
   }
