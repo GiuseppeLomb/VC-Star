@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2571,6 +2572,31 @@
   "12d9a757a4bf33043d6b86d138aa8e316c636751": {
    "t": "5 new things Rockstar should add to GTA 6 Online weekly events",
    "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "75d82272e285f5b005de806561acfe6f0b275657": {
+   "t": "'GTA 6' download gets a free speed boost from Spectrum—here's what this means for gamers",
+   "first_seen": "2026-11-05T08:22:47Z",
+   "p": null,
+   "pending": false
+  },
+  "17734be8a365b8b3f4f084297f59087a89ec651c": {
+   "t": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
+   "first_seen": "2026-11-05T08:22:47Z",
+   "p": null,
+   "pending": false
+  },
+  "b9608f36500f7063fe4f7b3b36036202d19f2321": {
+   "t": "Grand Theft Auto VI ab 10. November vorab herunterladen",
+   "first_seen": "2026-11-05T08:22:47Z",
+   "p": 4,
+   "pending": false,
+   "notified": "2026-11-05T08:22:47Z"
+  },
+  "a950f6eec2ff3ffa4a7c1a8a5adeb735dd35c9f4": {
+   "t": "GTA 6 preload date is confirmed — Plus everything you need to know about the most anticipated game of the year",
+   "first_seen": "2026-11-05T08:22:47Z",
    "p": null,
    "pending": false
   }
