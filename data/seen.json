@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2512,6 +2511,66 @@
   "42c2052100b2f6c22c1d5ed968d9d861a9b9a261": {
    "t": "GTA 6 Will Be Another Rockstar Masterpiece, But Its Online Mode Has Me Worried",
    "first_seen": "2026-11-04T21:05:56Z",
+   "p": null,
+   "pending": false
+  },
+  "01474a72e0aeb73fd2d77e9a0ee41194ab23ddfe": {
+   "t": "🐅 GoadianCF | GTA 6 Recruitment | PS5 👑",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "d370b8fc75462d64735bbe761089f2240c5e2176": {
+   "t": "PlayStation to reveal more GTA 6 details closer to launch",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "cc0a11987eef42bea1653ee77b7c5c2229c2f20d": {
+   "t": "Man Who Hoped To Live Long Enough To Play GTA 6 Dies 3 Weeks Before Launch",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "e918c0066216525e038cdfbccc5e319df8c9cbf8": {
+   "t": "15 GTA 6 Screenshots From Edge's Rockstar North Preview",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "a166b67b578a8b3ded32841a077212e3698c8f11": {
+   "t": "Bank of America Says GTA 6 on PC and GTA Online Will Release In Early 2027",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "28aef01f7a72bc4a9a32a6cb35fae123703cb87b": {
+   "t": "GTA 6 Online Official Age Verification Will Impact Millions Of Gamers",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "1620c9e0d8cdbd0d59940aafe730e9e98cf27be2": {
+   "t": "GTA Online Officially Confirms End Of Era Ahead Of GTA 6",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "d77e0978b8cb751e3a05b3ab99a554f2a4719bad": {
+   "t": "GTA 6 could come to PC in early 2027, according to a new report",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "440e35a9ad6dd559ab9164421120b302286a2693": {
+   "t": "GTA 6 Online Could Launch Next Year As Take-Two Talks Up PC Gaming",
+   "first_seen": "2026-11-05T01:26:49Z",
+   "p": null,
+   "pending": false
+  },
+  "12d9a757a4bf33043d6b86d138aa8e316c636751": {
+   "t": "5 new things Rockstar should add to GTA 6 Online weekly events",
+   "first_seen": "2026-11-05T01:26:49Z",
    "p": null,
    "pending": false
   }
