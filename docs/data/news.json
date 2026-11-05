@@ -1,7 +1,81 @@
 {
- "generated_at": "2026-11-05T16:40:15Z",
- "count": 355,
+ "generated_at": "2026-11-05T22:23:59Z",
+ "count": 360,
  "items": [
+  {
+   "id": "ce4e98a8bb1230013bfc4c1cbb5d7ebe9cb6c46f",
+   "title": "This screenshots are such a good demonstration that crowd density in this game is on another level",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xoul8a/this_screenshots_are_such_a_good_demonstration",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-05T21:18:06Z",
+   "fetched": "2026-11-05T22:23:59Z",
+   "excerpt": "I think this is one of the hotels we saw before and i counted 163 NPCS just on this image all doing different things And the second one is on the vault club we saw on trailer 1 and the extended look and even tho i couldn't count every npc i estimate around 66-90 npcs just in…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "47701d1dba14067036c78674546354cae3a29096",
+   "title": "GTA 6 on twitch ads now!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xoufbu/gta_6_on_twitch_ads_now",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-05T21:11:33Z",
+   "fetched": "2026-11-05T22:23:59Z",
+   "excerpt": "https://preview.redd.it/xfvas0sk0vzh1.png?width=2008&format=png&auto=webp&s=550f729f236d80e81fe63483922f94dcab58bc5c We have GTA 6 trailer on twitch ads before GTA 6 now lol!",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "47de2df9b2711c7e4c7f37ea83f7a59130ae996f",
+   "title": "Clipping GTA 6 launch Twitch streams: what 15,000 GTA clips told me about where the money is",
+   "url": "https://www.reddit.com/r/SideHustleGold/comments/1xooafw/clipping_gta_6_launch_twitch_streams_what_15000",
+   "source_id": "reddit_search",
+   "source_name": "Reddit — pesquisa GTA 6 RP",
+   "domain": "reddit.com",
+   "published": "2026-11-05T17:14:18Z",
+   "fetched": "2026-11-05T22:23:59Z",
+   "excerpt": "Quick context if you haven't heard of clipping: streamers and brands pay people to post short clips of their streams on TikTok, YouTube Shorts and Reels. You get paid per 1,000 views through campaigns or platform rewards and you need max. basic editing skills. GTA 6 comes out…",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "b07ac4dc2903bb7c899ef584ac3279547a2b98f3",
+   "title": "Do y'all think Rockstar will stop forcing the \"lose wanted level\" shit in GTA 6 Online?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xonry7/do_yall_think_rockstar_will_stop_forcing_the_lose",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-05T16:54:59Z",
+   "fetched": "2026-11-05T22:23:59Z",
+   "excerpt": "I feel like every little mission you do results in a wanted level, and now that the cop system is getting a complete overhaul, losing a 1-2 star wanted level every 5 minutes would probably be a fucking pain in the ass",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "ebe18672765ebca0e50e042cd2ad86b15414aa2b",
    "title": "What should our upcoming GTA 6 server have? Help shape Neon Assembly.",
@@ -39,20 +113,22 @@
    "priority": null
   },
   {
-   "id": "c209e2fff2f3d4e369b2e0de4573c3e3dcb46c24",
-   "title": "Explore the Grand Theft Auto VI Launch Gallery",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenlYTHJOV2JxUkx1TEZnblBxSzdYdnhJQlQ0RUEybnNON0pKS3RxUnlueXNkTGVUbmt5MnpBR1JzMkttUi1Qb3ZQNXp6NWpZbl9EX1dqUVhaWjNBU3ROWkFySlhBbUJwOVJESHNoZ0N0WXRVdGprZ1RGWWY2U2l4TjNtQm4zNDNpQkoxQnN1NmNVZUdqNTBhSGVYeFBsZUZFZWxHZ3RWLW5LSjFT",
+   "id": "be058332a68e0a18b6ee69e5a206b37a55b46e4b",
+   "title": "Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42WUhGNFVlZnJqaVlPbWIwT1h1M1puU1ByTzAzZm5kOVFUNmtGcWhaeC1MSVk0UHNBTGgwTzd1YnJyRnJjYmtwV2tVeWdpcDE5TXNORUtDQ2xwNUk",
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
-   "published": "2026-11-05T15:14:44Z",
-   "fetched": "2026-11-05T16:40:15Z",
+   "published": "2026-11-05T15:08:51Z",
+   "fetched": "2026-11-05T22:23:59Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "reddit.com"
+   ],
    "priority": 4
   },
   {
@@ -251,6 +327,23 @@
    "priority": null
   },
   {
+   "id": "e9f674ccddb21992df1f6449fe879a16f66a78c1",
+   "title": "$750 Million In ‘GTA 6’ Pre-Sales Will Soon Pass GTA 5’s Entire Launch",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnBGQnhuNndZY003aGFQSlVlSVF2SmRGZGpwZ214dURhRlFSNUhrNVlwcXIxaERPcDdJdU5oN1RRd3RQRVJRb3VXdkpZcEtwTDVTVzFUMWo2WFJ2OTM2R09lWWlsLUV2UzlreDRoM0F6U2xEMTRhcXN1MVZCc291eUxDODd5NkZ6c3BXZ3hVc2lub0NxVTRFRnd4ZXotT2p3dlA3R1Nyc3BBOERXa2JwUVFzV3hKNWY2",
+   "source_id": "gnews_online",
+   "source_name": "Forbes",
+   "domain": "forbes.com",
+   "published": "2026-11-04T14:59:46Z",
+   "fetched": "2026-11-05T22:23:59Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "17734be8a365b8b3f4f084297f59087a89ec651c",
    "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
    "url": "https://tech.yahoo.com/gaming/articles/gta-6-now-come-stores-202620660.html",
@@ -422,25 +515,6 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "52a2637dc3177d1e733a3b833649bf8228b8999b",
-   "title": "Grand Theft Auto Circle",
-   "url": "https://www.reddit.com/r/kyodo/comments/1xnbwir/grand_theft_auto_circle",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2026-11-04T01:57:20Z",
-   "fetched": "2026-11-04T06:40:48Z",
-   "excerpt": "Hello, hello! For all the Grand Theft Auto fans out there, I have decided to create a circle just for you! With the upcoming release of GTA 6, I figured now would be a good time! Roleplay, art, literature etc is all welcome here. Swing on by! We’re looking to go public as soon…",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 40,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -3092,6 +3166,23 @@
     "trailer"
    ],
    "score": 60,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "7e45567c43e893c049dfa06d52d981900c47a0ae",
+   "title": "Twitch CEO Urges Game Firms to Avoid Attention Vortex of ‘GTA 6’",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVBLbE1CcG5iY2lwdzQ2RlZES09iT0VsNng3VkFIcWRsZ1BhZWZoTFE4UmliQ2trcm5XUWJDbEFseHpDdkJGNjF1UFluUlpzSGdKencyRTlHSFBLMU94WmsxZDlHMkNDRlhQUURDUVRkN2dKUml3a0s4RW9qUjl1ODZ4ZEZJWEQ4X3p0ZFJLYWlCYjlRS2RJTkkxOUJEdTAwN0phYkRpRjJ5dElHNTg0WGNicw",
+   "source_id": "gnews_online",
+   "source_name": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "published": "2026-09-16T07:00:00Z",
+   "fetched": "2026-11-05T22:23:59Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
