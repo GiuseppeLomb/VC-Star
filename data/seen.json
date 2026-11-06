@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2720,6 +2719,54 @@
    "t": "Twitch CEO Urges Game Firms to Avoid Attention Vortex of ‘GTA 6’",
    "first_seen": "2026-11-05T22:23:59Z",
    "p": null,
+   "pending": false
+  },
+  "6f8872e0d7f10379c2c60ee0478ca729d4468d30": {
+   "t": "On this day, 1 year ago, GTA 6 was delayed to November 19th 2026. Now we're less than 2 weeks away from the game, Surreal.",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": null,
+   "pending": false
+  },
+  "e07cf1c0653bda789323e759085ca3f255aa1810": {
+   "t": "I completed GTA V finally!",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": null,
+   "pending": false
+  },
+  "e653474d6696d2e1c6cfc5b8089ea0b2e22b18a7": {
+   "t": "Gta 6 will probably end up being like fortnite",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": null,
+   "pending": false
+  },
+  "84d1e43bb707295749b4fef5478be86ebd1cae06": {
+   "t": "Found This",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": null,
+   "pending": false
+  },
+  "5ac491aa6e27bdfb7b26293f473b8d76e830124f": {
+   "t": "Brawl Stars COMPLETELY copies GTA VI trailer...",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": null,
+   "pending": false
+  },
+  "c73efc46dc276ce6ebb280d1236922b8f0acaf78": {
+   "t": "just realized lucia is wearing the same golden dress seen in trailer 2",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": null,
+   "pending": false
+  },
+  "ee564ae37a3308b6517fb54a64cae89ed321af97": {
+   "t": "Grand Theft Auto VI: An Extended Look",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": 4,
+   "pending": false
+  },
+  "a61f65d9861e330bb6da36a9d01e8fdc7d114861": {
+   "t": "Grand Theft Auto VI Launch Trailer",
+   "first_seen": "2026-11-06T02:43:45Z",
+   "p": 4,
    "pending": false
   }
  },
