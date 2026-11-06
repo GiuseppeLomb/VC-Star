@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2857,6 +2856,72 @@
   "2238f570d0a72be0952aefa909086765280adf8f": {
    "t": "GTA 6: Take-Two intima Microsoft e Discord após novos vazamentos de CyberLeek",
    "first_seen": "2026-11-06T17:16:35Z",
+   "p": null,
+   "pending": false
+  },
+  "0e5d649b942a7f26d345696bd386956486cdb935": {
+   "t": "Did cars always do this? Or am i just not a bad driver",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "79b0c675a90278c9321fb96f4d60c4203edb5a28": {
+   "t": "Marketing ramp up in final two weeks",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "6082ab3ed4ba0c27714239685e5744ba83a7000a": {
+   "t": "What’s with the negative threads about NoPixel V?",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "f4779bf52e94eeecb036a1ef0d760f00a218d231": {
+   "t": "Considering WOW and GTA6 soon, the invite frequency really would have to be increased, to keep the server alive",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "5823d16114f1e35cf24a4ab44b8583c0f3fba884": {
+   "t": "GTA 6 is almost here, 13 years after GTA 5: Preload dates, global release plus everything else you need to know",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "c0d88e20e382012d68d5aad8031f5c4547c84559": {
+   "t": "Will GTA Online shut down when GTA 6 comes out? No, Take-Two says it will keep supporting it",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "fcd5e8b954b1e6c5125a39c2c3ebb83e2133cfeb": {
+   "t": "Quick dumb theory about Dolls of Destruction before the game drops",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "b147835e4b1d76c722c12c99e4c80ff328318687": {
+   "t": "This new yacht is called the \"Yakuruna\"",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "37444097d0e428ecffd4071f7e04a5b04a7dd00d": {
+   "t": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "f17278ed05809a406c35ade7c14dba0f2f7d48ef": {
+   "t": "Internet provider offers free upgrades to rush GTA 6 downloads",
+   "first_seen": "2026-11-06T22:11:11Z",
+   "p": null,
+   "pending": false
+  },
+  "ba796af763a2039b9825bea7964f6d46b43b5975": {
+   "t": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
+   "first_seen": "2026-11-06T22:11:11Z",
    "p": null,
    "pending": false
   }
