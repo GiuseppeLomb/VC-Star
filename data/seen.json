@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2767,6 +2768,42 @@
    "t": "Grand Theft Auto VI Launch Trailer",
    "first_seen": "2026-11-06T02:43:45Z",
    "p": 4,
+   "pending": false
+  },
+  "1e2f14dd66cf49aac62efd705d2808208805c27e": {
+   "t": "Keys Neighbor from Trailer 2",
+   "first_seen": "2026-11-06T09:56:25Z",
+   "p": null,
+   "pending": false
+  },
+  "e66d484c73565d4fa89a524fb984025610f7e5d7": {
+   "t": "My Predictions For Live Action Trailer And Actor Reveals",
+   "first_seen": "2026-11-06T09:56:25Z",
+   "p": null,
+   "pending": false
+  },
+  "3efa7c29105a529ac82b23843bcd8584ec7e05cf": {
+   "t": "“It’s Just a Story Game”: Ludwig Thinks GTA 6 Could Disappoint Players at Launch",
+   "first_seen": "2026-11-06T09:56:25Z",
+   "p": null,
+   "pending": false
+  },
+  "0cb1d021d586149c5e6efc40476ae01b4017fe07": {
+   "t": "Rockstar drops a Launch Gallery of nearly 40 new GTA 6 screenshots two weeks before release",
+   "first_seen": "2026-11-06T09:56:25Z",
+   "p": null,
+   "pending": false
+  },
+  "970983d0a321c31a7b98e8f08b1c8a3203f825dd": {
+   "t": "Get GTA 6 For Free: Who Can Get The Grand Theft Auto 6 Without Paying?",
+   "first_seen": "2026-11-06T09:56:25Z",
+   "p": null,
+   "pending": false
+  },
+  "5e2fb33928466c3b04b2ae193d2199ee4f627026": {
+   "t": "GTA 5 mod based on GTA 6 leaks taken down over copyright strike",
+   "first_seen": "2026-11-06T09:56:25Z",
+   "p": null,
    "pending": false
   }
  },

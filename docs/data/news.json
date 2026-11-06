@@ -1,7 +1,45 @@
 {
- "generated_at": "2026-11-06T02:43:45Z",
- "count": 367,
+ "generated_at": "2026-11-06T09:56:25Z",
+ "count": 374,
  "items": [
+  {
+   "id": "1e2f14dd66cf49aac62efd705d2808208805c27e",
+   "title": "Keys Neighbor from Trailer 2",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xp53p2/keys_neighbor_from_trailer_2",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-06T05:42:42Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "The same lady yelling “Hi Jason” in the beginning of Trailer 2 can be seen in the newest batch of screenshots, at the rusty anchor bar. She has the same recognizable blue eyeshadow & long beaded necklace, & we could be seeing her dog sat under the Iguana Lady’s chair, though…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "e66d484c73565d4fa89a524fb984025610f7e5d7",
+   "title": "My Predictions For Live Action Trailer And Actor Reveals",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xp489x/my_predictions_for_live_action_trailer_and_actor",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-06T04:54:10Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "It would be pretty cool if the live action trailer had something to do with a gta online? It would be a pretty cool way to announce that As for Jason and Lucia, I think the actors will be courtside at the Vice City Heat game on November 18, and they'll be announced then. What…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "6f8872e0d7f10379c2c60ee0478ca729d4468d30",
    "title": "On this day, 1 year ago, GTA 6 was delayed to November 19th 2026. Now we're less than 2 weeks away from the game, Surreal.",
@@ -190,6 +228,61 @@
    "priority": null
   },
   {
+   "id": "3efa7c29105a529ac82b23843bcd8584ec7e05cf",
+   "title": "“It’s Just a Story Game”: Ludwig Thinks GTA 6 Could Disappoint Players at Launch",
+   "url": "https://beebom.com/gta-6-could-be-disappointing-says-streamer-ludwig",
+   "source_id": "bing_online",
+   "source_name": "Beebom",
+   "domain": "beebom.com",
+   "published": "2026-11-05T16:00:00Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "Popular streamer Ludwig thinks GTA 6 could disappoint players at launch, calling it \"just a story game\" without Online or a PC release.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "0cb1d021d586149c5e6efc40476ae01b4017fe07",
+   "title": "Rockstar drops a Launch Gallery of nearly 40 new GTA 6 screenshots two weeks before release",
+   "url": "https://tbreak.com/gta-6-new-screenshots-launch-gallery",
+   "source_id": "bing_online",
+   "source_name": "Tbreak",
+   "domain": "tbreak.com",
+   "published": "2026-11-05T16:00:00Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "Rockstar has published a Launch Gallery of nearly 40 new GTA 6 screenshots of Jason, Lucia and Leonida, two weeks before the 19 November launch.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "970983d0a321c31a7b98e8f08b1c8a3203f825dd",
+   "title": "Get GTA 6 For Free: Who Can Get The Grand Theft Auto 6 Without Paying?",
+   "url": "https://in.mashable.com/tech/115842/get-gta-6-for-free-who-can-get-the-grand-theft-auto-6-without-paying",
+   "source_id": "bing_online",
+   "source_name": "Mashable India",
+   "domain": "in.mashable.com",
+   "published": "2026-11-05T16:00:00Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "Rockstar Games’ GTA 6 is part of an unusual promotion in Norway. Retailer Komplett is offering a free copy to families whose babies are born on its scheduled launch date, November 19, 2026.",
+   "tag": "RUMOR",
+   "topics": [
+    "data"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "ebe18672765ebca0e50e042cd2ad86b15414aa2b",
    "title": "What should our upcoming GTA 6 server have? Help shape Neon Assembly.",
    "url": "https://www.reddit.com/r/NeonAssembly/comments/1xolrjt/what_should_our_upcoming_gta_6_server_have_help",
@@ -226,14 +319,14 @@
    "priority": null
   },
   {
-   "id": "be058332a68e0a18b6ee69e5a206b37a55b46e4b",
-   "title": "Grand Theft Auto VI",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42WUhGNFVlZnJqaVlPbWIwT1h1M1puU1ByTzAzZm5kOVFUNmtGcWhaeC1MSVk0UHNBTGgwTzd1YnJyRnJjYmtwV2tVeWdpcDE5TXNORUtDQ2xwNUk",
+   "id": "c209e2fff2f3d4e369b2e0de4573c3e3dcb46c24",
+   "title": "Explore the Grand Theft Auto VI Launch Gallery",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenlYTHJOV2JxUkx1TEZnblBxSzdYdnhJQlQ0RUEybnNON0pKS3RxUnlueXNkTGVUbmt5MnpBR1JzMkttUi1Qb3ZQNXp6NWpZbl9EX1dqUVhaWjNBU3ROWkFySlhBbUJwOVJESHNoZ0N0WXRVdGprZ1RGWWY2U2l4TjNtQm4zNDNpQkoxQnN1NmNVZUdqNTBhSGVYeFBsZUZFZWxHZ3RWLW5LSjFT",
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
-   "published": "2026-11-05T15:08:51Z",
-   "fetched": "2026-11-05T22:23:59Z",
+   "published": "2026-11-05T15:04:29Z",
+   "fetched": "2026-11-06T09:56:25Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
@@ -628,6 +721,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "52a2637dc3177d1e733a3b833649bf8228b8999b",
+   "title": "Grand Theft Auto Circle",
+   "url": "https://www.reddit.com/r/kyodo/comments/1xnbwir/grand_theft_auto_circle",
+   "source_id": "reddit_search",
+   "source_name": "Reddit — pesquisa GTA 6 RP",
+   "domain": "reddit.com",
+   "published": "2026-11-04T01:57:20Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "Hello, hello! For all the Grand Theft Auto fans out there, I have decided to create a circle just for you! With the upcoming release of GTA 6, I figured now would be a good time! Roleplay, art, literature etc is all welcome here. Swing on by! We’re looking to go public as soon…",
+   "tag": "RUMOR",
+   "topics": [
+    "rp"
+   ],
+   "score": 40,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -6066,6 +6178,23 @@
    ],
    "score": 40,
    "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "5e2fb33928466c3b04b2ae193d2199ee4f627026",
+   "title": "GTA 5 mod based on GTA 6 leaks taken down over copyright strike",
+   "url": "https://www.gosugamers.net/entertainment/news/74570-gta-5-mod-based-on-gta-6-leaks-taken-down-over-copyright-strike",
+   "source_id": "bing_fivem",
+   "source_name": "GosuGamers",
+   "domain": "gosugamers.net",
+   "published": "2025-03-25T01:11:00Z",
+   "fetched": "2026-11-06T09:56:25Z",
+   "excerpt": "A controversial Grand Theft Auto 5 mod based on leaked content from the highly anticipated GTA 6 has been removed due to a copyright strike from Rockstar owner Take-Two.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
    "also_on": [],
    "priority": null
   },
