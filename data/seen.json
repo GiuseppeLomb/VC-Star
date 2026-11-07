@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -2958,6 +2959,12 @@
   "6ed8739ba79540179bbe10a7e27db87ae3bf5fd0": {
    "t": "GTA 6 Multiplayer Mode May Say Goodbye to GTA Online Format Forever",
    "first_seen": "2026-11-07T02:00:36Z",
+   "p": null,
+   "pending": false
+  },
+  "543f66b897bb98cbd1b8c218a1c94e99c069aef4": {
+   "t": "Rockstar Reveals GTA 6 Physical Edition $20 Ultimate Upgrade Details",
+   "first_seen": "2026-11-07T08:42:40Z",
    "p": null,
    "pending": false
   }

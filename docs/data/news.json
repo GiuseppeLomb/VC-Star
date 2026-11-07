@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T02:00:36Z",
- "count": 399,
+ "generated_at": "2026-11-07T08:42:40Z",
+ "count": 400,
  "items": [
   {
    "id": "da1dde7159e29c2fb693128df698708cba2bde1e",
@@ -17,6 +17,23 @@
     "trailer"
    ],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "543f66b897bb98cbd1b8c218a1c94e99c069aef4",
+   "title": "Rockstar Reveals GTA 6 Physical Edition $20 Ultimate Upgrade Details",
+   "url": "https://www.techjuice.pk/rockstar-reveals-gta-6-physical-edition-20-ultimate-upgrade-details",
+   "source_id": "bing_online",
+   "source_name": "TechJuice",
+   "domain": "techjuice.pk",
+   "published": "2026-11-06T23:59:00Z",
+   "fetched": "2026-11-07T08:42:40Z",
+   "excerpt": "Rockstar shares new GTA 6 physical edition details. Code-in-box owners can unlock Ultimate Edition content via digital upgrade before launch.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -2035,23 +2052,6 @@
    "priority": null
   },
   {
-   "id": "241a9349380fb6cf5265df50b3769bd0ce99dd0c",
-   "title": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGFIME9kRGVBNDdDZ2xQVnd4NUYwMlJPUVNlamx3cEhjTzI5UXZSdnRITjlaNi13Qll3VXd5QWZxQWM1ZXVycVZ1Y29ZR20waW93OU9DMGxJdXNTUlYtUHZKcHpWZm5xcjFGXzB5Y01pNGZ6UWpiTXAyTzhoeHJzSmtlOU9BWHJVdVh3S1hjbE1TZTR6QUVrN2lFYXdyX2dnekFlazM5eGV2UzYza1g1OHE5MG1rZV9qUDY3cDByMjBrNnA2WDM0",
-   "source_id": "gnews_online",
-   "source_name": "The Independent",
-   "domain": "independent.co.uk",
-   "published": "2026-10-30T16:45:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "125b83ff88524b252ad2872ec726c2fccdbc88cf",
    "title": "Receiving the Grotti Turismo Omaggio and Rockstar Motorsport livery from nopixel V Twitch Drops in Grand Theft Auto Online",
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYzM2VmZJMnlidGZTeGJpVVZzSnVxcHJobjFjbFdaSnlmaGJYcG1mcFV1aG84dG1zQ2xDTm5oM0Y1WlY2bWZSRGJseHhFRUpUSDFWVGJCeER1TnJ6d09SODRGWXNGUENQS042Y3dvM1I1c3k3UVNZdlZTU3ZkeEc4QkdMUThTN2k1NkZfb0c4M0RscFlCM2RFUFY0SUcteC1ObEdkUER1ejByR2hjYk5tTlhjNFNQZGZvMXBqTHFXbUNiUjBibHhmZzBUM0lPdzVnamxkWFR1d2lrNVo1SUR6ZW9Jak5YcjRNS3NETEJQSFF3V2JOSVJfdDg5X0k2dVRnQmtNR21xOFZQeXgzNTM3LTdmeWVuZlU",
@@ -2103,6 +2103,23 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
+  },
+  {
+   "id": "241a9349380fb6cf5265df50b3769bd0ce99dd0c",
+   "title": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGFIME9kRGVBNDdDZ2xQVnd4NUYwMlJPUVNlamx3cEhjTzI5UXZSdnRITjlaNi13Qll3VXd5QWZxQWM1ZXVycVZ1Y29ZR20waW93OU9DMGxJdXNTUlYtUHZKcHpWZm5xcjFGXzB5Y01pNGZ6UWpiTXAyTzhoeHJzSmtlOU9BWHJVdVh3S1hjbE1TZTR6QUVrN2lFYXdyX2dnekFlazM5eGV2UzYza1g1OHE5MG1rZV9qUDY3cDByMjBrNnA2WDM0",
+   "source_id": "gnews_online",
+   "source_name": "The Independent",
+   "domain": "independent.co.uk",
+   "published": "2026-10-30T07:00:00Z",
+   "fetched": "2026-11-07T08:42:40Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "a3fc4137bb2560a1fa7549a053cfa228875731fc",
