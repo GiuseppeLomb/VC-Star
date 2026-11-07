@@ -1,7 +1,79 @@
 {
- "generated_at": "2026-11-07T08:42:40Z",
- "count": 400,
+ "generated_at": "2026-11-07T15:13:44Z",
+ "count": 406,
  "items": [
+  {
+   "id": "7b652445d85f64571e1ed19a7bf3e7b729acc4e9",
+   "title": "Are we going to get another trailer next thursday?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xq8i7l/are_we_going_to_get_another_trailer_next_thursday",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-07T15:06:26Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "d3f354048d7067b3186c6d399243ce2b9a3d6805",
+   "title": "We are overestimating GTA 6’s features based on the trailers",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xq4c8k/we_are_overestimating_gta_6s_features_based_on",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-07T11:37:03Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "I’ve been seeing a lot of discussion and hype around the amazing new and improved dynamic features in GTA 6 solely based off of the trailers. One example i’d like to discuss is during the extended gameplay trailer, we see a pursuit where Jason shoots out the tires of police…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "4fd6e5a008384cf8ebd485501d4bf94ff9c9ae96",
+   "title": "GTA 6 Box Copies Begin Arriving, Reveals Online Feature, New Screenshots And More",
+   "url": "https://rockstarintel.com/gta-6-box-copies-begin-arriving-reveals-online-feature-new-screenshots-and-more",
+   "source_id": "bing_online",
+   "source_name": "RockstarINTEL",
+   "domain": "rockstarintel.com",
+   "published": "2026-11-07T06:00:00Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "GTA 6 physical copies have begun arriving at retailers ahead of its release next week. Whilst the game does not come out until November 19th, code in box copies will be sent out and put on sale by ...",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "478ebf04a5b47060acadea6abde07ccd9f3743ae",
+   "title": "GTA 6 release could offer employees 3 days of paid leave from work here, but there's a catch; what must they do to get it?",
+   "url": "https://economictimes.indiatimes.com/news/international/us/this-european-country-is-offering-3-days-off-from-work-to-play-gta-6-but-theres-a-catch/articleshow/135636120.cms",
+   "source_id": "bing_online",
+   "source_name": "The Economic Times",
+   "domain": "economictimes.indiatimes.com",
+   "published": "2026-11-07T04:19:00Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "The course is not a GTA 6 gaming holiday. It uses open-world games as a learning environment to teach skills that can be applied to professional life. The timing has gained attraction because ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "da1dde7159e29c2fb693128df698708cba2bde1e",
    "title": "I feel like the early beats of Trailer 2 will be the 'Horseshoe Overlook' part of the game",
@@ -70,6 +142,26 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "c99383c0c71ff4d10c850d0cd53f4c7d91d28cec",
+   "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
+   "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai",
+   "source_id": "bing_online",
+   "source_name": "Forbes",
+   "domain": "forbes.com",
+   "published": "2026-11-06T21:01:00Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "GTA 6' will come to PC eventually, but new AI tech may push Rockstar to release it earlier than it might have otherwise.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc",
+    "data"
+   ],
+   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -230,23 +322,6 @@
    "published": "2026-11-06T15:11:50Z",
    "fetched": "2026-11-07T02:00:36Z",
    "excerpt": "Are we being trolled here?",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "6a06a0a1d40d334cee73dd7c2f8d945f82a880da",
-   "title": "Rockstar Issues New Official Statement on GTA 6 Physical Edition",
-   "url": "https://gamerant.com/gta-6-physical-edition-rockstar-comment-ultimate-upgrade",
-   "source_id": "bing_online",
-   "source_name": "Game Rant",
-   "domain": "gamerant.com",
-   "published": "2026-11-06T15:00:00Z",
-   "fetched": "2026-11-07T02:00:36Z",
-   "excerpt": "With Grand Theft Auto 6 right around the corner, Rockstar issues a new official statement concerning buyers of the physical edition.",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
@@ -432,6 +507,23 @@
     "trailer"
    ],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "6a06a0a1d40d334cee73dd7c2f8d945f82a880da",
+   "title": "Rockstar Issues New Official Statement on GTA 6 Physical Edition",
+   "url": "https://gamerant.com/gta-6-physical-edition-rockstar-comment-ultimate-upgrade",
+   "source_id": "bing_online",
+   "source_name": "Game Rant",
+   "domain": "gamerant.com",
+   "published": "2026-11-06T03:00:00Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "With Grand Theft Auto 6 right around the corner, Rockstar issues a new official statement concerning buyers of the physical edition.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -2052,25 +2144,6 @@
    "priority": null
   },
   {
-   "id": "125b83ff88524b252ad2872ec726c2fccdbc88cf",
-   "title": "Receiving the Grotti Turismo Omaggio and Rockstar Motorsport livery from nopixel V Twitch Drops in Grand Theft Auto Online",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYzM2VmZJMnlidGZTeGJpVVZzSnVxcHJobjFjbFdaSnlmaGJYcG1mcFV1aG84dG1zQ2xDTm5oM0Y1WlY2bWZSRGJseHhFRUpUSDFWVGJCeER1TnJ6d09SODRGWXNGUENQS042Y3dvM1I1c3k3UVNZdlZTU3ZkeEc4QkdMUThTN2k1NkZfb0c4M0RscFlCM2RFUFY0SUcteC1ObEdkUER1ejByR2hjYk5tTlhjNFNQZGZvMXBqTHFXbUNiUjBibHhmZzBUM0lPdzVnamxkWFR1d2lrNVo1SUR6ZW9Jak5YcjRNS3NETEJQSFF3V2JOSVJfdDg5X0k2dVRnQmtNR21xOFZQeXgzNTM3LTdmeWVuZlU",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2026-10-30T14:53:41Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "rp"
-   ],
-   "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": 5
-  },
-  {
    "id": "e918c0066216525e038cdfbccc5e319df8c9cbf8",
    "title": "15 GTA 6 Screenshots From Edge's Rockstar North Preview",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xUTZZRElvTW9RVDdxMEJBWnZuOE90b19MU1Rad0R5MktpYjZQYkxmblpvYlVwZ2dlSk1hSEVyZFZTN191LXdDa1Z4UkFQUm9BTU0tVHBidkhWQ3BYVEQ1UnhkRnUyMXVZTVNDSzZ6d3dtN3I1b01qS0pleDg",
@@ -2103,6 +2176,25 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
+  },
+  {
+   "id": "125b83ff88524b252ad2872ec726c2fccdbc88cf",
+   "title": "Receiving the Grotti Turismo Omaggio and Rockstar Motorsport livery from nopixel V Twitch Drops in Grand Theft Auto Online",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYzM2VmZJMnlidGZTeGJpVVZzSnVxcHJobjFjbFdaSnlmaGJYcG1mcFV1aG84dG1zQ2xDTm5oM0Y1WlY2bWZSRGJseHhFRUpUSDFWVGJCeER1TnJ6d09SODRGWXNGUENQS042Y3dvM1I1c3k3UVNZdlZTU3ZkeEc4QkdMUThTN2k1NkZfb0c4M0RscFlCM2RFUFY0SUcteC1ObEdkUER1ejByR2hjYk5tTlhjNFNQZGZvMXBqTHFXbUNiUjBibHhmZzBUM0lPdzVnamxkWFR1d2lrNVo1SUR6ZW9Jak5YcjRNS3NETEJQSFF3V2JOSVJfdDg5X0k2dVRnQmtNR21xOFZQeXgzNTM3LTdmeWVuZlU",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "support.rockstargames.com",
+   "published": "2026-10-30T07:00:00Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [
+    "rp"
+   ],
+   "score": 60,
+   "lang": "en",
+   "also_on": [],
+   "priority": 5
   },
   {
    "id": "241a9349380fb6cf5265df50b3769bd0ce99dd0c",
@@ -2865,6 +2957,25 @@
    "published": "2026-10-13T10:32:00Z",
    "fetched": "2026-11-05T01:26:49Z",
    "excerpt": "GTA 6’s PC version is planned for the first quarter of 2027, GamesBeat reports, citing four industry sources familiar with Rockstar’s plans.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "d6aa22277c0f6e154e3627a0f65f2c10d53f62e7",
+   "title": "GTA 6 PC release reportedly revealed: When can you expect the PC port?",
+   "url": "https://www.sportskeeda.com/gta/news-gta-6-pc-release-reportedly-revealed-when-can-expect-pc-port",
+   "source_id": "bing_fivem",
+   "source_name": "Sportskeeda",
+   "domain": "sportskeeda.com",
+   "published": "2026-10-13T07:50:00Z",
+   "fetched": "2026-11-07T15:13:44Z",
+   "excerpt": "On October 13, 2026, GamesBeat issued a report, claiming that the GTA 6 PC release is set for Q1 2027 after speaking to four industry sources who are familiar with Rockstar Games' roadmap. The sources ...",
    "tag": "RUMOR",
    "topics": [
     "pc"
