@@ -1,7 +1,45 @@
 {
- "generated_at": "2026-11-06T22:11:11Z",
- "count": 393,
+ "generated_at": "2026-11-07T02:00:36Z",
+ "count": 399,
  "items": [
+  {
+   "id": "da1dde7159e29c2fb693128df698708cba2bde1e",
+   "title": "I feel like the early beats of Trailer 2 will be the 'Horseshoe Overlook' part of the game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xpt3nb/i_feel_like_the_early_beats_of_trailer_2_will_be",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-07T00:45:48Z",
+   "fetched": "2026-11-07T02:00:36Z",
+   "excerpt": "https://preview.redd.it/8s13508x630i1.png?width=3836&format=png&auto=webp&s=2b3a3503d32f96618cafceddb836d605a964512a You know the part in Red Dead Redemption 2 where you first get to Chapter 2 and the game opens up, you can explore, you are free, you are healthy, you can do…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "025763f7f962d5e77360ef3e3ad78d73deea8cc5",
+   "title": "GTA X Discord starting to roll out?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xpqi75/gta_x_discord_starting_to_roll_out",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-06T22:44:57Z",
+   "fetched": "2026-11-07T02:00:36Z",
+   "excerpt": "I’m in the UK for reference, the video is just the launch trailer.",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "0e5d649b942a7f26d345696bd386956486cdb935",
    "title": "Did cars always do this? Or am i just not a bad driver",
@@ -109,6 +147,25 @@
    "priority": null
   },
   {
+   "id": "ccaa677d14cf185a077caa989040d6ea6815d733",
+   "title": "GTA 6 content creators group??",
+   "url": "https://www.reddit.com/r/gta6_official/comments/1xpk274/gta_6_content_creators_group",
+   "source_id": "reddit_search",
+   "source_name": "Reddit — pesquisa GTA 6 RP",
+   "domain": "reddit.com",
+   "published": "2026-11-06T18:20:51Z",
+   "fetched": "2026-11-07T02:00:36Z",
+   "excerpt": "Any GTA 6 creators here looking to connect? I’m thinking about starting a group where we can share ideas, talk roleplay and story mode, and support each other’s content. If you’re interested, comment or message me. 🎮🔥",
+   "tag": "RUMOR",
+   "topics": [
+    "rp"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "fcd5e8b954b1e6c5125a39c2c3ebb83e2133cfeb",
    "title": "Quick dumb theory about Dolls of Destruction before the game drops",
    "url": "https://www.reddit.com/r/GTA6/comments/1xpju86/quick_dumb_theory_about_dolls_of_destruction",
@@ -147,6 +204,40 @@
    "priority": null
   },
   {
+   "id": "e20ceaa39cc1b26118cac856f9f7ed4181d411c1",
+   "title": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to",
+   "url": "https://www.msn.com/en-us/gaming/rockstar-games/rockstar-s-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isn-t-coming-to/ar-AA2gV4F4",
+   "source_id": "bing_online",
+   "source_name": "PC Gamer on MSN",
+   "domain": "msn.com",
+   "published": "2026-11-06T15:11:50Z",
+   "fetched": "2026-11-07T02:00:36Z",
+   "excerpt": "Are we being trolled here?",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "6a06a0a1d40d334cee73dd7c2f8d945f82a880da",
+   "title": "Rockstar Issues New Official Statement on GTA 6 Physical Edition",
+   "url": "https://gamerant.com/gta-6-physical-edition-rockstar-comment-ultimate-upgrade",
+   "source_id": "bing_online",
+   "source_name": "Game Rant",
+   "domain": "gamerant.com",
+   "published": "2026-11-06T15:00:00Z",
+   "fetched": "2026-11-07T02:00:36Z",
+   "excerpt": "With Grand Theft Auto 6 right around the corner, Rockstar issues a new official statement concerning buyers of the physical edition.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "2318324c7f70d9dff4d408b49f2a9e137d1bb0b6",
    "title": "GTA 6 Couch Coop (Controller Pass)",
    "url": "https://www.reddit.com/r/GTA6unmoderated/comments/1xpe8cp/gta_6_couch_coop_controller_pass",
@@ -179,7 +270,9 @@
    ],
    "score": 24,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "tech.yahoo.com"
+   ],
    "priority": null
   },
   {
@@ -3009,13 +3102,13 @@
    "priority": null
   },
   {
-   "id": "c27ee01b04ee20a0c58a11ceea5810e4a6f15323",
-   "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnpreGV0M20tdWhmTEIwb2FSLWJQT0NaMXFQb1MxQ3NiaGlDZ2Y5TGhOZnprLVJJXzd3MUZiVThyQXdIclZlVFFDMFNvRzFSQTFkVHM0dVhpS0c2M1l4VkhRMzNNUTAwREQ5a0NnemhETU5RWkowTG9ORUZQbG0yRWt2VHBnLWU2c2RhWk9raEFvSGNnOEZ4dHBqNjhORFJPYjVMX2FJSm9nN0lueVNpZkRFV1Zqdk1K",
+   "id": "93d69580deda7af506c083d73c61cdb7939b9eea",
+   "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOWWV5SzRxQXU4Zk9DeDk3eDBnS1lmd2w2aDJwVDJuelJyU3Bqc1FCRHM0RjJyMkN2U1lLaVV0VXZJT2hZWmNKek9wdmcwLU13TnB3NVZzTFBZbFI4RTJrcFh6ajZ2MGJRaUx2UTNlTE91TjVuMnI4UmlLZTRJTzdpcTA5eEg2WUY0bWVoYXFwVFl4b2FQY2x1Y292MDU2Ym9wMlkyRFVUdVRNRG9DdTdMalAwM0hBNHZtcl9NWVh6MFBrTFA1RTQ5Wm5pb2k0SHNlMW1ha2JUc3M2MUpDN2Y4VUo3c2Y2UmRZd2k0VDRuYmJjLU51djFBdnV4d3NjV0l2cU1KRUtIVUF6YlQxOUlzNXdId1gxMlozN0xXbG5tdzVPanVvbGtXNHRUOFJoT2NrbFMtT1BR",
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
-   "published": "2026-10-08T14:04:48Z",
+   "published": "2026-10-08T07:00:00Z",
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "",
    "tag": "OFICIAL",
@@ -3026,14 +3119,14 @@
    "priority": 4
   },
   {
-   "id": "93d69580deda7af506c083d73c61cdb7939b9eea",
-   "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOWWV5SzRxQXU4Zk9DeDk3eDBnS1lmd2w2aDJwVDJuelJyU3Bqc1FCRHM0RjJyMkN2U1lLaVV0VXZJT2hZWmNKek9wdmcwLU13TnB3NVZzTFBZbFI4RTJrcFh6ajZ2MGJRaUx2UTNlTE91TjVuMnI4UmlLZTRJTzdpcTA5eEg2WUY0bWVoYXFwVFl4b2FQY2x1Y292MDU2Ym9wMlkyRFVUdVRNRG9DdTdMalAwM0hBNHZtcl9NWVh6MFBrTFA1RTQ5Wm5pb2k0SHNlMW1ha2JUc3M2MUpDN2Y4VUo3c2Y2UmRZd2k0VDRuYmJjLU51djFBdnV4d3NjV0l2cU1KRUtIVUF6YlQxOUlzNXdId1gxMlozN0xXbG5tdzVPanVvbGtXNHRUOFJoT2NrbFMtT1BR",
+   "id": "c27ee01b04ee20a0c58a11ceea5810e4a6f15323",
+   "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnpreGV0M20tdWhmTEIwb2FSLWJQT0NaMXFQb1MxQ3NiaGlDZ2Y5TGhOZnprLVJJXzd3MUZiVThyQXdIclZlVFFDMFNvRzFSQTFkVHM0dVhpS0c2M1l4VkhRMzNNUTAwREQ5a0NnemhETU5RWkowTG9ORUZQbG0yRWt2VHBnLWU2c2RhWk9raEFvSGNnOEZ4dHBqNjhORFJPYjVMX2FJSm9nN0lueVNpZkRFV1Zqdk1K",
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
    "published": "2026-10-08T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
+   "fetched": "2026-11-07T02:00:36Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
@@ -5997,6 +6090,25 @@
    "tag": "OFICIAL",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "6ed8739ba79540179bbe10a7e27db87ae3bf5fd0",
+   "title": "GTA 6 Multiplayer Mode May Say Goodbye to GTA Online Format Forever",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQek5OenFlYmYyQzhkOWhFRE50QjVFam93X0RtWlRnV2VJV1A1eHltTXNyeGU1VnNyTEppcmloSkdBR010Qlg2MXBCRTBfN1psb1psX01DQ3VBeVkyM29LNFdjeEZQTENYLWVLdjNKNXNuQ1loOUhhUHZpWWt2YThIX1VGOFFYYlE",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2025-12-23T08:00:00Z",
+   "fetched": "2026-11-07T02:00:36Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 60,
    "lang": "en",
    "also_on": [],
    "priority": null
