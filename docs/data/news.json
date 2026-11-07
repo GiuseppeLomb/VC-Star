@@ -1,7 +1,26 @@
 {
- "generated_at": "2026-11-07T19:29:10Z",
- "count": 414,
+ "generated_at": "2026-11-07T22:57:00Z",
+ "count": 416,
  "items": [
+  {
+   "id": "7b0801fd91e09d107fb49a64be5fcf565001656d",
+   "title": "GTA 6 – A Little Disappointing for the PC Community!",
+   "url": "https://forum.cfx.re/t/gta-6-a-little-disappointing-for-the-pc-community/5436163",
+   "source_id": "cfx_latest",
+   "source_name": "GTA 6 – A Little Disappointing for the PC Community!",
+   "domain": "forum.cfx.re",
+   "published": "2026-11-07T22:04:27Z",
+   "fetched": "2026-11-07T22:57:00Z",
+   "excerpt": "GTA 6 – A Little Disappointing for the PC Community! I personally think it’s a shame that PC players are once again being put on the waiting list for GTA 6. The PC community has played a huge role in keeping GTA 5 alive for so many years through FiveM, roleplay, custom scripts…",
+   "tag": "RUMOR",
+   "topics": [
+    "rp"
+   ],
+   "score": 80,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "30ccb855296c2b0f74695472aa5a22a92fbb7b94",
    "title": "GTA 6 Leak: 230 GB Claim vs 212 GB Preload [2026]",
@@ -101,6 +120,23 @@
    "published": "2026-11-07T07:37:00Z",
    "fetched": "2026-11-07T19:29:10Z",
    "excerpt": "Rockstar's upcoming GTA 6 game has been causing a stir online after fans of the games began to speculate that censorship would stop them from taking advantage of an early-access hack. As arguably the ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "20be3ebba96ebdd80cc71a5c4c5d9f2dbbc9e754",
+   "title": "GTA 6 physical copies are officially in the wild",
+   "url": "https://www.polygon.com/gta-6-grand-theft-auto-physical-copies-retail",
+   "source_id": "bing_online",
+   "source_name": "Polygon",
+   "domain": "polygon.com",
+   "published": "2026-11-07T06:07:00Z",
+   "fetched": "2026-11-07T22:57:00Z",
+   "excerpt": "With preloads for Grand Theft Auto 6 just around the corner, Rockstar Games has sent the code-in-box editions to retailers, so stores can deliver them to customers on time. Shipments have started to ...",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
