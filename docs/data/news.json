@@ -1,7 +1,45 @@
 {
- "generated_at": "2026-11-08T15:58:51Z",
- "count": 433,
+ "generated_at": "2026-11-08T20:23:50Z",
+ "count": 436,
  "items": [
+  {
+   "id": "7332f6cf1c083c0b60c46fe367c301773352cf72",
+   "title": "GTA VI Laucnh Trailer Just Aired On a Brazilian Tv channel!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xr5yeq/gta_vi_laucnh_trailer_just_aired_on_a_brazilian",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-08T18:54:41Z",
+   "fetched": "2026-11-08T20:23:50Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "ba60c83960cd21826f5549d807aa155dfb9bd564",
+   "title": "Deadman’s Outcast MC",
+   "url": "https://www.reddit.com/r/GTARP/comments/1xr5eoc/deadmans_outcast_mc",
+   "source_id": "reddit_search",
+   "source_name": "Reddit — pesquisa GTA 6 RP",
+   "domain": "reddit.com",
+   "published": "2026-11-08T18:32:03Z",
+   "fetched": "2026-11-08T20:23:50Z",
+   "excerpt": "Deadman’s outcasts MC is looking to fill its ranks before gta 6 online Drops we know it won’t be right at launch of gta 6 so we are gonna take advantage of the time we have on gta 5 to get as many members as possible, originally supposed to be more of a war club MC we decided…",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "81c541ed558191704249ac9d098fd5319832f516",
    "title": "xqc talking abt extending the whitelist",
@@ -53,6 +91,23 @@
     "online"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "4f291d2ac6623f43e66223ed7dd16c7886edbd0d",
+   "title": "GTA 6 Physical Box Has a New Officially Confirmed Detail",
+   "url": "https://gamerant.com/gta-6-poster-physical-box-confirmed-rockstar",
+   "source_id": "bing_online",
+   "source_name": "Game Rant",
+   "domain": "gamerant.com",
+   "published": "2026-11-08T09:15:00Z",
+   "fetched": "2026-11-08T20:23:50Z",
+   "excerpt": "A new official announcement confirms a detail about Grand Theft Auto 6's physical box-in-code edition that buyers may welcome.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
