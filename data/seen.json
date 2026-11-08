@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -3181,6 +3180,36 @@
   "4f291d2ac6623f43e66223ed7dd16c7886edbd0d": {
    "t": "GTA 6 Physical Box Has a New Officially Confirmed Detail",
    "first_seen": "2026-11-08T20:23:50Z",
+   "p": null,
+   "pending": false
+  },
+  "1c2c06c70695834e31b4f39e752c9ddca9bc1840": {
+   "t": "Expected GTA 6 Online Release Date?",
+   "first_seen": "2026-11-08T23:54:37Z",
+   "p": null,
+   "pending": false
+  },
+  "ecebf55ce26a72c944152b41aa6b0f39e71f6886": {
+   "t": "I’ve probably played nearly 100 games at this point. But I don’t get why GTA6 is a monoculture event.",
+   "first_seen": "2026-11-08T23:54:37Z",
+   "p": null,
+   "pending": false
+  },
+  "2b7e58916f406501c626702d8ea2bacfca71700b": {
+   "t": "Every GTA 6 Keyword You Should Mute on Social Media To Avoid Spoilers",
+   "first_seen": "2026-11-08T23:54:37Z",
+   "p": null,
+   "pending": false
+  },
+  "2fd424b1e9458d2b60b23d0349e4e6a965872bdc": {
+   "t": "GTA 6 Launch Gallery: All 39 New Screenshots in 4K",
+   "first_seen": "2026-11-08T23:54:37Z",
+   "p": null,
+   "pending": false
+  },
+  "2b6f53280512eb243e4eff1a4f259b4eedfcfa39": {
+   "t": "xQc drools over the RP possibilities in GTA 6, insists the game will not be delayed",
+   "first_seen": "2026-11-08T23:54:37Z",
    "p": null,
    "pending": false
   }
