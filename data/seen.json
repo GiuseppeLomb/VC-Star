@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -3061,6 +3060,36 @@
   "20be3ebba96ebdd80cc71a5c4c5d9f2dbbc9e754": {
    "t": "GTA 6 physical copies are officially in the wild",
    "first_seen": "2026-11-07T22:57:00Z",
+   "p": null,
+   "pending": false
+  },
+  "0d3fa18e5c68ddff039cd0d0c03bad849e1a1af9": {
+   "t": "Petition for Mods to spoiler tag random events in the gamr",
+   "first_seen": "2026-11-08T02:14:26Z",
+   "p": null,
+   "pending": false
+  },
+  "5186d096af371f7170c5cb17241f5fbe131ce7c6": {
+   "t": "Strangers and Freaks Mission not appearing",
+   "first_seen": "2026-11-08T02:14:26Z",
+   "p": null,
+   "pending": false
+  },
+  "33d67be44a34ac262b90eebf03c8e36f3679926a": {
+   "t": "On this day November 8 marks the 3rd anniversary of GTA 6 trailer being announced",
+   "first_seen": "2026-11-08T02:14:26Z",
+   "p": null,
+   "pending": false
+  },
+  "be3118ff597e663d11434574f0c398304bdf5741": {
+   "t": "GTA 5: The Last Ride",
+   "first_seen": "2026-11-08T02:14:26Z",
+   "p": null,
+   "pending": false
+  },
+  "5ba34b1878224f97ee89e232af1f92fb9c30dbc4": {
+   "t": "New Game Is Like GTA 6 Online Lite, But Fans Aren't Happy",
+   "first_seen": "2026-11-08T02:14:26Z",
    "p": null,
    "pending": false
   }

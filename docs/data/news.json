@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-11-07T22:57:00Z",
- "count": 416,
+ "generated_at": "2026-11-08T02:14:26Z",
+ "count": 421,
  "items": [
+  {
+   "id": "0d3fa18e5c68ddff039cd0d0c03bad849e1a1af9",
+   "title": "Petition for Mods to spoiler tag random events in the gamr",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqlzg7/petition_for_mods_to_spoiler_tag_random_events_in",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-08T01:05:36Z",
+   "fetched": "2026-11-08T02:14:26Z",
+   "excerpt": "People are only worried about story spoilers, but I think mods should also make a spoiler tag for random events. They are what make this game feel special. I dont wanna accidentally see how someone found a weird interaction with an NPC or similar. Thanks",
+   "tag": "RUMOR",
+   "topics": [
+    "creator"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "5186d096af371f7170c5cb17241f5fbe131ce7c6",
+   "title": "Strangers and Freaks Mission not appearing",
+   "url": "https://www.reddit.com/r/GTAV/comments/1xqkbav/strangers_and_freaks_mission_not_appearing",
+   "source_id": "reddit_rp",
+   "source_name": "Reddit RP (r/FiveM, r/RPClipsGTA, r/gtaonline, r/GTAV)",
+   "domain": "reddit.com",
+   "published": "2026-11-07T23:43:53Z",
+   "fetched": "2026-11-08T02:14:26Z",
+   "excerpt": "I am trying to 100% the game before GTAVI arrives. I have 19/20 S&F missions and I'm certain the last ones I need are the Bail Bonds with Maude. This doesn't come up on my map at all with a '?', could I just drive to a certain location to trigger it or is my game just bugged?…",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "33d67be44a34ac262b90eebf03c8e36f3679926a",
+   "title": "On this day November 8 marks the 3rd anniversary of GTA 6 trailer being announced",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqjzio/on_this_day_november_8_marks_the_3rd_anniversary",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-07T23:27:55Z",
+   "fetched": "2026-11-08T02:14:26Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "7b0801fd91e09d107fb49a64be5fcf565001656d",
    "title": "GTA 6 – A Little Disappointing for the PC Community!",
@@ -17,6 +72,42 @@
     "rp"
    ],
    "score": 80,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "be3118ff597e663d11434574f0c398304bdf5741",
+   "title": "GTA 5: The Last Ride",
+   "url": "https://www.reddit.com/r/GTAV/comments/1xqh21j/gta_5_the_last_ride",
+   "source_id": "reddit_rp",
+   "source_name": "Reddit RP (r/FiveM, r/RPClipsGTA, r/gtaonline, r/GTAV)",
+   "domain": "reddit.com",
+   "published": "2026-11-07T21:11:49Z",
+   "fetched": "2026-11-08T02:14:26Z",
+   "excerpt": "Anyone else playing GTA 5 story mode one last time before GTA 6 comes out? https://preview.redd.it/x5sa611ga90i1.png?width=1200&format=png&auto=webp&s=7c6001171204a7fd7f8ad7248c2ad855b2b6407e",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "5ba34b1878224f97ee89e232af1f92fb9c30dbc4",
+   "title": "New Game Is Like GTA 6 Online Lite, But Fans Aren't Happy",
+   "url": "https://gamerant.com/games-like-gta-6-rob-run-reviews",
+   "source_id": "bing_online",
+   "source_name": "Game Rant",
+   "domain": "gamerant.com",
+   "published": "2026-11-07T15:59:00Z",
+   "fetched": "2026-11-08T02:14:26Z",
+   "excerpt": "A new open-world crime game draws comparisons to GTA 6 Online and attracts a large audience shortly after release, but there's a catch.",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -5528,23 +5619,6 @@
    "priority": 4
   },
   {
-   "id": "ecb0df457e78e96142819c378746641634e29955",
-   "title": "Grand Theft Auto VI Pre-Orders Begin on June 25",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWh5Vmk4WnJBOU1hR0RZcnZmZm1vZEdVYjZaSjgzYWk4YzNtaXRzTzlBWkJlcFpEU0NxWlZNU3RZWHJ2Zk9WaVduRE1JanEyVzEtZEIwTEFHbDZ2MkdnSXZ0NDZoZ2JZNnI0TDRoTnlxWDluZDlMZ24xS1hxUjR1bVF3d0ZqbHBBOG5MN3c1SHdoUm9FdmxGTzk4dG9UZTUwc1J2RWphckJFSl9GMWc",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-06-18T13:16:16Z",
-   "fetched": "2026-11-04T06:40:48Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
-  },
-  {
    "id": "5c7cf5c37e7bf15c353690ecbaac1fa098893eaa",
    "title": "Grand Theft Auto VI: Official Cover Art Reveal",
    "url": "https://www.youtube.com/watch?v=EiQEBYDox_k",
@@ -5561,6 +5635,23 @@
    "also_on": [
     "rockstargames.com"
    ],
+   "priority": 4
+  },
+  {
+   "id": "ecb0df457e78e96142819c378746641634e29955",
+   "title": "Grand Theft Auto VI Pre-Orders Begin on June 25",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWh5Vmk4WnJBOU1hR0RZcnZmZm1vZEdVYjZaSjgzYWk4YzNtaXRzTzlBWkJlcFpEU0NxWlZNU3RZWHJ2Zk9WaVduRE1JanEyVzEtZEIwTEFHbDZ2MkdnSXZ0NDZoZ2JZNnI0TDRoTnlxWDluZDlMZ24xS1hxUjR1bVF3d0ZqbHBBOG5MN3c1SHdoUm9FdmxGTzk4dG9UZTUwc1J2RWphckJFSl9GMWc",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2026-06-18T07:00:00Z",
+   "fetched": "2026-11-08T02:14:26Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
    "priority": 4
   },
   {
