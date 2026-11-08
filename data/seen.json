@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -3090,6 +3091,18 @@
   "5ba34b1878224f97ee89e232af1f92fb9c30dbc4": {
    "t": "New Game Is Like GTA 6 Online Lite, But Fans Aren't Happy",
    "first_seen": "2026-11-08T02:14:26Z",
+   "p": null,
+   "pending": false
+  },
+  "a102196cb1fc3b1c6869358a0221be28941e1ffa": {
+   "t": "If Rockstar does not include a RP mode in online will the community just create another RP mod?",
+   "first_seen": "2026-11-08T09:10:05Z",
+   "p": null,
+   "pending": false
+  },
+  "f1a755d5fc5da5eae20fe7c0308438e7980ee0c5": {
+   "t": "GTA 6 Release: Grand Theft Auto 6 Physical Edition Reportedly Leaked Ahead of November 19 Launch",
+   "first_seen": "2026-11-08T09:10:05Z",
    "p": null,
    "pending": false
   }

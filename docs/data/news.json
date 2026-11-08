@@ -1,7 +1,26 @@
 {
- "generated_at": "2026-11-08T02:14:26Z",
- "count": 421,
+ "generated_at": "2026-11-08T09:10:05Z",
+ "count": 423,
  "items": [
+  {
+   "id": "a102196cb1fc3b1c6869358a0221be28941e1ffa",
+   "title": "If Rockstar does not include a RP mode in online will the community just create another RP mod?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqorl1/if_rockstar_does_not_include_a_rp_mode_in_online",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-08T03:33:02Z",
+   "fetched": "2026-11-08T09:10:05Z",
+   "excerpt": "It seems like it’s in Rockstars best interest to release its own version of RP mode since they bought FiveM. If they don’t I’m sure others will end up making another version of FiveM",
+   "tag": "RUMOR",
+   "topics": [
+    "rp"
+   ],
+   "score": 80,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "0d3fa18e5c68ddff039cd0d0c03bad849e1a1af9",
    "title": "Petition for Mods to spoiler tag random events in the gamr",
@@ -108,6 +127,25 @@
     "online"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [
+    "opencritic.com"
+   ],
+   "priority": null
+  },
+  {
+   "id": "f1a755d5fc5da5eae20fe7c0308438e7980ee0c5",
+   "title": "GTA 6 Release: Grand Theft Auto 6 Physical Edition Reportedly Leaked Ahead of November 19 Launch",
+   "url": "https://in.mashable.com/tech/115886/gta-6-release-grand-theft-auto-6-physical-edition-reportedly-leaked-ahead-of-november-19-launch",
+   "source_id": "bing_online",
+   "source_name": "Mashable India",
+   "domain": "in.mashable.com",
+   "published": "2026-11-07T15:59:00Z",
+   "fetched": "2026-11-08T09:10:05Z",
+   "excerpt": "GTA 6 Physical Edition Reportedly Leaked Ahead of November 19 Release. The leaked image allegedly shows the retail copy of Rockstar Games' highly anticipated title.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -232,7 +270,9 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "msn.com"
+   ],
    "priority": null
   },
   {
@@ -538,7 +578,10 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "msn.com",
+    "thegamer.com"
+   ],
    "priority": null
   },
   {
@@ -2753,23 +2796,6 @@
    "priority": null
   },
   {
-   "id": "3ac3de1402f542a6a2cf9142af1a4be9c0f80255",
-   "title": "All The Latest GTA 6 Updates: Gameplay, Miami Heat Collab, Ads Invade South Beach",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZEhJUmFMVmtlRlhxUDExczF6Q2dzRXRlNEVvSDVwU2tPa0VWN1lOel81bWRHUS11b2h2cjVCdTR4dU9obk1mNXJ5WkJ1NW5wMnRZTVgwV0o5Y2VrQS1VRFI0RjY5YkRtSTA2QXhYMmdvYkJFenY0MHNQRWc1NmF6c21GU3Z5VTBoRjY4RmpFLWoxNWd4eVNBNTlzRllvNUM1OE9pMndMQTlvUURwc3A5Zm8wcnlqZC1INHB4TVlMQzQ",
-   "source_id": "gnews_online",
-   "source_name": "Sole Retriever",
-   "domain": "soleretriever.com",
-   "published": "2026-10-27T21:00:25Z",
-   "fetched": "2026-11-03T22:45:00Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "b64cf84560b99179ee1fc9ab2f8942d9e82c01f6",
    "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVdTRGlaWnFxbl9NMkppOXU5ZW9SQUNzVHhEMVZ1eEhzZU8wVkdySGpBa3NhZElEZzBxOF9wc25hem9MVDUwMFg3UW9MaGIwbDM1bE4ydHBVZlhUdVg5QlYyT3FERWlsNDdzQzNTUmNtbHpiVl9hMDBleWliZS1sVm1UcVdNQ3NiRkRWNEM2blJyWnl5WHpJQnhXMmtBdUJCRm1HSG42dlYwR3ZNM3hjVGl4a3RwT2hHYmZXeTJfbG1lYVdpbDhNSFRIVlRrQkFqQ2RR",
@@ -2782,6 +2808,23 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3ac3de1402f542a6a2cf9142af1a4be9c0f80255",
+   "title": "All The Latest GTA 6 Updates: Gameplay, Miami Heat Collab, Ads Invade South Beach",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZEhJUmFMVmtlRlhxUDExczF6Q2dzRXRlNEVvSDVwU2tPa0VWN1lOel81bWRHUS11b2h2cjVCdTR4dU9obk1mNXJ5WkJ1NW5wMnRZTVgwV0o5Y2VrQS1VRFI0RjY5YkRtSTA2QXhYMmdvYkJFenY0MHNQRWc1NmF6c21GU3Z5VTBoRjY4RmpFLWoxNWd4eVNBNTlzRllvNUM1OE9pMndMQTlvUURwc3A5Zm8wcnlqZC1INHB4TVlMQzQ",
+   "source_id": "gnews_online",
+   "source_name": "Sole Retriever",
+   "domain": "soleretriever.com",
+   "published": "2026-10-27T07:00:00Z",
+   "fetched": "2026-11-08T09:10:05Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 10,
    "lang": "en",
    "also_on": [],
    "priority": null
