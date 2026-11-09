@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -3241,6 +3242,108 @@
    "t": "Don’t Expect GTA 6 Online News “Anytime Soon,” Says Jason Schreier",
    "first_seen": "2026-11-09T05:06:22Z",
    "p": null,
+   "pending": false
+  },
+  "1c8532ff06b9ad761acb6c020a8abeb3689a90b8": {
+   "t": "GTA 6 Datamine Reveals Multiplayer References",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "01ec30b7a57bd9c0b68ff7e2ac9ccae7a942915c": {
+   "t": "GTA 6 Build Leak: 3 Online Strings, Nov. 19 Launch [2026]",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "9918ee60434e81c659bd6df9fc50e82ea697454b": {
+   "t": "GTA 6 launch files already hint at online multiplayer, PlayStation Store sleuth reports, leading to hopes we won't be waiting for a GTA Onli",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "5ac1a04e1e99465d7cf8ac2145d383a057f29523": {
+   "t": "GTA 6's online mode looks set for 2027 as dataminers unearth early features",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "f528dc9e47f726d74fb10771f40e0e232c1a054f": {
+   "t": "First thing you are gonna do in GTA 6? Remember Arthur Morgan died of Tuberculosis…!",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "9793e024bdef4402e158bba760b5525f0c4a6394": {
+   "t": "GTA 6 Online could arrive sooner as leaked code reveals multiplayer features",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "e0e3ac8c1b19c91d7e19891353181ecffa72ce1e": {
+   "t": "GTA 6 Build Leak Hints at Online Strings: 3 Clues [2026]",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "e349d8245e71d0560df2335a01c8e22297ff8855": {
+   "t": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "2dd145f540d5cbf29dcaae83fa555f9140e1dbd6": {
+   "t": "My due date is on 19th of November",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "4b89831746f0966670c740913e9e80d295c0169b": {
+   "t": "GTA 6 build leak hints online multiplayer could arrive earlier than expected",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "5a39036f41fbb3597fc2dec6355ab2a2ee67b6fd": {
+   "t": "GTA 6 Release Build Reportedly Contains Multiplayer References",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "af718fc6310d90a6b032dee567b65263f7a493ed": {
+   "t": "GTA 6 launch files already hint at online multiplayer, PlayStation Store sleuth reports",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "7217c35aa05a0fbb64e7b3896b45fd79a763c117": {
+   "t": "GTA 6 live: Online mode and trophies/achievements leaked online",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "bd5db13f822112773cd0a503a5119ec6b8f29840": {
+   "t": "GTA 6 Online might be closer than we thought",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "ecaac882600a5f22460eac9ab3e875720b4e6ed2": {
+   "t": "GTA 6 PS5 Physical Edition Includes a Poster, But It's Still Not the Map",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "8a490a36ab030db5c3019b8c19fb7643c9df31fd": {
+   "t": "GTA 6 gets first PC tease, as online mode set for 2027 launch",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": null,
+   "pending": false
+  },
+  "aefa14d658220dff16c3b7b70cd75f85be0c1037": {
+   "t": "Grand Theft Auto VI is Now Coming May 26, 2026",
+   "first_seen": "2026-11-09T13:50:37Z",
+   "p": 4,
    "pending": false
   }
  },
