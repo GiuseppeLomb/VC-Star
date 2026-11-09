@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-11-08T23:54:37Z",
- "count": 441,
+ "generated_at": "2026-11-09T05:06:22Z",
+ "count": 446,
  "items": [
+  {
+   "id": "002809ea26d3be9857cd22be87ad8029323c3e0f",
+   "title": "first time playing the GTAV story in time for GTA VI",
+   "url": "https://www.reddit.com/r/GTAV/comments/1xre66w/first_time_playing_the_gtav_story_in_time_for_gta",
+   "source_id": "reddit_rp",
+   "source_name": "Reddit RP (r/FiveM, r/RPClipsGTA, r/gtaonline, r/GTAV)",
+   "domain": "reddit.com",
+   "published": "2026-11-09T00:55:34Z",
+   "fetched": "2026-11-09T05:06:22Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "13ef830e86c237a334ba6fc0e6a48c232b9d7697",
+   "title": "MFP Fleet",
+   "url": "https://www.reddit.com/r/MadMax/comments/1xrd27t/mfp_fleet",
+   "source_id": "reddit_search",
+   "source_name": "Reddit — pesquisa GTA 6 RP",
+   "domain": "reddit.com",
+   "published": "2026-11-09T00:02:23Z",
+   "fetched": "2026-11-09T05:06:22Z",
+   "excerpt": "Finished big bopper and Max's machine + The Mangled Big Bopper just in time for GTA 6",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "06379bdeddf5f0b34d58d9e502ee0165f73638db",
+   "title": "The Lucky 13 is officially open for recruitment",
+   "url": "https://www.reddit.com/r/TheLucky13/comments/1xrd0vc/the_lucky_13_is_officially_open_for_recruitment",
+   "source_id": "reddit_search",
+   "source_name": "Reddit — pesquisa GTA 6 RP",
+   "domain": "reddit.com",
+   "published": "2026-11-09T00:00:53Z",
+   "fetched": "2026-11-09T05:06:22Z",
+   "excerpt": "GTA 6 Online | Xbox | Casual RP / Social Club The Lucky 13 (L13) is an outlaw crew and social club based out of Port Gellhorn, Leonida, founded by Bo “Smokey” Miller. We’re building a close-knit community of laid-back, like-minded players who enjoy making money, casual criminal…",
+   "tag": "RUMOR",
+   "topics": [
+    "rp",
+    "online"
+   ],
+   "score": 70,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "1c2c06c70695834e31b4f39e752c9ddca9bc1840",
    "title": "Expected GTA 6 Online Release Date?",
@@ -35,6 +89,26 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "6fd007a2a698918b2a044afc435103b3ee278d26",
+   "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
+   "url": "https://www.notebookcheck.net/Leaked-GTA-6-release-date-build-hints-online-multiplayer-could-launch-soon.1445605.0.html",
+   "source_id": "bing_online",
+   "source_name": "Notebookcheck",
+   "domain": "notebookcheck.net",
+   "published": "2026-11-08T20:57:00Z",
+   "fetched": "2026-11-09T05:06:22Z",
+   "excerpt": "Some rumors point to a GTA 6 online mode not launching until later in 2027. However, a data miner leaked code from the release date build alluding to multiplayer features. The profitability of GTA ...",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 70,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -1356,8 +1430,8 @@
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
-   "published": "2026-11-05T15:04:29Z",
-   "fetched": "2026-11-06T09:56:25Z",
+   "published": "2026-11-05T15:03:06Z",
+   "fetched": "2026-11-09T05:06:22Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
@@ -5398,6 +5472,25 @@
    "tag": "OFICIAL",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "030a0695d1e5f53147366a5c98b5a697ff5d7647",
+   "title": "Don’t Expect GTA 6 Online News “Anytime Soon,” Says Jason Schreier",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjU5anJCU1g0a1gzVzBGbGIwQmNmTURPTmhoNHNuN2VOa1RhYUxFNW93RjRDbDZWZ3hmY0NzdVAwamdXa1VPSHgxZFpEV3pGNS1WUUNxdDdLSXZ0Q1hNeGJEWUktZXFGWWhySDFSNDZaSnROZWtwaFVmcWhtLUpyejNJOGJuSUEtTWpNWHpURHg3Y3dzWkhuTk1lMkRITUdyRVlFcQ",
+   "source_id": "gnews_online",
+   "source_name": "Wolf's Gaming Blog",
+   "domain": "wolfsgamingblog.com",
+   "published": "2026-08-07T07:00:00Z",
+   "fetched": "2026-11-09T05:06:22Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "online"
+   ],
+   "score": 36,
    "lang": "en",
    "also_on": [],
    "priority": null
