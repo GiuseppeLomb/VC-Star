@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -3828,6 +3829,102 @@
    "t": "Grand Theft Auto VI: An Extended Look — Now Playing",
    "first_seen": "2026-11-11T07:17:48Z",
    "p": 4,
+   "pending": false
+  },
+  "8a66453149a23214ac1e879eead4fee067ba01e4": {
+   "t": "Is 15 hours of cloud play enough for GTA 6? Not for the story: one Rockstar run took about 80 hours",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "0a490942ae342ee65265e765af67758d0bbf6ff8": {
+   "t": "No street-legality due to missing (removable?) license plate",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "a74253abe62c20abab1d539241da7761b7b4a745": {
+   "t": "Can you play GTA 6 on Xbox One? Only by cloud streaming, and Game Pass caps it at 15 hours a month",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "5e88828b02e6c9f5d6938e335377773db4aa2042": {
+   "t": "I never knew how big of an impact GTA 5 had on me till now",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "a7971bda614c30986da5585a75f12ec64e614993": {
+   "t": "Do you need PS Plus or Game Pass to play GTA 6? No, not at launch",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "a3bc59b0ead456eb02ee26cf2cf181a00538b144": {
+   "t": "What was the craziest Gta 6 conspiracy you ever heard?",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "0d809e531276be8b730a3ebde39e26c54f40f280": {
+   "t": "Could she be the same person from the launch trailer?",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "0b63818390cbec49496ada81185d26e28fb8a95d": {
+   "t": "When does GTA 6 Online come out? No date yet, and it won't be there on November 19",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "07514267360beb6418b1e86fc150c9e20653c3a0": {
+   "t": "7 Things to Know About GTA 6 Before You Buy It",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "ca399fd73c3cd881e2a2f48a0a633bd567b69d6d": {
+   "t": "GTA 6 First Review Scores Appear To Have Surfaced",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "779d34b2533c42c5fd448990f4c6aa3bc028b5c4": {
+   "t": "GTA Online: End of an Era — Memories & Last Rides Megathread",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "8608f46db48e1b44996c8f3ffff5bcff60b4f5fa": {
+   "t": "Panhandle and New Map",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "acfd23441396cde3d4f2d21df17e0df773409cd6": {
+   "t": "When is the last ride online GTA 5 for the UK before GTA 6?",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "31e0f0f4ca992601e1f8f7ebdc2c43bbff0e6196": {
+   "t": "Blowed up Michael’s family all in one frame!",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "04a1cf2502cc9fb6b4325189e4a4856c1943543c": {
+   "t": "GTA 6 is finally ready to download, all 212GB of it",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
+   "pending": false
+  },
+  "6532a1f620a7e91a7ff2f800b9851dd6ed8cf2f0": {
+   "t": "GTA 6 Trailer 3 release date, and 'a little something' at Sony's State of Play",
+   "first_seen": "2026-11-11T15:27:45Z",
+   "p": null,
    "pending": false
   }
  },
