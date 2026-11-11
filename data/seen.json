@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -3697,6 +3696,49 @@
    "first_seen": "2026-11-10T20:26:44Z",
    "p": null,
    "pending": false
+  },
+  "4e62930fdc51e4d577bc055d2bd2b9f7bdd5b641": {
+   "t": "Don't bother scanning the QR code in the Pre-Load trailer",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": null,
+   "pending": false
+  },
+  "f33ce3fa87c29de16ced232f7b1485280c43cab3": {
+   "t": "Did rockstar add blurry filter in GTA6?",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": null,
+   "pending": false
+  },
+  "917c732d46b35a73ccc66606b063b7131a439741": {
+   "t": "GTA 6's first player ratings surface early via PlayStation Store, oops",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": null,
+   "pending": false
+  },
+  "30f265e4ead817eb140d69ffd6a12bde8ae5f991": {
+   "t": "Dre looks much older in the new trailer compared to whats on the official website",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": null,
+   "pending": false
+  },
+  "26fbfc1b71bbc2225b1332177237043b28b6a417": {
+   "t": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": null,
+   "pending": false
+  },
+  "609018f99116ee9b3110aa21cbff6796f4271ea1": {
+   "t": "Grand Theft Auto 6 PC and physical disc news will come from Rockstar, confirms Take-Two",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": null,
+   "pending": false
+  },
+  "564f314612637e8f5210e0e10441b2b1e0cbcfc7": {
+   "t": "Issues installing Grand Theft Auto VI",
+   "first_seen": "2026-11-11T00:49:23Z",
+   "p": 4,
+   "pending": false,
+   "notified": "2026-11-11T00:49:23Z"
   }
  },
  "initialized_at": "2026-11-03T19:40:10Z"

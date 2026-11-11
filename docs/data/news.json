@@ -1,7 +1,82 @@
 {
- "generated_at": "2026-11-10T20:26:44Z",
+ "generated_at": "2026-11-11T00:49:23Z",
  "count": 500,
  "items": [
+  {
+   "id": "4e62930fdc51e4d577bc055d2bd2b9f7bdd5b641",
+   "title": "Don't bother scanning the QR code in the Pre-Load trailer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xt31qd/dont_bother_scanning_the_qr_code_in_the_preload",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-11T00:08:09Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "https://preview.redd.it/83xpsse2kv0i1.png?width=853&format=png&auto=webp&s=4ca95fec6964e20ca092e4d18e6431850340d97d Didn't saw anyone talking about it, so I went and scanned the QR code shown in those boxes. They direct you to the Rockstar page. Thought I was being a smartass…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "f33ce3fa87c29de16ced232f7b1485280c43cab3",
+   "title": "Did rockstar add blurry filter in GTA6?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xt1lta/did_rockstar_add_blurry_filter_in_gta6",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-10T23:06:16Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "Did they do it just for trailer or actually did it in game to make that blurry look of rdr2 we have on console (rdr2 is sharp on pc but not console) Did they do it bcz they ps5 cant handle the crispyness or just cinematic affect for trailer.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc",
+    "trailer"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "917c732d46b35a73ccc66606b063b7131a439741",
+   "title": "GTA 6's first player ratings surface early via PlayStation Store, oops",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblk3N3BzYVZPM1JDTXZuNlB4TEZDWVZQQVUzTU1nWHE5V0hpXy03UXU5VzRRWFlSaXJyVjZ0djktWnZDVmx2Q0pncTFzVWZmYW1fQU1aQjVFblpXZjlRT3psYmMzRVoya2FjN2lkS1NHVHBRTS1ER1lWRkFPRzZpTmxOV1E2SE1INXBxSjRVMmlDTjZNZjlEUERrTWlxQWNZNmM0Z1hGY0hZNWM",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2026-11-10T22:00:00Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "30f265e4ead817eb140d69ffd6a12bde8ae5f991",
+   "title": "Dre looks much older in the new trailer compared to whats on the official website",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xsy7yg/dre_looks_much_older_in_the_new_trailer_compared",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-10T20:47:33Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "Maybe he’s sick? I’m not sure but he looks Like he’s in his 50s in the new trailer",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "e7d9e97265dac4d414d6b2697e675f254f800703",
    "title": "The music choices in the marketing is telling us something.",
@@ -323,6 +398,25 @@
    "priority": null
   },
   {
+   "id": "26fbfc1b71bbc2225b1332177237043b28b6a417",
+   "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
+   "url": "https://tech.yahoo.com/gaming/articles/gta-6-backflips-look-good-202618890.html",
+   "source_id": "bing_online",
+   "source_name": "YAHOO!",
+   "domain": "tech.yahoo.com",
+   "published": "2026-11-10T12:26:00Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car driver doing a backflip. The animation looks smoooth. That’s notable because the Extended Look trailer that debuted back in August showed Jason doing a backflip and people online…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "4aa6e63af28cdcfe8ecf794f29796b4ea84efb41",
    "title": "Edited a Trailer together for fun. Happy Pre-Load day folks! 🌊🌴",
    "url": "https://www.reddit.com/r/GTA6/comments/1xsleft/edited_a_trailer_together_for_fun_happy_preload",
@@ -468,6 +562,23 @@
     "creator"
    ],
    "score": 80,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "609018f99116ee9b3110aa21cbff6796f4271ea1",
+   "title": "Grand Theft Auto 6 PC and physical disc news will come from Rockstar, confirms Take-Two",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWERHY1lYdEEyQjBSMEw5VVFweWNTdzlRb3RWMV90dDJXV0Z2UTRMQUItakc3amowNTU5dlNFY1M2b0NWaVBzY090aWVyOVBlUVF4NHVUV1A3T1dOeVhmeWFCUUZqOGRzaEdrNTMyVWRlaG84dGR1N1VqVlNocGJtV08zQTBkRGZ2Vkx2VFRLTVdyaWdPS2I1Rk5QTml2VHNFS1dOelBYTmdYcUxxTkF4bWJmTHNRUVJIc0l3NVp5M2JEcW0xa3d3eVdDODJfOXhz",
+   "source_id": "gnews_rp",
+   "source_name": "TweakTown",
+   "domain": "tweaktown.com",
+   "published": "2026-11-10T02:57:14Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -977,6 +1088,23 @@
    "lang": "en",
    "also_on": [],
    "priority": null
+  },
+  {
+   "id": "564f314612637e8f5210e0e10441b2b1e0cbcfc7",
+   "title": "Issues installing Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1JlOUllanNEYmhNUWUzTUxWcHRMMFZuZkZlcVh0aDBaRzdrN1lxZjY3LTR1M21XRzZSRnRjLXRUYk9QZHlveHZiYVhjUjZ2dERkdzdMMHl1bEptOXhodWhpMGd0Z1l3YTlRM3hrQVZQaktqT3RaUndnVzhkLXhORElSYjBtbF9Fdkc2TUZWMGp5TzhrQkhfRE4wTWpRUjBQc01Eem13",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "support.rockstargames.com",
+   "published": "2026-11-09T08:00:00Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "01789262ec8f4e32fe1f9e15227213908eb9283f",
@@ -2016,23 +2144,6 @@
    "priority": null
   },
   {
-   "id": "2fd424b1e9458d2b60b23d0349e4e6a965872bdc",
-   "title": "GTA 6 Launch Gallery: All 39 New Screenshots in 4K",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9meUNfdGFRMThQMnBUa1dfMlNwOUpqcDA1YmxzNEg5cEthZmk3YzlTUVo0S3Qtd0FacmYwdk1DTUJiVDNPcDgyS001dXdIMGtEMnNha0tWbnVTei1BWGJsaHpRMmVFdkhTbUhpcUVuc3pPdw",
-   "source_id": "gnews_rp",
-   "source_name": "GTA BOOM",
-   "domain": "gtaboom.com",
-   "published": "2026-11-06T19:59:53Z",
-   "fetched": "2026-11-08T23:54:37Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "6082ab3ed4ba0c27714239685e5744ba83a7000a",
    "title": "What’s with the negative threads about NoPixel V?",
    "url": "https://www.reddit.com/r/RPClipsGTA/comments/1xpmija/whats_with_the_negative_threads_about_nopixel_v",
@@ -2523,6 +2634,23 @@
     "trailer"
    ],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "2fd424b1e9458d2b60b23d0349e4e6a965872bdc",
+   "title": "GTA 6 Launch Gallery: All 39 New Screenshots in 4K",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9meUNfdGFRMThQMnBUa1dfMlNwOUpqcDA1YmxzNEg5cEthZmk3YzlTUVo0S3Qtd0FacmYwdk1DTUJiVDNPcDgyS001dXdIMGtEMnNha0tWbnVTei1BWGJsaHpRMmVFdkhTbUhpcUVuc3pPdw",
+   "source_id": "gnews_rp",
+   "source_name": "GTA BOOM",
+   "domain": "gtaboom.com",
+   "published": "2026-11-05T22:39:02Z",
+   "fetched": "2026-11-11T00:49:23Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8977,137 +9105,6 @@
     "rp"
    ],
    "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "c7ebeaf1405051281356dd26d59e410ca1220312",
-   "title": "Adin Ross and FaZe Banks Reveal Plan for Ambitious GTA 6 RP Server",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVF8tSjd3dnp2RDZPdkxNem03eW8tRktGVUNodTJaSVY5U0FFZlFBODhVWExDNk5tSHh5dkxhMXc4TzJPaEpFX3didEktcWRqejk1Wlh3LWxFcGc4WklUa2NvQUtSR3JOZzV1NzRPTGdlYmdlaUJrN2xmNGgzUC1pdzZUX1BaUDRGYVNfNGNlYXpCVUJjMjY5UVVGbGVJYUVw",
-   "source_id": "gnews_rp",
-   "source_name": "GTA BOOM",
-   "domain": "gtaboom.com",
-   "published": "2025-02-03T08:00:00Z",
-   "fetched": "2026-11-03T23:23:07Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "rp"
-   ],
-   "score": 96,
-   "lang": "en",
-   "also_on": [],
-   "priority": 3
-  },
-  {
-   "id": "60678aa9cc2acb380daec1036c69752d5c5b8502",
-   "title": "GTAVIRP",
-   "url": "https://www.reddit.com/r/GTAVIRP",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2024-09-30T12:38:20Z",
-   "fetched": "2026-11-04T00:13:44Z",
-   "excerpt": "Subreddit for the Role-Playing community of GTA VI and GTA V!!! Feel free to post your GTAV RP clips here (for now :D) - tell us about your favorite servers of the Role-Play World and talk about your experience [link]",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "b23298cfe37890fe1c28b8ddbbb9abb15505dc17",
-   "title": "GTA 5 getting major October update ahead of GTA 6, says insider",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2xvaVN2VzNQOXVOZ0VvTkV1WC02OFhGT3Jnb0J5Y1MyYnRmVnRvbGpWNVo2dGl3Q2NkcVRncDJiaDRibmpuZHEwaHJuc2pYd1ItOEJjR2ZhUS1ZeE53UjlULXFTYUx0all2NWRFUHk5aEJLUzFxVUVKSlBWQWJKOVhwWThWZw",
-   "source_id": "gnews_rp",
-   "source_name": "GAMINGbible",
-   "domain": "gamingbible.com",
-   "published": "2024-08-06T07:00:00Z",
-   "fetched": "2026-11-03T23:23:07Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "6e8f0c24ee912e4571632528573d014dcb3c0fff",
-   "title": "Grand Theft Auto VI - Trailer 1",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yS3I2TF9oR1V6WjU4NHliQjZfVHMyZWd4MEZUTlRCbGVsX2RBVDF3MjFKaWxxQ2Z1R3AzeHVHbjZEczExaUc2c2tNNDJGeVlfNnIwQ0hyZ2E",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2024-06-25T18:27:44Z",
-   "fetched": "2026-11-04T14:54:06Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "trailer"
-   ],
-   "score": 15,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
-  },
-  {
-   "id": "a5f6a3aecb3701b59593c8590f58264216c1eaca",
-   "title": "Online is definitely gonna feel more like GTA roleplay now\": GTA 6's Online Experience Gets a Big Leg Up as Rockstar Add More Experts to the Team",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRmRuaWpzMElBRGdrVlFkV3FnN3ItbUNvSHZLbUZaWTJsR1Vpd21pYS1tai1ueDBUT0g2NzVYYVhPMGF4RUl4SXhRaGFRNktVdXpRME1nenEzYUxIMEtRQ1NTME5aS3I0ck91QzFteklCcDJ1ajBDcFNfamlfMkMyTDBYcUo4eF9mbjRHSVduWVEwV2lnQ3lzY1ZnTTNWQ2hLd2FMNzRmNS1DNFh6bGVodXhrdWxvckd0RTNuR1VrMXlKcWF0R2hfWlZJMGhyTFFUVFB4YS1ZTEg2NWpFMWFoWnlhVFF1NF8waFFDUmVjMG5DYm9LWGtKdG93",
-   "source_id": "gnews_rp",
-   "source_name": "FandomWire",
-   "domain": "fandomwire.com",
-   "published": "2024-06-12T07:00:00Z",
-   "fetched": "2026-11-03T23:23:07Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "8670e2d16c25a80e33263100b5580b6e6ced6856",
-   "title": "GTA 6 RP | Sucessor do FiveM, o SixM (Roleplay) pode ser lançado oficialmente",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JQ3cwdllNdEF4ZVNyZ002SU9nVk9VLXN0cF9DWkcyZWdvM3F1MXVRYjZWaTY1ZDhucWN2Y1B6RmltUmtRd2JrQzBIbnhpRWtZamhZMmhmSFlaOEc4NUo1T0tGc0JBRW1FNU9SVVZxX0c4UGppNVpNN0IyWQ",
-   "source_id": "gnews_pt",
-   "source_name": "Portal Viciados",
-   "domain": "viciados.net",
-   "published": "2024-05-11T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 80,
-   "lang": "pt",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "12d9a757a4bf33043d6b86d138aa8e316c636751",
-   "title": "5 new things Rockstar should add to GTA 6 Online weekly events",
-   "url": "https://www.sportskeeda.com/gta/5-new-things-rockstar-add-gta-6-online-weekly-events",
-   "source_id": "bing_online",
-   "source_name": "Sportskeeda",
-   "domain": "sportskeeda.com",
-   "published": "2024-01-18T06:25:00Z",
-   "fetched": "2026-11-05T01:26:49Z",
-   "excerpt": "GTA Online's current iteration offers at least two free vehicles every week, but winning both can be a bit tricky. Acquiring the Podium Vehicle at the Diamond Casino comes down to sheer luck, and the ...",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
