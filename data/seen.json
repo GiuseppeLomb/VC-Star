@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4003,6 +4002,37 @@
    "t": "Redeeming the One-Month GTA+ Membership Included with Your Grand Theft Auto VI Pre-Order",
    "first_seen": "2026-11-11T22:12:51Z",
    "p": 4,
+   "pending": false
+  },
+  "cc1c1ce30c18f3d821a58b3fe56e1d1794399266": {
+   "t": "Graphical upgrade",
+   "first_seen": "2026-11-12T03:08:31Z",
+   "p": null,
+   "pending": false
+  },
+  "bd4fb237c5cc01808a2b14e0255a6e804498320a": {
+   "t": "Lucia and unknown woman; Launch Trailer and Pre-Load Trailer",
+   "first_seen": "2026-11-12T03:08:31Z",
+   "p": null,
+   "pending": false
+  },
+  "0e27ee43b65db6a843905436f64673f3235f2f0b": {
+   "t": "Will GTA Online progress carry over to GTA 6? Rockstar hasn't announced any transfer",
+   "first_seen": "2026-11-12T03:08:31Z",
+   "p": null,
+   "pending": false
+  },
+  "9f4274a8693eaceba5f083a1e5e10524802fa48d": {
+   "t": "Préchargez Grand Theft Auto VI dès maintenant",
+   "first_seen": "2026-11-12T03:08:31Z",
+   "p": 4,
+   "pending": false,
+   "notified": "2026-11-12T03:08:31Z"
+  },
+  "31137d3090b0bf9f852c798618e41402c35296cb": {
+   "t": "GTA 6 PS5 Pro Features, Frame Rates, And Xbox Cloud Gaming Details Confirmed By Rockstar",
+   "first_seen": "2026-11-12T03:08:31Z",
+   "p": null,
    "pending": false
   }
  },
