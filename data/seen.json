@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4032,6 +4033,66 @@
   "31137d3090b0bf9f852c798618e41402c35296cb": {
    "t": "GTA 6 PS5 Pro Features, Frame Rates, And Xbox Cloud Gaming Details Confirmed By Rockstar",
    "first_seen": "2026-11-12T03:08:31Z",
+   "p": null,
+   "pending": false
+  },
+  "53e9d7c32e53b7a557dffb0e1f03c329c0b36e38": {
+   "t": "omie thoughts on npv after gta 6",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "65c0b8b95a4abfaf9a9a4df0391d37a710af4507": {
+   "t": "Indoor Ice arena? Ice skating romantic?",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "29180650618b8df5cf53e25dff71d9ca0bb7f51f": {
+   "t": "Back Seat Driver Trophy. Need 3 People to help. PS4.",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "17cc5ae7c15a177e551e9e152d4ef9b234c81687": {
+   "t": "Take-Two mira o GTA 6 Mapping Project e fecha Discord que compartilhava vazamentos, segundo relatos",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "fec4d57694c2e6329ec5c698f636d6e2fb21f645": {
+   "t": "GTA audio fiction",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "5038dfcdcefef1649d239511df7c57fb5d4e1dbe": {
+   "t": "GTA 6 online might be closer than we thought",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "408c28e808aa219543a737da4903b6b691637563": {
+   "t": "Alex Perry Details Gta 6 Online Release Date on Xbox Cloud Gaming",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "69036a00cea26507447ec99312ddb2c096f2d99d": {
+   "t": "GTA Online Event Week: Last One Before GTA 6 (November 12th-18th)",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "5b097640f8d8edf5fad48b1a36d49436988fc80c": {
+   "t": "What's coming after 'GTA 6'? Take-Two CEO teases next project under Rockstar Games",
+   "first_seen": "2026-11-12T11:04:38Z",
+   "p": null,
+   "pending": false
+  },
+  "f2a614287bfaa920575d4aa16b4ef69766b2636b": {
+   "t": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
+   "first_seen": "2026-11-12T11:04:38Z",
    "p": null,
    "pending": false
   }
