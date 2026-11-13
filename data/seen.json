@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4225,6 +4224,48 @@
   "72238ad4b3a8baae438287cc9aec8beeebeabd82": {
    "t": "GTA 6 Map Spotted in the Wild",
    "first_seen": "2026-11-12T23:59:18Z",
+   "p": null,
+   "pending": false
+  },
+  "725ba4cd6af7dde9f0d8a7ba7709fa3f431a9b40": {
+   "t": "Old Mike Shows Up in GTA 6",
+   "first_seen": "2026-11-13T06:24:53Z",
+   "p": null,
+   "pending": false
+  },
+  "9892fd2cc9457357e9750e0b59a116aee4871497": {
+   "t": "How do I completely mute the music in GTAV?",
+   "first_seen": "2026-11-13T06:24:53Z",
+   "p": null,
+   "pending": false
+  },
+  "34446c25ea1b7853840d86c876a6ed9a7ac3444a": {
+   "t": "Is GTA V still worth buying now that GTA 6 is launching? Been my dream since middle school and I finally saved up enough",
+   "first_seen": "2026-11-13T06:24:53Z",
+   "p": null,
+   "pending": false
+  },
+  "6a2332843411f0f2ae2d95aa103bcaad1c0aa836": {
+   "t": "Hello, new player here, finally ready to play gta 5 after a decade, and looking for some advice.",
+   "first_seen": "2026-11-13T06:24:53Z",
+   "p": null,
+   "pending": false
+  },
+  "99c47d6e376c6fbdac086883cbdbb574aca0e6b2": {
+   "t": "Update to my GTA web radio: GTA VI station previews are now live, plus GTA IV and every radio from III to VI",
+   "first_seen": "2026-11-13T06:24:53Z",
+   "p": null,
+   "pending": false
+  },
+  "6edee834795c42b3aa415a883d4db6e21e3864d8": {
+   "t": "We’re One Week Away. Here’s Every GTA 6 Trailer.",
+   "first_seen": "2026-11-13T06:24:53Z",
+   "p": null,
+   "pending": false
+  },
+  "3f52cf31ad20f03a2462db8920f56053038c69bd": {
+   "t": "GTA Online 2 (GTA 6 Online): Speculated Release Date, Character Transfer and Features",
+   "first_seen": "2026-11-13T06:24:53Z",
    "p": null,
    "pending": false
   }
