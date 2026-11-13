@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4267,6 +4268,120 @@
    "t": "GTA Online 2 (GTA 6 Online): Speculated Release Date, Character Transfer and Features",
    "first_seen": "2026-11-13T06:24:53Z",
    "p": null,
+   "pending": false
+  },
+  "f119a8c217de4bb5e7928aa7e0a4b3100860282b": {
+   "t": "Someone at Best Buy is trolling",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "1b3b2a8003fcc4a942e6c373549b55c1f23025b8": {
+   "t": "GTA 6 will NEVER surpass GTA 5’s sales.",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "da4f3cdf2812487342d38f2145c7f25f813e7b50": {
+   "t": "Another Update About The ‘GTA 6 Online’ Release Date",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "394e49b79c93b5767e51db81f7d77673844ec099": {
+   "t": "Final Frame Friday Pre-Release #127: Let's talk about GTA VI! [Cover Art] - Destination reached!",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "e9ef6b0d9e22e2de34cca079a66c8ac19d6cb36f": {
+   "t": "Do you think this might be our (Jason's) dog?",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "ee9cceaf5c0f7ba6d78c979af5144746ca66138c": {
+   "t": "Who’s taking the last drive around Los Santos on the eve of GTA VI",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "ca9c13b50c7fc972764ad0b6c9c84cd4917cae98": {
+   "t": "GTAVI Online",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "402d3b56912ccf9fc526e16c76e9b3a349d1cfc6": {
+   "t": "GTA 6’s multiplayer reportedly won’t arrive until a year after launch",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "bf97d3875f4f2bf8adf4ecf449c6053c501e1054": {
+   "t": "GTA 6 Online Could Launch in Late 2027 According to New Report",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "19061e5d4a047fcb92d4d2a318257aa4c646ac3b": {
+   "t": "Final Race: Road to GTA 6",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "0e46460f9c9ac563d22c98a51e938aed5975be83": {
+   "t": "GTA 6 Online release window has apparently leaked",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "c0811a2c9eccf75f12ddf3396e26a0bf8c79bfc0": {
+   "t": "Reached lvl 100 before gta 6",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "202cf1e5b75314c67d8d2e5bce2099af4b17b70e": {
+   "t": "I said my farewell to GTA V",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "84bdb51838d94bfcddd91f7269f589053f006af6": {
+   "t": "Jason sounds like Buffalo Bill",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "31d4e7281ab64a4daf47239804a41b7fef2e2999": {
+   "t": "Nudity Nearly Blocked GTA 6 From Sale in South Korea",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "99e7174872a8c5bc32b4d7527d7934f505f77be0": {
+   "t": "GTA 6 live: Full map leaked online ahead of release",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "206e3d7232e2b0faf22e90d478fc136c47d26a90": {
+   "t": "Yet another report claims GTA 6 Online multiplayer experience arrives next year",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "48dece71b8916f4816cf65651bb20e34c4ed5dce": {
+   "t": "GTA 6 Map Leaked Online Ahead of Launch, Revealing Several Locations",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": null,
+   "pending": false
+  },
+  "be3b18795fece35218cea12fc293d0fa7b71f57f": {
+   "t": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
+   "first_seen": "2026-11-13T14:49:49Z",
+   "p": 4,
    "pending": false
   }
  },
