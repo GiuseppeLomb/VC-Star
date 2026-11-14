@@ -1,7 +1,45 @@
 {
- "generated_at": "2026-11-14T14:50:56Z",
+ "generated_at": "2026-11-14T19:47:05Z",
  "count": 500,
  "items": [
+  {
+   "id": "01d808829a3c1f3e247a056571a9bf36a21f5142",
+   "title": "Now that we have gotten all the trailers, which was your favourite?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xwaciz/now_that_we_have_gotten_all_the_trailers_which",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-14T19:00:52Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "For me it’s trailer 2, I love the vibe, music, visuals and camera shots of that trailer. But trailer 1 was also amazing seeing the game for the first time, and extended look gave us polished gameplay (not CL) What was your favourite and why? View Poll",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "0c5c661e8b789257167155ca031b4b38e2d00955",
+   "title": "What are the mods going to do on release day?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xw6gfo/what_are_the_mods_going_to_do_on_release_day",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-14T16:24:34Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "This sub will be absolutely carpet bombed with spoilers that aren't tagged as spoilers on/after release day. The mods will want to play the game as well and will see the spoilers more than anyone else. They're in for a long couple of days. Respect to them all.",
+   "tag": "RUMOR",
+   "topics": [
+    "creator"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "264671a7e8ed0ee37c21aaa4dc7fcda62b98afc7",
    "title": "Trailer",
@@ -36,6 +74,59 @@
     "pc"
    ],
    "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "9836cc89d985efd13ae48aae11b6621b41ac3dea",
+   "title": "Purported GTA 6 map circulates online as Rockstar Games confirms 30FPS frame rate and 210GB file size",
+   "url": "https://www.msn.com/en-gb/gaming/rockstar-games/purported-gta-6-map-circulates-online-as-rockstar-games-confirms-30fps-frame-rate-and-210gb-file-size/ar-AA2hqZMs",
+   "source_id": "bing_online",
+   "source_name": "International Business Times UK on MSN",
+   "domain": "msn.com",
+   "published": "2026-11-14T09:20:46Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "A purported GTA 6 map circulated online after a folded map from the game's Collector's Box was displayed at Selfridges in Manchester, according to Indy100, whose coverage also described a 30fps frame ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "c4bad36a19d51c6c626af74bca9d97217b76fbe0",
+   "title": "GTA 6 Online release window: Will Rockstar Make Players Wait Longer Like Before?",
+   "url": "https://www.sportskeeda.com/gta/gta-6-online-release-window-will-rockstar-make-players-wait-longer-like-before",
+   "source_id": "bing_online",
+   "source_name": "Sportskeeda",
+   "domain": "sportskeeda.com",
+   "published": "2026-11-14T09:04:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "GTA 6 is right around the corner and it is still difficult to believe that the game is almost here. After more than a decade-long wait, players were almost losing hope of getting a new GTA game.",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "bfa558a5f8cedba6051db6a3a954826673af87ed",
+   "title": "GTA 6 Tracklist Leak: Travis Scott, Lana Del Rey, JENNIE and more artists reportedly featured",
+   "url": "https://www.primetimer.com/news/gta-6-tracklist-leak-travis-scott-lana-del-rey-jennie-and-more-artists-reportedly-featured",
+   "source_id": "bing_online",
+   "source_name": "PRIMETIMER",
+   "domain": "primetimer.com",
+   "published": "2026-11-14T08:42:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "A leaked 34-song lineup has sparked interest in the game’s musical direction, while Rockstar Games has officially confirmed only 10 tracks so far.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -145,6 +236,23 @@
    "priority": null
   },
   {
+   "id": "98783bbd181287c34aa18699739e3afff2ea6656",
+   "title": "GTA 6 release day: Everything you need to know to be ready on day one",
+   "url": "https://www.polygon.com/gta-6-when-does-it-come-out-ps5-pro-crossplay-countdown-preorder-preload",
+   "source_id": "bing_rp",
+   "source_name": "Polygon",
+   "domain": "polygon.com",
+   "published": "2026-11-14T03:31:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "What you need to know about GTA 6's release day, pre-order bonuses, preload, updates, PS5 and Xbox differences and much more ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "2933a553d678a70965f9f1bc589cca9720d8270a",
    "title": "Future of rp",
    "url": "https://www.reddit.com/r/RPClipsGTA/comments/1xvs0dr/future_of_rp",
@@ -198,6 +306,23 @@
    "priority": null
   },
   {
+   "id": "e24f06ac7a0b82c114a75a1094e8906718296268",
+   "title": "GTA 6 album leak reveals 34-song tracklist featuring Travis Scott, Dua Lipa, Morgan Wallen and more",
+   "url": "https://www.dexerto.com/gta/gta-6-album-leak-reveals-34-song-tracklist-featuring-travis-scott-dua-lipa-morgan-wallen-and-more-3428203",
+   "source_id": "bing_online",
+   "source_name": "Dexerto",
+   "domain": "dexerto.com",
+   "published": "2026-11-14T00:20:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "The Album has allegedly leaked online, with Dua Lipa, Playboi Carti and Lana Del Rey among the artists reportedly contributing.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "c22a6713df4b25f6ad6399626cb163788be58961",
    "title": "Anybody willing to gameshare gta6 ps5🙏",
    "url": "https://www.reddit.com/r/GTAV/comments/1xvnesc/anybody_willing_to_gameshare_gta6_ps5",
@@ -212,6 +337,28 @@
    "score": 0,
    "lang": "en",
    "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "efa1abe4cb8d98e7edd8e8967610dfe9bc6b00c6",
+   "title": "No, GTA 6 Online Release Window Hasn't Been Confirmed",
+   "url": "https://gamerant.com/gta-6-online-release-window-bloomberg-rumor-explained",
+   "source_id": "bing_online",
+   "source_name": "Game Rant",
+   "domain": "gamerant.com",
+   "published": "2026-11-13T22:30:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "Confusion surrounds the release date of Grand Theft Auto 6 Online, but it all began with a small misunderstanding that quickly snowballed.",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [
+    "opencritic.com"
+   ],
    "priority": null
   },
   {
@@ -4562,23 +4709,6 @@
    "priority": null
   },
   {
-   "id": "55ce298264ce159c9e4a04071b3ca2a344bd9bcf",
-   "title": "Does GTA 6 have online at launch? No, Rockstar calls it a single-player experience",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnZkdUxBbmdXNlRZY2N6cHVHY3FKaE5kVnIzeTQ3TFFrOE1Cb3R2NFJ5U1ljRVE0UzgxTGdyOVpxOWJwOFduQl9HR1NVZ3NRYmNwSEVscmxkVDU5VE5qd0NJaVNaUk1RRkhzTEZVVzFyME95cmgxNFpwb0RiQjRfS3B5SjN5MFplc0RZbEstMmRxS3lvMldkWnhkSm9NSmhWT2xoQnJmNXdIR0U",
-   "source_id": "gnews_online",
-   "source_name": "Nacionale",
-   "domain": "nacionale.com",
-   "published": "2026-11-06T17:36:44Z",
-   "fetched": "2026-11-12T18:52:11Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "b147835e4b1d76c722c12c99e4c80ff328318687",
    "title": "This new yacht is called the \"Yakuruna\"",
    "url": "https://www.reddit.com/r/GTA6/comments/1xpihu3/this_new_yacht_is_called_the_yakuruna",
@@ -4649,27 +4779,6 @@
    "score": 10,
    "lang": "en",
    "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "725217bd3cf1e1e94288e597a66d422fee1c8b98",
-   "title": "'I Don't Really See How You Could Protect Against That' — Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9xODdnbHlPLWs2TFYxWGdRU2VIdUhxMnhjSmZjZERWb0RnS2NvUHBSOGstRnEwZWRBVF9hWFZ4TjVwQnptbTJnQXljY3ZMLTFfU2p2eFE2VUxjNDl1LUlyTGoxRFhGRFBWSU5YMWRGRExCX1c3aUJnZ18yY1hNcHhzSXRQaGd0RE0ycGNB",
-   "source_id": "gnews_online",
-   "source_name": "IGN",
-   "domain": "ign.com",
-   "published": "2026-11-06T12:57:07Z",
-   "fetched": "2026-11-06T17:16:35Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "pc"
-   ],
-   "score": 24,
-   "lang": "en",
-   "also_on": [
-    "tech.yahoo.com"
-   ],
    "priority": null
   },
   {
@@ -4762,6 +4871,27 @@
    "priority": null
   },
   {
+   "id": "725217bd3cf1e1e94288e597a66d422fee1c8b98",
+   "title": "'I Don't Really See How You Could Protect Against That' — Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9xODdnbHlPLWs2TFYxWGdRU2VIdUhxMnhjSmZjZERWb0RnS2NvUHBSOGstRnEwZWRBVF9hWFZ4TjVwQnptbTJnQXljY3ZMLTFfU2p2eFE2VUxjNDl1LUlyTGoxRFhGRFBWSU5YMWRGRExCX1c3aUJnZ18yY1hNcHhzSXRQaGd0RE0ycGNB",
+   "source_id": "gnews_online",
+   "source_name": "IGN",
+   "domain": "ign.com",
+   "published": "2026-11-06T08:00:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "pc"
+   ],
+   "score": 24,
+   "lang": "en",
+   "also_on": [
+    "tech.yahoo.com"
+   ],
+   "priority": null
+  },
+  {
    "id": "c0d88e20e382012d68d5aad8031f5c4547c84559",
    "title": "Will GTA Online shut down when GTA 6 comes out? No, Take-Two says it will keep supporting it",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmY2aE53ZFhsbGhDVVFhcjhmQXk3bDctZk1pOTFXTkRVS29QSXlkbWJRZXNDdGxlVnhKbk8xNjhpWG9nc3FfblBPb3lzZWV4RzEyR2NnMW9oblhkaTV2M054d1RaUzJCbEg3U0FnbUNkNF9aZWlJbFVKQTJZbnNfdTJqYVhGcjEwakhnS1VlZGhNY19ZNEVPTFR2R2JpZDdLVTNF",
@@ -4770,6 +4900,23 @@
    "domain": "nacionale.com",
    "published": "2026-11-06T08:00:00Z",
    "fetched": "2026-11-14T14:50:56Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "55ce298264ce159c9e4a04071b3ca2a344bd9bcf",
+   "title": "Does GTA 6 have online at launch? No, Rockstar calls it a single-player experience",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnZkdUxBbmdXNlRZY2N6cHVHY3FKaE5kVnIzeTQ3TFFrOE1Cb3R2NFJ5U1ljRVE0UzgxTGdyOVpxOWJwOFduQl9HR1NVZ3NRYmNwSEVscmxkVDU5VE5qd0NJaVNaUk1RRkhzTEZVVzFyME95cmgxNFpwb0RiQjRfS3B5SjN5MFplc0RZbEstMmRxS3lvMldkWnhkSm9NSmhWT2xoQnJmNXdIR0U",
+   "source_id": "gnews_online",
+   "source_name": "Nacionale",
+   "domain": "nacionale.com",
+   "published": "2026-11-06T08:00:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
    "excerpt": "",
    "tag": "RUMOR",
    "topics": [],
@@ -6412,6 +6559,23 @@
     "rp"
    ],
    "score": 80,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "25d10301b5e0d1b6fd01b86a3ad49af247d2291c",
+   "title": "Best GTA 6 Clipping Networks to Make Money",
+   "url": "https://www.psu.com/news/best-gta-6-clipping-networks-to-make-money",
+   "source_id": "bing_rp",
+   "source_name": "PlayStation Universe",
+   "domain": "psu.com",
+   "published": "2026-11-01T19:49:00Z",
+   "fetched": "2026-11-14T19:47:05Z",
+   "excerpt": "Our first pick is GTA Clipper, the best clipping platform for GTA 6. The other four entries below are network models rather than named competitors: useful ways that creator teams organize clipping ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8888,129 +9052,6 @@
    "priority": null
   },
   {
-   "id": "ba9ed02a64357726c0db35055744bc642bbeb59a",
-   "title": "Why Rockstar Has Said Nothing About ‘GTA 6 Online’ So Far",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVpwNlNsLXBpeDB4cnlVenM4U1ItSk1ZOHowczlkNTVzRjNVdURBNWdsSVVZQm1tcDBpOG1XOEUtQTd3ZTNBcW1KM2FXMGg2YXdtZmdsWVlCamNvS1lkTHEyMFYxWVRrRkNfUTEwUGJsMmZrbzUzVDFkY20xQ0lORjF4UE1xdVVvT01XN2JIQk5QUDVHYjdrQnpuekUtRld5ZWxtbUhQQU0yQQ",
-   "source_id": "gnews_online",
-   "source_name": "Forbes",
-   "domain": "forbes.com",
-   "published": "2026-08-29T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "b2195768c7c56fb73adaf796e88ca270b3b1c4da",
-   "title": "GTA 6: Everything we know about release date, price, map, characters and more",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5V094SGtnT1R3dEt1Q1dlUWpaNDZpRGk2cnM5UnB3N0FMUVgtU3VrcDJFYWFIUFZURmxCTkYteU9jdThoX1d1YmJRbXlaRGpLOEh5TmRfaGgxXzc3Z1NUOER5NHV5eEFqcmVZMGhTaw",
-   "source_id": "gnews_online",
-   "source_name": "GamesHub",
-   "domain": "gameshub.com",
-   "published": "2026-08-28T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "data"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "e005009372605815b0f10a2d6fb495b4831852a1",
-   "title": "GTA 6's Grand Reveal Has Me Excited For Its Online Mode's Possibilities",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWhrRnhiNHA0czNrOWJkazlGS3VzNC1WYmgyekVPNWtzVkRpZkFmZnd6eEZXNUVDeVF1SXRndl9zMmlhaTJWYlpzU09NS2kxeDlqOEYyMmk2VmRVR0huWnBMRGFUQUdNbDZaOW5wRmRfaThRRnpuQXgwWWlyQ0FhMUl4REdWYmVSQ1h1UmJqQU5CcEhXbUJvdGI4LVF5cUdHYWFpUC14RlFxOEh2SzkyeldTbVjSAcABQVVfeXFMT1JQYWE0ZGVqVFNCeTZVUnpob09vM0FKZlVlWHI5ZF9DUXNSdzBINW1LTGk1QVhDZFNVOFRfM0NHZjFUMXl4ZHNWUE11Qjkzc2xsOWNWVk5TTk1TRHFOVWVscEZWdE1MLThJdkJ1ck1Wb2k4QnpsWlhhZDFSSE1uYTBsNGt2eVZ6RC1XMmQxR0RIZWlTX1pyZ0dJVDJkeXc1ZW9ValRvVk55YWk1NVJ6Mk5CVlRxTFc3VEFwcUY5UXdo",
-   "source_id": "gnews_online",
-   "source_name": "MMORPG.com",
-   "domain": "mmorpg.com",
-   "published": "2026-08-28T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "591472396dcb638679bf18cbb1abde5a9b2e4ad4",
-   "title": "GTA 6's release raises major GTA Online questions — and a few answers",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxOHpNOHFTOUI3ME1RT0ZsSTh3VTduSE9oa1lFbW1oODJkTjJDa3Z2TW01M2RYSWlpNU9wc1dTeWptcFBsWGpHM0phS21aMnM4UjEwdFFiY2M0T2pvSzd0OHBwZw",
-   "source_id": "gnews_online",
-   "source_name": "Polygon.com",
-   "domain": "polygon.com",
-   "published": "2026-08-28T07:00:00Z",
-   "fetched": "2026-11-03T22:45:00Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "282d0f882c7687112e88b95ea26aaf519350cffe",
-   "title": "GTA 6 extended look: What we know after Netflix preview",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TeTl3X2JpY0Z5N3k2MWlINGFUSnpmS0ZBZkYteXl4aFVpRTkxcXVBQjdSTHhMUEg2c2YtQ0ZhSWYzVWFERUVFSzZZdG9nWFVSWlAydGtPVEJDdw",
-   "source_id": "gnews_online",
-   "source_name": "BBC",
-   "domain": "bbc.com",
-   "published": "2026-08-28T07:00:00Z",
-   "fetched": "2026-11-03T22:45:00Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "f8694946fd502a5fe8ea27c53e5c0a765872e5b6",
-   "title": "GTA 6 will feature several hours of in-game TV shows produced specifically for the game",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVURUNXR6UmV2Ynpjbm5JaWN3a1FqSVRVTE5JSjJVdUhvT3dCNU9ad0RqYmVfWkY2N0ZtRlFYMGhnZklTR0hIVU1uekRZUmtSTTRUbllHczQ0Q0MwdzFFSS1Ma2NjbkV6MklCdlhxOG5fVFYtQ3JhZmxoeDFTRTBrWUxYRWVOT1ltZEh0NUdqb2VvN2l1X0ZKelJ3SnJpVDE3MVE1eUp4bTBsWjBUR3hMaHBiVE9qZlVtTkxjb1Q1ejFWb3V0SnE1UzNRSlQzaGVoNnc",
-   "source_id": "gnews_rp",
-   "source_name": "TweakTown",
-   "domain": "tweaktown.com",
-   "published": "2026-08-28T07:00:00Z",
-   "fetched": "2026-11-14T01:25:47Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "1c9f96b40a7fa5cfc46540932614b34a0d233247",
-   "title": "GTA 6 Skipping PC At Launch And Having No Online Right Away Is Good, Helldivers Boss Says",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVF1d192UFl2dXE3X1ZBRDlac0Nqd1NPcHdGR3QyVU8tUVVQSW5fdmNxTy1feDJYSW9iS0pseEtTT2RieGtrc1p6N2RiaVRzWlFEc21WNUhJdDVDVVRLTUs3U2NxNGYwdEJTbGx5aTJja2hDUzVsOHctbl84WHRDYmM1SEl2a1JEM3dQRmN4eHFTdHlEaUgxTU5USVRPRGFmMGE3Vl9WTUxHdEVHWGF6dmsxVHdpcnhrSkp2d2pDd2E",
-   "source_id": "gnews_online",
-   "source_name": "GameSpot",
-   "domain": "gamespot.com",
-   "published": "2026-08-27T19:17:14Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "0b3e5cd460bcec60f53bb2a8efaf2b8c80f4b4c9",
    "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbndreldISGxCa3lVZzdQd1FacHdCYnMybVNrM2E4MUJPRHdETjMwbjFYaW15eEkyWWExOTFKaGtydUhSN3BKLWRDNHR1Sk96azdnaWRjeERvQWJaeVVMUnNJaGFfZzkwN2pobGZUS19SbkhOU3NRR2ZNVW80eEt4aEdUdnl6b0UyZGxqYnR6RGt3OWdBT2dHNTZORE1kMDByazl5N1dTanR6blZEd1dr",
@@ -9028,42 +9069,6 @@
     "youtube.com"
    ],
    "priority": 4
-  },
-  {
-   "id": "eb0e35a84a81b642dd1fd8758edb1189300d9f4f",
-   "title": "GTA 6 Online: Everything Rockstar Said—and Didn't Say—About Multiplayer",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UTjFERldCa29nY3NyVjJhVVFOYzhLUFk4V09iQ3BfTThFdTU2VERTdl9NZERHWUJ6akRvNl9LbEJLM01BQ1FWN3loYmRYWHdObWdFU1F6aUktRDF3UkZCS0dDcWwybXVaTlZWdXdTX1FGQnZvNHh6ZzhB",
-   "source_id": "gnews_online",
-   "source_name": "SVG",
-   "domain": "svg.com",
-   "published": "2026-08-27T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "7b43388b2af31d0a88bfb71dd68e5c17fb356d05",
-   "title": "Vazamentos sobre o GTA 6 surgiram no Discord antes que os vídeos do Cyberleek se disseminassem, dando uma pista à Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNX05aOUJuamZNWVVKVHFQaVFEMFZ3SXlPRVd1OVRkMzFZZk1VOTRwZk1sbHZTNWRRSUhsOHlEZC1HVWlCVnpjV1g2eXNyUWxTRHBwVlNkOVZfYVFXOWNOQjMxS1Rha1FLcHB6eTBmeXNSRjVHdXlhdHBZQmVVNWQxTUZNTGZ6TXNJRWMtdllWemVCUDRucmJ3OUpPTWJlb2hGMEZqV2cwSk01dnR0RTBxb0JTbXJDeFlWVUdqUjQzVzdyQ1VPU3VYbXcwbndTM0FvRkkyZDZsTlFiOURNMnY5cS1nSms2NGpPUTRyOHJZTDFPWVk0d3pyVW92Yw",
-   "source_id": "gnews_pt",
-   "source_name": "Notebookcheck.info",
-   "domain": "notebookcheck.info",
-   "published": "2026-08-26T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "pt",
-   "also_on": [],
-   "priority": null
   },
   {
    "id": "4ac61b9b00a94edc4ecdfc4f3e3080d3ce5fce98",
