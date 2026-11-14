@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4465,6 +4464,54 @@
   "3dc8ab29589d2f541f561c301f7837e877427b8f": {
    "t": "GTA 6 poses a threat to Hollywood: Streaming services and movie theaters fear losing viewers",
    "first_seen": "2026-11-13T21:02:12Z",
+   "p": null,
+   "pending": false
+  },
+  "84551f3e97385457f948bc0f840b9ae7294d1fe2": {
+   "t": "Gta 5 or Gta 6",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "c22a6713df4b25f6ad6399626cb163788be58961": {
+   "t": "Anybody willing to gameshare gta6 ps5🙏",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "826b3202182ba1ff1f12bd18078c84b73bb2c8ae": {
+   "t": "GTA 6 Release Times: When Can You Start Playing?",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "4b7b0674592b1a9848fdc061fe4643e15f602fea": {
+   "t": "'GTA 6' releases in one week and is available for pre-load: Everything you need to know about the highly anticipated Rockstar game",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "8fd31519c62c007d91c60d0ebe960775744c8bcd": {
+   "t": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "3d63f3d7ee3e63a86567874aa5eea8527009fcac": {
+   "t": "GTA 6 online: New industry reports indicate Grand Theft Auto VI multiplayer may not arrive until late 2027",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "f9bb4858fce8820b3490c8e4ea1997f8471ba6cd": {
+   "t": "'Hidden' GTA 6 cost that will take money from your bank account if you don't act fast",
+   "first_seen": "2026-11-14T01:25:47Z",
+   "p": null,
+   "pending": false
+  },
+  "f8694946fd502a5fe8ea27c53e5c0a765872e5b6": {
+   "t": "GTA 6 will feature several hours of in-game TV shows produced specifically for the game",
+   "first_seen": "2026-11-14T01:25:47Z",
    "p": null,
    "pending": false
   }
