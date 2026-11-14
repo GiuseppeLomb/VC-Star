@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4554,6 +4555,42 @@
   "efc1f151b33433ee12ce76cacbd4df931ca92609": {
    "t": "GTA 6 PC Launch Reportedly Set for Q1 2027, After Console Debut",
    "first_seen": "2026-11-14T07:54:17Z",
+   "p": null,
+   "pending": false
+  },
+  "264671a7e8ed0ee37c21aaa4dc7fcda62b98afc7": {
+   "t": "Trailer",
+   "first_seen": "2026-11-14T14:50:56Z",
+   "p": null,
+   "pending": false
+  },
+  "9f0780fe4e60022946d54478ce732f2fd2344dbe": {
+   "t": "How do you plan to spend the last moments in GTA 5 before GTA 6 comes out?",
+   "first_seen": "2026-11-14T14:50:56Z",
+   "p": null,
+   "pending": false
+  },
+  "c0ba1dcfe9a26aa62cfa2e63cb1ee9dfb26c536c": {
+   "t": "Taking some time this week",
+   "first_seen": "2026-11-14T14:50:56Z",
+   "p": null,
+   "pending": false
+  },
+  "610a3045347bce4990e8ba369903587854608e7b": {
+   "t": "GTA 6 soundtrack tracklist: Full list of songs & artists leaks",
+   "first_seen": "2026-11-14T14:50:56Z",
+   "p": null,
+   "pending": false
+  },
+  "9ca3d852559b8bf75b07702c166bd0dfa8247035": {
+   "t": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
+   "first_seen": "2026-11-14T14:50:56Z",
+   "p": null,
+   "pending": false
+  },
+  "dc578132e5e768a38728bfd0dff69179c756ea10": {
+   "t": "GTA 6 live: Brand new gameplay video shared online",
+   "first_seen": "2026-11-14T14:50:56Z",
    "p": null,
    "pending": false
   }
