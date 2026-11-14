@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4645,6 +4644,72 @@
   "25d10301b5e0d1b6fd01b86a3ad49af247d2291c": {
    "t": "Best GTA 6 Clipping Networks to Make Money",
    "first_seen": "2026-11-14T19:47:05Z",
+   "p": null,
+   "pending": false
+  },
+  "ee4e992a34da7799e34eb194016d9dc98b10dd4f": {
+   "t": "quick follow-up on the nopixel map after reading everyone's feedback",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "abf2bf1704b79d81dd6e56c018ec70b3472900d2": {
+   "t": "Excitement is taking over",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "bdc2b205f9ecc9cfc39f2bd86d2dff17b40b868f": {
+   "t": "Hot take",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "7da87ab039b1b1f5bf5d8b700e6146b50ffcab00": {
+   "t": "Numero Uno/Enjoy Your Stay Trophy Help",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "bae45dbf39805a51166d42a2e287cb46089d4e69": {
+   "t": "Twitch CEO Dan Clancy told Lacy that Twitch already fixed the AD Revenue for GTA 6 and RP",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "1d40ce9df3795d8a376cc6ddc56555a61e6ad19c": {
+   "t": "hosting a 6 hour car meet from 5:30pmET - 11:30pmET on 11/18/26 PS5 for GTA V farewell, might do PS4 as well . Add me : menwii",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "20b841be585643150563fdbbaeb6f00a1d6dbe88": {
+   "t": "Can i play GTA V without playing the old one",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "fb2e0f5844b951c77d2b25c7859333937c3bda02": {
+   "t": "This Is The End… Goodbye GTA V 💔🥺 | The End of an Era #GTA5 #GTA6",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "ff48129a84586105d3da9130b11a36b32c112c0b": {
+   "t": "GTA 6 Leak Seemingly Reveals Full Track List Days Before Launch",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "066e10f3e2b8da3f5f31408b3a5ebce0f5d7a77c": {
+   "t": "GTA 6 launches Thursday and is available for pre-load now: Everything you need to know about the new Rockstar game",
+   "first_seen": "2026-11-14T23:26:36Z",
+   "p": null,
+   "pending": false
+  },
+  "0ae08c4110f0b74133d76f495bf9267a5f3318be": {
+   "t": "Twitch makes huge ad change so streamers can make more money while playing GTA 6",
+   "first_seen": "2026-11-14T23:26:36Z",
    "p": null,
    "pending": false
   }
