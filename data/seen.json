@@ -4712,6 +4712,19 @@
    "first_seen": "2026-11-14T23:26:36Z",
    "p": null,
    "pending": false
+  },
+  "d5c172d0d4c1e7e0e687a23140f1c03730aaaf68": {
+   "t": "Follow affmalyt Infinite RP and AP (Unlock All Arena War) by Rockstar Games in Grand Theft Auto Online",
+   "first_seen": "2026-11-15T02:58:59Z",
+   "p": 5,
+   "pending": false,
+   "notified": "2026-11-15T02:58:59Z"
+  },
+  "8b84b557cdef62a99fedcbcd2f0d9c35e88cd36e": {
+   "t": "What's your audio setup?",
+   "first_seen": "2026-11-15T02:58:59Z",
+   "p": null,
+   "pending": false
   }
  },
  "initialized_at": "2026-11-03T19:40:10Z"
