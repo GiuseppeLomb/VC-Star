@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4723,6 +4724,24 @@
   "8b84b557cdef62a99fedcbcd2f0d9c35e88cd36e": {
    "t": "What's your audio setup?",
    "first_seen": "2026-11-15T02:58:59Z",
+   "p": null,
+   "pending": false
+  },
+  "63b024ddb63e5ba78388f1761d89a15c8b509810": {
+   "t": "GTA 6 Preview: Gameplay Demo, Every Video and Launch Details",
+   "first_seen": "2026-11-15T10:41:08Z",
+   "p": null,
+   "pending": false
+  },
+  "0f486c0bc9059ea212d638e4333e2448f57a3930": {
+   "t": "I will actually, truly, miss the mass psychosis that took place on this sub for the past 3 years.",
+   "first_seen": "2026-11-15T10:41:08Z",
+   "p": null,
+   "pending": false
+  },
+  "86bd528b0afabdfad518744ddd2deaf90ddf44d6": {
+   "t": "GTA 6 causes Twitch to change one of its most controversial features",
+   "first_seen": "2026-11-15T10:41:08Z",
    "p": null,
    "pending": false
   }
