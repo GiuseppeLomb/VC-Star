@@ -1,7 +1,26 @@
 {
- "generated_at": "2026-11-15T17:26:57Z",
+ "generated_at": "2026-11-15T22:00:16Z",
  "count": 500,
  "items": [
+  {
+   "id": "a5273077c3cdf4efb9334c906d2f4324df63eb10",
+   "title": "Face wraps has no putting on animation",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xx6bvs/face_wraps_has_no_putting_on_animation",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-15T20:48:07Z",
+   "fetched": "2026-11-15T22:00:16Z",
+   "excerpt": "It's blurred, but you can tell that two masks on Jason and Lucia just appears out of nowhere, with no animation. Time to delay and cancel pre-orders boys... EDIT: I like how salty yall are :D Thats just a minor detail I found interesting, but u guys seem to be really butthurt…",
+   "tag": "RUMOR",
+   "topics": [
+    "data"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "c1066653e5ed4c7ec63a9065a2c2b0b228e72dc5",
    "title": "Just in time for GTA 6",
@@ -15,6 +34,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3143a3c35bc5d2c0dfb41c89f1488d254da515cf",
+   "title": "OPINION: Bring Back Text Chat For GTA VI Online",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xwztw9/opinion_bring_back_text_chat_for_gta_vi_online",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-15T16:31:30Z",
+   "fetched": "2026-11-15T22:00:16Z",
+   "excerpt": "I'm absolutely buzzing for GTA VI story mode, and almost even more so for GTA VI online. However, something that really bugged me and a huge amount of other players was the nerfing of text chat in online sessions on Enhanced. For those on console or who've only ever played…",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8877,25 +8915,6 @@
    "priority": null
   },
   {
-   "id": "fc625b0d83cd1a00d3089bdedc22ae4328676668",
-   "title": "Twitch CEO says GTA 6 Online is launching 'next year'",
-   "url": "https://www.tweaktown.com/news/113611/twitch-ceo-says-gta-6-online-is-launching-next-year/index.html",
-   "source_id": "bing_online",
-   "source_name": "Bing News — GTA 6 Online",
-   "domain": "tweaktown.com",
-   "published": "2026-09-17T13:23:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "Dan Clancy says Rockstar's GTA 6 multiplayer could arrive in 2027, though the studio has not confirmed any online mode for the game. Grand Theft Auto VI artwork shows two characters fleeing police on ...",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "47259820685f9dbcc5ac55a690c061b4924383d9",
    "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEtDVTl2aW4zSHBuS2NYcmdrNHBWYTE5YXF4aHlwT0FURDVfUTNyQUVUUFZ6MnJxVnpMMlVnM1JGZDZwS3N6QjZHN0R1QlFoQTU3MTFUbC1KZEhZbUVBR3ZvWFUzMWRIN0pNekZiSTJPakllVHdsdjVVdDl5bjFybkdxV1N0NVFoakhqMFZ5UWk3dVM5bHdFU280WGcybEt4RG16b1VxaFlQRzFmQ2FWSmRfLVgtTlZuUjhCV0FB",
@@ -8928,25 +8947,6 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
-  },
-  {
-   "id": "e3c2b9edf8c3c43b4fc5678db7302f81eb938061",
-   "title": "GTA 6 Online Multiplayer Coming in 2027, Per Twitch CEO",
-   "url": "https://playday.one/2026/09/17/gta-6-online-multiplayer-coming-in-2027-per-twitch-ceo",
-   "source_id": "bing_fivem",
-   "source_name": "Bing News — FiveM GTA 6",
-   "domain": "playday.one",
-   "published": "2026-09-17T11:37:00Z",
-   "fetched": "2026-11-03T19:45:16Z",
-   "excerpt": "Twitch CEO Dan Clancy has claimed GTA 6 Online will release next year, in 2027. In a new report by Bloomberg, Twitch CEO Dan Clancy has given the following statement about GTA 6 Online releasing in ...",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
   },
   {
    "id": "ba5ebacc2991e2a88e9ca071b7843c9e41e69643",
