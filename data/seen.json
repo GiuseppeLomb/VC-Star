@@ -2,8 +2,7 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
-  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4796,6 +4795,30 @@
   "3143a3c35bc5d2c0dfb41c89f1488d254da515cf": {
    "t": "OPINION: Bring Back Text Chat For GTA VI Online",
    "first_seen": "2026-11-15T22:00:16Z",
+   "p": null,
+   "pending": false
+  },
+  "4d709ef3c54702d16e66f47a6278adf5e6b74bb7": {
+   "t": "Hot take: launching GTA 6 with no Online mode is the best thing Rockstar could do",
+   "first_seen": "2026-11-16T01:58:25Z",
+   "p": null,
+   "pending": false
+  },
+  "abdb549beb00effd8c7dd8baa3e5c27d94761f7e": {
+   "t": "Looking for a last ride group.",
+   "first_seen": "2026-11-16T01:58:25Z",
+   "p": null,
+   "pending": false
+  },
+  "129d228fb1f6513d8ff45744b99e9e5732822472": {
+   "t": "Last replay",
+   "first_seen": "2026-11-16T01:58:25Z",
+   "p": null,
+   "pending": false
+  },
+  "60ab9b592aa83e7b4ffd0caaa706370bb730e4b4": {
+   "t": "What I'm most looking forward to in GTA 6:",
+   "first_seen": "2026-11-16T01:58:25Z",
    "p": null,
    "pending": false
   }
