@@ -2,7 +2,8 @@
  "version": 1,
  "push_ready": true,
  "cache": {
-  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss"
+  "discourse:https://forum.cfx.re:announcements": "https://forum.cfx.re/c/cfxre-announcements/66.rss",
+  "youtube:RockstarGames": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
  },
  "items": {
   "ab0d024ddb3b605ce40b45ba5b8e99cd274ca39f": {
@@ -4819,6 +4820,36 @@
   "60ab9b592aa83e7b4ffd0caaa706370bb730e4b4": {
    "t": "What I'm most looking forward to in GTA 6:",
    "first_seen": "2026-11-16T01:58:25Z",
+   "p": null,
+   "pending": false
+  },
+  "dc623ab7f727fcc12da57030424eaf91dcdcd864": {
+   "t": "GTA 6 map leak: Collector’s Edition poster shows Lummox County, Pelican Valley and more of Leonida",
+   "first_seen": "2026-11-16T09:26:04Z",
+   "p": null,
+   "pending": false
+  },
+  "8d7bcd2e5f63f9b1633403198d3e58d61dad9397": {
+   "t": "GTA 6 Online Release Date: Rockstar Stays Silent as Single-Player Launch Nears and Reports Point to 2027 Debut",
+   "first_seen": "2026-11-16T09:26:04Z",
+   "p": null,
+   "pending": false
+  },
+  "dd6a026eaa3c489207ff5d3b4f10bfc4e8cabd18": {
+   "t": "New GTA 6 Leak Reveals the Story Length & Total Number of Missions",
+   "first_seen": "2026-11-16T09:26:04Z",
+   "p": null,
+   "pending": false
+  },
+  "a0b5f6edf7ac0c99e148773cb941080148890f97": {
+   "t": "All you need to know about Grand Theft Auto VI",
+   "first_seen": "2026-11-16T09:26:04Z",
+   "p": null,
+   "pending": false
+  },
+  "8a05b6ece455a2dd611117db252c0a66080471e9": {
+   "t": "GTA 6 cost an estimated $1 billion, and online may be a year away",
+   "first_seen": "2026-11-16T09:26:04Z",
    "p": null,
    "pending": false
   }

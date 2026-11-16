@@ -1,7 +1,24 @@
 {
- "generated_at": "2026-11-16T01:58:25Z",
+ "generated_at": "2026-11-16T09:26:04Z",
  "count": 500,
  "items": [
+  {
+   "id": "dc623ab7f727fcc12da57030424eaf91dcdcd864",
+   "title": "GTA 6 map leak: Collector’s Edition poster shows Lummox County, Pelican Valley and more of Leonida",
+   "url": "https://www.moneycontrol.com/technology/gta-6-map-leak-collector-s-edition-poster-shows-lummox-county-pelican-valley-and-more-of-leonida-article-14081227.html",
+   "source_id": "bing_online",
+   "source_name": "Moneycontrol",
+   "domain": "moneycontrol.com",
+   "published": "2026-11-16T00:33:00Z",
+   "fetched": "2026-11-16T09:26:04Z",
+   "excerpt": "The poster displays most regions and their labels, though some edges, including the Leonida Keys, are not fully visible. Newly seen areas include Lummox County in the north, along with a location ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "4d709ef3c54702d16e66f47a6278adf5e6b74bb7",
    "title": "Hot take: launching GTA 6 with no Online mode is the best thing Rockstar could do",
@@ -90,6 +107,26 @@
    "priority": null
   },
   {
+   "id": "8d7bcd2e5f63f9b1633403198d3e58d61dad9397",
+   "title": "GTA 6 Online Release Date: Rockstar Stays Silent as Single-Player Launch Nears and Reports Point to 2027 Debut",
+   "url": "https://www.ibtimes.com.au/gta-6-online-release-date-multiplayer-1878642",
+   "source_id": "bing_online",
+   "source_name": "International Business Times AU",
+   "domain": "ibtimes.com.au",
+   "published": "2026-11-15T19:51:00Z",
+   "fetched": "2026-11-16T09:26:04Z",
+   "excerpt": "Grand Theft Auto 6 launches on PlayStation 5 and Xbox Series X|S without a confirmed online mode. Reports suggest multiplayer could arrive in 2027, but Rockstar has provided no timeline.",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 70,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "c1066653e5ed4c7ec63a9065a2c2b0b228e72dc5",
    "title": "Just in time for GTA 6",
    "url": "https://www.reddit.com/r/GTAV/comments/1xx096g/just_in_time_for_gta_6",
@@ -121,6 +158,23 @@
     "online"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "dd6a026eaa3c489207ff5d3b4f10bfc4e8cabd18",
+   "title": "New GTA 6 Leak Reveals the Story Length & Total Number of Missions",
+   "url": "https://www.techjuice.pk/new-gta-6-leak-reveals-the-story-length-total-number-of-missions",
+   "source_id": "bing_online",
+   "source_name": "TechJuice",
+   "domain": "techjuice.pk",
+   "published": "2026-11-15T16:00:00Z",
+   "fetched": "2026-11-16T09:26:04Z",
+   "excerpt": "A new GTA 6 leak reveals the actual story length, the number of missions across five chapters, and a massive days-long Platinum trophy grind.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -243,6 +297,23 @@
    "published": "2026-11-15T05:59:49Z",
    "fetched": "2026-11-15T17:26:57Z",
    "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "a0b5f6edf7ac0c99e148773cb941080148890f97",
+   "title": "All you need to know about Grand Theft Auto VI",
+   "url": "https://dotesports.com/gta/news/gta-6",
+   "source_id": "bing_rp",
+   "source_name": "Dot Esports",
+   "domain": "dotesports.com",
+   "published": "2026-11-15T05:04:00Z",
+   "fetched": "2026-11-16T09:26:04Z",
+   "excerpt": "Go to your Game Library and select Grand Theft Auto VI. Select Download, and leave the PS5 in rest mode so the download finishes. To pre-load GTA 6 on Xbox Series X|S: Pre-order the digital edition on ...",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
@@ -394,6 +465,23 @@
     "rp"
    ],
    "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "8a05b6ece455a2dd611117db252c0a66080471e9",
+   "title": "GTA 6 cost an estimated $1 billion, and online may be a year away",
+   "url": "https://www.msn.com/en-us/gaming/rockstar-games/gta-6-cost-an-estimated-1-billion-and-online-may-be-a-year-away/ar-AA2hsuqT",
+   "source_id": "bing_online",
+   "source_name": "Clownfish TV on MSN",
+   "domain": "msn.com",
+   "published": "2026-11-14T19:15:33Z",
+   "fetched": "2026-11-16T09:26:04Z",
+   "excerpt": "A new Bloomberg report puts the price of Rockstar’s sequel near $1 billion over 13 years, and says the online mode fans want could be a full year behind the Nov.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8810,101 +8898,6 @@
     "creator"
    ],
    "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "d51f700fe2aa772d76f9554deb4539453988f394",
-   "title": "GTA 6's leaked map has reportedly been ported into FiveM, letting gamers play an early Leonida",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHNoNkI5X1prMjQyT0JkQUFuVnhOZWZtMUJacnc5Wkc3bUlRMHVsZVQ2dEREanhUSnNvRDNHWTVrdFJoZUljT1RQb2xFSGN0eHMtdXN1YmVUQW9Yal9NaU1UeWlIX2pKUmNtSi1JVFhTOFpjUWJNRm5kbXdmTzJKUW16NXROUlp4ZGF5REd1clJ2VzZOQThCWFNSTEltQTFlV05JTkJ0V2kwME1mMF8yMEo5Rmp1Zl9QUzZndXFVeFJDQjdUQXIwYmlLLVZXN3ZueEVVTS01VUM",
-   "source_id": "gnews_rp",
-   "source_name": "TweakTown",
-   "domain": "tweaktown.com",
-   "published": "2026-09-21T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "440e35a9ad6dd559ab9164421120b302286a2693",
-   "title": "GTA 6 Online Could Launch Next Year As Take-Two Talks Up PC Gaming",
-   "url": "https://hothardware.com/news/gta-6-online-could-launch-next-year",
-   "source_id": "bing_online",
-   "source_name": "hothardware.com",
-   "domain": "hothardware.com",
-   "published": "2026-09-18T10:55:00Z",
-   "fetched": "2026-11-05T01:26:49Z",
-   "excerpt": "by Zak Killian — Friday, September 18, 2026, 01:55 PM EDT Speaking to Bloomberg, Clancy apparently said that Twitch \"spent a lot of time talking with Rockstar about their plans,\" emphasizing that ...",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "275c4706717a2180502020c74bdef39dcd532e1b",
-   "title": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nOERIekxaelViOURwTWh6eTAzZkcyd29Ya0h2QUU3ZGZiSktsaFFwODI4SHZHSnNXQXJWT1ZRc2lUczZYWlBYb0gxVlZuV1lXMGVESDQtSjFjRGc3aFNFRXJ3S3JBUXJjRUxYX3ZpSQ",
-   "source_id": "gnews_online",
-   "source_name": "Eurogamer.net",
-   "domain": "eurogamer.net",
-   "published": "2026-09-18T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "online"
-   ],
-   "score": 72,
-   "lang": "en",
-   "also_on": [],
-   "priority": 3
-  },
-  {
-   "id": "bc4a3d92f7603c083ee1be44fbedbaff013a3187",
-   "title": "GTA 6 Will Get Multiplayer Soon After Release, According to Twitch CEO",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzblFtSzRCOE9iTlRDMno1UEpLSmtod0ppTkNaQk1Hb25GUXJMN05XQ3V5MDE5YTNmY0JsU2x1Z1l6Y2Q4UWpMdTR0aEd1TG1TVDBTaDRsRWJsWkV0dlVpbUs0MDR1T01NQzlhdlBDYmpDMW9QMWt3Zjc5dGs",
-   "source_id": "gnews_online",
-   "source_name": "Polygon.com",
-   "domain": "polygon.com",
-   "published": "2026-09-18T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "588b57c94e2cc15e0c597ef527b16fe95620a4c9",
-   "title": "The ‘GTA 6 Online’ Release Year Has Been Revealed, It Seems",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFJGdk85Qmh2aDlnRmxnVE44YjJPUkVZMEhNbGM5S0xqejU4RFdacW9sY1h3bHpjVzBEUUttWlVvNDJ6WmsxN2xjWVl3aC1uaEpqYkJydzBoZmJvOVpUZUJBZUU5V2ZuM2tqQ0dvLW4ybVprejRuS1B1UTBjalhWcE1iaGU2a09DbjQzQlh3SExyOWdLOGlMSkJmVHcxQ3pSNGpHNnhtdExRM3M",
-   "source_id": "gnews_online",
-   "source_name": "Forbes",
-   "domain": "forbes.com",
-   "published": "2026-09-18T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
