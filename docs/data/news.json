@@ -1,7 +1,102 @@
 {
- "generated_at": "2026-11-16T19:47:09Z",
+ "generated_at": "2026-11-17T02:39:05Z",
  "count": 500,
  "items": [
+  {
+   "id": "45c864681354d10b80066d7915d726ec30a817d9",
+   "title": "Possible inspiration of Raul Bautista",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xy3nmi/possible_inspiration_of_raul_bautista",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-16T22:41:48Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "So one of the first side characters we saw in the trailers is Raul Bautista who is a bank robber. In the extended trailer Jason mentioned that Raul was a former Dominican intelligence officer. While that may seems odd, in the DR we had a similar case back in 2016. Jhon Percival…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "cde6aa73bc66a5bfc97e3f6ab590302b2e6268cb",
+   "title": "Will the PC version support all the DualSense features available on PS5 when it launches?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xy3iw5/will_the_pc_version_support_all_the_dualsense",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-16T22:36:20Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "With GTA 6 confirmed to support advanced DualSense features on PS5, including haptic feedback, adaptive triggers, and audio through the controller's built-in speaker, I'm wondering whether these features will eventually make their way to the PC version as well. I know some…",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "d7ff34702adeaf7d59a36ed3f0003f13346b6bea",
+   "title": "Salad days/years Easter egg",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xy2u6j/salad_daysyears_easter_egg",
+   "source_id": "reddit_gta6",
+   "source_name": "r/GTA6",
+   "domain": "reddit.com",
+   "published": "2026-11-16T22:08:16Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "Sorry if this was mentioned before but couldn’t find it was… Just noticed salad days lyrics from Gold (from the Vice City soundtrack). Linking to “salad years” in the extended trailer which has been bugging me! Lyrics also mention thank you for coming home / partners in crime /…",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3690b531ca05138b8c7aefbc75e39b545e01f478",
+   "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbF9uRHIzdDFQdVpuWUZ6RzMxOEpIXzQ4aXZoelZaTU5uR0EzUlQzN2RaaWxuTHhvY0loaWVSSnZFaWxXMUthSVM3R3otM29tQ2tDeXVPYmk2MEJpWHQ1MW5URy03bkZPdHJ0MVV0WFE2bFFBMXVNc09GM0o",
+   "source_id": "gnews_online",
+   "source_name": "PC Gamer",
+   "domain": "pcgamer.com",
+   "published": "2026-11-16T20:57:03Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "online"
+   ],
+   "score": 72,
+   "lang": "en",
+   "also_on": [
+    "msn.com"
+   ],
+   "priority": 3
+  },
+  {
+   "id": "9dd5435893f7e03bb9ee832fdbb2d1a434c830ca",
+   "title": "GTA 6 might take over 50 hours to complete, and that’s barely scratching the surface",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzI3NFhYcWg3M1huamZCUkoxZnc5Z3BVZTFEY2t2b0VGWWNXYXRiZWF3OUZqY3JHaHFFU2JVckJrdjljaWNmd05DaDhZeGJpRDY3V0dVWVF5Z2J6Tmp6dDN0QWtDZlVlbEJIOURlWnBJaTRva2s1QUZpMWs1eUNqRUtMXzM2bnBJMjNFYWhSNmpRYlVhTUZaVU5rRjYtdjg",
+   "source_id": "gnews_online",
+   "source_name": "Digital Trends",
+   "domain": "digitaltrends.com",
+   "published": "2026-11-16T19:36:28Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "300123f7f8ad89243fdb32bb90638684fcf6919e",
    "title": "GTA 6 trailer is being shown in Piccadilly Circus, London",
@@ -48,6 +143,23 @@
    "published": "2026-11-16T17:10:33Z",
    "fetched": "2026-11-16T19:47:09Z",
    "excerpt": "Everyone talking about GTA6. But I will miss Trevor..",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "e355ea06f4382a0977771744bb309e3852d1741b",
+   "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+   "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+   "source_id": "bing_online",
+   "source_name": "GamesIndustry.biz",
+   "domain": "gamesindustry.biz",
+   "published": "2026-11-16T16:00:00Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "Sensor Tower estimates Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue, with 87% of orders for the Ultimate Edition. As detailed in a new report on the game's impact on ...",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
@@ -271,6 +383,23 @@
    "priority": null
   },
   {
+   "id": "1bcd99297ccfae1a67980aa167a5aaba79e2c91d",
+   "title": "How long it takes to play GTA 6: Playthrough and achievements",
+   "url": "https://mashable.com/entertainment/how-long-will-it-take-to-play-gta-6",
+   "source_id": "bing_online",
+   "source_name": "Mashable",
+   "domain": "mashable.com",
+   "published": "2026-11-16T10:25:00Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "However, that's just the amount of time to complete GTA 6's main campaign. If you want to fully complete everything in the game, you're looking at a much longer gameplay time. Muc ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "c7edcdc8dbf558daeff1d46fc60bf47848e18d4f",
    "title": "You can grab GTA 6 entirely for free if you know where to look",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWJfSXdpaUtvdndfTm04QXI5a0t5bmpXTnJLRnJvQm41cllDQkhEbkt0VzdxU3JoMlJyLVNtbGNKNTBZWVlycnhWc0t6Z2ZWTzRYT3BDdHRfel9FRHRFQ2lvT1p2RHJlR19yS3gxWEVjejNCRDU0QUR2OWttSk1XVW4yV2RoSmM",
@@ -318,24 +447,9 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "3a9ddf42d086bbf8a49d2c4352c2eaceeeff07bd",
-   "title": "Top Twitch Streamers To Watch Out For When GTA 6 Finally Drops On November 19",
-   "url": "https://sports.ndtv.com/us/us-streamers/top-twitch-streamers-to-watch-out-for-when-gta-6-finally-drops-on-november-19-12334209",
-   "source_id": "bing_rp",
-   "source_name": "NDTV Sports",
-   "domain": "sports.ndtv.com",
-   "published": "2026-11-16T08:30:00Z",
-   "fetched": "2026-11-16T19:47:09Z",
-   "excerpt": "GTA 6’s November 19 launch is set to break streaming records. Kai Cenat, Lacy, Stable Ronaldo, xQc and many other Twitch stars are preparing massive streams for the game’s arrival.",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "in.ign.com"
+   ],
    "priority": null
   },
   {
@@ -413,6 +527,23 @@
    "priority": null
   },
   {
+   "id": "5c934debc520de2c7419fae49089e7996be77258",
+   "title": "13-year wait for GTA 6 ends with a community-run event in GTA 5's Los Santos",
+   "url": "https://tech.yahoo.com/gaming/articles/13-wait-gta-6-ends-152841712.html",
+   "source_id": "bing_online",
+   "source_name": "YAHOO!",
+   "domain": "tech.yahoo.com",
+   "published": "2026-11-16T07:28:00Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "A new dawn beckons with GTA 6, and players of the previous Grand Theft Auto are planning a goodbye for the industry-defining juggernaut. To celebrate Rockstar 's sequel finally arriving, GTA 5 fans ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "b12486ce12e942ca21dbd697a74ae773bbe6ad42",
    "title": "Can you remember what happened while we waited?",
    "url": "https://www.reddit.com/r/GTAV/comments/1xxicnn/can_you_remember_what_happened_while_we_waited",
@@ -422,6 +553,23 @@
    "published": "2026-11-16T06:34:13Z",
    "fetched": "2026-11-16T19:47:09Z",
    "excerpt": "We’ve been waiting since September 2013. In that time we got Flappy Bird, the Ice Bucket Challenge, Pokémon GO, a car launched into space, a ship stuck in the Suez Canal, Barbenheimer… and like three GTA VI delays. I made a free little game: you get 8 events from those 13 years…",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3a9ddf42d086bbf8a49d2c4352c2eaceeeff07bd",
+   "title": "Top Twitch Streamers To Watch Out For When GTA 6 Finally Drops On November 19",
+   "url": "https://sports.ndtv.com/us/us-streamers/top-twitch-streamers-to-watch-out-for-when-gta-6-finally-drops-on-november-19-12334209",
+   "source_id": "bing_rp",
+   "source_name": "NDTV Sports",
+   "domain": "sports.ndtv.com",
+   "published": "2026-11-16T06:11:00Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "GTA 6’s November 19 launch is set to break streaming records. Kai Cenat, Lacy, Stable Ronaldo, xQc and many other Twitch stars are preparing massive streams for the game’s arrival.",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
@@ -707,6 +855,25 @@
     "data"
    ],
    "score": 70,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "b2909e268446ea7f3c89b5d08d2bc23698364fec",
+   "title": "GTA 6: Release date, price, map, characters & more",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MaVlzNFFnTmU0d1VCNkUyaGhwVy00WkRHSThuZ2ZTRUxrWnlZbjRjamt0ZmlfblNHZTFOZlBMUVZPMnk2eWlmcnZFcEx2dw",
+   "source_id": "gnews_rp",
+   "source_name": "Dot Esports",
+   "domain": "dotesports.com",
+   "published": "2026-11-15T18:04:00Z",
+   "fetched": "2026-11-17T02:39:05Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "data"
+   ],
+   "score": 10,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8646,176 +8813,6 @@
     "rp"
    ],
    "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "c2404d29e90208d15f550b42d8aafc648903e34f",
-   "title": "GTA 6 PC Launch Reportedly Set for Q1 2027, After Console Debut",
-   "url": "https://tech.yahoo.com/gaming/articles/gta-6-pc-launch-reportedly-150824339.html",
-   "source_id": "bing_fivem",
-   "source_name": "YAHOO!",
-   "domain": "tech.yahoo.com",
-   "published": "2026-10-14T08:08:00Z",
-   "fetched": "2026-11-04T06:40:48Z",
-   "excerpt": "GTA 6 PC release is reportedly targeting Q1 2027, just months after the November 2026 console launch on PS5 and Xbox Series X|S.",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "3320f357e504a722b3f747d71559eb6c00e50064",
-   "title": "GTA 6 PC Release Reportedly Planned for Q1 2027, Just Months After Consoles",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rOGg3R3BEVEVUSGV3eGFFRmd3ODR1emp0Yzl5TDRXZlM3VTRoY1JLeUI4RHhwaDBJRXZycTd5ODREMTVjcG1tV01EcUFzU0szYUJLZkNWWm54azc0ZktiNlBvNXp3MGpJSGJYRFcwa3RUbVcybnc",
-   "source_id": "gnews_rp",
-   "source_name": "Shane the Gamer",
-   "domain": "shanethegamer.com",
-   "published": "2026-10-14T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "cd81fbf82722fcca35428c018e17cd7f3a114cd9",
-   "title": "GTA VI’s online mode could arrive in 2027, well after the single-player campaign begins",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXVHQUd2OTJ6WjBXR2w3WnF3ODFRanRKaXFnY0ZUQkZfNEM1NmE0VlJ0ZVJBZ3UxS0o1alJfWEhhdjAyMl9MTjNRQnpyZG5wYVQySE9wNmNKd1FvNWdRM0JMeWVqT0J4aHVyMkdFRVVNOTg2cWVXbTJvZFhUWmh1OEtEcHdLaWlBR0dKdkY3U09KRGxSQ0RvVDZ3YVdXRWk5RldpUWRvVEx5cVV1Ni13Nmk3OG8wc2lEN3lzbFp1Z3E",
-   "source_id": "gnews_online",
-   "source_name": "Digital Trends",
-   "domain": "digitaltrends.com",
-   "published": "2026-10-14T07:00:00Z",
-   "fetched": "2026-11-10T04:41:05Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "10ecd00cefc8ff9d8a4cb34b3bc9263712d1407a",
-   "title": "GTA 6 reportedly set for PC release in early 2027",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOUxJR3Z0MFZsRnZta1BwekdHbWlQdUdEMFc0VDZjcXBRMHZLcGlzMC1IdjNXeVM1VnJ6XzFRendZMjEyd1oxRDdMLWNqQm5pUm5iN1lxbkloNVJGNXRtQkN5LUVaN09zYUFzQ2NkS2JhNEpFT01HUWZES1pQZw",
-   "source_id": "gnews_online",
-   "source_name": "Tech Edition",
-   "domain": "techedt.com",
-   "published": "2026-10-14T05:29:16Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "364bfeaf297819c4456d559a645952176d031fdf",
-   "title": "Rockstar Has GTA 6’s Online Mode Planned for a 2027 Release",
-   "url": "https://beebom.com/rockstar-has-gta-6-online-mode-planned-for-2027",
-   "source_id": "bing_online",
-   "source_name": "Bing News — GTA 6 Online",
-   "domain": "beebom.com",
-   "published": "2026-10-14T03:49:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "Bloomberg's new report states that Rockstar has GTA 6's Online mode planned, which is expected to launch in 2027.",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "12ad875e02b027b691cf583bb6431add700c686c",
-   "title": "GTA 6 PC release date may be sooner than expected",
-   "url": "https://www.msn.com/en-us/news/other/gta-6-pc-release-date-may-be-sooner-than-expected/ar-AA2eawcr",
-   "source_id": "bing_fivem",
-   "source_name": "Bing News — FiveM GTA 6",
-   "domain": "msn.com",
-   "published": "2026-10-13T11:13:52Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "According to a new rumor, Rockstar Games could release the GTA 6 PC port just a few months after the highly anticipated console launch.",
-   "tag": "RUMOR",
-   "topics": [
-    "pc",
-    "data"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [
-    "clarin.com"
-   ],
-   "priority": null
-  },
-  {
-   "id": "d77e0978b8cb751e3a05b3ab99a554f2a4719bad",
-   "title": "GTA 6 could come to PC in early 2027, according to a new report",
-   "url": "https://dotesports.com/gta/news/gta-6-pc-release-q1-2027-report",
-   "source_id": "bing_fivem",
-   "source_name": "Dot Esports",
-   "domain": "dotesports.com",
-   "published": "2026-10-13T10:32:00Z",
-   "fetched": "2026-11-05T01:26:49Z",
-   "excerpt": "GTA 6’s PC version is planned for the first quarter of 2027, GamesBeat reports, citing four industry sources familiar with Rockstar’s plans.",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "d6aa22277c0f6e154e3627a0f65f2c10d53f62e7",
-   "title": "GTA 6 PC release reportedly revealed: When can you expect the PC port?",
-   "url": "https://www.sportskeeda.com/gta/news-gta-6-pc-release-reportedly-revealed-when-can-expect-pc-port",
-   "source_id": "bing_fivem",
-   "source_name": "Sportskeeda",
-   "domain": "sportskeeda.com",
-   "published": "2026-10-13T07:50:00Z",
-   "fetched": "2026-11-07T15:13:44Z",
-   "excerpt": "On October 13, 2026, GamesBeat issued a report, claiming that the GTA 6 PC release is set for Q1 2027 after speaking to four industry sources who are familiar with Rockstar Games' roadmap. The sources ...",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "4e250c473111891b41fa9c01e202d96d529ca6f8",
-   "title": "GTA 6 PC Release Reportedly Landing Q1 2027, Fastest Ever for Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01TnZKdlVfQk9XcXVVNWMzaHBoWExQM19MTU9hZDJDM3EzX2NyTnRjYm80UlRXSE03ZEQxalhIeGJwbmJ3c2QyT25maTFTclVFTzZqT093Ylg4aFI4eTZqcHc5WW1BYUQzSTJHLWRIbW5JWXVXZWdYQnBreUYxdw",
-   "source_id": "gnews_rp",
-   "source_name": "GTA BOOM",
-   "domain": "gtaboom.com",
-   "published": "2026-10-13T07:00:00Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "pc"
-   ],
-   "score": 24,
    "lang": "en",
    "also_on": [],
    "priority": null
