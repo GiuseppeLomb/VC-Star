@@ -1,7 +1,41 @@
 {
- "generated_at": "2026-11-17T19:55:23Z",
+ "generated_at": "2026-11-18T02:12:36Z",
  "count": 500,
  "items": [
+  {
+   "id": "e597c0d5457294aa63a4c203688823b5a81f3659",
+   "title": "How to Preload GTA 6 on PS5 and Xbox Series X|S",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2RaZ0hGLU9HVVh5QUp2V25yVzhHVmhJaFNKbWZkX2ktM2U0WDA3d1hBbUFIejBZYWdHSkFaakhodVVYYXFBUy1ZQ3dqRGJCQ2g0anZHZUZuQWJtWmRXZHlWaUlxa3lORUx2N3BmYTNwN0EtdkNFOHRXQXFzS0l1NkRoTmRTdG9UbUozSHhmUWR0QQ",
+   "source_id": "gnews_online",
+   "source_name": "The Game Haus",
+   "domain": "thegamehaus.com",
+   "published": "2026-11-18T01:34:15Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "1b264ce0e83e081a34b9c90a4a12ea4749a1a1e6",
+   "title": "GTA 6 crossovers already begin as 2026 AAA game reveals free content update",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWNHN1FCUkhlTWFjZ1cyUDZ3d1BxS1NqZEhudWdLUWdOaW5sU3pCM1ZZdzRfRkRyQmMtZjk5WkNRM3NTdndLd2tVaW1BdlkzczNzMVRhZFlqQmFDano3WThOMVlGQzdqZVlQV3hHOTBER0xiQ2thX1Q0aDVPZVNGQTA4dnN3dXNl",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2026-11-17T22:00:00Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "5ffccadc91b287b6b78080313b4f5427a1989092",
    "title": "The Game Awards 2026 Nominees – Play Gears of War: E-Day, Grand Theft Auto VI, Resident Evil Requiem, and More on XBOX",
@@ -56,21 +90,63 @@
    "priority": null
   },
   {
-   "id": "5ca44a0a77f3af191d2a9de00ef04cb9f5bd52ab",
-   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBtaHBIYlRBTDY1bnNwT3JxUzBWcWRrRjZEdEhwaWV5Ql9xVFZmYkZwcFhzeHI5QXN1MHZseXhlbWZzSTJfYm1MenNFLU1ZVXRhQ2dySG84MVVlTW9rVml3YzljR0JOaHJjZE9JOXFvYXlPVlFBNmgydFZGNXBWaVhvbmZTbmV0cGlqYTVKeGtpcXhYOWRGd3paQTljSUZBZ09wMHhTWXB4Nk50V2ZNTzdtRkhhdU9DLWxZ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-11-17T13:25:43Z",
-   "fetched": "2026-11-17T19:55:23Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
+   "id": "3adc940862d65f5b0f12a3e643330537386ba91c",
+   "title": "Is GTA 6 Single-Player Only at Launch? Multiplayer Support Answered",
+   "url": "https://beebom.com/gta-6-single-player-game",
+   "source_id": "bing_online",
+   "source_name": "Beebom",
+   "domain": "beebom.com",
+   "published": "2026-11-17T16:00:00Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "Find out whether GTA 6 is a single-player game or if it has multiplayer support at launch, along with hints at GTA Online 2.",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "975fc3d7cd7348484bd40ff637c320e3f16cc80b",
+   "title": "GTA 6's release will stress test the internet just as everything's falling apart",
+   "url": "https://www.polygon.com/gta-6-release-apple-down-outages-microsoft-chase-bank-issues",
+   "source_id": "bing_online",
+   "source_name": "Polygon",
+   "domain": "polygon.com",
+   "published": "2026-11-17T16:00:00Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "In early November, some internet service providers warned their customers that pre-downloads of Grand Theft Auto 6 were causing network slowdown issues for everyone on the service. That problem became ...",
+   "tag": "RUMOR",
    "topics": [],
    "score": 0,
    "lang": "en",
    "also_on": [],
-   "priority": 4
+   "priority": null
+  },
+  {
+   "id": "1dfb3c1fcb3f3ba563d2b008cc393f34698e478e",
+   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+   "url": "https://www.justjared.com/2026/11/17/gta-6-online-release-date-multiplayer-launch",
+   "source_id": "bing_online",
+   "source_name": "Just Jared",
+   "domain": "justjared.com",
+   "published": "2026-11-17T13:07:00Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "Will GTA 6 have online multiplayer at launch? Find out what Rockstar has confirmed about GTA 6 Online, its possible release date and the future of GTA Online.",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 70,
+   "lang": "en",
+   "also_on": [
+    "tech.yahoo.com",
+    "imdb.com"
+   ],
+   "priority": null
   },
   {
    "id": "faaad29f2234c0b66e9968f836c77d4f86e4b08a",
@@ -663,6 +739,23 @@
    "priority": null
   },
   {
+   "id": "354acbf81bfd3a5c1a92c39ab73d31a738274987",
+   "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0xrRVlCakZTQWdWMVNNaEEwbGZBc3hCNXBUNW43MkZwaVBBcXFjcmsxcjM3cUNveUkwbGxFNXpRX1c2ejU1Mmk0TG4tUmZNM3RtXzVpaE9hNU1DaWxvdWRDWmF2a2UwZDczbGY3djVYTUpYMmhVT3NkTEJwQ3JBbzZlVDUtcGE1SFFwZ3VLWkt0Rlg3SFBhN0dKRUVoNGRzX3JVc2R3VUVIY2w5b3JZWWZpd3gxRDd5RjhpaWtNNVhZR3JmNGtEOWRiQjUyWXVL",
+   "source_id": "gnews_rp",
+   "source_name": "IGN",
+   "domain": "ign.com",
+   "published": "2026-11-16T18:42:02Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "b4fdc3ad1ac7e375ba2c83dbc492c8695d975537",
    "title": "Absolute cimena",
    "url": "https://www.reddit.com/r/GTAV/comments/1xxuz36/absolute_cimena",
@@ -982,25 +1075,6 @@
    "priority": null
   },
   {
-   "id": "9df3ec5455dd1c7692d1cc8373b6a4bff20d1fc4",
-   "title": "GTA 6 Officially Brings ‘GTA RP’ Mechanics to Single-Player Mode",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zWTU5dlpOVHZPY2w1LTh2MkczN2dtNmRraTdnbVlLQ0RKMUtUQzBmUElRYWFEVlZBX3RDbTVkdHJBcWxPa1BmS3RUd0FhX0UtdnQwUlVsZ09tdTB1WlJ0ZDZiYnLSAWpBVV95cUxOX0xwWGplWGxJampUWUh2Rnp0MHdGOUJjdTZ1TE9mSFpEYndESnlucFE1OW56TEthVGhsSE9HNTNyOEhoUUxONTU5M1NQNWs5R1pNaGNQX1VsVzEzdFpIUmR4M0syUzdkZ0VB",
-   "source_id": "gnews_rp",
-   "source_name": "Beebom",
-   "domain": "beebom.com",
-   "published": "2026-11-16T08:25:36Z",
-   "fetched": "2026-11-16T19:47:09Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "9f98e57be3aac4cc4fe826e6c50f1604d03cee61",
    "title": "GTA 6 Is Almost Here. These Are The Important Details",
    "url": "https://tech.yahoo.com/gaming/articles/gta-6-almost-important-details-161923020.html",
@@ -1054,7 +1128,8 @@
    "lang": "en",
    "also_on": [
     "msn.com",
-    "uk.pcmag.com"
+    "uk.pcmag.com",
+    "me.pcmag.com"
    ],
    "priority": null
   },
@@ -1297,6 +1372,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "181d4c1cdb13965907fef8c1d4fb1e68ee21cfc3",
+   "title": "GTA 6 Officially Brings ‘GTA RP’ Mechanics to Single-Player Mode",
+   "url": "https://beebom.com/gta-6-roleplay-mechanics-explained",
+   "source_id": "bing_rp",
+   "source_name": "Beebom",
+   "domain": "beebom.com",
+   "published": "2026-11-16T00:25:00Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "GTA 6 brings roleplay mechanics to the single-player game that implements features from GTA RP. Learn more about it here.",
+   "tag": "RUMOR",
+   "topics": [
+    "rp"
+   ],
+   "score": 40,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -2847,23 +2941,6 @@
    "priority": null
   },
   {
-   "id": "826b3202182ba1ff1f12bd18078c84b73bb2c8ae",
-   "title": "GTA 6 Release Times: When Can You Start Playing?",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0l6RFdOVm5HYnVoV2N0Wm01MWdxLXVXdnp2RTltMnRESER5N3FNWG1Nc281dWdiMEJEc1l3U0paRll4UUs5ZWIwUVZrTk9PaHEyUk8yNkMzS2NULWlmMXRiNWtLY04zQThOSXRVUTVabXFad1doRXB1czlvME5xeXVzUnJPeWs",
-   "source_id": "gnews_online",
-   "source_name": "Push Square",
-   "domain": "pushsquare.com",
-   "published": "2026-11-13T06:51:44Z",
-   "fetched": "2026-11-14T07:54:17Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "725ba4cd6af7dde9f0d8a7ba7709fa3f431a9b40",
    "title": "Old Mike Shows Up in GTA 6",
    "url": "https://www.reddit.com/r/GTAV/comments/1xuzpks/old_mike_shows_up_in_gta_6",
@@ -3093,6 +3170,23 @@
    "priority": null
   },
   {
+   "id": "e4ab5d2818d9a6bb93dcf7b0c9596968fbf0d2e8",
+   "title": "Gamer brasileira funBABE será a única mulher entre os criadores de conteúdo do país no lançamento oficial do GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFd4Yk9pSnlNVW50XzBORkZEeVZvTF9ydDE3U3FJTkg5Vkp4NF9EMHJWd3RPMzV3cy1mNF9NTHNZNXJMNThJTGNnODZnR1lCelhPNUpoZ2R0MThfd01xeV9reWhJOWhnNDRDU0Fval9LRm1RcUZpcUU0S0dPUFVCb0k2UUdZdGlPZjFuUGQ2YmpfMzJ5OFI0N29hZFNicUp6TndUSjVMN2daLTJJY29hdjZlNWFmUDBacnphMnA4QklFNGY0TGxIRnVpZGZWOVFWalJXYQ",
+   "source_id": "gnews_pt",
+   "source_name": "EP Grupo",
+   "domain": "epgrupo.com.br",
+   "published": "2026-11-12T19:34:23Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "48dece71b8916f4816cf65651bb20e34c4ed5dce",
    "title": "GTA 6 Map Leaked Online Ahead of Launch, Revealing Several Locations",
    "url": "https://in.ign.com/grand-theft-auto-vi/276941/gta-6-map-leaked-online-ahead-of-launch-revealing-several-locations",
@@ -3284,6 +3378,23 @@
     "trailer"
    ],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "826b3202182ba1ff1f12bd18078c84b73bb2c8ae",
+   "title": "GTA 6 Release Times: When Can You Start Playing?",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0l6RFdOVm5HYnVoV2N0Wm01MWdxLXVXdnp2RTltMnRESER5N3FNWG1Nc281dWdiMEJEc1l3U0paRll4UUs5ZWIwUVZrTk9PaHEyUk8yNkMzS2NULWlmMXRiNWtLY04zQThOSXRVUTVabXFad1doRXB1czlvME5xeXVzUnJPeWs",
+   "source_id": "gnews_online",
+   "source_name": "Push Square",
+   "domain": "pushsquare.com",
+   "published": "2026-11-12T12:07:54Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -3811,6 +3922,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "d505569a8f17b46a9f2af4adf1dbc2067e135dca",
+   "title": "GTA 6: What we know about Rockstar's return to Vice City",
+   "url": "https://tech.yahoo.com/gaming/articles/gta-6-know-rockstars-next-162342317.html",
+   "source_id": "bing_fivem",
+   "source_name": "YAHOO!",
+   "domain": "tech.yahoo.com",
+   "published": "2026-11-11T15:49:00Z",
+   "fetched": "2026-11-18T02:12:36Z",
+   "excerpt": "Rockstar dropped another GTA 6 trailer in mid-October to hold us over in the wait for launch, and this one is a bit more subdued than the last. Lots of narrative focus, cutscenes, and a few more lovey ...",
+   "tag": "RUMOR",
+   "topics": [
+    "trailer"
+   ],
+   "score": 10,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8521,76 +8651,6 @@
    "priority": null
   },
   {
-   "id": "25d10301b5e0d1b6fd01b86a3ad49af247d2291c",
-   "title": "Best GTA 6 Clipping Networks to Make Money",
-   "url": "https://www.psu.com/news/best-gta-6-clipping-networks-to-make-money",
-   "source_id": "bing_rp",
-   "source_name": "PlayStation Universe",
-   "domain": "psu.com",
-   "published": "2026-11-01T19:49:00Z",
-   "fetched": "2026-11-14T19:47:05Z",
-   "excerpt": "Our first pick is GTA Clipper, the best clipping platform for GTA 6. The other four entries below are network models rather than named competitors: useful ways that creator teams organize clipping ...",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "fb5774b5dd1d96bb8875e3e62b52ef0a9229eedd",
-   "title": "Got an OLED LG C6 + Sound bar for the ultimate GTA 6 experience.",
-   "url": "https://www.reddit.com/r/GTAVI/comments/1xlasba/got_an_oled_lg_c6_sound_bar_for_the_ultimate_gta",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2026-11-01T18:40:04Z",
-   "fetched": "2026-11-04T00:13:44Z",
-   "excerpt": "I remember seeing articles around 2018-2020 about GTA 6 being in development and ever since then I've been watching, reading and listening to everything about this game. From saving the 2022 leaks on my pc and obsessively watching them imagining what this game could be, to…",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "88235b0a5ff3d494945c54e48705a6030f0390f8",
-   "title": "🌆 Ready for a Fresh Start? Discover Brookstone City RP – Where Your Story, Your Voice, and Your Future Matter! ❤️",
-   "url": "https://www.reddit.com/r/FiveMServersAdverts/comments/1xl94he/ready_for_a_fresh_start_discover_brookstone_city",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2026-11-01T17:35:31Z",
-   "fetched": "2026-11-04T00:13:44Z",
-   "excerpt": "🌆 Brookstone City RP – The Future Is Yours! Looking for a fresh start in FiveM? Come check out Brookstone City RP! We're a new city looking for people who want to be part of something special from the beginning. We know GTA 6 is just around the corner, with only 18 days to go!…",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 80,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "61e01229a3ae660d29f1d621053548ee7b20590a",
-   "title": "GTA 6",
-   "url": "https://www.reddit.com/r/Semenretention/comments/1xkghie/gta_6",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2026-10-31T17:43:49Z",
-   "fetched": "2026-11-04T00:13:44Z",
-   "excerpt": "Look I’ve never posted on this channel just commented on random posts but I have to say this and really want to see if my point gets across. I just saw this trending post on Reddit for GTA 6 and how the story can’t be speedrun you have to grind the money and missions in order…",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "77237ca4f461b2153bb0ffe4e1581c9256d7d2a4",
    "title": "Community Spotlight: October 2026",
    "url": "https://forum.cfx.re/t/community-spotlight-october-2026/5434487",
@@ -8601,57 +8661,6 @@
    "fetched": "2026-11-03T19:40:10Z",
    "excerpt": "Welcome to the latest Community Spotlight, where this month we’re featuring all things spooky and scary! If you’re interested in having your work featured in an upcoming Spotlight, please head over to Discord and check out the #showcase channel, or submit your releases to the…",
    "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "a91d53518958cf6c28b75c55fde8d1c93395fd4d",
-   "title": "Rockstar announces free GTA Online DLC you can claim right before Grand Theft Auto 6 comes out",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVQxMlMwSzdOOEFvQ1o4V1BOcVFGM2p2MklDVjdxbHdTZDY5V2RYM1hDWUhDTE9tVE9OUThrVzROLXZtblpPZWJoSnJLSDlVdktJZ2Fjb29qMUlfVl9OS0oybWRZWVRINkM2RkF5aHRmcnpDZ1Z5S05XV1licE4ycDdMVGRaUzZfa0d0WXJxQ3Y",
-   "source_id": "gnews_online",
-   "source_name": "GAMINGbible",
-   "domain": "gamingbible.com",
-   "published": "2026-10-31T07:00:00Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "3e998c7f088ad148a6a155638cc1fbe7be382d40",
-   "title": "GTA 6 First Official Post-Launch Release Confirmed For December 11",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54bHVFRXk0RmladUhXd2ZDMHdaOF9ZLV8yQWxmTW0wTVpUSnJ5NUhBeWRGd0FqeHJhY0FPYks0NExodUFBQ0M2NHF5OGFsQTNEdVhocXB3eUlSNWhNai1Ib081Q3I5ME1pRWE2NThZazQwem8yUWVoTQ",
-   "source_id": "gnews_online",
-   "source_name": "ScreenRant",
-   "domain": "screenrant.com",
-   "published": "2026-10-30T21:01:19Z",
-   "fetched": "2026-11-03T22:45:00Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "5616af0df640bdb1655c32a820e24fe961786f10",
-   "title": "GTA 6 is almost here, 13 years after GTA 5. Here’s what you need to know.",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUGtaV21vWG5zZ08wby1OOTF0azhRalJkZ2l6bnQ0cnBSSkN4eDlVWXB0cHBuOW1yY2pQUnhpUGUzR3ROWUpMdmd4c2Ita2N4M21jM2hrMjI0SlptUzN4Z0h6SS10LXZ5dExDZUVwRTZLM2pSOS0yMVVSTzdWdkp4UGtjeGc1aVVwbC1uQVFBTmJMQWlTS1VDeUlnMC1GdXlSRHZJNy1WWWJ0ZXRFMDFlY2JDNzQyM3FqTV9VVHFVZzNSbXhSbDhXX0NsZ0ZhRDh0XzZlclhxMy1KS1E4cWl4WHpPSDc4bWVyRGVJR3RBYm5RUEpvX2Nkb0ZBbnN4YWhEZVhQcw",
-   "source_id": "gnews_online",
-   "source_name": "Yahoo Tech",
-   "domain": "tech.yahoo.com",
-   "published": "2026-10-30T17:23:30Z",
-   "fetched": "2026-11-03T19:40:10Z",
-   "excerpt": "",
-   "tag": "RUMOR",
    "topics": [],
    "score": 0,
    "lang": "en",
