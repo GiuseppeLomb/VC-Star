@@ -5930,6 +5930,18 @@
    "first_seen": "2026-11-20T22:19:25Z",
    "p": null,
    "pending": false
+  },
+  "bcba467d6dd1c90cbced38544a38a591b384be36": {
+   "t": "Take-Two mira projeto de mapeamento de GTA 6 enquanto servidor do Discord fica offline",
+   "first_seen": "2026-11-21T03:18:10Z",
+   "p": null,
+   "pending": false
+  },
+  "2770f582ecd946211b767019057c28532a16d4db": {
+   "t": "Grand Theft Auto VI",
+   "first_seen": "2026-11-21T03:18:10Z",
+   "p": 4,
+   "pending": false
   }
  },
  "initialized_at": "2026-11-03T19:40:10Z"

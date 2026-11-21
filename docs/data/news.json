@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:19:25Z",
+ "generated_at": "2026-11-21T03:18:10Z",
  "count": 500,
  "items": [
   {
@@ -9,8 +9,8 @@
    "source_id": "taketwo_press",
    "source_name": "Business Wire",
    "domain": "businesswire.com",
-   "published": "2026-11-20T19:20:44Z",
-   "fetched": "2026-11-20T22:19:25Z",
+   "published": "2026-11-20T19:20:00Z",
+   "fetched": "2026-11-21T03:18:10Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
@@ -37,23 +37,6 @@
    "priority": 4
   },
   {
-   "id": "90e9f1b0b5240f2ed309c5657f472c6e4ff5e9a9",
-   "title": "Grand Theft Auto VI: The Album Now Available",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUdHR3lsOTUwbEM0QkdnZHZSRjJTdXFuVjhKV1lvd28xUmhBVURQamg5R3kyZ2YtX0tBX3JoQi14cHk3d18zaV9pcjlid3c3YlZFb1p3Ylc1ZTJYWm1BT2gxN3hUcWRpZ0FCd0RsQW50bEtyWTdkdzI2N1k3cFdVck5IQ2Nyb1VpTkY5Y2lOamRaTHlKUk5lSG1NOEltTHRWckgwNTFGUWs",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-11-20T18:09:46Z",
-   "fetched": "2026-11-20T22:19:25Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
-  },
-  {
    "id": "046937ae05cd99bae38f4e137394b6623f84604f",
    "title": "GTA VI Roleplay – Future FiveM Support, Server Hosting & Requirements?",
    "url": "https://forum.cfx.re/t/gta-vi-roleplay-future-fivem-support-server-hosting-requirements/5439461",
@@ -71,6 +54,23 @@
    "lang": "en",
    "also_on": [],
    "priority": null
+  },
+  {
+   "id": "90e9f1b0b5240f2ed309c5657f472c6e4ff5e9a9",
+   "title": "Grand Theft Auto VI: The Album Now Available",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUdHR3lsOTUwbEM0QkdnZHZSRjJTdXFuVjhKV1lvd28xUmhBVURQamg5R3kyZ2YtX0tBX3JoQi14cHk3d18zaV9pcjlid3c3YlZFb1p3Ylc1ZTJYWm1BT2gxN3hUcWRpZ0FCd0RsQW50bEtyWTdkdzI2N1k3cFdVck5IQ2Nyb1VpTkY5Y2lOamRaTHlKUk5lSG1NOEltTHRWckgwNTFGUWs",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2026-11-20T14:51:59Z",
+   "fetched": "2026-11-21T03:18:10Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "1457ce5da25766e2ee80de5c77bf4b8e3bbe58d6",
@@ -219,8 +219,8 @@
    "source_id": "gnews_online",
    "source_name": "PC Gamer",
    "domain": "pcgamer.com",
-   "published": "2026-11-20T01:04:03Z",
-   "fetched": "2026-11-20T15:28:03Z",
+   "published": "2026-11-20T01:01:43Z",
+   "fetched": "2026-11-21T03:18:10Z",
    "excerpt": "",
    "tag": "CREDIVEL",
    "topics": [],
@@ -488,23 +488,6 @@
    "priority": null
   },
   {
-   "id": "f12041895cfe0a2c2d4a2c24f4a1b36efd63ab78",
-   "title": "Grand Theft Auto VI is Out Now",
-   "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now",
-   "source_id": "xbox_wire",
-   "source_name": "Xbox Wire",
-   "domain": "news.xbox.com",
-   "published": "2026-11-19T14:00:00Z",
-   "fetched": "2026-11-19T17:39:54Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
-  },
-  {
    "id": "b207efaf9fbd2bcf99e13a255a8fad4ac5b0f369",
    "title": "Gta 6 Inspired Fishing | Bending, Mutations, Admin Panel and more.. | Iconic-Scripts",
    "url": "https://forum.cfx.re/t/gta-6-inspired-fishing-bending-mutations-admin-panel-and-more-iconic-scripts/5439295",
@@ -681,6 +664,25 @@
    "score": 0,
    "lang": "en",
    "also_on": [],
+   "priority": 4
+  },
+  {
+   "id": "5ca44a0a77f3af191d2a9de00ef04cb9f5bd52ab",
+   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBtaHBIYlRBTDY1bnNwT3JxUzBWcWRrRjZEdEhwaWV5Ql9xVFZmYkZwcFhzeHI5QXN1MHZseXhlbWZzSTJfYm1MenNFLU1ZVXRhQ2dySG84MVVlTW9rVml3YzljR0JOaHJjZE9JOXFvYXlPVlFBNmgydFZGNXBWaVhvbmZTbmV0cGlqYTVKeGtpcXhYOWRGd3paQTljSUZBZ09wMHhTWXB4Nk50V2ZNTzdtRkhhdU9DLWxZ",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2026-11-19T08:00:00Z",
+   "fetched": "2026-11-21T03:18:10Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [
+    "news.xbox.com"
+   ],
    "priority": 4
   },
   {
@@ -5175,6 +5177,23 @@
    "priority": null
   },
   {
+   "id": "bcba467d6dd1c90cbced38544a38a591b384be36",
+   "title": "Take-Two mira projeto de mapeamento de GTA 6 enquanto servidor do Discord fica offline",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUhWOXoyMF9PXzBCYVp6ZzZRbHdvX2R1dEN2SmRRaHhwRGpuaEItQW9ncDNCWGRXTmxReUM0S296RG9ORmhLRXFhbnI0X0dyd1lPaDlOXzF0V0xGcnJkdnZOZE1LU3VCOGUtWHN3a3pNRXoyRUVncWNWdkdxY0ZQay1nTXFWNnBvUjZYem1HSHJ5OXJ1NEI1S0FIb1Z3M0x5dUpUaDFoM3FLMnFONmpIWGJhdk5yOUtaOEFOU0p3",
+   "source_id": "gnews_pt",
+   "source_name": "news.lavx.hu",
+   "domain": "news.lavx.hu",
+   "published": "2026-11-12T00:10:53Z",
+   "fetched": "2026-11-21T03:18:10Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "bd4fb237c5cc01808a2b14e0255a6e804498320a",
    "title": "Lucia and unknown woman; Launch Trailer and Pre-Load Trailer",
    "url": "https://www.reddit.com/r/GTA6/comments/1xtx531/lucia_and_unknown_woman_launch_trailer_and",
@@ -8543,40 +8562,22 @@
    "priority": null
   },
   {
-   "id": "c209e2fff2f3d4e369b2e0de4573c3e3dcb46c24",
-   "title": "Explore the Grand Theft Auto VI Launch Gallery",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenlYTHJOV2JxUkx1TEZnblBxSzdYdnhJQlQ0RUEybnNON0pKS3RxUnlueXNkTGVUbmt5MnpBR1JzMkttUi1Qb3ZQNXp6NWpZbl9EX1dqUVhaWjNBU3ROWkFySlhBbUJwOVJESHNoZ0N0WXRVdGprZ1RGWWY2U2l4TjNtQm4zNDNpQkoxQnN1NmNVZUdqNTBhSGVYeFBsZUZFZWxHZ3RWLW5LSjFT",
+   "id": "2770f582ecd946211b767019057c28532a16d4db",
+   "title": "Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NMUJ1Uk9YQ1JNMDNWZUd4Z19IMExhTDdBR25tXzJTd0JSbVVtMEpYWVJDZ1hhY29FOEhCQmduMHpMMHpHdjItcTdVUEhXMzFMRWc4",
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
-   "published": "2026-11-05T08:00:00Z",
-   "fetched": "2026-11-13T21:02:12Z",
+   "published": "2026-11-04T02:10:25Z",
+   "fetched": "2026-11-21T03:18:10Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
    "score": 0,
    "lang": "en",
    "also_on": [
+    "support.rockstargames.com",
     "reddit.com"
-   ],
-   "priority": 4
-  },
-  {
-   "id": "36d8f80e3dcfc7624c43defd622ef17161ea4b85",
-   "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDdGSjJuNlZtbnZQMUJQczFyQUJkYUF3ZVdkOTZkY3ZiZ01xbzdGemx1X1FEZG15eUNTb0VUT0lsMHFLQUV2b1dUOV9SQXc4UTBvTjZMNXJZQzlwTVFlY2ZXdlhaT3lLY0U0emYwTG1SZlJ1LTktWi1qbTY5M1ZlYk15SWtmZ3ItNElUWlhWSzR0WWprVmlQM0ZpY0x3OWFoUFhQUWtqeWdHM2NVOTJlOFhhVk5IcTQ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2026-11-04T08:00:00Z",
-   "fetched": "2026-11-13T21:02:12Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [
-    "rockstargames.com"
    ],
    "priority": 4
   },
