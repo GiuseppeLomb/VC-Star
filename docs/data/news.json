@@ -1,22 +1,24 @@
 {
- "generated_at": "2026-11-22T11:41:33Z",
+ "generated_at": "2026-11-22T18:40:44Z",
  "count": 500,
  "items": [
   {
-   "id": "ce93a43186e94891b915e0fa2dd0bdb4bb04093b",
+   "id": "d354945aee14ff9ceccc717f77db4e2d12d5c113",
    "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
-   "url": "https://www.msn.com/en-gb/news/other/it-stayed-alive-for-so-long-behind-the-wheel-with-the-last-riders-saying-goodbye-to-gta-online-amidst-gta-6s-world-changing-launch/ar-AA2hY4Io",
-   "source_id": "bing_rp",
-   "source_name": "Eurogamer on MSN",
-   "domain": "msn.com",
-   "published": "2026-11-22T02:00:10Z",
-   "fetched": "2026-11-22T11:41:33Z",
+   "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+   "source_id": "bing_online",
+   "source_name": "Eurogamer",
+   "domain": "eurogamer.net",
+   "published": "2026-11-22T02:00:00Z",
+   "fetched": "2026-11-22T18:40:44Z",
    "excerpt": "As GTA Online players waved goodbye ahead of GTA 6's launch, I was taken aback by the wholesomeness of it all.",
-   "tag": "RUMOR",
+   "tag": "CREDIVEL",
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "msn.com"
+   ],
    "priority": null
   },
   {
@@ -246,6 +248,23 @@
    "topics": [],
    "score": 0,
    "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "28006862f4812bd28fcd3e1aef36fbac5a05fb73",
+   "title": "GTA 6 no Xbox One: como jogar pela nuvem sem trocar de console",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUtvY1BFeS0yd29jc0c2VjVCOGdYLV8yZUJRd3J4S2h6Z0RGYWFQbnhJM1VjSlJIZ1JFSWJFV3NPNVNoTnN1Tkt6Z0tMRmh6NjJudHk4SDlRdkdKelAyWHNBc3FGZXI1Y1BLVC11ZE1GMF9HVWlBWnY4U29NbnQyc0dtMmZ1R1U2LWhIMkNUVUltTHM3Q3hBUmNmTW5fOG9jTkE",
+   "source_id": "gnews_pt",
+   "source_name": "Espaço do Povo",
+   "domain": "espacodopovo.com.br",
+   "published": "2026-11-20T16:58:52Z",
+   "fetched": "2026-11-22T18:40:44Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "pt",
    "also_on": [],
    "priority": null
   },
@@ -5002,23 +5021,6 @@
    "priority": null
   },
   {
-   "id": "68a476927fac226b5d4d5ac7def6adc4bb0560d5",
-   "title": "GTA 6 – Como Corrigir o Download Lento no PS5 e Xbox Series X|S",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmRhSi1yV1JwS1Q0V2dsNUFyWlZhNms3d3pkc0tEZ3NmVG1YbWtvbmRWcWJ3bjlmYXQ0bWlQeC0zNXAzbTNPSkM5TXlTV3dENm1YT1BTWE9BeTR2ejVzWE5oang3eUc3VmJObDZ1a2o5RnFPWklkYW1XeXBBRTVJenFqaGpYZTJYOGkwak5RUGl5bXJUZ2xzSDZOZw",
-   "source_id": "gnews_pt",
-   "source_name": "Critical Hits",
-   "domain": "criticalhits.com.br",
-   "published": "2026-11-12T19:09:21Z",
-   "fetched": "2026-11-21T11:26:53Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "pt",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "48dece71b8916f4816cf65651bb20e34c4ed5dce",
    "title": "GTA 6 Map Leaked Online Ahead of Launch, Revealing Several Locations",
    "url": "https://in.ign.com/grand-theft-auto-vi/276941/gta-6-map-leaked-online-ahead-of-launch-revealing-several-locations",
@@ -5419,6 +5421,23 @@
    ],
    "score": 40,
    "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "68a476927fac226b5d4d5ac7def6adc4bb0560d5",
+   "title": "GTA 6 – Como Corrigir o Download Lento no PS5 e Xbox Series X|S",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmRhSi1yV1JwS1Q0V2dsNUFyWlZhNms3d3pkc0tEZ3NmVG1YbWtvbmRWcWJ3bjlmYXQ0bWlQeC0zNXAzbTNPSkM5TXlTV3dENm1YT1BTWE9BeTR2ejVzWE5oang3eUc3VmJObDZ1a2o5RnFPWklkYW1XeXBBRTVJenFqaGpYZTJYOGkwak5RUGl5bXJUZ2xzSDZOZw",
+   "source_id": "gnews_pt",
+   "source_name": "Critical Hits",
+   "domain": "criticalhits.com.br",
+   "published": "2026-11-12T08:00:00Z",
+   "fetched": "2026-11-22T18:40:44Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "pt",
    "also_on": [],
    "priority": null
   },
@@ -8531,25 +8550,6 @@
     "data"
    ],
    "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "79b0c675a90278c9321fb96f4d60c4203edb5a28",
-   "title": "Marketing ramp up in final two weeks",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xpnuwc/marketing_ramp_up_in_final_two_weeks",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-06T20:53:08Z",
-   "fetched": "2026-11-06T22:11:11Z",
-   "excerpt": "Surely the marketing is going to ramp up in some way for the last two weeks right? Especially since Strauss mentioned of a “dessert” which could’ve been the launch trailer but it could also be something else not revealed yet. This final stretch is when you would want to market…",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
    "lang": "en",
    "also_on": [],
    "priority": null
