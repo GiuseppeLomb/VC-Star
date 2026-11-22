@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:16:52Z",
+ "generated_at": "2026-11-22T03:17:24Z",
  "count": 500,
  "items": [
   {
@@ -13,6 +13,23 @@
    "fetched": "2026-11-21T23:16:52Z",
    "excerpt": "",
    "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "2dd422fb0adae061ff1f2af7e974c0c352347ba7",
+   "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JxVGVCeWNZRFJTQmNOX25LUDFMT0t4SzNmZjN0aHByMzRpOHdBTDhnUVRsUWNOVE1xRWpxWHNCUldrMDA4S0hJa2h6U0E5Z3JkYlNaeGllY3ZvUjJzZF94VU9jVXBIX3BaUEFmWGd6ZWFZY3ctSTRzNktuRlVCT0p3dlc2bVlnYXo3VV9vLXUydU8xZnpUMnJSNTNybHNhbkFRZWZSWWVsV0lmYmNVRnRjYTZaSXBTdmtYWXRMYjU",
+   "source_id": "gnews_rp",
+   "source_name": "PC Gamer",
+   "domain": "pcgamer.com",
+   "published": "2026-11-21T21:42:29Z",
+   "fetched": "2026-11-22T03:17:24Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
    "topics": [],
    "score": 0,
    "lang": "en",
@@ -1028,25 +1045,6 @@
    "lang": "en",
    "also_on": [],
    "priority": null
-  },
-  {
-   "id": "12b18fe90b4d2c9198917cad0c0c128b2b8d13a5",
-   "title": "Watch the Grand Theft Auto VI Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnFtcjZ6dTJNOEZNUVlyS0I4TU5DVTJKNkc0STdvVjlycnZHc3hlWFloZHlCSV94T3dyUnYyWHZEZnJxSkRWZEJGUFlLX2ZpU1hGdDBwNzN6MnNzczFoN0YtN1JDV1lCNW1uOW5tWEpFV0t2aHI2UkZYVElrTUVScTRrclNDU2ZrblJoRTZVaEdBcW1HUmcxR1AzSWR6X1lpVDA0b2kwZHpOS3FfVUZjemVSWkluN0U3SnhYdUUtUHhLbjdjQVBWZ3lTT2w",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-11-19T02:37:21Z",
-   "fetched": "2026-11-20T22:19:25Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [
-    "trailer"
-   ],
-   "score": 15,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
   },
   {
    "id": "1297cd26bcaace35fdb7e8770a5605b8bfa20068",
