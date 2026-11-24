@@ -1,7 +1,64 @@
 {
- "generated_at": "2026-11-24T04:04:53Z",
+ "generated_at": "2026-11-24T14:46:55Z",
  "count": 500,
  "items": [
+  {
+   "id": "fcfd69f575fd54064be41a25a92e4ebd634341d6",
+   "title": "GTA 6 no PC | Rockstar derruba projeto pirata de port",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczZrVG41cURSR1diOGNsOEdTcnJuT2UyOVl6S1ZUUF8wSGhUaW1PUW81LTN6ekFoZ2VhOXV4R2NScUlkQTl6OXpDUUNGbF9xdVFZTXZzaFlRYkRpOHpXUEZZT1ZzRGVkNFpXRWxHQVlnTnpZbW5XUm10MElpVWg1T3gzSFJwWkpE",
+   "source_id": "gnews_pt",
+   "source_name": "Omelete",
+   "domain": "omelete.com.br",
+   "published": "2026-11-24T14:15:00Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "b3f513009349a55b0e6bdee8b0f36b34edd4054b",
+   "title": "Criador de port de GTA 6 para PC abandona projeto após suposta intervenção da Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0JaU29Yc2RCM0UxVUUxOExUY0VhdW0wLTZrWmQtYmVFYmNfWEY3blVWa3A1TmVaUjJxTU1velVPWjNDOUN6SmktNUMwazY5ejczaC0xNXJFRENTVU5qU1BkTjBGbTlpNFJrVTJYVERGcDRhSXZDUmx5U1daNXBWRDRn",
+   "source_id": "gnews_pt",
+   "source_name": "GameVicio",
+   "domain": "gamevicio.com",
+   "published": "2026-11-24T13:01:23Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "b7b5fd0a9cc85ca929f809da3c96ed0607c69b7f",
+   "title": "Rockstar derruba servidor que tentava criar port de GTA 6 para PC",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1pSS3YzWDNZQXpBVzZsdHd1MWlOdHFQUXM1VkUtOUZHMEU1RlBpMzM5TmhsMkRCSmhnSjh0Mm9XVGFpMHQybG5IemMyZnE1RW5KRHZpVDlFQ1FGV3NJbUJxeDExa0Y4bG1DV1RRZWpqeHZzRlBTLUl6WmFTZUpLeno4cGJ2c0kzcy1XWFB4MlpMUFFYUTI0Wk9oUjVvUDFFbWc",
+   "source_id": "gnews_pt",
+   "source_name": "Critical Hits",
+   "domain": "criticalhits.com.br",
+   "published": "2026-11-24T12:38:34Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "c6d85587d2854e347a6bc8d171b876114bde8556",
    "title": "GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced",
@@ -179,8 +236,8 @@
    "source_id": "rockstar_gnews",
    "source_name": "Rockstar Games",
    "domain": "rockstargames.com",
-   "published": "2026-11-23T14:46:33Z",
-   "fetched": "2026-11-23T18:30:24Z",
+   "published": "2026-11-23T14:06:16Z",
+   "fetched": "2026-11-24T14:46:55Z",
    "excerpt": "",
    "tag": "OFICIAL",
    "topics": [],
@@ -295,7 +352,9 @@
    ],
    "score": 30,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "huffingtonpost.co.uk"
+   ],
    "priority": null
   },
   {
@@ -386,7 +445,9 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "tech.yahoo.com"
+   ],
    "priority": null
   },
   {
@@ -405,6 +466,23 @@
     "data"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "bc28fbe62c6a5ecad165f970ccb16cc20398b5c1",
+   "title": "'Grand Theft Auto 6' somehow exceeds expectations",
+   "url": "https://www.msn.com/en-us/gaming/rockstar-games/grand-theft-auto-6-somehow-exceeds-expectations/ar-AA2hYGQb",
+   "source_id": "bing_rp",
+   "source_name": "Yardbarker on MSN",
+   "domain": "msn.com",
+   "published": "2026-11-22T09:45:09Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "It took 13 years for developer Rockstar Games to release Grand Theft Auto 6, and it’s not just a worthy follow-up to the landmark, yet still controversial, open-world action series, it’s also managed ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -1246,6 +1324,23 @@
    "priority": null
   },
   {
+   "id": "f12041895cfe0a2c2d4a2c24f4a1b36efd63ab78",
+   "title": "Grand Theft Auto VI is Out Now",
+   "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now",
+   "source_id": "xbox_wire",
+   "source_name": "Xbox Wire",
+   "domain": "news.xbox.com",
+   "published": "2026-11-19T14:00:00Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
+  },
+  {
    "id": "b207efaf9fbd2bcf99e13a255a8fad4ac5b0f369",
    "title": "Gta 6 Inspired Fishing | Bending, Mutations, Admin Panel and more.. | Iconic-Scripts",
    "url": "https://forum.cfx.re/t/gta-6-inspired-fishing-bending-mutations-admin-panel-and-more-iconic-scripts/5439295",
@@ -1299,26 +1394,6 @@
    "lang": "en",
    "also_on": [],
    "priority": null
-  },
-  {
-   "id": "69a96ac21743b9731b302ad345b500f12a71f6db",
-   "title": "Rockstar Games Announces Grand Theft Auto VI Now Available",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWN0TG1hcndMbndQeWI3bHMtblVwUXlNTHYxakZXbjZfSXpLakxRYm10amxSZGRGbjBRcGVrRU5pdjdfWFI1Yjl5eXNFdVFpbVZlNHlWemE4WTFxLW9TVHoyc1BoTWs0UENSX2JxTDJBQndQbWdmbkVoTE5NX2hVT082bHFXTlNvM0JBOElKSS1ZYnYxSXplemhlSTRMYzRmaVpXUTNhVEpCM0Z5NXpUamRRazlqdw",
-   "source_id": "taketwo_press",
-   "source_name": "Business Wire",
-   "domain": "businesswire.com",
-   "published": "2026-11-19T12:00:00Z",
-   "fetched": "2026-11-19T17:39:54Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [
-    "youtube.com",
-    "rockstargames.com"
-   ],
-   "priority": 4
   },
   {
    "id": "4b665ef56b36f0c31f988234fcaa93824bf748b1",
@@ -1475,25 +1550,6 @@
    "score": 0,
    "lang": "en",
    "also_on": [],
-   "priority": 4
-  },
-  {
-   "id": "5ca44a0a77f3af191d2a9de00ef04cb9f5bd52ab",
-   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBtaHBIYlRBTDY1bnNwT3JxUzBWcWRrRjZEdEhwaWV5Ql9xVFZmYkZwcFhzeHI5QXN1MHZseXhlbWZzSTJfYm1MenNFLU1ZVXRhQ2dySG84MVVlTW9rVml3YzljR0JOaHJjZE9JOXFvYXlPVlFBNmgydFZGNXBWaVhvbmZTbmV0cGlqYTVKeGtpcXhYOWRGd3paQTljSUZBZ09wMHhTWXB4Nk50V2ZNTzdtRkhhdU9DLWxZ",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "rockstargames.com",
-   "published": "2026-11-19T08:00:00Z",
-   "fetched": "2026-11-24T04:04:53Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [
-    "news.xbox.com"
-   ],
    "priority": 4
   },
   {
@@ -1851,8 +1907,8 @@
    "source_id": "gnews_online",
    "source_name": "Mashable",
    "domain": "mashable.com",
-   "published": "2026-11-18T17:47:05Z",
-   "fetched": "2026-11-24T04:04:53Z",
+   "published": "2026-11-18T17:45:29Z",
+   "fetched": "2026-11-24T14:46:55Z",
    "excerpt": "",
    "tag": "RUMOR",
    "topics": [],
@@ -3095,27 +3151,6 @@
    "priority": null
   },
   {
-   "id": "3690b531ca05138b8c7aefbc75e39b545e01f478",
-   "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbF9uRHIzdDFQdVpuWUZ6RzMxOEpIXzQ4aXZoelZaTU5uR0EzUlQzN2RaaWxuTHhvY0loaWVSSnZFaWxXMUthSVM3R3otM29tQ2tDeXVPYmk2MEJpWHQ1MW5URy03bkZPdHJ0MVV0WFE2bFFBMXVNc09GM0o",
-   "source_id": "gnews_online",
-   "source_name": "PC Gamer",
-   "domain": "pcgamer.com",
-   "published": "2026-11-16T20:57:03Z",
-   "fetched": "2026-11-17T02:39:05Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "online"
-   ],
-   "score": 72,
-   "lang": "en",
-   "also_on": [
-    "msn.com"
-   ],
-   "priority": 3
-  },
-  {
    "id": "cf3e851c2348b9cec8115c5c2468d43a239bf7b9",
    "title": "While console players are waiting on GTA VI I started replaying GTA V enhanced on PC :)",
    "url": "https://www.reddit.com/r/GTAV/comments/1xy0gun/while_console_players_are_waiting_on_gta_vi_i",
@@ -3181,23 +3216,6 @@
    "fetched": "2026-11-16T19:47:09Z",
    "excerpt": "i’ve had this game since 2013 and still never finished it. every time i start, i end up stealing planes and running from cops for 3 hours instead. kinda embarrassed to admit it before gta 6 drops. am i the only one?",
    "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "354acbf81bfd3a5c1a92c39ab73d31a738274987",
-   "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0xrRVlCakZTQWdWMVNNaEEwbGZBc3hCNXBUNW43MkZwaVBBcXFjcmsxcjM3cUNveUkwbGxFNXpRX1c2ejU1Mmk0TG4tUmZNM3RtXzVpaE9hNU1DaWxvdWRDWmF2a2UwZDczbGY3djVYTUpYMmhVT3NkTEJwQ3JBbzZlVDUtcGE1SFFwZ3VLWkt0Rlg3SFBhN0dKRUVoNGRzX3JVc2R3VUVIY2w5b3JZWWZpd3gxRDd5RjhpaWtNNVhZR3JmNGtEOWRiQjUyWXVL",
-   "source_id": "gnews_rp",
-   "source_name": "IGN",
-   "domain": "ign.com",
-   "published": "2026-11-16T18:42:02Z",
-   "fetched": "2026-11-18T02:12:36Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
    "topics": [],
    "score": 0,
    "lang": "en",
@@ -3581,6 +3599,44 @@
     "me.pcmag.com"
    ],
    "priority": null
+  },
+  {
+   "id": "354acbf81bfd3a5c1a92c39ab73d31a738274987",
+   "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0xrRVlCakZTQWdWMVNNaEEwbGZBc3hCNXBUNW43MkZwaVBBcXFjcmsxcjM3cUNveUkwbGxFNXpRX1c2ejU1Mmk0TG4tUmZNM3RtXzVpaE9hNU1DaWxvdWRDWmF2a2UwZDczbGY3djVYTUpYMmhVT3NkTEJwQ3JBbzZlVDUtcGE1SFFwZ3VLWkt0Rlg3SFBhN0dKRUVoNGRzX3JVc2R3VUVIY2w5b3JZWWZpd3gxRDd5RjhpaWtNNVhZR3JmNGtEOWRiQjUyWXVL",
+   "source_id": "gnews_rp",
+   "source_name": "IGN",
+   "domain": "ign.com",
+   "published": "2026-11-16T08:00:00Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3690b531ca05138b8c7aefbc75e39b545e01f478",
+   "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbF9uRHIzdDFQdVpuWUZ6RzMxOEpIXzQ4aXZoelZaTU5uR0EzUlQzN2RaaWxuTHhvY0loaWVSSnZFaWxXMUthSVM3R3otM29tQ2tDeXVPYmk2MEJpWHQ1MW5URy03bkZPdHJ0MVV0WFE2bFFBMXVNc09GM0o",
+   "source_id": "gnews_online",
+   "source_name": "PC Gamer",
+   "domain": "pcgamer.com",
+   "published": "2026-11-16T08:00:00Z",
+   "fetched": "2026-11-24T14:46:55Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [
+    "online"
+   ],
+   "score": 72,
+   "lang": "en",
+   "also_on": [
+    "msn.com"
+   ],
+   "priority": 3
   },
   {
    "id": "5c934debc520de2c7419fae49089e7996be77258",
@@ -8475,63 +8531,6 @@
     "online"
    ],
    "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "1c2c06c70695834e31b4f39e752c9ddca9bc1840",
-   "title": "Expected GTA 6 Online Release Date?",
-   "url": "https://www.reddit.com/r/GTA6unmoderated/comments/1xrbrp5/expected_gta_6_online_release_date",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2026-11-08T23:02:11Z",
-   "fetched": "2026-11-08T23:54:37Z",
-   "excerpt": "It’s said GTA 6 online will be coming in 2027, going off of Rockstars history (GTA5 Online came out a week after & RDR2 Online came out a month after.) My guess is a January or February release. This gives them a 2 to 3 month period to work on online and servers etc. But my…",
-   "tag": "RUMOR",
-   "topics": [
-    "online",
-    "data"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "ecebf55ce26a72c944152b41aa6b0f39e71f6886",
-   "title": "I’ve probably played nearly 100 games at this point. But I don’t get why GTA6 is a monoculture event.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xrawle/ive_probably_played_nearly_100_games_at_this",
-   "source_id": "reddit_search",
-   "source_name": "Reddit — pesquisa GTA 6 RP",
-   "domain": "reddit.com",
-   "published": "2026-11-08T22:23:03Z",
-   "fetched": "2026-11-08T23:54:37Z",
-   "excerpt": "I'm looking forward to GTA 6, so I'm not here to hate on it. I've played hell of a lot of games over the years, like Subnautica 1, 2 and below zero,No Man's Sky, and Skyrim, Windrose, cultivation simulator, Fqllout NV and Fallout 4, every Pokemon game post Oras excluding the Go…",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "6fd007a2a698918b2a044afc435103b3ee278d26",
-   "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
-   "url": "https://www.notebookcheck.net/Leaked-GTA-6-release-date-build-hints-online-multiplayer-could-launch-soon.1445605.0.html",
-   "source_id": "bing_online",
-   "source_name": "Notebookcheck",
-   "domain": "notebookcheck.net",
-   "published": "2026-11-08T20:57:00Z",
-   "fetched": "2026-11-09T05:06:22Z",
-   "excerpt": "Some rumors point to a GTA 6 online mode not launching until later in 2027. However, a data miner leaked code from the release date build alluding to multiplayer features. The profitability of GTA ...",
-   "tag": "RUMOR",
-   "topics": [
-    "online",
-    "data"
-   ],
-   "score": 70,
    "lang": "en",
    "also_on": [],
    "priority": null
