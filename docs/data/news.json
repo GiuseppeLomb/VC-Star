@@ -1,7 +1,44 @@
 {
- "generated_at": "2026-11-24T23:40:15Z",
+ "generated_at": "2026-11-25T05:41:20Z",
  "count": 500,
  "items": [
+  {
+   "id": "cea860f9449c35bd19ae1bbc8903591488c4ca81",
+   "title": "GTA 6 will be released on PC in March 2027, along with the launch of GTA 6 Online.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblROeWhYQmZhX0tZZEtRUFk0VEx1WlA1WXVpUU1YdDVrY3RjZndubTkzemp6TEpXMXRqNnJyRE9jOUdsbmhRNXhOOEVUVy1PNndjTmpnVzlFU0prSl85aVhzUEJNeDJuRmd6T1AyZnZNWjdUVkswQnB6MTFxZ1ptVkxUaUo4UWJMTUJiNUkwVEF2bXBVbUQwenZVbEJ5RGFzQ0E",
+   "source_id": "gnews_online",
+   "source_name": "GameGPU",
+   "domain": "en.gamegpu.com",
+   "published": "2026-11-25T03:40:53Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "pc"
+   ],
+   "score": 50,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "3308280a49fc8887c173d3c898c88f441438e332",
+   "title": "'GTA 6' release time arrives: How players are reacting",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vU1loQXBDU1Nzb0prZTFqc3RGWERPbUhULWlhb29GRF9tZWFZM2R6YzROeEFVblBlR2tHX0RCTEppTFhmUDdTVmxuRjNzTVpDR0tpdklnMVNXdzRYUHRGcXVWN0JfbVdVcWxNTU9HUXFZNnppMm5oS1BB",
+   "source_id": "gnews_online",
+   "source_name": "Mashable",
+   "domain": "mashable.com",
+   "published": "2026-11-25T02:47:54Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "21f142aad64fe1f16d4057c827b9a2ed70c6f058",
    "title": "'GTA 6' on PC update: What we know about when it releases",
@@ -254,7 +291,9 @@
    "score": 60,
    "lang": "en",
    "also_on": [
-    "uk.pcmag.com"
+    "uk.pcmag.com",
+    "msn.com",
+    "au.pcmag.com"
    ],
    "priority": null
   },
@@ -347,6 +386,23 @@
    "priority": 4
   },
   {
+   "id": "9239835d32a3aa8bec32097691a012d2d865047e",
+   "title": "Can't Wait to Live Stream GTA 6? This Trick Lets You Play It On Your PC Now",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVktc1hqeXdSaGkzbzdFZEJ4dzNEeUhkTVNwanJMeWtydVQtaDJ0QXdWOHVhZFpSM2lsN2hnUFZyQWM4REVzNkxlRTJ4aUU0THdxZjlxdTJ5N082Zk9Jbi16OEtQUkJiMjBnTGFJeFBZUG9IckVPcWtiVnFhWkdjQVV1R0xJT1Q0eUpEY0ZMcmF6QXd1bnl5Qm9rcU9DR3BXNk1mMU1CNDBXYUk",
+   "source_id": "gnews_online",
+   "source_name": "PCMag Australia",
+   "domain": "au.pcmag.com",
+   "published": "2026-11-23T22:46:15Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "44c764ef7b3ab6ec7560d8a7387a980e7a0c0e59",
    "title": "The first 'GTA 6' patch is live: 7 fixes address fan complaints",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTJtYkYtczdkLUlZRXBpUjNobEJHTUVKek9yQ3JRNDNTYzM3blpFbmlqckU1T29mcWhUVFFjUFU1VWtEbTVXOTR4OThnUHc0SHJEVEx0VkRnYVFSWjJPX2ZhdHlIc3QycDFrS21sRE5QbTBZbUxudWctbFd2TkNMc1k2cXF1bHhvYnc",
@@ -413,6 +469,23 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
+  },
+  {
+   "id": "19dab6403253b1bcb92fd4f37a1f29f1f4c7b217",
+   "title": "Analyst: GTA 6 made $4 billion opening weekend with 45 million copies sold",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnJIOGNqcW9SUXh5ZE9vbU9XYU1tUU5IRUpnYzE4aGxmaDk3OXZ1d0NFcDlaV3VpaTNBd2hnT2tXQjJsNm5Edno0WWtpOWktUU05S09UdDdjdzNkOGJJNk1GMjR1SEpUM09fYWdXUjBVVWxGR0ZrclRGZGlCSDZnRVoxTFNDV0xSZGJ2dnA3MHl2WjZQTDVfVEQ2Q3haMDVESzVTZlJMbnB4cmJCTEowUnN5MVRQbzFKbzd4eW1IZzFjbTNPak5N",
+   "source_id": "gnews_online",
+   "source_name": "TweakTown",
+   "domain": "tweaktown.com",
+   "published": "2026-11-23T20:32:13Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "db76031949db4586768a8509fa89be32bfd49425",
@@ -1237,6 +1310,26 @@
    "priority": null
   },
   {
+   "id": "cbd42b19c9644b4ad3596205ef48077045bf278f",
+   "title": "GTA 6 Online release date: no online mode at launch and no official date yet",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3BndkJLZTQxaDF4dFY0WVplMEZRclBpN1lSS05PcFQ5aGowQzljYUVTOEtqb3hhdU44M1J2WDd0NllfN054SHFkeDhaZnZDMTdPaWdhamhZb3ZXR0M1SXg4b2M0SUtwRWliSkhURnRKRUZ5alVZSjBSNkp1SHdUUUhObkZlcmlVQVBxaTRIRzZlMzk1YU9zdUhydw",
+   "source_id": "gnews_online",
+   "source_name": "eGamers.io",
+   "domain": "egamers.io",
+   "published": "2026-11-20T03:30:16Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "e0df18c6b3d66e82a8cd46057e360e21e8bfc4a6",
    "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFZtRDVJbDkwU0FvejlodzNTdFNsQ3NaSFJXQ1VyakZrbmpEQk9RQXRTYlk0aVVDNTdNWXJzaW01eTNPMlZKc2c4QkVjbzN5aWY3elhUY2d5Zk5mbEpBMEkyRFBoUGx6QWo2N1dQU3p4M09STmc4eFlFUWpabjRpeDl3aHRGVGFZSjVCbkM2VDMxVVNWOWtMa1JmbVdueGNuMG1IU3I1RXVPUkNkSkFvc0lZZw",
@@ -1316,23 +1409,6 @@
    "domain": "nacionale.com",
    "published": "2026-11-19T19:43:19Z",
    "fetched": "2026-11-19T23:52:04Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "e65ecc7163166fb43cc1f3b2548576a5f6100c0d",
-   "title": "Is PlayStation down? Some gamers report problems with PlayStation servers amid 'GTA 6' launch.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnJUY2JpTkJOVXZFV1VRLXlldkNjZjU2SGROSmoxeGkzZlpSel9BbTEzbi1kRk5QM3I5Skx5SGdxclpZNTczSzUyYi1IXzFzY2lMRmpFaWp5eFdjMzdmT1Z4TFE2VUZoNWpidkx0UGhIcDJfZjZPM1hGUndhajhOblFMc2FOX0NwSml1enJXOVlTdl9jbEJB",
-   "source_id": "gnews_online",
-   "source_name": "Mashable",
-   "domain": "mashable.com",
-   "published": "2026-11-19T17:57:00Z",
-   "fetched": "2026-11-24T04:04:53Z",
    "excerpt": "",
    "tag": "RUMOR",
    "topics": [],
@@ -1893,6 +1969,23 @@
     "rp"
    ],
    "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "e65ecc7163166fb43cc1f3b2548576a5f6100c0d",
+   "title": "Is PlayStation down? Some gamers report problems with PlayStation servers amid 'GTA 6' launch.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnJUY2JpTkJOVXZFV1VRLXlldkNjZjU2SGROSmoxeGkzZlpSel9BbTEzbi1kRk5QM3I5Skx5SGdxclpZNTczSzUyYi1IXzFzY2lMRmpFaWp5eFdjMzdmT1Z4TFE2VUZoNWpidkx0UGhIcDJfZjZPM1hGUndhajhOblFMc2FOX0NwSml1enJXOVlTdl9jbEJB",
+   "source_id": "gnews_online",
+   "source_name": "Mashable",
+   "domain": "mashable.com",
+   "published": "2026-11-19T05:45:47Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -3670,26 +3763,6 @@
    "priority": null
   },
   {
-   "id": "212c8f299269c565185d4bc4b80589ec067bedfd",
-   "title": "GTA 6 Online: Release date speculation, latest news and everything we know",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRFl0Nkt3ZUtocTY2ZEstSk9QTjM3U0NWdVEtUzZodFpvcENUNEN6N3c3N1pDSFhuUlMyaHcxamdYZTB1Q2g5TWxya1BYMVh3SVJFeV8tVEpQdzdIYmZFN3Y2ZTNBMUlfMUNfWnZ4YW9lOWVqRmc",
-   "source_id": "gnews_online",
-   "source_name": "GAMINGbible",
-   "domain": "gamingbible.com",
-   "published": "2026-11-16T12:00:00Z",
-   "fetched": "2026-11-16T19:47:09Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online",
-    "data"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "baf60eb4a3fe293198811f0a053584f05b386b5f",
    "title": "¿Qué estás haciendo cuando juegues gtavi la próxima semana por primera vez?",
    "url": "https://www.reddit.com/r/GTAV/comments/1xxnduf/qué_estás_haciendo_cuando_juegues_gtavi_la",
@@ -3927,6 +4000,26 @@
     "msn.com"
    ],
    "priority": 3
+  },
+  {
+   "id": "212c8f299269c565185d4bc4b80589ec067bedfd",
+   "title": "GTA 6 Online: Release date speculation, latest news and everything we know",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRFl0Nkt3ZUtocTY2ZEstSk9QTjM3U0NWdVEtUzZodFpvcENUNEN6N3c3N1pDSFhuUlMyaHcxamdYZTB1Q2g5TWxya1BYMVh3SVJFeV8tVEpQdzdIYmZFN3Y2ZTNBMUlfMUNfWnZ4YW9lOWVqRmc",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2026-11-16T08:00:00Z",
+   "fetched": "2026-11-25T05:41:20Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
   },
   {
    "id": "5c934debc520de2c7419fae49089e7996be77258",
@@ -8384,25 +8477,6 @@
    "priority": null
   },
   {
-   "id": "8afaae1c5d01976c9aed41332003308748147ad9",
-   "title": "Data Miners Find GTA 6 Online References in Preload Data",
-   "url": "https://powerupgaming.co.uk/2026/11/09/data-miners-find-gta-6-online-references-in-preload-data",
-   "source_id": "bing_online",
-   "source_name": "Power Up Gaming",
-   "domain": "powerupgaming.co.uk",
-   "published": "2026-11-09T08:20:00Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "GTA 6 has started to be preloaded on consoles, and data miners have already found possible references to an upcoming online mode.",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "564f314612637e8f5210e0e10441b2b1e0cbcfc7",
    "title": "Issues installing Grand Theft Auto VI",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1JlOUllanNEYmhNUWUzTUxWcHRMMFZuZkZlcVh0aDBaRzdrN1lxZjY3LTR1M21XRzZSRnRjLXRUYk9QZHlveHZiYVhjUjZ2dERkdzdMMHl1bEptOXhodWhpMGd0Z1l3YTlRM3hrQVZQaktqT3RaUndnVzhkLXhORElSYjBtbF9Fdkc2TUZWMGp5TzhrQkhfRE4wTWpRUjBQc01Eem13",
@@ -8451,80 +8525,6 @@
    "tag": "OFICIAL",
    "topics": [],
    "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "33b0a18d18d3c73363e3f5813fceadfc451332ad",
-   "title": "'It's Not Going to Be Delayed Again' — Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Next 10 Years",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVhrRUhQbmlRbGY5OEItTzhpbmNicjJDSmEwTm9CZUJWcEZucTdjZmVRTTZKc0k4VENVRS1veU85enkyZ3JZYTliZ1NSQW5Jb3lZNkpMdHV0dlphNk9IXzdrVnNvY1N5YnBQOVRseGhJQ3otRHJKbmlDRy1hSktIdWJjWUFjVWQyMzA5UkVXZWNtVV9RRnZ3QXVwQWd0ZFhZdmJUUHV5ZnlPVloyT2NxU2xaZm8",
-   "source_id": "gnews_online",
-   "source_name": "IGN",
-   "domain": "ign.com",
-   "published": "2026-11-09T08:00:00Z",
-   "fetched": "2026-11-17T11:11:43Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [
-    "data"
-   ],
-   "score": 12,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "552925076d95cbd74bc4ac633e8c16b103e070d2",
-   "title": "GTA 6's PlayStation Store Data Hints at Multiplayer Support",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDRkdXhzX25jSl9LY1JRbTdEclFNWEJCUUFLRVFrSTZwNGdJeWJWTmd1SXRhamFqUzR2VWMxQUFXc2loMlVNa1hLV0x1WE4tdTNPUFg5aGdxLXE0cW01cGdybUxzTWFXQ3doM3RySDNMVzE2TGtpUTZOaE0xWFhfUUp0aE54bmVHMVJBNEhJdXQ4cEhyaGwxRdIBngFBVV95cUxOQUlhek90OHNHWVB1bnQ4bDh0dmdkUkRMUlhRTHAybnJxUTdXV090d2tkb0ZjYmk3NVk2RWNhTndCUjFiTHEySTd1S3g4OFBkQzc1TGdSZ2NVNkswNm5aWmJKWU9Fcnk1akNxRFFETjdDMERTVnZ1YVJQR2phYTJqNVRGZkRhMXBDVzlSTldUZk5ZX1VNdTROektsNzIyQQ",
-   "source_id": "gnews_online",
-   "source_name": "TechPowerUp",
-   "domain": "techpowerup.com",
-   "published": "2026-11-09T08:00:00Z",
-   "fetched": "2026-11-17T19:55:23Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "5ac1a04e1e99465d7cf8ac2145d383a057f29523",
-   "title": "GTA 6's online mode looks set for 2027 as dataminers unearth early features",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGotVFVuLVVCc0tsQmFEMjRaaldmSHVSYWhEQm5FUzdSd2hQS2E4S2xHQ05sMG9vX2dRZWhzaEY4Y3BKQWc2dng4WDk3ak1EcVRJRkpiZWxfVEFENFN1c1JhTHdxcUxObUV3V21qZTRfNUtrb0tTdUxHcFdVTXFfdmFkbTM0QQ",
-   "source_id": "gnews_online",
-   "source_name": "GAMINGbible",
-   "domain": "gamingbible.com",
-   "published": "2026-11-09T08:00:00Z",
-   "fetched": "2026-11-19T08:39:13Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "01789262ec8f4e32fe1f9e15227213908eb9283f",
-   "title": "‘GTA 6 Online’ Info Found In Pre-Loaded ‘GTA 6’ Files And Backend",
-   "url": "https://www.forbes.com/sites/paultassi/2026/11/09/gta-6-online-info-found-in-pre-loaded-gta-6-files-and-backend",
-   "source_id": "bing_online",
-   "source_name": "Forbes",
-   "domain": "forbes.com",
-   "published": "2026-11-09T07:44:00Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "There's some new information about 'GTA 6 Online' that has surfaced in pre-loaded 'GTA 6' files and new backend updates.",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
