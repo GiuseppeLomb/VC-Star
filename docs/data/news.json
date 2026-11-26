@@ -1,7 +1,24 @@
 {
- "generated_at": "2026-11-26T00:31:25Z",
+ "generated_at": "2026-11-26T08:52:46Z",
  "count": 500,
  "items": [
+  {
+   "id": "9c84e072a1d7f1660331936eb115f057ef5df4f4",
+   "title": "Site lets gamers play GTA 6 for free, as alternative to PS5 or Xbox cloud gaming",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzk2STI0Ujd4dkVXYU8xX3VtdzlvUFljdmpRUkR5bmd4SjNxRkdpZ09oYXNjQ09STWhRZFRWX1AzVmNIMzBPb2F2RWhmQzdwQ1lFZWpJVGczNGFadkhJazE1NGluMkdwSGdfNXRfbjI5ODA0ZnhSaEt6SDFfTlM0WDJQMm5SV3dfSjc0OVk5VEhEcmdneVJZaGJibGtJeGpWUzI0YVV0c3l6T040dHFGa1U3eGRfSVNDeFRYVjZPNFhSZw",
+   "source_id": "gnews_online",
+   "source_name": "Notebookcheck",
+   "domain": "notebookcheck.net",
+   "published": "2026-11-26T02:26:00Z",
+   "fetched": "2026-11-26T08:52:46Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "8ac600ef705f3cc89715aaf272e0c5a49528a941",
    "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
@@ -20,6 +37,25 @@
    "priority": null
   },
   {
+   "id": "b5b5f220841b48dbab5c8f0e435a296f8f79cd5a",
+   "title": "GTA 6 no PC: projetos não oficiais já conseguem arrancar o jogo",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbjNrR1VvSXNTVEtEc3JPeTdoUzBBLWVxMUxXVm5Ha2N6MjNXdVd2OWhZVGtPczg2ODZxMXpzTDdTbFlJU0oyeWlQWHQwR0YwSnFNbVdNTXZ2NTQtNWdXcVhQbkk3eHVXWVJna1FpWmo4Zw",
+   "source_id": "gnews_pt",
+   "source_name": "CA Notícias",
+   "domain": "canoticias.pt",
+   "published": "2026-11-25T14:55:37Z",
+   "fetched": "2026-11-26T08:52:46Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
+   "lang": "pt",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "10f31c24ff590f9284c9cfe9cb19be4b9905000e",
    "title": "GTA 6 Is Overrated, and the User Reviews Prove It",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUZ4cHo1b1hXSHdvMVNZNmJKZ0Ytbjd3YTBfaU9LM1QtQ0VTSEJMRTJqREJCT3dFYlNSZFBqRTQwSU15SnFNYVlFNjJQYnVqSG05Z09lUGJwS0FTSFJSbGpQSWpXSFUzMHNXRHhmMXJMYjhOT3FxLXpxN3RfUmU0bGN4T3dtaVZjSFE",
@@ -33,7 +69,9 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "pcmag.com"
+   ],
    "priority": null
   },
   {
@@ -136,6 +174,25 @@
     "online"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "2abde6d8d683adf66b5c65f08c3d045311250eed",
+   "title": "Illegal GTA 6 PC port now has 3D models, rendering, shadows and physics, making incredibly fast progress",
+   "url": "https://www.tweaktown.com/news/114885/illegal-gta-6-pc-port-now-has-3d-models-rendering-shadows-and-physics-making-incredibly-fast-progress/index.html",
+   "source_id": "bing_fivem",
+   "source_name": "TweakTown",
+   "domain": "tweaktown.com",
+   "published": "2026-11-25T06:38:00Z",
+   "fetched": "2026-11-26T08:52:46Z",
+   "excerpt": "Modders are using Claude AI to reverse engineer an unofficial, illegal port of GTA 6 for PC, and the progress has been so rapid that it might be out soon.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -906,7 +963,8 @@
    "score": 30,
    "lang": "en",
    "also_on": [
-    "huffingtonpost.co.uk"
+    "huffingtonpost.co.uk",
+    "the-independent.com"
    ],
    "priority": null
   },
@@ -3224,29 +3282,6 @@
    "priority": null
   },
   {
-   "id": "1dfb3c1fcb3f3ba563d2b008cc393f34698e478e",
-   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-   "url": "https://www.justjared.com/2026/11/17/gta-6-online-release-date-multiplayer-launch",
-   "source_id": "bing_online",
-   "source_name": "Just Jared",
-   "domain": "justjared.com",
-   "published": "2026-11-17T13:07:00Z",
-   "fetched": "2026-11-18T02:12:36Z",
-   "excerpt": "Will GTA 6 have online multiplayer at launch? Find out what Rockstar has confirmed about GTA 6 Online, its possible release date and the future of GTA Online.",
-   "tag": "RUMOR",
-   "topics": [
-    "online",
-    "data"
-   ],
-   "score": 70,
-   "lang": "en",
-   "also_on": [
-    "tech.yahoo.com",
-    "imdb.com"
-   ],
-   "priority": null
-  },
-  {
    "id": "faaad29f2234c0b66e9968f836c77d4f86e4b08a",
    "title": "GTA 6 pre-order bonus is a 'trash game' disgruntled gamers don't want to play",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1FqT0dPXzZ2X09DQ0F4MlBpc0wtT1M3ZkVOMVVTbHpmT2FkU3Q1NmE5d3ZfeWhXc3RWLVBJa0liQW9TQWh2WmR6cU1COWJ2eVBCSEI4NGVlSFEyMFhsZE1NdE1wUnNZZHNVczNTREJRTEdCU21xWm9vc0pvbmhEd2dJdDZqbWs",
@@ -3486,6 +3521,29 @@
    "score": 100,
    "lang": "en",
    "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "ca1ee4bf6bcad0680888d17fba89ec3f2b04ddae",
+   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZkF4aWNXSWZEMDgyeEhza1pFelZhMjlkSHRwemowNmJxM09hSk1fVGhIN0V5Wi1fZ1BiZVBaWFJPQzFMRDNpOF9Qa1BWcl9pN1FlLXN5VWZ5UWdWdEJfWUhjeWJ0cEV3SlJnOHI3andkVzlKREEyTEllOXFrakNJNkQ5aWZyQQ",
+   "source_id": "gnews_online",
+   "source_name": "Yahoo Tech",
+   "domain": "tech.yahoo.com",
+   "published": "2026-11-17T08:00:00Z",
+   "fetched": "2026-11-26T08:52:46Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 70,
+   "lang": "en",
+   "also_on": [
+    "justjared.com",
+    "imdb.com"
+   ],
    "priority": null
   },
   {
@@ -4441,23 +4499,6 @@
    "priority": null
   },
   {
-   "id": "a5afdfa0744562286d847b1ec30bdacaea16edb4",
-   "title": "‘Grand Theft Auto’ Players Plan Peaceful 'Last Ride' Through Los Santos Before GTA 6 Release",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNElJRHNjcDVNWnFlS1lmSXN6dDBPSTR6YjVmd2hwcXRzOEVKWmloUGNSUWgxR3JDcXVKcFdpOE9TUXdGQU1XdGkyUUd6bnR1VlY2MngzTWR5RjU4NElJOENXZXZUX0VNMHloNmJNT0lOb2s4ODB0S0xHNFZUb2Uxc2ZWeUpWbkJjMkpMVHdQTGx6bDV3aGc",
-   "source_id": "gnews_online",
-   "source_name": "Complex",
-   "domain": "complex.com",
-   "published": "2026-11-16T03:06:27Z",
-   "fetched": "2026-11-16T19:47:09Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "cc81547c7c30d0478394894a20775af9a46a3c00",
    "title": "Since GTA VI is coming out this week, I figured I’d share my favorite GTA V Memory",
    "url": "https://www.reddit.com/r/GTAV/comments/1xxeamh/since_gta_vi_is_coming_out_this_week_i_figured_id",
@@ -4810,6 +4851,23 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 10,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "a5afdfa0744562286d847b1ec30bdacaea16edb4",
+   "title": "‘Grand Theft Auto’ Players Plan Peaceful 'Last Ride' Through Los Santos Before GTA 6 Release",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNElJRHNjcDVNWnFlS1lmSXN6dDBPSTR6YjVmd2hwcXRzOEVKWmloUGNSUWgxR3JDcXVKcFdpOE9TUXdGQU1XdGkyUUd6bnR1VlY2MngzTWR5RjU4NElJOENXZXZUX0VNMHloNmJNT0lOb2s4ODB0S0xHNFZUb2Uxc2ZWeUpWbkJjMkpMVHdQTGx6bDV3aGc",
+   "source_id": "gnews_online",
+   "source_name": "Complex",
+   "domain": "complex.com",
+   "published": "2026-11-15T08:00:00Z",
+   "fetched": "2026-11-26T08:52:46Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8435,40 +8493,6 @@
    "priority": null
   },
   {
-   "id": "d5cd3ab01c98dd214e53720fcf46d5995b8f3b56",
-   "title": "Report: GTA 6 to Support Newer Version of PSSR2, Potentially 40fps on PS5 Pro; Story & Online Files Are Separated",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEp3ZXQ5MnB1eWRVYkJWSUZUYXVKSE5tQlVxR1BhY1gtWkZDYjdNbVJGYmpqd0pWQzE5dllTSno3eWZockc2QTZuMkRDQ1R6Z0lnWFJwek9TTmtNWE10LVlrWUczMDdGUDlNX0RRM3RMRjFIdzgtTkh3UmRwSFhpS2luY1NVS0dEb19YX21rRk5uVThjU0xFbmVpaUx2QnRmUE9ib3FpeThmVldZZGd3ZQ",
-   "source_id": "gnews_online",
-   "source_name": "MP1st",
-   "domain": "mp1st.com",
-   "published": "2026-11-09T18:51:01Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "04a1cf2502cc9fb6b4325189e4a4856c1943543c",
-   "title": "GTA 6 is finally ready to download, all 212GB of it",
-   "url": "https://www.digitaltrends.com/gaming/gta-6-is-finally-ready-to-download-all-212gb-of-it",
-   "source_id": "bing_online",
-   "source_name": "Digital Trends",
-   "domain": "digitaltrends.com",
-   "published": "2026-11-09T18:40:00Z",
-   "fetched": "2026-11-11T15:27:45Z",
-   "excerpt": "Theft Auto VI is finally available to preload on PlayStation 5 and Xbox Series X|S, giving players nine days to download up to 212GB before the November 19 launch.",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "564f314612637e8f5210e0e10441b2b1e0cbcfc7",
    "title": "Issues installing Grand Theft Auto VI",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1JlOUllanNEYmhNUWUzTUxWcHRMMFZuZkZlcVh0aDBaRzdrN1lxZjY3LTR1M21XRzZSRnRjLXRUYk9QZHlveHZiYVhjUjZ2dERkdzdMMHl1bEptOXhodWhpMGd0Z1l3YTlRM3hrQVZQaktqT3RaUndnVzhkLXhORElSYjBtbF9Fdkc2TUZWMGp5TzhrQkhfRE4wTWpRUjBQc01Eem13",
@@ -8936,23 +8960,6 @@
    "lang": "en",
    "also_on": [],
    "priority": null
-  },
-  {
-   "id": "24bcfc85488c632116fd38ad9590ce86ba0fcffd",
-   "title": "Grand Theft Auto VI: An Extended Look",
-   "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
-   "source_id": "rockstar_youtube",
-   "source_name": "Rockstar Games (YouTube)",
-   "domain": "youtube.com",
-   "published": "2026-08-28T01:00:48Z",
-   "fetched": "2026-11-26T00:31:25Z",
-   "excerpt": "Captured entirely from in-game footage on PlayStation 5, this extended look at the next Grand Theft Auto showcases the biggest, most immersive evolution of the series yet. Grand Theft Auto VI plays best on PlayStation 5. Coming November 19.",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
   }
  ]
 }
