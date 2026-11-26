@@ -1,7 +1,24 @@
 {
- "generated_at": "2026-11-25T16:10:24Z",
+ "generated_at": "2026-11-26T00:31:25Z",
  "count": 500,
  "items": [
+  {
+   "id": "8ac600ef705f3cc89715aaf272e0c5a49528a941",
+   "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTHJUMnpJdnRuamVXUXlHRkdHNXNGWGR6elRvNDdxcGlCUmVJNmo4T3Zvb0FNcEZDUkRzUlNBQ0ZwanN1RjVhcUdWTWpKcXM5ZndxZmxXWkFZZEZUTmlOcEFKRVQzM3pGc1pWVmpmb2hncFRXemtzMS1hWVVobVVYZVlhV09CYmV3SC1CNnJ3OW5KZ2wxWERrRjdKRmlpcGtIMEtaa294eWpzRVY0aHROWTNNSThkVjgxcmZ6c01ZWC1odDJJZU95WUtCUEIzVnF0SllMdkpDbElad25oRVpz",
+   "source_id": "gnews_online",
+   "source_name": "PC Gamer",
+   "domain": "pcgamer.com",
+   "published": "2026-11-25T16:24:15Z",
+   "fetched": "2026-11-26T00:31:25Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "10f31c24ff590f9284c9cfe9cb19be4b9905000e",
    "title": "GTA 6 Is Overrated, and the User Reviews Prove It",
@@ -77,8 +94,8 @@
    "source_id": "gnews_online",
    "source_name": "Vocal",
    "domain": "vocal.media",
-   "published": "2026-11-25T10:44:23Z",
-   "fetched": "2026-11-25T16:10:24Z",
+   "published": "2026-11-25T10:30:23Z",
+   "fetched": "2026-11-26T00:31:25Z",
    "excerpt": "",
    "tag": "RUMOR",
    "topics": [],
@@ -156,25 +173,6 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "21f142aad64fe1f16d4057c827b9a2ed70c6f058",
-   "title": "'GTA 6' on PC update: What we know about when it releases",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ",
-   "source_id": "gnews_online",
-   "source_name": "Mashable",
-   "domain": "mashable.com",
-   "published": "2026-11-24T21:01:22Z",
-   "fetched": "2026-11-24T23:40:15Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -407,6 +405,23 @@
    "published": "2026-11-24T08:57:51Z",
    "fetched": "2026-11-25T16:10:24Z",
    "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "704409b781ce33fc05728879de95b3676fca249f",
+   "title": "Now GTA 6 is finally out, how can Rockstar keep up the hype?",
+   "url": "https://tech.yahoo.com/gaming/articles/now-gta-6-finally-rockstar-160341620.html",
+   "source_id": "bing_rp",
+   "source_name": "YAHOO!",
+   "domain": "tech.yahoo.com",
+   "published": "2026-11-24T08:03:00Z",
+   "fetched": "2026-11-26T00:31:25Z",
+   "excerpt": "And so, after 13 years and 13 million memes, GTA 6 is finally here. And as our reviewer put it, 'Holy sh*t it's good'. But now that the years (and years) of anticipation are over, and the game is ...",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
@@ -834,6 +849,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "21f142aad64fe1f16d4057c827b9a2ed70c6f058",
+   "title": "'GTA 6' on PC update: What we know about when it releases",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ",
+   "source_id": "gnews_online",
+   "source_name": "Mashable",
+   "domain": "mashable.com",
+   "published": "2026-11-23T10:37:47Z",
+   "fetched": "2026-11-26T00:31:25Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -1953,6 +1987,23 @@
    "lang": "en",
    "also_on": [],
    "priority": null
+  },
+  {
+   "id": "69a96ac21743b9731b302ad345b500f12a71f6db",
+   "title": "Rockstar Games Announces Grand Theft Auto VI Now Available",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWN0TG1hcndMbndQeWI3bHMtblVwUXlNTHYxakZXbjZfSXpLakxRYm10amxSZGRGbjBRcGVrRU5pdjdfWFI1Yjl5eXNFdVFpbVZlNHlWemE4WTFxLW9TVHoyc1BoTWs0UENSX2JxTDJBQndQbWdmbkVoTE5NX2hVT082bHFXTlNvM0JBOElKSS1ZYnYxSXplemhlSTRMYzRmaVpXUTNhVEpCM0Z5NXpUamRRazlqdw",
+   "source_id": "taketwo_press",
+   "source_name": "Business Wire",
+   "domain": "businesswire.com",
+   "published": "2026-11-19T12:00:00Z",
+   "fetched": "2026-11-26T00:31:25Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
   },
   {
    "id": "4b665ef56b36f0c31f988234fcaa93824bf748b1",
@@ -3400,25 +3451,6 @@
    "priority": null
   },
   {
-   "id": "dc4b24eddd49dfee89709cea410dac1fddc004ab",
-   "title": "GTA 6 RP: No FiveM at Launch, and What NoPixel Tells Us",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12R0RNZ2FMNU8tUkdMVU9FRG9JQ1lfVjFVc0d2bm1HZE5HR3U3VTh3U1BkUmdoUWx2eEdjOUItMEl4Q3dUbF9nalhueUwxSGpDMTlwTkV2WUZwSUN1NVJUQjYzRVdqVURHLWtsRw",
-   "source_id": "gnews_rp",
-   "source_name": "MNEEMO",
-   "domain": "mneemo.com",
-   "published": "2026-11-17T08:07:23Z",
-   "fetched": "2026-11-17T11:11:43Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 100,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "a2fd3dae9265f07e86a1c1783e9072600fc385e2",
    "title": "Will this sub be flooded with spoilers from tomorrow?",
    "url": "https://www.reddit.com/r/GTA6/comments/1xyepfi/will_this_sub_be_flooded_with_spoilers_from",
@@ -3433,6 +3465,25 @@
     "creator"
    ],
    "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "dc4b24eddd49dfee89709cea410dac1fddc004ab",
+   "title": "GTA 6 RP: No FiveM at Launch, and What NoPixel Tells Us",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12R0RNZ2FMNU8tUkdMVU9FRG9JQ1lfVjFVc0d2bm1HZE5HR3U3VTh3U1BkUmdoUWx2eEdjOUItMEl4Q3dUbF9nalhueUwxSGpDMTlwTkV2WUZwSUN1NVJUQjYzRVdqVURHLWtsRw",
+   "source_id": "gnews_rp",
+   "source_name": "MNEEMO",
+   "domain": "mneemo.com",
+   "published": "2026-11-17T08:00:00Z",
+   "fetched": "2026-11-26T00:31:25Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "rp"
+   ],
+   "score": 100,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8418,80 +8469,6 @@
    "priority": null
   },
   {
-   "id": "42b890f227592f8ae5a762d7badb88b45ee2aa04",
-   "title": "I have nothing bad to say about the game, but is it just me or did Rockstar go way too heavy on the bloom lighting in this trailer? ☀️🤯",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xrzqgo/i_have_nothing_bad_to_say_about_the_game_but_is",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-09T18:36:11Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "Don't get me wrong, the graphics look incredible. But I put these pictures together, and the glowing light effects and sun glare are almost blinding in some of these shots. Did anyone else notice how strong the lighting is?",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "7ea437b520d8c4beebe510f25d296711a8bb9080",
-   "title": "Thanks to Sony, the existence of GTA 6 Online may have just leaked",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXanN1emktQ2FqVXd3ZnVCMkVVdk8yN3RKdjlZRDdwU2pfZTFTdUNoa2hrVHI4UGdPNUNBZE9zaWxTc2J1TlBnaEc4UjRCTEFITFo3azI5NDA3cndHY1Jhb1JUZkpYME5sZE92Sw",
-   "source_id": "gnews_online",
-   "source_name": "PCGamesN",
-   "domain": "pcgamesn.com",
-   "published": "2026-11-09T16:27:30Z",
-   "fetched": "2026-11-10T13:03:56Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 30,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "150e04db4e8f3da5ccd959ed0dd62e54c5f69e52",
-   "title": "GTA 6 tipped to break internet traffic records as pre-loads begin",
-   "url": "https://www.gadgetguy.com.au/gta-6-nbn-co-expected-to-break-australian-internet-traffic-records",
-   "source_id": "bing_online",
-   "source_name": "GadgetGuy",
-   "domain": "gadgetguy.com.au",
-   "published": "2026-11-09T16:00:00Z",
-   "fetched": "2026-11-10T04:41:05Z",
-   "excerpt": "As pre-loads begin for GTA 6, NBN Co is bracing itself for 2026's biggest game to break Australian internet traffic records.",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "efc1f151b33433ee12ce76cacbd4df931ca92609",
-   "title": "GTA 6 PC Launch Reportedly Set for Q1 2027, After Console Debut",
-   "url": "https://www.gadgetreview.com/gta-6-pc-launch-reportedly-set-for-q1-2027-after-console-debut",
-   "source_id": "bing_rp",
-   "source_name": "Gadget Review",
-   "domain": "gadgetreview.com",
-   "published": "2026-11-09T16:00:00Z",
-   "fetched": "2026-11-14T07:54:17Z",
-   "excerpt": "Four anonymous sources tell GamesBeat a PC version could ship just months after the November 2026 console debut, versus the 19-month gap seen with GTA V Reports target GTA 6 PC launch for Q1 2027, ...",
-   "tag": "RUMOR",
-   "topics": [
-    "pc"
-   ],
-   "score": 20,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "564f314612637e8f5210e0e10441b2b1e0cbcfc7",
    "title": "Issues installing Grand Theft Auto VI",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1JlOUllanNEYmhNUWUzTUxWcHRMMFZuZkZlcVh0aDBaRzdrN1lxZjY3LTR1M21XRzZSRnRjLXRUYk9QZHlveHZiYVhjUjZ2dERkdzdMMHl1bEptOXhodWhpMGd0Z1l3YTlRM3hrQVZQaktqT3RaUndnVzhkLXhORElSYjBtbF9Fdkc2TUZWMGp5TzhrQkhfRE4wTWpRUjBQc01Eem13",
@@ -8959,6 +8936,23 @@
    "lang": "en",
    "also_on": [],
    "priority": null
+  },
+  {
+   "id": "24bcfc85488c632116fd38ad9590ce86ba0fcffd",
+   "title": "Grand Theft Auto VI: An Extended Look",
+   "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
+   "source_id": "rockstar_youtube",
+   "source_name": "Rockstar Games (YouTube)",
+   "domain": "youtube.com",
+   "published": "2026-08-28T01:00:48Z",
+   "fetched": "2026-11-26T00:31:25Z",
+   "excerpt": "Captured entirely from in-game footage on PlayStation 5, this extended look at the next Grand Theft Auto showcases the biggest, most immersive evolution of the series yet. Grand Theft Auto VI plays best on PlayStation 5. Coming November 19.",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
   }
  ]
 }
