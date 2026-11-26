@@ -1,7 +1,60 @@
 {
- "generated_at": "2026-11-26T08:52:46Z",
+ "generated_at": "2026-11-26T18:52:24Z",
  "count": 500,
  "items": [
+  {
+   "id": "1855cc09a66c9d6b160d81ae89c72f2707b5e9cb",
+   "title": "PS5 users report 'increased sudden shutdowns' while playing GTA 6, three major errors noted",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXVORTljQU1fSFNUX0FTUkI0ME54bGljX1psWk9aY0h3bDNBRGsxQTZfMTN3bnl1MG9iQnZDZjV3MWNobWJtYW1fRHNFcVV1SDdrUVFUSGdLbDlkTXZNSlNobFpSczdyRmxDWGlfMjZWTVNQMG1JVnc2c2Vlb2lkWlNiZG1jYkhpMVdVcExpWkJrMVk",
+   "source_id": "gnews_online",
+   "source_name": "GAMINGbible",
+   "domain": "gamingbible.com",
+   "published": "2026-11-26T10:00:00Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "8cfcf43391c8ed8d34b4b9288d9ce28b6087cb09",
+   "title": "According to Rockstar’s head of development, realism is a GTA 6 mechanic because it’s fun",
+   "url": "https://en.softonic.com/articles/according-to-rockstars-head-of-development-realism-is-a-gta-6-mechanic-because-its-fun",
+   "source_id": "bing_rp",
+   "source_name": "Softonic",
+   "domain": "en.softonic.com",
+   "published": "2026-11-26T04:12:00Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "GTA 6 is proving controversial because it discourages being a criminal with no morals whatsoever. While it’s true that this isn’t the first game in th ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "dfa84f427a13ade0718a4043a24b267b8ec36f11",
+   "title": "GTA 6 Online: Will there be a GTA 6 multiplayer mode?",
+   "url": "https://www.radiotimes.com/technology/gaming/gta-6-online-mode",
+   "source_id": "bing_online",
+   "source_name": "Radio Times",
+   "domain": "radiotimes.com",
+   "published": "2026-11-26T02:49:00Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "There is currently no GTA Online in GTA 6. The launch version of GTA 6 is a single-player game. Taking place in the fictional state of Leonida, it follows two characters - Jason Duval and Lucia ...",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 60,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "9c84e072a1d7f1660331936eb115f057ef5df4f4",
    "title": "Site lets gamers play GTA 6 for free, as alternative to PS5 or Xbox cloud gaming",
@@ -230,6 +283,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "7226f0763d650d84c7c2a3c8dd9003ef0e7c205e",
+   "title": "GTA 6 PC Port on GitHub Shut Down Following Take-Two DMCA Complaint",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGxOOGlzdlhQRDBDdFRxXzBmM3VTbXh5R29OOGZGNkt6UmhKcW14UHpCSTZIMkdfQmsyQXgtWjlvZ1hoaF94LXhTY1NKYWZTUFdKUFNfVkFZWWNzMlZZT1NTeC1ZRzdiZXJRT2FyV3pZZUktNnd3dWRaY2t2aWJta3Y0Y21ndGNpVEEwaXdTV3RUYjVPY2RRU0dn",
+   "source_id": "gnews_online",
+   "source_name": "PCMag",
+   "domain": "pcmag.com",
+   "published": "2026-11-24T21:22:03Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -470,6 +542,23 @@
    "priority": null
   },
   {
+   "id": "06db6d80ae78fd0b87a7035e08e8fa6ebc14c3ff",
+   "title": "Grand Theft Auto VI Accessibility Features",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0l3anRyZGRGYUlTa016VXEyTGJyM3FjVXEyQWRIRlUyS0RQWFgtLWhPTHN4RWtET1BKWF8zaDR1blBVRFB2NWdLOWtEY1Mza1IzU1JXX2Qta1oxcVB3b0xMZlpOYzJFaGZnY3ZhaWY1NjN3YmFZSHNYSFktR0V2THRUdFpmbFlFZkVSdm0yR1NXeGxoQTBOUkdkajZQeEJGX3RoNWdtRFJTM09w",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "support.rockstargames.com",
+   "published": "2026-11-24T08:54:20Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": 4
+  },
+  {
    "id": "704409b781ce33fc05728879de95b3676fca249f",
    "title": "Now GTA 6 is finally out, how can Rockstar keep up the hype?",
    "url": "https://tech.yahoo.com/gaming/articles/now-gta-6-finally-rockstar-160341620.html",
@@ -483,7 +572,9 @@
    "topics": [],
    "score": 0,
    "lang": "en",
-   "also_on": [],
+   "also_on": [
+    "msn.com"
+   ],
    "priority": null
   },
   {
@@ -1238,6 +1329,23 @@
    "priority": null
   },
   {
+   "id": "370a9ea8acf7def9d6c7eac763998acbb62e387d",
+   "title": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
+   "url": "https://www.msn.com/en-us/news/other/gta-6-guide-a-full-walkthrough-of-all-our-tips-and-advice-on-vice-city-systems/ar-AA1xKIOG",
+   "source_id": "bing_fivem",
+   "source_name": "PC Gamer on MSN",
+   "domain": "msn.com",
+   "published": "2026-11-21T08:49:25Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "Everything we've learned after digging into GTA 6 for over 100 hours.",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "876d91d9ac2a68dca32119abc48629ba1f51e706",
    "title": "Grand Theft Auto VI: The Festival",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIUTBFR05fRS1HNGlEckEwaXZVc1BxVlgtUVdFYmYtMDlkVzY3amRZV1JWSUEza0I4d0l4RkpxNmdWV1k0WEJzUVBGaWpYY0QtWExEd3RBdE5wTWJwM1hj",
@@ -1975,23 +2083,6 @@
    "priority": null
   },
   {
-   "id": "f12041895cfe0a2c2d4a2c24f4a1b36efd63ab78",
-   "title": "Grand Theft Auto VI is Out Now",
-   "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now",
-   "source_id": "xbox_wire",
-   "source_name": "Xbox Wire",
-   "domain": "news.xbox.com",
-   "published": "2026-11-19T14:00:00Z",
-   "fetched": "2026-11-24T14:46:55Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
-  },
-  {
    "id": "b207efaf9fbd2bcf99e13a255a8fad4ac5b0f369",
    "title": "Gta 6 Inspired Fishing | Bending, Mutations, Admin Panel and more.. | Iconic-Scripts",
    "url": "https://forum.cfx.re/t/gta-6-inspired-fishing-bending-mutations-admin-panel-and-more-iconic-scripts/5439295",
@@ -2221,6 +2312,25 @@
    "priority": 4
   },
   {
+   "id": "5ca44a0a77f3af191d2a9de00ef04cb9f5bd52ab",
+   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBtaHBIYlRBTDY1bnNwT3JxUzBWcWRrRjZEdEhwaWV5Ql9xVFZmYkZwcFhzeHI5QXN1MHZseXhlbWZzSTJfYm1MenNFLU1ZVXRhQ2dySG84MVVlTW9rVml3YzljR0JOaHJjZE9JOXFvYXlPVlFBNmgydFZGNXBWaVhvbmZTbmV0cGlqYTVKeGtpcXhYOWRGd3paQTljSUZBZ09wMHhTWXB4Nk50V2ZNTzdtRkhhdU9DLWxZ",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "rockstargames.com",
+   "published": "2026-11-19T08:00:00Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [
+    "news.xbox.com"
+   ],
+   "priority": 4
+  },
+  {
    "id": "945b234edb3618d31419bfcbcacd2f66b477b398",
    "title": "When did GTA 6 come out? It released Nov. 19, 2026, on PS5 and Xbox Series X|S",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2FPRU5DdVNfQUo4ZGZxUmE1UmhKTVlhTmo3N1JZM0lLOGJGT0pnbWVadXdxeXlmNTBQVnphT29mUmJFc0EyaTBzWDBxZzItcW9zdDFaYmZTZENCS3BsSkVTYmhJTzBwYU9PUng5dlViMnRuSU93S21fT0ZlS0JZX0tRNUNYcmVnVFhfc2E3R203dl9RUVdkeU5peVRIekZh",
@@ -2438,23 +2548,6 @@
    "lang": "en",
    "also_on": [],
    "priority": null
-  },
-  {
-   "id": "c7944bc1fcac3b87458bf56cfb9a68dca891a8d5",
-   "title": "Grand Theft Auto VI Error Troubleshooting",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtja01IMlNaR2w4RFZKemFrOEpWY2RaSkJ2RjlIcjliV3hCSGYzUXFNVC1ESWV0TkE1QWZjcjVEZ3FTeERKRTEwOWlxcVdsWXozTnIzSElldXFHVnluUDlDSUNBdnRSN2tKR2wxZDRoaDYxTmpxZDloT01wbjN6YVpCVWJtYVlhb0ZDODczVjBLUE9jMGEwWVBFQmhqNHRtQ0dfT1Z0Wktkd0k",
-   "source_id": "rockstar_gnews",
-   "source_name": "Rockstar Games",
-   "domain": "support.rockstargames.com",
-   "published": "2026-11-19T00:26:01Z",
-   "fetched": "2026-11-19T17:39:54Z",
-   "excerpt": "",
-   "tag": "OFICIAL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": 4
   },
   {
    "id": "4aa1b4111b852736da97d424289947173f1b8004",
@@ -2800,6 +2893,23 @@
    "priority": null
   },
   {
+   "id": "f1daf798435d7318992f938904aebb8a22d272ed",
+   "title": "GTA 6 Review: Rockstar's Vice City Is a Masterpiece I Never Want to Leave",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUkzaUtqTzc0cmdVaTl5dlBiTlJLajJyV3lhWVNkOVZsR1dVcjRMbC0zV2FjMXRHbmMyZWRqQTJEN0hTLTZpeUc4UUQ0UU5ObGs3UWNLLVUyaTJDcHY0RmkxSklqSzkzR2VKMEQxQTFOSE1fcTJuQi1fQ0JVc0FJMGZibDkxRDJGVTRSVlZUNy0xZlpqelNSUDd6NW1rc1JnYmdua0J0cUc",
+   "source_id": "gnews_online",
+   "source_name": "PCMag UK",
+   "domain": "uk.pcmag.com",
+   "published": "2026-11-18T15:42:53Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "b73d3ab39a36b4504fd565a78357b0836cec7a00",
    "title": "Rockstar hints massive 'GTA 6' map saved room for future content",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2VRMGhHMzg1OTZBN2hRYkstdmR0c2ZFN21KZkVzVExVZ1M4bzRSTFZ1bmxfOG5xaW9OUXhVa244dkJrbVctM19UYXh3ZW1INmJySHN0OXdGRFRBR2pERXpjYWpOdzlqc2NNQUZoamlFSkJqcHROVlJ6N3ZSQXVJZ0Zn",
@@ -3009,6 +3119,23 @@
    "also_on": [
     "rockstargames.com"
    ],
+   "priority": 4
+  },
+  {
+   "id": "c7944bc1fcac3b87458bf56cfb9a68dca891a8d5",
+   "title": "Grand Theft Auto VI Error Troubleshooting",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEtja01IMlNaR2w4RFZKemFrOEpWY2RaSkJ2RjlIcjliV3hCSGYzUXFNVC1ESWV0TkE1QWZjcjVEZ3FTeERKRTEwOWlxcVdsWXozTnIzSElldXFHVnluUDlDSUNBdnRSN2tKR2wxZDRoaDYxTmpxZDloT01wbjN6YVpCVWJtYVlhb0ZDODczVjBLUE9jMGEwWVBFQmhqNHRtQ0dfT1Z0Wktkd0k",
+   "source_id": "rockstar_gnews",
+   "source_name": "Rockstar Games",
+   "domain": "support.rockstargames.com",
+   "published": "2026-11-18T08:00:00Z",
+   "fetched": "2026-11-26T18:52:24Z",
+   "excerpt": "",
+   "tag": "OFICIAL",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
    "priority": 4
   },
   {
@@ -8345,78 +8472,6 @@
    "priority": null
   },
   {
-   "id": "42df80ccd2fb7443f0cd3cbcb435e415257c298f",
-   "title": "GTA 6 will be playable on Xbox One, and lands support for Xbox Cloud gaming",
-   "url": "https://www.digitaltrends.com/gaming/gta-6-will-be-playable-on-xbox-one-and-lands-support-for-xbox-cloud-gaming",
-   "source_id": "bing_online",
-   "source_name": "Digital Trends",
-   "domain": "digitaltrends.com",
-   "published": "2026-11-09T23:41:00Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "Rockstar has confirmed that in addition to the current-gen Xbox Series X and S consoles, you can also play the game through cloud streaming on previous-generation Xbox One consoles.",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "f50fe5a315fbb6d1545d2701f4866245537deceb",
-   "title": "GTA 6 has gone gold!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xs6mde/gta_6_has_gone_gold",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-09T22:59:17Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "GTA 6 has gone gold! Take-Two CEO, Strauss Zelnick confirms Rockstar has finished development during the earnings call: “They’ve done their very best work.” And for the first time, he openly said the game won’t be delayed again in an interview with IGN.",
-   "tag": "RUMOR",
-   "topics": [
-    "data"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "b113cdbcd359ecc91e592a7afd17c4607cfaedac",
-   "title": "Rockstar Will Support GTA Online Well After GTA 6 Comes Out",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRS1UZmZXTFVrOXp0U1JpVktCWnJLbnhMUzM5bGVWS1Joay1mOHBRaGROS1FtS0lKWUpvbl9ubFpzZWkwTWNWczJkakY0SzJyckRJTTZ2M3ZMZXNFU25tNFhRZ0Y4TU9xNVRqT29VT3FBVUxOWFREeExxUmd0RDZIVFRqRmZ1cE9neW8tcmU4MA",
-   "source_id": "gnews_online",
-   "source_name": "RockstarINTEL",
-   "domain": "rockstarintel.com",
-   "published": "2026-11-09T21:34:37Z",
-   "fetched": "2026-11-10T04:41:05Z",
-   "excerpt": "",
-   "tag": "CREDIVEL",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "b37842ef138751bda8b19997683d2f0b43037a56",
-   "title": "GTA 6 Multiplayer Online Files Found in PS5 Preload, Hinting at Separate Downloads",
-   "url": "https://beebom.com/gta-6-multiplayer-online-files-found-in-ps5-preload",
-   "source_id": "bing_online",
-   "source_name": "Beebom",
-   "domain": "beebom.com",
-   "published": "2026-11-09T21:19:00Z",
-   "fetched": "2026-11-11T07:17:48Z",
-   "excerpt": "New reports reveal GTA 6 online multiplayer support from the PS5 preload files, which suggest more than a single-player game in the works.",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 60,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "d36bdfcd8914dd5de6899a4b2ed8dc1838de4937",
    "title": "A Night in Vice City",
    "url": "https://www.youtube.com/shorts/Rj2Jnbt-5p4",
@@ -8432,65 +8487,6 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
-  },
-  {
-   "id": "97862bf961e5c58eb3743703925836e59ee6860d",
-   "title": "Selfridges promo featuring a clean cut of one of the Extended Look's soundtrack songs",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xs3f7r/selfridges_promo_featuring_a_clean_cut_of_one_of",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-09T20:53:25Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "They used a variant of this in the Cover Art reveal trailer, but this sounds more like the track from the police chase with Raul.",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "6e86ef82653bc9602446ebedca322fed4090e7ea",
-   "title": "Take-Two CEO says GTA on console and PC is 'roughly the same,' despite roleplay being PC only",
-   "url": "https://www.tweaktown.com/news/114582/take-two-ceo-says-gta-on-console-and-pc-is-roughly-the-same-despite-roleplay-being-pc-only/index.html",
-   "source_id": "bing_rp",
-   "source_name": "TweakTown",
-   "domain": "tweaktown.com",
-   "published": "2026-11-09T19:38:00Z",
-   "fetched": "2026-11-10T13:03:56Z",
-   "excerpt": "Take-Two CEO Strauss Zelnick says GTA on console and PC is roughly the same, while calling FiveM's roleplay business profitable ahead of GTA 6's launch.",
-   "tag": "RUMOR",
-   "topics": [
-    "rp"
-   ],
-   "score": 80,
-   "lang": "en",
-   "also_on": [
-    "happygamer.com"
-   ],
-   "priority": null
-  },
-  {
-   "id": "4c44857a56891711a94c7903173c79fd7398d03f",
-   "title": "The Bloom Effect in GTA VI ıs part of Its artistic style",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xs0zjo/the_bloom_effect_in_gta_vi_ıs_part_of_its",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-09T19:22:06Z",
-   "fetched": "2026-11-09T23:18:32Z",
-   "excerpt": "I think the bloom effect in GTA VI's launch trailer is simply part of its artistic direction. RDR2 has similar effects depending on the location, especially during overcast or cloudy weather, as well as in certain interiors due to volumetric lighting. Some people find this…",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
   },
   {
    "id": "564f314612637e8f5210e0e10441b2b1e0cbcfc7",
