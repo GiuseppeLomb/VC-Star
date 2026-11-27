@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:52:24Z",
+ "generated_at": "2026-11-27T02:03:49Z",
  "count": 500,
  "items": [
   {
@@ -613,6 +613,25 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "48eeea9e02a432e0ebbc94c0149253d4d95509a8",
+   "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+   "url": "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running",
+   "source_id": "bing_online",
+   "source_name": "GameSpot",
+   "domain": "gamespot.com",
+   "published": "2026-11-24T03:23:00Z",
+   "fetched": "2026-11-27T02:03:49Z",
+   "excerpt": "So far, it looks like modders are already making modest headway with the full Xbox build of GTA 6, as the Project Leonida Discord server (via Eurogamer) has footage of the game booting up on PC. That’s as far as it gets (for now),",
+   "tag": "RUMOR",
+   "topics": [
+    "pc"
+   ],
+   "score": 20,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -6989,25 +7008,6 @@
    "topics": [],
    "score": 0,
    "lang": "pt",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "5038dfcdcefef1649d239511df7c57fb5d4e1dbe",
-   "title": "GTA 6 online might be closer than we thought",
-   "url": "https://www.msn.com/en-us/gaming/gaming-platforms/gta-6-online-might-be-closer-than-we-thought/ar-AA2hhAnl",
-   "source_id": "bing_online",
-   "source_name": "Digital Trends on MSN",
-   "domain": "msn.com",
-   "published": "2026-11-12T02:01:02Z",
-   "fetched": "2026-11-12T11:04:38Z",
-   "excerpt": "A fresh discovery in PlayStation's backend reveals references to multiplayer activities for GTA 6, offering an intriguing hint about Rockstar's online plans just days before the game launches.The ...",
-   "tag": "RUMOR",
-   "topics": [
-    "online"
-   ],
-   "score": 60,
-   "lang": "en",
    "also_on": [],
    "priority": null
   },
