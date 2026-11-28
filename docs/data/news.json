@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-11-27T19:41:48Z",
+ "generated_at": "2026-11-28T02:13:57Z",
  "count": 500,
  "items": [
+  {
+   "id": "ae4cfaae3050967713cabc87ca2a9bc92aa8384e",
+   "title": "GTA 6 Players Get Online Multiplayer Working On PC Before the Non-Console Version Has Even Been Announced",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3pVWDJlcUtXTkY3dXFjMmFpS3lJSWJLYlVJU2FzY0NOT3FGVFZaOElpQ01uZ2tEbHQxOW5KSlZnSVBETGhkM3NDdm94ZlZUR2M5X3ZrOXFZUVc5MzFubEFtbjlOcTlUZHJQU0Z5WjRJMEdtX0tnMlJiVy1NN18xYjk4OVlCaXk4ajN1R1hSczhlUHl0clJfbVpfbEdtNnMycXk0RE5HanVPSWNnTHIzX3Nsd1ZlU3VQZlBLSElHLTlWN093UTNOcmhEcnBZeV9HZnVzczJYcw",
+   "source_id": "gnews_online",
+   "source_name": "ComicBook.com",
+   "domain": "comicbook.com",
+   "published": "2026-11-27T21:49:18Z",
+   "fetched": "2026-11-28T02:13:57Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "pc"
+   ],
+   "score": 50,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "f0159a420a83f0fac7adb4fe6cb01647076eb459",
    "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
@@ -228,6 +248,25 @@
    "priority": null
   },
   {
+   "id": "339bcdc57c84dfb51d7c63faecc6c087dc0a4603",
+   "title": "Unofficial GTA 6 PC Mod Demo Shows Early Multiplayer Sync",
+   "url": "https://www.gsmdome.com/unofficial-gta-6-pc-mod-demo-shows-early-multiplayer-sync",
+   "source_id": "bing_fivem",
+   "source_name": "iPhone",
+   "domain": "gsmdome.com",
+   "published": "2026-11-27T10:35:00Z",
+   "fetched": "2026-11-28T02:13:57Z",
+   "excerpt": "Unofficial GTA 6 PC Mod Demo Shows Early Multiplayer Sync - In reltion with: Grand Theft Auto VI, GTA 6, Rockstar Games ...",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
    "id": "6f9fcf56100bf7842b875ea8c59aacd8b92b926e",
    "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
    "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents",
@@ -237,6 +276,23 @@
    "published": "2026-11-27T07:37:00Z",
    "fetched": "2026-11-27T19:41:48Z",
    "excerpt": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are ...",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "a50da57f345d1760e9622134b10217aff732b35a",
+   "title": "GTA 6: Poor Metacritic scores? So what! Records are being broken on YouTube",
+   "url": "https://www.pcgames.de/GTA-6-Spiel-55239/News/GTA-6-YouTube-reveals-impressive-record-breaking-figures-1561274",
+   "source_id": "bing_rp",
+   "source_name": "PC Games",
+   "domain": "pcgames.de",
+   "published": "2026-11-27T04:01:00Z",
+   "fetched": "2026-11-28T02:13:57Z",
+   "excerpt": "The release of GTA 6 has also caused a frenzy on YouTube. The video platform has now released some staggering record-breaking figures.",
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
@@ -3577,6 +3633,26 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "4831d01d242dce4955293f76a35b716cf774de3b",
+   "title": "When is GTA 6 coming out on PC? All we know as fans await release",
+   "url": "https://www.primetimer.com/news/when-is-gta-6-coming-out-on-pc-all-we-know-as-fans-await-release",
+   "source_id": "bing_rp",
+   "source_name": "PRIMETIMER",
+   "domain": "primetimer.com",
+   "published": "2026-11-18T03:16:00Z",
+   "fetched": "2026-11-28T02:13:57Z",
+   "excerpt": "The console version of GTA 6 is set to release tomorrow, with a launch date for the PC release still a mystery.",
+   "tag": "RUMOR",
+   "topics": [
+    "pc",
+    "data"
+   ],
+   "score": 30,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8340,23 +8416,6 @@
    "priority": null
   },
   {
-   "id": "0cd3958236ad566d10bc90f3ceb61d105fbdbe62",
-   "title": "GTA 6 pre-orders are surpassing expectations ahead of next week’s launch",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjZWZzFaMTFscW0wMk9EeFlnc1NDZE1ZR2J5b1pGOW1TaUlGTk00Z1JGLTk4N01ic0xLWHFiWlo4T3p0YVkzbmx0VDA3YlFYM29YUkJHeE9rRUVHTWxhU0JGYUdheGNNMExZVjZndk9xLVdyWC1wMWpraW0tVGt5T1ZDQmZYYm0tNUVpNTR0dDNWT0U2bXpVaXZR",
-   "source_id": "gnews_online",
-   "source_name": "The Shortcut | Matt Swider",
-   "domain": "theshortcut.com",
-   "published": "2026-11-10T14:48:48Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "9f4274a8693eaceba5f083a1e5e10524802fa48d",
    "title": "Préchargez Grand Theft Auto VI dès maintenant",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWczSGZJd3BvU3Z3VjY1UVNTMVlRNmhhak9PQ2xWYTNtcmpubFctMHhpeWtxM0VZYkFyTFcwempiTG5ZOHVKTE5tWnJnbkMyVlhvZEZpbVlNN1o4ai10S055WXdFM0pWOThNRzhYWHlKOThqX0w3REVmNTA4b1hHWS1JSmgzNXpRVVNJX09qLS1fNmJKemZMV25SeElCQQ",
@@ -8372,61 +8431,6 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
-  },
-  {
-   "id": "b217208ad617ab89dd7cd3fda3290b3849f480c3",
-   "title": "Trove Lo’s full song “Blood in Your Eyes” from the GTA 6 Album Track 22, also featured in the new trailer.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xso5ii/trove_los_full_song_blood_in_your_eyes_from_the",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-10T14:22:49Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "Song that used in the trailer.",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "614d3dc8396cfd1ad708677bba3a3acd6dad676e",
-   "title": "Rockstar explains how GTA 6 plays better on PS5 Pro in statement confirming 30fps",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ya1ZqNkJPRWhuZjZxVU81Q09rZzY5MnV0b1FWUUotLWJobUVSc3VTc2hmaUZtUFVwNVB4SlJfU2hFY0RMQzZwUDM5Uk9LS05RdEluZXhkb3ZnTVBhRnNpTU9FTG9UdVVyS2JGWDBsSGlEUXNYTDZzckQwTQ",
-   "source_id": "gnews_online",
-   "source_name": "GAMINGbible",
-   "domain": "gamingbible.com",
-   "published": "2026-11-10T14:15:03Z",
-   "fetched": "2026-11-12T03:08:31Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [],
-   "score": 0,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "5191d674d0b43bd7ef6dc727b7cf9cd1b73776ba",
-   "title": "New GTA 6 Artwork",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xsnry0/new_gta_6_artwork",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-10T14:06:51Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "A new jason and lucia artwork from the pre load trailer",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
   },
   {
    "id": "7087ccc84030f9930ba9564beb0275e7e97a6bda",
