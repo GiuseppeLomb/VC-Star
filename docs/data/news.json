@@ -1,7 +1,24 @@
 {
- "generated_at": "2026-11-28T02:13:57Z",
+ "generated_at": "2026-11-28T10:37:17Z",
  "count": 500,
  "items": [
+  {
+   "id": "3d649435287f411926011e6c20e27a04d9ffb00f",
+   "title": "GTA 6 Florida Man: Satire, Influencers and Social Media",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iSkJDN3FHTEJ6ellrcDVyaElHU1NmNm4tVXB3THkxc3FJcXEtaFUxUEwzVVQtS00wYVJVb0xtWVI1cngyc3FkLXFSeURXV1NlSFZnR1VJUEdUUV9HYUxkbDczODZjRmc4OWwxa1RDUjJ6Mnc",
+   "source_id": "gnews_rp",
+   "source_name": "MNEEMO",
+   "domain": "mneemo.com",
+   "published": "2026-11-28T08:08:29Z",
+   "fetched": "2026-11-28T10:37:17Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [],
+   "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
   {
    "id": "ae4cfaae3050967713cabc87ca2a9bc92aa8384e",
    "title": "GTA 6 Players Get Online Multiplayer Working On PC Before the Non-Console Version Has Even Been Announced",
@@ -542,6 +559,25 @@
     "online"
    ],
    "score": 30,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "14fb72cdab97f62a8f9f93dca91e39c3655a977f",
+   "title": "GTA 6 Multiplayer Waits Until 2027, Twitch CEO Says [2026]",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54cnN2UFhTM1l2RW9fbkxZMUxMamxWQW9mTEdHcXg4VlN4Z19ZMS1Sdkt0bkJNdktBT2VIMGNkeGNxZlR6VGZfUXhHcElvOXZpb250UUlkTkp3OEtZbjRrQllLOUp5RnpLZ0p1dA",
+   "source_id": "gnews_online",
+   "source_name": "shattered.io",
+   "domain": "shattered.io",
+   "published": "2026-11-25T07:32:30Z",
+   "fetched": "2026-11-28T10:37:17Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online"
+   ],
+   "score": 60,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -2147,26 +2183,6 @@
    "priority": null
   },
   {
-   "id": "e062c2fadcae437a2f6d6c9a7738036e9ede6410",
-   "title": "GTA 6 Online release date odds: Kalshi traders see a mid-2027 launch",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tMkZaYmJhUW5LX3I2em42VU1hU1NDN3ZVWVE5bnMzLVlqVElpRmxPVGhxZ1hOQUtoZXpRMEppNnpkOWxHcnMwSHpfMTFFbGtaaDlCUGFXRHpDdHFNZEQtbzZUd2xCT28",
-   "source_id": "gnews_online",
-   "source_name": "Kalshi News",
-   "domain": "news.kalshi.com",
-   "published": "2026-11-19T23:51:26Z",
-   "fetched": "2026-11-20T06:09:59Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "online",
-    "data"
-   ],
-   "score": 40,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
    "id": "838cbb460a334e721e9a81e7d37d97a99e280a02",
    "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnNvSnlaVXowajBDU0lvc1VUMGVKa2xmV0taVFR2UlVyVHFyekJBMWR2dkRCY1JycG55SDdUYUh6V2RRdEYyVGpkREJ2aUJPNEdsZDA3NHFHenVYX0FPbzRIWW5wSXpNZ0o1VnFFYm40OW5TcnMyVW5nTFQ4UlZWQlBLTGV3eDdNRmxBR0JzLXB6VzMwRVhFcnpUaHVXYWw0MFVXLTFkVS1SbEVDa2c5WEJ3dURzWTVpalVNLVRCNA",
@@ -2752,6 +2768,26 @@
    "tag": "RUMOR",
    "topics": [],
    "score": 0,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "e062c2fadcae437a2f6d6c9a7738036e9ede6410",
+   "title": "GTA 6 Online release date odds: Kalshi traders see a mid-2027 launch",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tMkZaYmJhUW5LX3I2em42VU1hU1NDN3ZVWVE5bnMzLVlqVElpRmxPVGhxZ1hOQUtoZXpRMEppNnpkOWxHcnMwSHpfMTFFbGtaaDlCUGFXRHpDdHFNZEQtbzZUd2xCT28",
+   "source_id": "gnews_online",
+   "source_name": "Kalshi News",
+   "domain": "news.kalshi.com",
+   "published": "2026-11-19T08:00:00Z",
+   "fetched": "2026-11-28T10:37:17Z",
+   "excerpt": "",
+   "tag": "RUMOR",
+   "topics": [
+    "online",
+    "data"
+   ],
+   "score": 40,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -4071,6 +4107,23 @@
     "creator"
    ],
    "score": 40,
+   "lang": "en",
+   "also_on": [],
+   "priority": null
+  },
+  {
+   "id": "18d3ba630d3edffd1648a05730916291201ea5fa",
+   "title": "New GTA 6 Screenshots Surface Online Showing New Weapons, Scenes",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pMVFxUVhWTnRIZlBsSzNyOE9xTk4wSERyQjY0UEJCWm82T3ExUzFrU2lRODg2alRSMDYwem9VUmlKSllwdFM0djhIX2RiZWl6U2VucmRCVEE5QmgtSGlBSlVaSnEyU3JFUlVROXZoaE40dU8y",
+   "source_id": "gnews_online",
+   "source_name": "Insider Gaming",
+   "domain": "insider-gaming.com",
+   "published": "2026-11-17T08:00:00Z",
+   "fetched": "2026-11-28T10:37:17Z",
+   "excerpt": "",
+   "tag": "CREDIVEL",
+   "topics": [],
+   "score": 0,
    "lang": "en",
    "also_on": [],
    "priority": null
@@ -8357,63 +8410,6 @@
    "lang": "en",
    "also_on": [],
    "priority": 4
-  },
-  {
-   "id": "e6b130bd229b816dfe7203f9706ed7738b937a50",
-   "title": "PlayStation: “Grand Theft Auto VI is the most pre-ordered game in PlayStation Store history!”, PS5 features trailer.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xsq6qb/playstation_grand_theft_auto_vi_is_the_most",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-10T15:43:51Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "9301e0635b6455c899da31ee4d96d9fab97dd2c6",
-   "title": "It's the same boat...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xsph6y/its_the_same_boat",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-10T15:16:06Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "In the screenshot that was shown to us earlier, this yacht was parked near a house that was stormed by the police. Lucia and Jason (along with a bag from the trailer of An Extended Look) ran towards the yacht It could still be part of that crazy chase that started back in An…",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
-  },
-  {
-   "id": "6d3a32acbc1c49251bc17d9dc540b6e6cca895ef",
-   "title": "QR-Code from Pre-Load Trailer refers to GTA VI Page",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xspgmg/qrcode_from_preload_trailer_refers_to_gta_vi_page",
-   "source_id": "reddit_gta6",
-   "source_name": "r/GTA6",
-   "domain": "reddit.com",
-   "published": "2026-11-10T15:15:29Z",
-   "fetched": "2026-11-10T20:26:44Z",
-   "excerpt": "Screenshot of the GTA VI Pre-Load Trailer The QR code visible in the Pre-Load Trailer uploaded today, November 10th 2026, in the scene when the AudaCity guy backflips, refers to Rockstar's GTA VI page .",
-   "tag": "RUMOR",
-   "topics": [
-    "trailer"
-   ],
-   "score": 10,
-   "lang": "en",
-   "also_on": [],
-   "priority": null
   },
   {
    "id": "9f4274a8693eaceba5f083a1e5e10524802fa48d",
